@@ -1,0 +1,52 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_PATCH_1_2_34">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- RELATED FILE: StringTable[Language]Notifications.xml -->
+            <GameDBLocalizedString>      <LocID>NOTIF_AUTOSAVE_IN_PROGRESS</LocID>          <Text>Trong tiến trình tự động lưu...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_AUTOSAVE_IN_PROGRESS_TEXT</LocID>     <Text>Trò chơi đang tạo tệp tự động lưu.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NOTIF_AUTOSAVE_CREATED</LocID>              <Text>Đã tạo tự động lưu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_AUTOSAVE_CREATED_TEXT</LocID>         <Text>Đã tạo tự động lưu:\n{1}</Text>  </GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]Characters.xml -->
+            <GameDBLocalizedString>      <LocID>ON_STANDBY_FOR_CRITICAL_PATIENTS</LocID>    <Text>Chế độ chờ cho bệnh nhân nguy kịch</Text>  </GameDBLocalizedString>
+            
+            <!-- RELATED FILE: StringTable[Language]UI.xml -->
+            <GameDBLocalizedString>      <LocID>TAKE_OVER_ALL_DELIVERED_PATIENTS</LocID>    <Text>Tự động tiếp nhận tất cả bệnh nhân do xe cứu thương chuyển đến (hoặc trực thăng từ Traumatology DLC)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_FROM_EVENT</LocID>                  <Text>Trường hợp từ sự kiện</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>STAFF_UNAVAILABLE_LAB_ROLES</LocID>         <Text>Không có nhà công nghệ nào có vai trò phù hợp</Text>  </GameDBLocalizedString>
+            
+            <!-- An Công ty bảo hiểm objective - "Perform 3 surgery/surgeries at Cardiology"-->
+            <GameDBLocalizedString>      <LocID>PERFORM_SURGERY_AT_DEPARTMENT</LocID>       <Text>Thực hiện {1} phẫu thuật/tổng phẫu thuật tại {2}</Text></GameDBLocalizedString>
+            
+            <!-- An Công ty bảo hiểm objective - "Successfully finish 3 pandemic events" -->
+            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_IN_ROW_OF_TYPE</LocID>    <Text>Hoàng thành thành công {1} {2} sự kiện liên tiếp</Text>  </GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]Options.xml -->
+            <GameDBLocalizedString>      <LocID>OPTIONS_CODE_MODS_ENABLED</LocID>           <Text>Cho phép tải các mod mã (hãy cẩn thận!)</Text>  </GameDBLocalizedString>
+            
+            <!--Loading tips for DLCs-->
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_EDUCATION</LocID>               <Text>Nhân viên của bạn lên cấp quá chậm? Gửi họ để đào tạo kỹ năng của họ trong phòng nghiên cứu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_AUTOPSY</LocID>                 <Text>Khám nghiệm tử thi trả lời tất cả các câu hỏi chưa được trả lời...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_JANITORS_ASSIGNMENT</LocID>     <Text>Sau khi bạn thuê một người quản lý vệ sinh, bạn sẽ có thể chỉ định các phòng riêng lẻ cho những người phụ trách vệ sinh của mình.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_PHARMACY</LocID>                <Text>Hãy chắc rằng bạn xây hiệu thuốc đủ lớn - nó cần phải sẵn sàng cho một đàn bệnh nhân xuất viện vào buổi sáng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_CONTAGIOUSNESS</LocID>          <Text>Nếu bạn nhập viện một bệnh nhân truyền nhiễm ngoài khu vực Cách ly, sẽ có nhiều nguy cơ họ gây ra dịch bùng phát.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_HELICOPTER</LocID>              <Text>Máy bay trực thăng cần được đặt trên tầng có thang máy lên xuống.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DLC_ADMIN_PATHOLOGY</LocID>                                 <Text>Dịch vụ bệnh viện DLC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_INFECTIOUS_DISEASES</LocID>                             <Text>Khoa các bệnh truyền nhiễm DLC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_TRAUMATOLOGY</LocID>                                    <Text>Khoa chấn thương DLC</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+</Database>    

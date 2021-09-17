@@ -1,0 +1,150 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_EXAMINATIONS">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- Examinations -->
+            <GameDBLocalizedString>      <LocID>EXM_RECEPTION_FAST</LocID>                                      <Text>Thử nghiệm trong lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RECEPTION_DESCRIPTION</LocID>                               <Text>Nhân viên lễ tân có thể chỉ định mức độ ưu tiên cao hơn cho bệnh nhân dựa trên các triệu chứng của họ.\n\nPhòng yêu cầu: Lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ABDOMINAL_PALPATION</LocID>                                 <Text>Sờ bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ABDOMINAL_PALPATION_DESCRIPTION</LocID>                     <Text>Loại khám sức khỏe. Người khám sờ (sờ) chín vùng bụng của bệnh nhân, thực hiện hai lần, cả bề ngoài và sâu.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ANGIOGRAPHY</LocID>                                         <Text>Chụp mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ANGIOGRAPHY_DESCRIPTION</LocID>                             <Text>Phương pháp hình ảnh được sử dụng để hình dung lòng mạch của các mạch máu và các cơ quan, đặc biệt là động mạch, tĩnh mạch và tim.\n\nPhòng yêu cầu: Phòng CAG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_AUDIOMETRY</LocID>                                          <Text>Đo thính lực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_AUDIOMETRY_DESCRIPTION</LocID>                              <Text>Kiểm tra thính lực xác định mức độ nghe của bệnh nhân.\n\nPhòng yêu cầu: Phòng khám / Phòng theo dõi / ICU / Văn phòng / Phòng chẩn đoán tại cấp cứu / ICU / Phẫu thuật tổng quát dpt / Khoa nội dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_SAMPLING</LocID>                       <Text>Lấy mẫu vi sinh vật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_TESTING</LocID>                        <Text>Nuôi cấy vi sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BARRIUM_SWALLOV_X_RAY</LocID>                               <Text>Nuốt Bari</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BARRIUM_SWALLOV_X_RAY_DESCRIPTION</LocID>                   <Text>Một thử nghiệm trong đó bệnh nhân nuốt một hỗn hợp bari sulfat hiển thị trên X-quang. Nó được sử dụng để kiểm tra lòng của thực quản, dạ dày và ruột.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BASIC_VISUAL_TEST</LocID>                                   <Text>Kiểm tra hình ảnh cơ bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BASIC_VISUAL_TEST_DESCRIPTION_V2</LocID>                    <Text>Kiểm tra thị lực thông thường được sử dụng để kiểm tra thị lực của bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào tại cấp cứu / Phẫu thuật tổng quát dpt / Khoa nội dpt / Tim mạch / Thần kinh / DID \n\nThiết bị cần thiết: Kiểm tra mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING</LocID>                                     <Text>Sinh thiết - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_TESTING</LocID>                                      <Text>Sinh thiết - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</LocID>                <Text>Đo huyết áp </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT_DESCRIPTION</LocID>    <Text>Phương pháp cổ điển, thủ công về huyết áp và mạch của bệnh nhân (tần số nhịp tim) bằng huyết áp kế.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_SAMPLING</LocID>                                 <Text>Rút máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_TESTING</LocID>                                  <Text>Xét nghiệm máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CBC_SAMPLING</LocID>                                        <Text>CBC - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CBC_TESTING</LocID>                                         <Text>CBC - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CC_BLOOD_ANALYSIS</LocID>                                   <Text>Phân tích máu - ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CC_BLOOD_ANALYSIS_DESCRIPTION</LocID>                       <Text>Phân tích máu đặc biệt thường được sử dụng tại Đơn vị chăm sóc đặc biệt.\n\nPhòng yêu cầu: Phòng ICU \n\nThiết bị cần thiết: Máy phân tích huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CC_ECHO</LocID>                                             <Text>Tiếng vọng khẩn cấp</Text>  </GameDBLocalizedString>
+           <!--UPDATED--> <GameDBLocalizedString>      <LocID>EXM_CC_ECHO_DESCRIPTION</LocID>                                 <Text>Siêu âm tim chăm sóc quan trọng đặc biệt được sử dụng chủ yếu trong Đơn vị chăm sóc đặc biệts hoặc Trung tâm chấn thương để đánh giá xem tim có bơm đúng cách không, nếu có bất kỳ chất lỏng nào trong màng ngoài tim (túi xung quanh tim) hoặc chất lỏng xung quanh phổi.\n\nPhòng yêu cầu: Phòng ICU / Trung tâm chấn thương \n\nThiết bị cần thiết: FAST usg</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CRP</LocID>                                                 <Text>CRP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CRP_DESCRIPTION</LocID>                                     <Text>Protein phản ứng C (CRP) là xét nghiệm chẩn đoán dựa trên xét nghiệm máu nhanh đo nồng độ protein phản ứng C, dấu hiệu của các bệnh viêm nhiễm và truyền nhiễm.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán / Phòng theo dõi / Trung tâm chấn thương / ICU tại bất kỳ bộ phận nào ngoại trừ Thần kinh dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CT</LocID>                                                  <Text>CT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CT_DESCRIPTION</LocID>                                      <Text>Chụp cắt lớp vi tính (CT) là một phương thức hình ảnh tạo ra hình ảnh chi tiết của các cơ quan nội tạng và xương. Bằng cách tiêm thuốc cản quang vào tĩnh mạch hoặc làm cho bệnh nhân nuốt thuốc cản quang, việc sử dụng CT có thể được sử dụng để đánh giá nhiều loại bệnh hơn.\n\nPhòng yêu cầu: Phòng CT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CT_ENTEROGRAPHY</LocID>                                     <Text>CT - ruột</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CT_ENTEROGRAPHY_DESCRIPTION</LocID>                         <Text>Chụp cắt lớp vi tính (CT) ruột là phương thức chẩn đoán hình ảnh tạo ra hình ảnh chi tiết của ruột bằng cách tiêm thuốc cản quang vào tĩnh mạch sau khi bệnh nhân đã uống thuốc cản quang dạng lỏng.\n\nPhòng yêu cầu: Phòng CT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EAR_EXAMINATION</LocID>                                     <Text>Khám tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ECG</LocID>                                                 <Text>ECG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ECG_DESCRIPTION</LocID>                                     <Text>Điện tâm đồ (ECG) là ghi lại hoạt động điện của tim bằng các điện cực trên da.\n\nPhòng yêu cầu: Phòng đo điện tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EEG</LocID>                                                 <Text>EEG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EEG_DESCRIPTION</LocID>                                     <Text>Điện não đồ (EEG) là ghi lại hoạt động điện của não bằng cách trang bị cho bệnh nhân một chiếc mũ có chứa nhiều điện cực.\n\nPhòng yêu cầu: Đơn vị Neuroexam</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ECHO</LocID>                                                <Text>Echo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ECHO_DESCRIPTION</LocID>                                    <Text>Siêu âm tim là siêu âm đánh giá tim của bệnh nhân và các tĩnh mạch và động mạch lớn đi vào và rời khỏi tim.\n\nPhòng yêu cầu: Phòng đo điện tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EMG</LocID>                                                 <Text>EMG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EVALUATION</LocID>                                          <Text>Đánh giá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EVALUATION_DESCRIPTION</LocID>                              <Text>Xem xét tất cả các triệu chứng và kiểm tra gần đây được thực hiện để xác định chẩn đoán.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FAST</LocID>                                                <Text>FAST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FAST_DESCRIPTION</LocID>                                    <Text>Đánh giá nhanh với Siêu âm trong chấn thương (FAST) là một phương pháp siêu âm đặc biệt được sử dụng để đánh giá chấn thương Bệnh nhân và Đơn vị chăm sóc đặc biệt bệnh nhân.\n\nPhòng yêu cầu: Trung tâm chấn thương, ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_SAMPLING</LocID>                        <Text>Thử nghiệm đàn hồi - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_TESTING</LocID>                         <Text>Thử nghiệm đàn hồi - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING</LocID>                         <Text>Lấy mẫu thần học (Mycologic)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_TESTING</LocID>                          <Text>Trồng nấm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_GASTROSCOPY</LocID>                                         <Text>Nội soi dạ dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_GASTROSCOPY_DESCRIPTION</LocID>                             <Text>Một thủ thuật trong đó một ống mềm (ống nội soi) với một máy quay video nhỏ và một nguồn sáng ở cuối được đưa qua miệng để kiểm tra phần trên của đường tiêu hóa.\n\nPhòng yêu cầu: ICU / Văn phòng / Phòng chẩn đoán tại phẫu thuật tổng quát dpt / Khoa nội dpt / Tim mạch dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_GONIOSCOPY</LocID>                                          <Text>Gonioscopy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_GONIOSCOPY_DESCRIPTION</LocID>                              <Text>Gonioscopy là cuộc kiểm tra mắt được sử dụng để đánh giá hệ thống thoát nước của mắt.\n\nPhòng yêu cầu: ICU / Văn phòng / Phòng chẩn đoán tại thần kinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EXM_HEART_MONITORING</LocID>                                    <Text>Theo dõi tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_HEART_MONITORING_DESCRIPTION</LocID>                        <Text>Theo dõi lâu dài hoạt động điện của tim.\n\nPhòng yêu cầu: ICU / Trung tâm chấn thương / Phòng theo dõi \n\nRequiered equipment: Wall monitor / Anesthetic machine</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EXM_CHEST_LISTENING</LocID>                                     <Text>Nghe ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CHEST_LISTENING_DESCRIPTION</LocID>                         <Text>Nghe tim và phổi (nghe bằng ống nghe).\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_LARYNGOSCOPY</LocID>                                        <Text>Nội soi thanh quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_LARYNGOSCOPY_DESCRIPTION</LocID>                            <Text>Một thủ thuật trong đó một ống mềm (ống nội soi) với một máy quay video nhỏ và một nguồn sáng ở cuối được đưa qua mũi để kiểm tra thanh quản, thanh môn và dây thanh âm. Nội soi thanh quản cũng được sử dụng để tạo điều kiện cho việc đặt nội khí quản.\n\nPhòng yêu cầu: Phòng khám / Phòng theo dõi / Trung tâm chấn thương / ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_MRI</LocID>                                                 <Text>MRI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_MRI_DESCRIPTION</LocID>                                     <Text>Chụp cộng hưởng từ (MRI) tạo ra hình ảnh chi tiết về giải phẫu và sinh lý của cơ thể và các cơ quan nội tạng bằng cách sử dụng từ trường, sóng từ tính và sóng vô tuyến.\n\nPhòng yêu cầu: Phòng MRI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NASAL_CAVITY_INSPECTION</LocID>                             <Text>Kiểm tra khoang mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NASAL_CAVITY_INSPECTION_DESCRIPTION</LocID>                 <Text>Kiểm tra và kiểm tra trực quan mũi của bệnh nhân bao gồm cả khoang mũi.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NECK_PALPATION</LocID>                                      <Text>Sờ cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NECK_PALPATION_DESCRIPTION</LocID>                          <Text>Sờ (rờ) cổ bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NEUROLOGICAL_TESTING</LocID>                                <Text>Kiểm tra thần kinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_NEUROLOGICAL_TESTING_DESCRIPTION</LocID>                    <Text>Các câu hỏi và bài kiểm tra đơn giản và cụ thể khác nhau cung cấp thông tin về hệ thống thần kinh trung ương của bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán tại tất cả bộ ngành ngoài trừ Chỉnh hình dpt</Text>  </GameDBLocalizedString>
+<!--
+            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION</LocID>                                         <Text>Quan sát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION_DESCRIPTION</LocID>                             <Text>Quan sát bệnh nhân trong 24 giờ để đảm bảo bệnh nhân không xấu đi.</Text>  </GameDBLocalizedString>
+-->
+            <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY</LocID>                                      <Text>Soi đáy mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                          <Text>Một thủ thuật trong đó nền/võng mạc được hình dung thông qua soi đáy mắt/kính soi đáy mắt.\n\nPhòng yêu cầu: Phòng khám / Phòng theo dõi / Trung tâm chấn thương / ICU / Văn phòng / Phòng chẩn đoán tại Cấp cứu / ICU / Khoa nội dpt / Thần kinh dpt </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ORAL_CAVITY_INSPECTION</LocID>                              <Text>Kiểm tra khoang miệng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ORAL_CAVITY_INSPECTION_DESCRIPTION</LocID>                  <Text>Kiểm tra và kiểm tra trực quan khoang miệng của bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán tại Tất cả bộ ngành ngoài trừ Chỉnh hình dpt và Thần kinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PCR_SAMPLING</LocID>                                        <Text>PCR - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PCR_TESTING</LocID>                                         <Text>PCR - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERIMETRY</LocID>                                           <Text>Tính chu vi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERIMETRY_DESCRIPTION</LocID>                               <Text>Phép đo chu vi trong xét nghiệm nhãn khoa kiểm tra một cách có hệ thống toàn bộ trường thị lực.\n\nPhòng yêu cầu: Đơn vị Neuroexam tại Thần kinh dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING</LocID>                  <Text>Phân tích dịch màng bụng - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERITONEAL_FLUID_ANALYSIS_TESTING</LocID>                   <Text>Phân tích dịch màng bụng - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</LocID>                     <Text>Kiểm tra thể chất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PHYSICAL_AND_VISUAL_EXAMINATION_DESCRIPTION</LocID>         <Text>Kiểm tra các khu vực cụ thể trên cơ thể bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_INTERVIEW</LocID>                                           <Text>Phỏng vấn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_INTERVIEW_DESCRIPTION</LocID>                               <Text>Phỏng vấn bệnh nhân để có càng nhiều thông tin càng tốt về tình trạng bệnh của anh ta.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_SAMPLING</LocID>                           <Text>Lấy mẫu huyết thanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_TESTING</LocID>                            <Text>Xét nghiệm huyết thanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SKIN_INJECTION_TEST</LocID>                                 <Text>Kiểm tra dị ứng da</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SKIN_INJECTION_TEST_DESCRIPTION</LocID>                     <Text>Tiêm một lượng nhỏ các chất chiết xuất từ chất gây dị ứng khác nhau vào vùng da thường ở cánh tay để xác nhận hoặc phủ nhận các phản ứng dị ứng với các chất gây dị ứng cụ thể.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Cấp cứu dpt / ICU dpt / Thần kinh dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPEECH_LISTENING</LocID>                                    <Text>Nghe nói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPEECH_LISTENING_DESCRIPTION</LocID>                        <Text>Nghe dòng nói của bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</LocID>                      <Text>Lấy mẫu CSF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING</LocID>                       <Text>Phân tích CSF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPIROMETRY</LocID>                                          <Text>Đo phế dung</Text>  </GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString>      <LocID>EXM_SPIROMETRY_DESCRIPTION</LocID>                              <Text>Một trong những xét nghiệm chức năng phổi phổ biến nhất, đo chức năng phổi.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Khoa nội dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING</LocID>                             <Text>Thu gom phân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_TESTING</LocID>                              <Text>Phân tích phân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST</LocID>                                 <Text>Kiểm tra clorua mồ hôi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST_DESCRIPTION</LocID>                     <Text>Xét nghiệm sinh hóa đặc biệt được sử dụng để chẩn đoán bệnh xơ nang.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Khoa nội dpt / ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TEMPERATURE_MEASUREMENT</LocID>                             <Text>Đo nhiệt độ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TEMPERATURE_MEASUREMENT_DESCRIPTION</LocID>                 <Text>Kiểm tra để xác định nhiệt độ cơ thể hiện tại.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_THORAX_PERCUSSION</LocID>                                   <Text>Gõ ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_THORAX_PERCUSSION_DESCRIPTION</LocID>                       <Text>Kiểm tra bao gồm gõ một cách có hệ thống vào ngực để xác định các khu vực có ít không khí hơn trong lồng ngực.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại phẫu thuật tổng quát dpt / Khoa nội dpt / Tim mạch dpt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TONOMETRY</LocID>                                           <Text>Đo nhãn áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TONOMETRY_DESCRIPTION</LocID>                               <Text>Thử nghiệm đo áp lực bên trong mắt còn được gọi là nhãn áp.\n\nPhòng yêu cầu: Đơn vị Neuroexam</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TRANSIENT_ELASTOGRAPHY</LocID>                              <Text>Đo đàn hồi tức thời</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TRANSIENT_ELASTOGRAPHY_DESCRIPTION</LocID>                  <Text>Phương pháp hình ảnh siêu âm đặc biệt lập bản đồ các đặc tính đàn hồi và độ cứng của các mô mềm trong các cơ quan nội tạng.\n\nPhòng yêu cầu: Phòng siêu âm tại phẫu thuật tổng quát dpt / Phóng xạ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URGENT_BLOOD_ANALYSIS</LocID>                               <Text>Kiểm soát máu PS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URGENT_BLOOD_ANALYSIS_DESCRIPTION</LocID>                   <Text>Phân tích máu sau phẫu thuật được sử dụng trong chăm sóc hậu phẫu ở bệnh nhân có thể bị nhiễm trùng huyết.\n\nPhòng yêu cầu: Phòng đo điện tim \n\nThiết bị cần thiết: Máy phân tích phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</LocID>                      <Text>Phân tích nước tiểu - lấy mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_TESTING</LocID>                       <Text>Phân tích nước tiểu - xét nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_USG</LocID>                                                 <Text>USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_USG_DESCRIPTION</LocID>                                     <Text>Siêu âm là một kỹ thuật hình ảnh y tế sử dụng sóng siêu âm, dẫn đến hình ảnh của cả mô và cơ quan mềm và cứng.\n\nPhòng yêu cầu: Phòng siêu âm tại phẫu thuật tổng quát dpt / Chỉnh hình dpt / Tim mạch / Phóng xạ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_BACK</LocID>                                          <Text>X-quang lưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_BACK_DESCRIPTION</LocID>                              <Text>Chụp X-quang xương ở lưng.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_HEAD</LocID>                                          <Text>X-quang đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_HEAD_DESCRIPTION</LocID>                              <Text>Hình ảnh X-quang của xương hộp sọ.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_LOWER_LIMB</LocID>                                    <Text>X-quang chi dưới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_LOWER_LIMB_DESCRIPTION</LocID>                        <Text>Chụp X-quang xương của chi dưới.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_TORSO</LocID>                                         <Text>X-quang ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_TORSO_DESCRIPTION</LocID>                             <Text>Hình ảnh X-quang của xương và bóng của lồng ngực.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_UPPER_LIMB</LocID>                                    <Text>X-quang chi trên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_X_RAY_UPPER_LIMB_DESCRIPTION</LocID>                        <Text>Hình ảnh X-quang của xương cánh tay.\n\nPhòng yêu cầu: Phòng X-quang</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EXM_DIFFERENTIAL_DIAGNOSIS</LocID>                              <Text>Chẩn đoán phân biệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_DIFFERENTIAL_DIAGNOSIS_DESCRIPTION</LocID>                  <Text>Xem xét trường hợp đặc biệt giúp giảm số lượng chuẩn đoán có thể. Chỉ có thể được thực hiện bởi bác sĩ có chuyên môn về chẩn đoán nâng cao.</Text>  </GameDBLocalizedString>
+
+            <!--
+            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW</LocID>                                  <Text>Phỏng vấn phân tích</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW_DESCRIPTION</LocID>                      <Text>Phỏng vấn đặc biệt chỉ có thể được thực hiện bởi bác sĩ có chuyên môn chẩn đoán trước. Discovers possible Triệu chứng ẩn bệnh nhân có thể xấu hổ khi nói đến.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CONSULTATIVE_EXAMINATIONS</LocID>                           <Text>Khám tư vấn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CONSULTATIVE_EXAMINATIONS_DESCRIPTIONS</LocID>              <Text>Kiểm tra đặc biệt chỉ có thể được thực hiện bởi bác sĩ có chuyên môn chẩn đoán trước. Nó đề xuất một cuộc kiểm tra để phát hiện Triệu chứng ẩn.</Text>  </GameDBLocalizedString>
+-->
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

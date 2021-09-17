@@ -1,0 +1,163 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_NAMES">
+        
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_01</LocID>      <Text>Anh Khánh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_02</LocID>      <Text>Bảo Lâm</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_03</LocID>      <Text>Chí Hiếu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_04</LocID>      <Text>Công Danh</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_05</LocID>      <Text>Đình Vũ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_06</LocID>      <Text>Đức Bình</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_07</LocID>      <Text>Gia Minh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_08</LocID>      <Text>Hải Đăng</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_09</LocID>      <Text>Hiền Minh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_10</LocID>      <Text>Hoàng Quân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_11</LocID>      <Text>Hùng Dũng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_12</LocID>      <Text>Hữu Nghĩa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_13</LocID>      <Text>Khải Minh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_14</LocID>      <Text>Khôi Vỹ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_15</LocID>      <Text>Minh Nhật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_16</LocID>      <Text>Tùng Anh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_17</LocID>      <Text>Hữu Nghĩa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_18</LocID>      <Text>Minh Triết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_19</LocID>      <Text>Trung Kiên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_20</LocID>      <Text>Tấn Phát</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_01</LocID>    <Text>Thùy Dương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_02</LocID>    <Text>Phương Hồng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_03</LocID>    <Text>Nguyệt Ánh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_04</LocID>    <Text>Phương Hạ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_05</LocID>    <Text>Ngọc Diệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_06</LocID>    <Text>Thanh Trà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_07</LocID>    <Text>Xuân Cát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_08</LocID>    <Text>Kim Ngân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_09</LocID>    <Text>Bảo Kim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_10</LocID>    <Text>Hồng Châu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_11</LocID>    <Text>Như Ngọc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_12</LocID>    <Text>Thu Thảo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_13</LocID>    <Text>Diệu Hiền</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_14</LocID>    <Text>Thanh Mẫn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_15</LocID>    <Text>Quỳnh Dung</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_16</LocID>    <Text>Thanh Nhã</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_17</LocID>    <Text>Đoan Trang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_18</LocID>    <Text>Tường Vy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_19</LocID>    <Text>Minh Tâm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_20</LocID>    <Text>Thủy Tiên</Text>  </GameDBLocalizedString>
+
+
+            <!--https://surnames.behindthename.com/top/lists/united-states/1990-->
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_01</LocID>    <Text>Nguyễn</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_02</LocID>    <Text>Trần</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_03</LocID>    <Text>Võ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_04</LocID>    <Text>Lê</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_05</LocID>    <Text>Phạm</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_06</LocID>    <Text>Hoàng</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_07</LocID>    <Text>Đặng</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_08</LocID>    <Text>Bùi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_09</LocID>    <Text>Đỗ</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_10</LocID>    <Text>Hồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_11</LocID>    <Text>Ngô</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_12</LocID>    <Text>Dương</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_13</LocID>    <Text>Lý</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_14</LocID>    <Text>Phan</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_15</LocID>    <Text>Mã</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_16</LocID>    <Text>Cao</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_17</LocID>    <Text>Lương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_18</LocID>    <Text>Triệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_19</LocID>    <Text>Trịnh</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_20</LocID>    <Text>Nghiêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_21</LocID>    <Text>Phùng</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_22</LocID>    <Text>Nông</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_23</LocID>    <Text>Sầm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_24</LocID>    <Text>Trà</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_25</LocID>    <Text>Ưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_26</LocID>    <Text>Nghị</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_27</LocID>    <Text>Diệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_28</LocID>    <Text>Thái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_29</LocID>    <Text>Tô</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_30</LocID>    <Text>Yên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_31</LocID>    <Text>Khiếu</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_32</LocID>    <Text>Ma</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_33</LocID>    <Text>Ngân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_34</LocID>    <Text>Cung</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_35</LocID>    <Text>Điền</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_36</LocID>    <Text>Hứa</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_37</LocID>    <Text>Mẫn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_38</LocID>    <Text>Văn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_39</LocID>    <Text>Mộc</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_40</LocID>    <Text>Hướng</Text>  </GameDBLocalizedString>
+
+            <!-- Similar list as above for most languages, allows correct feminine forms in slavic languages -->
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_01</LocID>  <Text>Nguyễn</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_02</LocID>  <Text>Trần</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_03</LocID>  <Text>Võ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_04</LocID>  <Text>Lê</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_05</LocID>  <Text>Phạm</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_06</LocID>  <Text>Hoàng</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_07</LocID>  <Text>Đặng</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_08</LocID>  <Text>Bùi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_09</LocID>  <Text>Đỗ</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_10</LocID>  <Text>Hồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_11</LocID>  <Text>Ngô</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_12</LocID>  <Text>Dương</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_13</LocID>  <Text>Lý</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_14</LocID>  <Text>Phan</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_15</LocID>  <Text>Mã</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_16</LocID>  <Text>Cao</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_17</LocID>  <Text>Lương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_18</LocID>  <Text>Triệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_19</LocID>  <Text>Trịnh</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_20</LocID>  <Text>Phùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_21</LocID>  <Text>Nông</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_22</LocID>  <Text>Sầm</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_23</LocID>  <Text>Trà</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_24</LocID>  <Text>Ưng</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_25</LocID>  <Text>Nghị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_26</LocID>  <Text>Diệp</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_27</LocID>  <Text>Thái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_28</LocID>  <Text>Tô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_29</LocID>  <Text>Ưng</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_30</LocID>  <Text>Khiếu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_31</LocID>  <Text>Ma</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_32</LocID>  <Text>Ngân</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_33</LocID>  <Text>Cung</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_34</LocID>  <Text>Điền</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_35</LocID>  <Text>Hứa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_36</LocID>  <Text>Mẫn</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_37</LocID>  <Text>Văn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_38</LocID>  <Text>Mộc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_39</LocID>  <Text>Hướng</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_40</LocID>  <Text>Cổ</Text>  </GameDBLocalizedString>
+            
+            <!-- Công ty bảo hiểm -->
+            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>Không bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_AAA</LocID>              <Text>Chăm sóc giá rẻ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_BBB</LocID>              <Text>Lòng can đảm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CCC</LocID>              <Text>Lá gan lớn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_DDD</LocID>              <Text>Chăm sóc nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_EEE</LocID>              <Text>Gia đình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_FFF</LocID>              <Text>Chăm sóc não</Text>  </GameDBLocalizedString>
+
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN</LocID>         <Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_BUILDING</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_MANAGEMENT</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_2</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED -->  <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_3</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CHALLENGE</LocID><Text>Cty Tiếp tục sống.</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_2A</LocID><Text>Trung tâm giáo dục Tiếp tục sống</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+
+</Database>
+
+   

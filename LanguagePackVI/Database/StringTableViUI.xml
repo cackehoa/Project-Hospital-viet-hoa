@@ -1,0 +1,862 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_UI">
+        
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <!-- Menus -->
+            <GameDBLocalizedString>      <LocID>QUIT</LocID>                                <Text>Thoát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OK</LocID>                                  <Text>Ok</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DELETE</LocID>                              <Text>Xóa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CANCEL</LocID>                              <Text>Hủy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WIDTH</LocID>                               <Text>Rộng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>Cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NAME</LocID>                                <Text>Tên</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Trình chỉnh sửa bản đồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Sandbox</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_ANIM_TEST</LocID>              <Text>Chuẩn đoán hoạt ảnh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01</LocID>                   <Text>Hướng dẫn 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01_DESCRIPTION</LocID>       <Text>Tìm hiểu kiến thức cơ bản về chẩn đoán và điều trị bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01a</LocID>                  <Text>Hướng dẫn 1 A</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01b</LocID>                  <Text>Hướng dẫn 1 B</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02</LocID>                   <Text>Hướng dẫn 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION</LocID>       <Text>Xây phòng khám nhỏ chức năng</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03</LocID>                   <Text>Hướng dẫn 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION</LocID>       <Text>Quản lý và nhập viện</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04</LocID>                   <Text>Hướng dẫn 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04_DESCRIPTION</LocID>       <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01</LocID>                   <Text>Chiến dịch 2</Text>  </GameDBLocalizedString>   <!--Levels switched-->
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION</LocID>       <Text>Bất lực</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02</LocID>                   <Text>Chiến dịch 1</Text>  </GameDBLocalizedString>   <!--Levels switched-->
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02_DESCRIPTION</LocID>       <Text>Nợ</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03</LocID>                   <Text>Chiến dịch 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION</LocID>       <Text>Trợ cấp nhà nước</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01</LocID>                    <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_DESCRIPTION</LocID>        <Text>Xây bệnh viện từ đầu và thử tất cả thách thức việc vận hành bệnh viện phải đưa ra! Quản lý nhân viên và chăm sóc bệnh nhân.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG</LocID>                <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG_DESCRIPTION</LocID>    <Text>(96 x 96 phiên bản)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02</LocID>                    <Text>Phòng khám cơ bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02_DESCRIPTION</LocID>        <Text>Bắt đầu với phòng khám cấp cứu nhỏ đang hoạt động. Làm cho nó có lãi và mở rộng nó thành bệnh viện hiện đại, đầy đủ các nhân viên chuyên nghiệp và bệnh nhân vui vẻ.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03</LocID>                    <Text>Bệnh viện nhỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03_DESCRIPTION</LocID>        <Text>Bỏ qua phần xây dựng và nhảy ngay đến nhiệm vụ của bác sĩ. Tập trung vào khía cạnh y tế của trò chơi hoặc làm cho bệnh viện này lớn hơn và hiệu quả hơn!</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW</LocID>                      <Text>Mới...</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE</LocID>     <Text>Lưu trò chơi</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD</LocID>     <Text>Tải trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_SCENARIO</LocID>                       <Text>Lưu kịch bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOAD_SCENARIO</LocID>                       <Text>Tải kịch bản</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>BACK_TO_GAME</LocID>        <Text>Tải kịch bản</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>EXIT_TO_MENU</LocID>        <Text>Thoát đến menu</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_NEW_MAP</LocID>                  <Text>Bản đồ mới</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>MAP_EDITOR_SAVE_MAP</LocID> <Text>Lưu trò chơi</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD_MAP</LocID> <Text>Tải trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_PREFAB</LocID>                         <Text>Lưu nhà lắp sẵn</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_LOG</LocID>        <Text>Tất cả nhật ký</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_RESTORE_DEFAULTS</LocID>      <Text>Khôi phục mặc định</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>KEYBOARD_LAYOUT</LocID>                     <Text>Hiển thị điều khiển bàn phím</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_CONTROLS_HEADING</LocID>           <Text>Điều khiển bàn phím</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_BUILD</LocID>                    <Text>XÂY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_FLOORS</LocID>                   <Text>Sàn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_WALLS</LocID>                    <Text>Tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_DOORS</LocID>                    <Text>Cửa\nCửa sổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_ROOMS</LocID>                    <Text>Phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MAP_EDITOR_OBJECTS</LocID>                  <Text>Đối tượng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LOADING</LocID>                             <Text>Đang tải...</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TEXTURES_HI_RES</LocID>                     <Text>Chất lượng kết cấu: Cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TEXTURES_LO_RES</LocID>                     <Text>Chất lượng kết cấu: Thấp</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_DAY</LocID>               <Text>Ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_WEEK</LocID>              <Text>Tuần</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_MONTH</LocID>             <Text>Tháng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>UI_ROOM_MISSING_EQUIPMENT</LocID>           <Text>TRANG BỊ THIẾU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE</LocID>                <Text>KHÔNG TIẾP CẬN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE_PATIENTS</LocID>       <Text>(KHÔNG TIẾP CẬN CHO BỆNH NHÂN)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_MISSING_STAFF</LocID>               <Text>(THIẾU NHÂN VIÊN)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>UI_DEPARTMENT_CLOSED</LocID>                <Text>(BỘ PHẬN ĐÓNG CỬA)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_DAY</LocID>                   <Text>KHỐI LƯỢNG CÔNG VIỆC NGÀY: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_NIGHT</LocID>                 <Text>KHỐI LƯỢNG CÔNG VIỆC ĐÊM: </Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TEXT_FAST_TIME_SCALE</LocID>            	<Text>...và thức đến sáng!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TEXT_FAST_TIME_SCALE_SKIP</LocID>        	<Text>Nhấn ESC hoặc nút chuột phải để hủy.</Text>  </GameDBLocalizedString>
+
+            <!-- Tooltips -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_GAME_MODE_BUTTON</LocID>            <Text>Chế độ trò chơi (F5)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_MODE_BUTTON</LocID>        <Text>Chế độ xây (F6)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_MODE_BUTTON</LocID>       <Text>Chế độ quản lý (F7)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_MODE_BUTTON</LocID>          <Text>Sự kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MAIN_MENU_BUTTON</LocID>            <Text>Menu chính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TUTORIAL</LocID>                    <Text>Hướng dẫn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TIMESCALE_STEP_ONE_HOUR</LocID>             <Text>Bỏ qua đêm (có thể hủy bằng cách nhấn ESC)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TIMESCALE_GAME_PAUSE</LocID>            	<Text>Tạm dừng trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TIMESCALE_SPEED_NORMAL</LocID>            	<Text>Tốc độ trò chơi bình thường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TIMESCALE_SPEED_FAST4X</LocID>            	<Text>Tăng tốc độ trò chơi (4x)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TIMESCALE_SPEED_FAST8X</LocID>            	<Text>Tăng tốc độ trò chơi (10x)</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_MANAGEMENT</LocID>             	<Text>Mở thẻ quản lý bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_CALENDAR</LocID>             		<Text>Ngày / Tuần / Tháng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_TOTAL_CURED_PATIENTS</LocID>       <Text>Chữa khỏi / tổng số bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_WARNINGS</LocID>             		<Text>Cảnh báo bệnh viện</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_GAUGE_RATING</LocID>             	<Text>Danh tiếng\n(tỷ lệ thành công / nhân viên và sự hài lòng của bệnh nhân)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_PRESTIGE</LocID>                   <Text>Uy tín</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_PRESTIGE_DESCRIPTION</LocID>       <Text>Ảnh hưởng đến số lượng bệnh nhân đến bệnh viện của bạn và khoản thanh toán bảo hiểm</Text>  </GameDBLocalizedString>
+            <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_PRESTIGE_DEPARTMENT_DESCRIPTION</LocID><Text>Uy tín của khoa là sự hài lòng trung bình của nhân viên và bệnh nhân, cộng với hiệu quả điều trị chung.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_BUDGET_BALANCE</LocID>             <Text>Số dư hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_TIME_CURRENT</LocID>             	<Text>Thang thời gian hiện tại</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_MANAGEMENT</LocID>             	<Text>Mở quản lý bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CURRENT</LocID>             		<Text>Mở quản lý bộ phận hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_OPEN_OVERVIEW</LocID>            <Text>Mở thẻ bộ phận tổng quan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_HIDE</LocID>                           <Text>Hiện / Ẩn lịch trình hàng ngày</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MANAGEMENT_OK</LocID>                       <Text>Mọi việc đều ổn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MANAGEMENT_MISSING_STAFF</LocID>            <Text>Thiếu nhân viên bắt buộc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MANAGEMENT_MISSING_ROOMS</LocID>            <Text>Thiếu phòng bắt buộc</Text>  </GameDBLocalizedString>
+            
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_FLOOR_UP</LocID>             			<Text>Tầng trên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_FLOOR_DOWN</LocID>             		<Text>Tầng dưới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_SELECT_FLOOR</LocID>             		<Text>Thêm tầng mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_WALLS_DOWN</LocID>             		<Text>Ẩn tất cả tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_WALLS_AUTO</LocID>             		<Text>Tự động ẩn tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_WALLS_FULL</LocID>             		<Text>Hiển thị toàn bộ tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_ZOOM_IN</LocID>             			<Text>Phóng to</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_ZOOM_OUT</LocID>             			<Text>Thu nhỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_TRANSPARENCY_LOGISTICS</LocID>         <Text>Hiển thị các đối tượng trong suốt trong Chế độ quản lý</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString> <LocID>TOOLTIP_VIEW_TRANSPARENCY_DOORS</LocID> <Text>Hiển thị cửa, cửa sổ, thang máy và xe cấp cứu trong suốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_ADD_FAVOURITE</LocID>             		<Text>Thêm vào yêu thích</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_PATIENT_BALANCE</LocID>             		<Text>Sự cân bằng của bệnh nhân</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_CLEAR_LOG</LocID>             			<Text>Xóa nhật ký thông báo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_OPEN_LOG</LocID>             			<Text>Mở nhật ký thông báo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_CLOSE_LOG</LocID>             			<Text>Đóng nhật ký thông báo</Text>  </GameDBLocalizedString>
+                        
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CENTER_CHARACTER</LocID>        	<Text>Nhấp vào chân dung để làm trung tâm camera trên người này.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>STAFF_BUSY</LocID>             	            <Text>Nhân viên bận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_NOT_QUALIFIED</LocID>             	<Text>Nhân viên không đủ tiêu chuẩn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_UNAVAILABLE</LocID>             	    <Text>Bác sĩ/y tá không có mặt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_UNAVAILABLE_LAB</LocID>             	<Text>Không có chuyên gia công nghệ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EQUIPMENT_BUSY</LocID>             	        <Text>Thiết bị cần thiết đang sử dụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EQUIPMENT_UNAVAILABLE</LocID>             	<Text>Thiết bị cần thiết không có sẵn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_ROOM</LocID>        	                    <Text>Phòng cần thiết bị thiếu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_CAN_NOT_PRESCRIBE</LocID>        	<Text>Bác sĩ không đủ trình độ để kê đơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMERGENCY_NO_SURGERY</LocID>        	    <Text>Phẫu thuật chỉ được thực hiện tại các khoa chuyên môn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_UNAVAILABLE_NIGHT</LocID>        	    <Text>Ca đêm không có nhân viên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_FREE_BED</LocID>        	                <Text>Không có giường rãnh trong khu làm việc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PATIENT_CAN_NOT_TALK</LocID>        	    <Text>Bệnh nhân không thể nói chuyện.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ALREADY_HOSPITALIZED</LocID>        	    <Text>Bệnh nhân đã được nhập viện tại khu vực ưu tiên cao hơn hoặc tương tự. Bạn có thể thử thay đổi bộ phận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>REQUIRED_HOSPITALIZATION_UNAVAILABLE</LocID><Text>Không cần nhập viện để điều trị. Bạn có thể thử thay đổi bộ phận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMERGENCY_NO_HOSPITALIZATION</LocID>        <Text>Mức độ nhập viện này không khả dụng khi Cấp cứu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNKNOWN</LocID>        	                    <Text>Không rõ lý do không có sẵn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ONLY_CLINIC</LocID>        	                <Text>Chỉ có tại phòng khám.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_AVAILABLE_DEPARTMENT</LocID>        	<Text>Không có ở bộ phận này.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_NOT_AVAILABLE</LocID>        	    <Text>Không có sẵn:</Text>  </GameDBLocalizedString>
+            
+            <!-- Cards -->
+            <GameDBLocalizedString>      <LocID>SEGMENT_NONE</LocID>                        <Text>Không</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_GENDER</LocID>                <Text>Giới tính:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_OCCUPATION</LocID>            <Text>Nghề nghiệp:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_INSURANCE</LocID>             <Text>Bảo hiểm:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_BALANCE</LocID>               <Text>Thanh toán:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_VACCINATION</LocID>           <Text>Tiêm phòng:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_SALARY</LocID>                <Text>Tiền công:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_EMPLOYED</LocID>              <Text>Tuyển dụng:</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PRIORITY</LocID>            <Text>Quyền ưu tiên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_CONTROLS</LocID>            <Text>Kiểm soát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PLAYER_CONTROL</LocID>      <Text>kiểm soát người chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SYMPTOMS_CURRENT</LocID>    <Text>Triệu chứng hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SYMPTOMS_HIDDEN</LocID>     <Text>Ẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIDDEN_SYMPTOMS</LocID>             <Text>Hiển thị số lượng triệu chứng ẩn mà bệnh nhân không biết. Biểu tượng nhấp nháy báo hiệu rằng một hoặc nhiều triệu chứng có thể gây chết người</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>PLAYER_CONTROL</LocID>                      <Text>kiểm soát người chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AI_CONTROL</LocID>                          <Text>Được kiểm soát bởi các bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FAVORITE</LocID>                            <Text>Kính trọng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_1</LocID>                    <Text>Triệu chứng ẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_2_TO_4</LocID>               <Text>Triệu chứng ẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_5_OR_MORE</LocID>            <Text>Triệu chứng ẩn</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_DOCTOR</LocID>    <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_FINAL</LocID>     <Text>Chẩn đoán cuối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_POSSIBLE</LocID>  <Text>Các chẩn đoán có thể</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_PLANNED</LocID><Text>Kế hoạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_ACTIVE</LocID> <Text>Chuẩn đoán tích cực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_FINISHED</LocID><Text>Hoàn thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_RECOMMENDED</LocID><Text>Chuẩn đoán có sẵn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_PLANNED</LocID>  <Text>Kế hoạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_ACTIVE</LocID>   <Text>Điều trị tích cực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_FINISHED</LocID> <Text>Hoàn thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_RECOMMENDED</LocID><Text>Phương pháp điều trị có sẵn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_LEVEL</LocID>               <Text>Cấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SKILLS</LocID>              <Text>Kỹ năng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SPECIALIZATIONS</LocID>     <Text>Chuyên môn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SELECT_SPECIALIZATION_WARNING</LocID>       <Text>Chọn tùy chọn này sẽ thay thế chuyên môn hiện tại và sẽ đặt cấp độ kỹ năng thành 0%.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SUPERVISOR</LocID>          <Text>Người giám thị</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_CURRENT_PATIENTS</LocID>    <Text>Bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_RELEASED_PATIENTS</LocID>   <Text> xuất viện</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENTS</LocID>            <Text>Bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENT_MOST_CRITICAL</LocID><Text>Quan trọng nhất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENT_MOST_ANGRY</LocID>  <Text>Tức giận nhất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENT_MOST_HAPPY</LocID>  <Text>Hạnh phúc nhất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENT_STATISTICS</LocID>  <Text>Số liệu thống kê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_PATIENT_NEEDS</LocID>       <Text>Nhu cầu</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_ROOMS</LocID>               <Text>Phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXISTING_ROOMS</LocID>      <Text>Được xây</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_MISSING_ROOMS</LocID>       <Text>Thiếu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_OPTIONAL_ROOMS</LocID>      <Text>Không bắt buộc</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_CLINIC</LocID>              <Text>Phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_HOSPITALIZATION</LocID>     <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SURGERY</LocID>             <Text>Thực hiện phẫu thuật</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LOCKED_BY_INSURANCE</LocID>                 <Text>Mở khóa bằng cách hoàn thành mục tiêu công ty bảo hiểm</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES</LocID>           <Text>Nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_DAY</LocID>       <Text>Nhân viên ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_NIGHT</LocID>     <Text>Nhân viên đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_CHIEF_DOCTOR</LocID><Text>Bác sĩ trưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_CHIEF_NURSE</LocID><Text>Y tá trưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_CERTAINTY</LocID> <Text>Tin chắc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_EMPLOYEE_COUNT</LocID><Text>Tuyển dụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_NEEDS</LocID>     <Text>Nhu cầu</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>CERTAINTY_LOW</LocID>                       <Text>Thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CERTAINTY_MEDIUM</LocID>                    <Text>Trung bình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CERTAINTY_HIGH</LocID>                      <Text>Cao</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EVENTS</LocID>              <Text>Sự kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_START_EVENT</LocID>                 <Text>Bắt đầu sự kiện</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HIRING_CARD_HIRE_STAFF</LocID>              <Text>Thuê nhân viên</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HOSPITAL_MANAGEMENT</LocID>                 <Text>Quản lý bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE_OBJECTIVE</LocID>                 <Text>Thưởng mục tiêu: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE_UNLOCK_OBJECTIVE</LocID>          <Text>Mở khóa mục tiêu: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE_OBJECTIVES_COMPLETE</LocID>       <Text>Mục tiêu hoàn thành.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE_REWARD</LocID>                    <Text>Phần thưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE_NUMBER_OF_PATIENTS</LocID>        <Text>Gửi</Text>  </GameDBLocalizedString>
+
+            <!-- Various descriptions -->
+            <GameDBLocalizedString>      <LocID>DESC_NONE</LocID>                   	<Text>Không</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEGATIVE_NO</LocID>                    	<Text>Không</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DESC_ROOM_SIZE</LocID>                  <Text>Kích thước phòng tối thiểu:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DESC_ROOM_EQUIPMENT</LocID>     		<Text>Đối với thiết bị cần thiết, hãy nhấp vào điểm đánh dấu phòng trên tầng trong chế độ quản lý.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DESC_ROOM_LOCKED</LocID>     		    <Text>Được mở khóa bởi các mục tiêu công ty bảo hiểm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_LEVEL_DESCRIPTION</LocID>     	<Text>Xác định các thủ tục mà nhân vật có thể thực hiện.</Text>  </GameDBLocalizedString>
+
+            <!-- Insuracne objectives -->
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS</LocID>                <Text>Điều trị cho {1} bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_IMMOBILE_PATIENTS</LocID>       <Text>Điều trị cho {1} bệnh nhân được đưa đến bằng xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_PER_DAY</LocID>        <Text>Điều trị {1} bệnh nhân mỗi ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</LocID>   <Text>Điều trị {1} bệnh nhân mỗi ngày tại {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_SUCCESS_RATE</LocID>          <Text>Điều trị ít nhất {1} bệnh nhân trong một ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_ROOMS</LocID>                   <Text>Xây và thuê nhân viên cho {1} {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_CLINIC_AT_DEPARTMENT</LocID>    <Text>Mở {1} phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_HOSPITALIZATION_AT_DEPARTMENT</LocID> <Text>Cho phép nhập viện tại {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NUMBER_OF_AMBULANCES</LocID>            <Text>Mua {1} xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BALANCE</LocID>                         <Text>Có {1} trong tài khoản của bạn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BANK_BALANCE</LocID>                    <Text>Có số dư ngân hàng trên 0</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString><LocID>PROFITABLE_DAYS</LocID>                  <Text>Có lợi nhuận trong {1} ngày liên tiếp.</Text>  </GameDBLocalizedString>
+
+            <!-- Bảo hiểm objective rewards -->
+            <GameDBLocalizedString>      <LocID>REWARD</LocID>                          <Text>Phần thưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_ROOM</LocID>                     <Text>{1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT</LocID>               <Text>{1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>Nhập viện tại {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MONEY_GRANT</LocID>                     <Text>Khoản trợ cấp {1} của chính phủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MORE_MOBILE_PATIENTS</LocID>            <Text>{1} thêm bệnh nhân phòng khám mỗi ngày</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString><LocID>MORE_IMMOBILE_PATIENTS</LocID><Text>{1} thêm bệnh nhân đến bằng xe cấp cứu mỗi ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_AMBULANCES</LocID>               <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>YESTERDAY</LocID>        	                <Text>Hôm qua</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TODAY</LocID>        	                    <Text>Hôm nay</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NO_NAME</LocID>        	                    <Text>Bệnh viện ẩn danh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DEPARTMENT</LocID>        	                <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DEPARTMENT_CLOSED</LocID>        	        <Text>Bộ phận (đã đóng cửa)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DEPARTMENTS</LocID>        	                <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INSURANCE</LocID>        	                <Text>Bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS</LocID>        	                <Text>Số liệu thống kê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BUDGET</LocID>        	                    <Text>Ngân sách</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AMBULANCES</LocID>        	                <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_STAFF</LocID>        	        <Text>Nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_PATIENTS</LocID>        	        <Text>Bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HOSPITAL</LocID>        	        <Text>Bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_BANK</LocID>        	            <Text>Vay vốn ngân hàng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_INTEREST</LocID>        	        <Text>Lãi suất hàng ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_LOAN</LocID>        	            <Text>Tổng số tiền vay</Text>  </GameDBLocalizedString>
+            
+            <!-- UPDATED --> <GameDBLocalizedString>   <LocID>MANAGEMENT_INSURANCE</LocID>  <Text>Bảo hiểm (phòng khám)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_SERVICES</LocID>                 <Text>Dịch vụ</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>MANAGEMENT_WAGES</LocID>   <Text>Tiền công (phòng khám)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_TOTAL</LocID>        	        <Text>Tổng</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_STATISTICS_ALL_TIME</LocID>      <Text>Mọi lúc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_STATISTICS_LAST_DAY</LocID>      <Text>Ngày cuối</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_LEVEL</LocID>        	    <Text>Lựa chọn cấp độ ứng viên để tìm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_RANDOM</LocID>        	            <Text>Ngẫu nhiên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_GENERATE</LocID>        	    <Text>Tìm ứng viên mới với khoản phí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_REVEAL_PERKS</LocID>        	<Text>Tiết lộ các đặc quyền ẩn với 1000$</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>REQUIRED_SKILL</LocID>        	            <Text>Kỹ năng yêu cầu: </Text>  </GameDBLocalizedString>
+            
+            <!-- Patient card -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_CHARACTER_MODE_CONTROL_PATIENT</LocID>   <Text>Bệnh nhân mặc định / Do người chơi điều khiển / Bệnh nhân thân thiết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_CHARACTER_MODE_CONTROL_EMPLOYEE</LocID>  <Text>Thêm nhân viên vào danh sách yêu thích - thêm chân dung nhân vật vào bảng điều khiển chính. Tối đa 8 nhân vật có thể được đánh dấu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIDDEN_PERKS</LocID>                              <Text>Đặc quyền ẩn</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_GO_TO_DOCTOR</LocID>                              <Text>Hiển thị thẻ bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CRITICAL_PATIENT</LocID>                          <Text>Đây là bệnh nhân trong tình trạng nguy kịch. Có ít nhất một triệu chứng dẫn đến suy sụp.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DIAGNOSIS_FINISHED_DIAGNOSIS</LocID>              <Text>Hiển thị lịch sử chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DIAGNOSIS_PATIENT_BALANCE</LocID>                 <Text>Mở thẻ thanh toán cho bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DIAGNOSIS_OPEN_DIAGNOSIS_LIST</LocID>             <Text>Mở bảng chẩn đoán</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_CURRENT_SYMPTOMS</LocID>                 <Text>Triệu chứng hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_PASSED_SYMPTOMS</LocID>                  <Text>Lịch sử triệu chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_SORT_SYMPTOMS</LocID>                    <Text>Sắp xếp triệu chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_OPEN_SYMPTOMS_LIST</LocID>               <Text>Mở bảng triệu chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_PRIORITY_SEND_HOME</LocID>               <Text>Gửi bệnh nhân được điều trị về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SEND_TO_ANOTHER_HOSPITAL</LocID>                  <Text>Gửi bệnh nhân chưa được điều trị đến bệnh viện khác</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_PRIORITY_HOSPITALIZE</LocID>             <Text>Nhập viện bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_PRIORITY_SEND_TO_ICU</LocID>             <Text>Gửi bệnh nhân đến ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SYMPTOMS_PRIORITY_BUTTON</LocID>                  <Text>Thay đổi mức độ ưu tiên của bệnh nhân</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EXAMINATION_PLANNED_EXAMINATIONS</LocID>          <Text>Kiểm tra theo kế hoạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EXAMINATION_FINISHED_EXAMINATIONS</LocID>         <Text>Kiểm tra hoàng thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EXAMINATION_RECOMMENDED_EXAMINATIONS</LocID>      <Text>Đề xuất kiểm tra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EXAMINATION_OPEN_EXAMINATION_LIST</LocID>         <Text>Mở bàn kiểm tra</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_ADD_ALL_TREATMENTS</LocID>              <Text>Thêm tất cả phương pháp điều trị có thể</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_PLANNED_TREATMENTS</LocID>              <Text>Phương pháp điều trị có kế hoạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_CURRENT_TREATMENTS</LocID>              <Text>Phương pháp điều trị hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_FINISHED_TREATMENTS</LocID>             <Text>Điều trị hoàng thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_RECOMMENDED_TREATMENTS</LocID>          <Text>Phương pháp điều trị được đề xuất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TREATMENT_OPEN_TREATMENT_LIST</LocID>             <Text>Mở bảng điều trị</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SURGERY_REQUIRED_SKILLS</LocID>                           <Text>Yêu cầu nhân viên có kỹ năng:</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SELECT_DEPARTMENT</LocID>                         <Text>Chọn bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SELECT_DEPARTMENT_ICU</LocID>                     <Text>Bệnh nhân chỉ có thể được giải phóng khỏi ICU sau khi được điều trị.</Text>  </GameDBLocalizedString>
+            
+            <!-- Character card -->
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DAY_SHIFT</LocID>                                 <Text>Ca ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_ASSIGN_WORKSPACE</LocID>                          <Text>Chỉ định nhân viên đến nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CHANGE_SHIFT</LocID>                              <Text>Chuyển đổi nhân viên ca ngày/đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_RELEASE</LocID>                                   <Text>Sa thải nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_NIGHT_SHIFT</LocID>                               <Text>Ca đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_OPEN_SHIFT_LIST</LocID>                           <Text>Mở danh sách ca làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_RENAME_CHARACTER</LocID>                          <Text>Đổi tên nhân vật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CONTROLED_PATIENTS</LocID>           	          <Text>Mở bảng bệnh nhân thân thiết/được kiểm soát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_FOLLOW_BUTTON</LocID>           	              <Text>Bật theo dõi camera cho nhân vật này</Text>  </GameDBLocalizedString>
+                        
+            <GameDBLocalizedString>      <LocID>TOOLTIP_OPEN_WORK_LIST</LocID>                            <Text>Mở lịch sử thủ tục</Text>  </GameDBLocalizedString>
+                                                                                                        
+            <GameDBLocalizedString>      <LocID>TOOLTIP_OPEN_PATIENT_LIST</LocID>                         <Text>Mở bảng bệnh nhân</Text>  </GameDBLocalizedString>
+                                                                                                        
+            <!-- Hiring card -->                                                                        
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRE_DOCTORS</LocID>                              <Text>Thuê bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRE_NURSES</LocID>                               <Text>Thuê y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRE_LAB_SPECIALISTS</LocID>                      <Text>Thuê kỹ thuật viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRE_MAINTENANCE_WORKERS</LocID>                  <Text>Thuê nhân viên vệ sinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_FROM_REFERRAL</LocID>                             <Text>Từ giấy giới thiệu - một trường hợp cho một bộ phận chuyên môn</Text>  </GameDBLocalizedString>
+            
+            <!-- Department card -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_HIRE_STAFF</LocID>                     <Text>Thuê nhân viên mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_BUDGET</LocID>               	      <Text>Ngân sách bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_DRESS_CODE</LocID>                     <Text>Mã trang phục bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_QUARANTINE</LocID>                     <Text>Kiểm dịch toàn bộ bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CLOSE</LocID>               		      <Text>Đóng bộ phận - Tất cả bệnh nhân tại khoa sẽ xuất viện, nhân viên về nhà.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_TIME_SWITCH</LocID>                    <Text>Ngày / Tuần / Tháng</Text>  </GameDBLocalizedString>
+            <!-- UPDATE --><GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CURED_PATIENTS</LocID>  <Text> - Bệnh nhân đã điều trị hôm nay\n - Bệnh nhân chưa điều trị hôm nay\n - Tiếp nhận bệnh nhân từ công ty bảo hiểm\n\nNhấp để mở bảng của bệnh nhân chưa điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_WARNINGS</LocID>           		      <Text>Cảnh báo của bộ phận</Text>  </GameDBLocalizedString>
+                                                                                                         
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STAFF_LIST</LocID>           	      <Text>Mở bảng nhân viên của bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CHIEF_DOCTOR</LocID>           	      <Text>Bác sĩ trưởng thêm tiền thưởng hàng ngày cho nhân viên ở các bộ phận tương ứng. Chọn cách khôn ngoan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_RESTORE</LocID>              <Text>Khôi phục về mặc định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_CHART</LocID>                <Text>Xem biểu đồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_GAUGE</LocID>                <Text>Thiết lập giá trị chắc chắn được sử dụng để xác nhận chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_INSERVICE_DOCTORS</LocID>              <Text>Thuê bác sĩ / nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_INSERVICE_NURSES</LocID>               <Text>Thuê y tá / nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_INSERVICE_LAB_SPECIALISTS</LocID>      <Text>Thuê kỹ thuật viên / nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_INSERVICE_MAINTENANCE</LocID>          <Text>Thuê nhân viên vệ sinh / nơi làm việc</Text>  </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_LIST</LocID>         	      <Text>Mở bàn bệnh nhân của khoa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_HOSPITALIZED</LocID>          <Text>Bệnh nhân nhập viện / tất cả chỗ có sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_CLINIC</LocID>                <Text>Bệnh nhân trong phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_LOW_PRIORITY</LocID>          <Text>Bệnh nhân ở phòng khám thường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_HIGH_PRIORITY</LocID>         <Text>Bệnh nhân ở đơn vị tin tưởng cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_DEAD</LocID>                  <Text>Bệnh nhân chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_WAITING</LocID>               <Text>Thực tế bệnh nhân đang chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PATIENTS_SCHEDULED</LocID>             <Text>Bệnh nhân đã lên lịch</Text>  </GameDBLocalizedString>
+            <!-- UPDATE --><GameDBLocalizedString><LocID>TOOLTIP_DEPARTMENT_PATIENTS_CURED</LocID>        <Text>Bệnh nhân đã điều trị | Bệnh nhân chưa điều trị</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_LOGISTICS_ROOMS</LocID>         		  <Text>Mở danh sách phòng của bộ phận</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_PIN</LocID>                            <Text>Ghim thẻ bộ phận vào cửa sổ chính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NAME</LocID>                           <Text>Đổi tên bộ phận</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NEED_HUNGER</LocID>                    <Text>Đói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NEED_BLADDER</LocID>                   <Text>Bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NEED_REST</LocID>                      <Text>Nghỉ ngơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NEED_SATISFACTION</LocID>              <Text>Độ hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NEED_DISCOMFORT</LocID>                <Text>Khó chịu</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_PREFABS</LocID>                         <Text>Chuyển đến phòng lắp sẵn cho bộ phận này trong chế độ xây.</Text>  </GameDBLocalizedString>
+            
+            <!-- Hospital card -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_PIN_PANEL_BUTTON</LocID>                          <Text>Ghim thẻ để nó không tự động đóng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CLOSE_PANEL_BUTTON</LocID>                        <Text>Đóng bảng / thẻ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_MODIFY_NAME</LocID>                      <Text>Đổi tên cơ sở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_SELECT</LocID>                         <Text>Chọn bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENTS</LocID>                      <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE</LocID>                        <Text>Công ty bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_STATISTICS</LocID>                       <Text>Số liệu thống kê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_BUDGET</LocID>                           <Text>Ngân sách</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_WARNINGS</LocID>                         <Text>Cảnh báo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_CURED_PATIENTS</LocID>                   <Text>Tổng được chữa / không bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_TIME_SWITCH_CONTROL</LocID>              <Text>Ngày / Tuần / Tháng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_RANDOM</LocID>                             <Text>Ngẫu nhiên</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENT_NEW</LocID>                   <Text>Thêm bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENT_REMOVE</LocID>                <Text>Đóng bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENT_NAME</LocID>                  <Text>Đổi tên bộ phận</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_ADD_DEPARTMENT</LocID>                   <Text>Thêm bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENT_ACTIVE</LocID>                <Text>Bộ phận hoạt động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_DEPARTMENT_NOT_ACTIVE</LocID>            <Text>Bộ phận không hoạt động</Text>  </GameDBLocalizedString>
+        
+            <!-- Bảo hiểm -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_REMOVE_ADD</LocID>             <Text>Cho phép / vô hiệu hóa chấp nhận bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_INSURANCE_COMPANY</LocID>      <Text>Công ty bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_DISEASES_PATIENTS</LocID>      <Text>Số lượng bệnh nhân mệt gửi mỗi ngày.\nCon số sẽ giảm xuống nếu bệnh viện chữa khỏi dưới 70% bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_TRAUMAS_PATIENTS</LocID>       <Text>Số lượng bệnh nhân bị thương  gửi mỗi ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_PRICE_MODIFIER</LocID>         <Text>Bản sửa đổi chi phí bảo hiểm cho bệnh nhân được gửi bởi công ty bảo hiểm này</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_OBJECTIVE</LocID>              <Text>Mục tiêu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_PAYMENT</LocID>                <Text>$</Text>  </GameDBLocalizedString>
+            
+
+            <!-- Logistics -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_ASSIGN</LocID>                           <Text>Chỉ định nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_LOCK</LocID>                             <Text>Khóa</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_SELECT_DEPARTMENT</LocID>                <Text>Chọn bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_FREE</LocID>                             <Text>Khu vực tự do dành cho cả nhân viên và bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_STAFF_ONLY</LocID>                       <Text>Khu vực chỉ dành cho nhân viên, bệnh nhân phải có sự cho phép / lời mời</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_BIOHAZARD</LocID>                        <Text>Khu vực nguy hiểm sinh học, chỉ trong bộ đồ an toàn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_RESTRICTED</LocID>                       <Text>Khu vực hạn chế tất cả bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_LOGISTICS_REMOVE</LocID>                           <Text>Xóa phòng</Text>  </GameDBLocalizedString>
+
+            
+            <!-- Building panel -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_AREA</LocID>                  <Text>Hoạt động của nền tảng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_CONSTRUCTIONS</LocID>                     <Text>Công trình và tầng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_DOORS_WINDOWS</LocID>                     <Text>Cửa và cửa sổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_OBJECTS</LocID>                           <Text>Nội thất, thiết bị, đồ trang trí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFABS</LocID>                           <Text>Nhà dựng sẵn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS</LocID>                       <Text>Xây móng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_DYNAMITE</LocID>              <Text>Dynamite mọi thứ bao gồm cả nền móng và điểm đánh dấu phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_ADD_WALLS</LocID>             <Text>Thêm tường chu vi xung quanh khu vực móng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_BULDOZER</LocID>              <Text>San ủi tường và đồ vật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_TRASH</LocID>                 <Text>Loại bỏ đối tượng (giữ tường nguyên vẹn)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FOUNDATIONS_MOVE</LocID>                  <Text>Di chuyển đối tượng (nhấp vào bất kỳ đối tượng nào trong cảnh)</Text>  </GameDBLocalizedString>
+   
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_WALLS</LocID>                             <Text>Xây tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FLOORS</LocID>                            <Text>Đặt tầng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PILLAR</LocID>                            <Text>Xây cột</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_AMBULANCE</LocID>                         <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_STAIRS</LocID>                            <Text>Thang máy</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_EQUIPMENT</LocID>                         <Text>Trang thiết bị y tế</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FURNITURE</LocID>                         <Text>Nội thất và phụ kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_DECALS</LocID>                            <Text>Đề can</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_DECORATIONS</LocID>                       <Text>Đồ trang trí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_OUTDOOR</LocID>                           <Text>Vật thể ngoài trời</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_GENERAL</LocID>                    <Text>Mẫu phòng không dành riêng cho bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_EMERGENCY</LocID>                  <Text>Mẫu phòng cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_SURGERY</LocID>                    <Text>Mẫu phòng ban phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ICU</LocID>                        <Text>Các mẫu phòng ban ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_RADIOLOGY</LocID>                  <Text>Mẫu phòng chụp X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INTERNAL_MEDICINE</LocID>          <Text>Các mẫu phòng ban khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ORTHOPAEDY</LocID>                 <Text>Mẫu phòng khám chuyên khoa chỉnh hình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_CARDIOLOGY</LocID>                 <Text>Mẫu phòng khám chuyên khoa tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_NEUROLOGY</LocID>                  <Text>Mẫu phòng khám chuyên khoa thần kinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_WALLS_RECTANGLE</LocID>                   <Text>Kéo tường hình chữ nhật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_OUTDOOR_FLOOR</LocID>                     <Text>Tầng và địa hình ngoài trời</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_WALLS_REMOVE_WALLS</LocID>                <Text>Xóa tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_WALLS_REMOVE_WALLS_RECTANGULAR</LocID>    <Text>Xóa tường hình chữ nhật</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_DOORS_REMOVE_DOORS</LocID>                <Text>Loại bỏ cửa hoặc cửa sổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_EQUIPMENT_REMOVE</LocID>                  <Text>Loại bỏ đối tượng (giữ tường nguyên vẹn)</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_OWN</LocID>                        <Text>Đã lưu nhà lắp sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_SAVE</LocID>                       <Text>Lưu nhà lắp sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_CREATE</LocID>                     <Text>Sao chép/tạo nhà lắp sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_DELETE</LocID>                     <Text>Xóa nhà lắp sẵn đã lưu</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STATUS</LocID>                          <Text>Tình trạng bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STATUS_OUTPATIENTS</LocID>              <Text>Bệnh nhân phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STATUS_HOSPITALIZATION</LocID>          <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_EQUIPMENT</LocID>                       <Text>Trang bị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STAFF</LocID>                           <Text>Nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_DAY_SHIFT</LocID>                       <Text>Nhân viên ca ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_NIGHT_SHIFT</LocID>                     <Text>Nhân viên ca đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STRETCHERS</LocID>                      <Text>Băng ca</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_EQUIPMENT</LocID>                          <Text>Phòng mổ được trang bị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_STAFF</LocID>                              <Text>Bác sĩ phẫu thuật, bác sĩ gây mê, y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SURGERY_STAFF_DETAILS</LocID>                      <Text>2x Bác sĩ phẫu thuật\n1x Bác sĩ gây mê\n1x Y tá phẫu thuật\n2x Y tá </Text>  </GameDBLocalizedString>
+            
+            <!-- LOGISTICS/MANAGEMENT, EMPLOYEES TABLE -->
+            <GameDBLocalizedString>      <LocID>ALL_EMPLOYEES</LocID>                                      <Text>Tất cả nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTORS</LocID>                                            <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>RECEPTIONISTS</LocID>                                      <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGISTS</LocID>                                  <Text>Công nghệ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITORS</LocID>                                           <Text>Công nhân vệ sinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NURSES</LocID>                                             <Text>Y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECH_CARDIO</LocID>                                    <Text>Công nghệ tim mạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECH_USG</LocID>                                       <Text>Công nghệ USG.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGEONS</LocID>                                           <Text>Bác sĩ phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ANESTHESIOLOGISTS</LocID>                                  <Text>Gây mê\khoa học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGERY_NURSES</LocID>                                     <Text>Y tá phẫu thuật</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DOCTOR</LocID>                                             <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_CLINIC_DESCRIPTION</LocID>                          <Text>Bác sĩ phòng khám khám, chẩn đoán và điều trị cho bệnh nhân, chuyên khoa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>RECEPTIONIST</LocID>                                       <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>RECEPTIONIST_DESCRIPTION</LocID>                           <Text>Y tá tại quầy lễ tân, với chuyên môn </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST</LocID>                                   <Text>Kỹ thuật viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_DESCRIPTION</LocID>                       <Text>Kỹ thuật viên y tế chuyên ngành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR</LocID>                                            <Text>Hộ lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_DESCRIPTION</LocID>                                <Text>Nhân viên vệ sinh đảm bảo bộ phận luôn sạch sẽ.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>STRETCHERS</LocID>                                         <Text>Băng ca</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DOCTOR_HOSPITALIZATION_DESCRIPTION</LocID>                 <Text>Bác sĩ tại phòng trực, chuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE</LocID>                                              <Text>Y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_DESCRIPTION</LocID>                                  <Text>Y tá trong trạm y tá có bằng cấp </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_CARDIO</LocID>                            <Text>Công nghệ tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_CARDIO_DESCRIPTION</LocID>                <Text>Kỹ thuật viên vận hành các thiết bị Chuẩn đoán liên quan đến</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_USG</LocID>                               <Text>Công nghệ USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_USG_DESCRIPTION</LocID>                   <Text>Kỹ thuật viên vận hành các thiết bị khám và điều trị liên quan đến</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGEON</LocID>                                            <Text>Bác sĩ phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGEON_DESCRIPTION</LocID>                                <Text>Bác sĩ tại phòng trực, chuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ANESTHESIOLOGIST</LocID>                                   <Text>Bác sĩ gây mê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ANESTHESIOLOGIST_DESCRIPTION</LocID>                       <Text>Bác sĩ tại phòng trực, chuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGERY_NURSE</LocID>                                      <Text>Y tá phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGERY_NURSE_DESCRIPTION</LocID>                          <Text>Y tá chuyên ngành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STRETCHERS</LocID>                                         <Text>Băng ca</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STRETCHERS_DESCRIPTION</LocID>                             <Text>Dùng để vận chuyển bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_HOSPITALIZATION_REQUIRED</LocID>                     <Text>Yêu cầu: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_HOSPITALIZATION_COUNT_DAY</LocID>                    <Text>Ngày: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STAFF_HOSPITALIZATION_COUNT_NIGHT</LocID>                  <Text>Đêm: </Text>  </GameDBLocalizedString>
+            
+            <!-- Tables -->
+            <GameDBLocalizedString>      <LocID>TABLE_YES</LocID>                           <Text>Đúng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_NO</LocID>                            <Text>Không</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DAYS</LocID>                          <Text>Ngày</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_HEADING</LocID>                   <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_DEPARTMENT</LocID>                <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_BEDS</LocID>                      <Text>Giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_WAITING</LocID>                   <Text>Đang chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_DOCTORS</LocID>                   <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_CURED</LocID>                     <Text>Chữa khỏi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_BALANCE</LocID>                   <Text>Cân bằng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DEP_REPUTATION</LocID>                <Text>Danh tiếng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_DOCTORS</LocID>     <Text>Nhân viên - bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_NURSES</LocID>      <Text>Nhân viên - y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_LAB</LocID>         <Text>Nhân viên - nhân viên phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_JANITORS</LocID>    <Text>Nhân viên - nhân viên vệ sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_ALL</LocID>         <Text>Nhân viên - tất cả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_HEADING_DOCTORS_NURSES</LocID><Text>Nhân viên - bác sĩ và y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_EMPLOYEES_SELECT</LocID>              <Text>Chọn nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_HEADING</LocID>               <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_DOCTOR</LocID>                <Text>Tên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_DEPARTMENT</LocID>            <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_OCCUPATION</LocID>            <Text>Nghề nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_LEVEL</LocID>                 <Text>Cấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SPEC1</LocID>                 <Text>Thông số kỹ thuật chính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SPEC2</LocID>                 <Text>Thông số kỹ thuật thứ hai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SHIFT</LocID>                 <Text>Ca làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SUPERVISOR</LocID>            <Text>Người giám thị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_GENDER</LocID>                <Text>Giới tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SALARY</LocID>                <Text>Tiền công</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_EMPLOYED</LocID>              <Text>Tuyển dụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_DOCTORS_SATISFACTION</LocID>          <Text>Độ hài lòng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_HEADING</LocID>              <Text>Bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_PATIENT</LocID>              <Text>Bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_DIAGNOSIS</LocID>            <Text>Chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_HAZARD</LocID>               <Text>Nguy hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_DEPARTMENT</LocID>           <Text>Phòng ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_DOCTOR</LocID>               <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_STATE</LocID>                <Text>Nhà nước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_GENDER</LocID>               <Text>Gendrage</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_OCCUPATION</LocID>           <Text>Nghề nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_INSURANCE</LocID>            <Text>Bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_BALANCE</LocID>              <Text>Cân bằng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_PATIENTS_SATISFACTION</LocID>         <Text>Độ hài lòng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_HEADING</LocID>             <Text>Chẩn đoán</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_DIAGNOSIS</LocID>           <Text>Tên</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_PROBABILITY</LocID>         <Text>Xác suất</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_TERM</LocID>                <Text>Thuật ngữ</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_DEPARTMENT</LocID>          <Text>Phòng ban</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_DURATION</LocID>            <Text>Thời hạn</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_VACCINATION</LocID>         <Text>Tiêm phòng</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_INSURANCE</LocID>           <Text>Bảo hiểm</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_TREATMENT</LocID>           <Text>Điều trị</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>TABLE_DIAGNOSES_SYMPTOMS</LocID>            <Text>Triệu chứng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_HEADING</LocID>              <Text>Triệu chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_SYMPTOMS</LocID>             <Text>Tên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_HAZARD</LocID>               <Text>Nguy hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_EXAMINATION</LocID>          <Text>Khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_TREATMENT</LocID>            <Text>Điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_DISCOMFORT</LocID>           <Text>Khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TABLE_SYMPTOMS_COLLAPSE</LocID>             <Text>Triệu chứng sụp đổ</Text>  </GameDBLocalizedString>
+
+            <!-- Popups -->
+            <GameDBLocalizedString>      <LocID>BUTTON_SWITCH_MESSAGE_LEVEL</LocID>         <Text>Chuyển đổi xem thông báo này hiển thị dưới dạng cửa sổ bật lên hay chỉ trong nhật ký.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>POPUP</LocID>                               <Text>popup</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOG</LocID>                                 <Text>nhật ký</Text>  </GameDBLocalizedString>
+
+            <!-- Tutorial -->
+            <GameDBLocalizedString>      <LocID>BUTTON_NEXT</LocID>                         <Text>Kế tiếp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BUTTON_PREVIOUS</LocID>                     <Text>Trước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BUTTON_DONE</LocID>                         <Text>Không</Text>  </GameDBLocalizedString>
+
+            <!-- Cây tin tưởng -->
+            <GameDBLocalizedString>      <LocID>TREE_HEADING</LocID>                        <Text>Cây tin tưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREE_LOW_HAZARD</LocID>                     <Text>Nguy cơ thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREE_HIGH_HAZARD</LocID>                    <Text>Trung bình/Nguy cơ cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREE_IMMOBILE</LocID>                       <Text>Bất động</Text>  </GameDBLocalizedString>
+            
+            <!-- Keyboard -->
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_ESCAPE</LocID>                 <Text>Đóng các bảng giao diện người dùng đã bỏ ghim, mở menu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_MOVE_CAMERA</LocID>            <Text>Di chuyển camera</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_ROTATE</LocID>                 <Text>Xoay đối tượng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_GAME_MODES</LocID>             <Text>Chế độ trò chơi / xây / Chế độ quản lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE</LocID>                 <Text>Đóng các bảng giao diện người dùng đã bỏ ghim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_FLOORS</LocID>                 <Text>Tầng trên / Tầng dưới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_SPACE</LocID>                  <Text>Tạm dừng trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_ENTER</LocID>                  <Text>Xác nhận thông báo bật lên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_GAME_SPEED</LocID>             <Text>Chuyển đổi tốc độ trò chơi</Text>  </GameDBLocalizedString>
+            
+            <!-- New confirm dialogs -->
+            <GameDBLocalizedString>      <LocID>CONFIRM_CLOSE_DEPARTMENT</LocID>            <Text>Đóng bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONFIRM_CLOSE_DEPARTMENT_TEXT</LocID>       <Text>Bạn có muốn đóng cửa bộ phận không? Nhân viên phòng khám sẽ về nhà và bệnh nhân nhập viện sẽ được chuyển đến bệnh viện khác, vậy việc cải tạo mạnh mẽ có thể diễn ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLOSE_DEPARTMENT</LocID>                    <Text>Đóng bộ phận</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>CONFIRM_BUILD_NEW_FLOOR</LocID>             <Text>Xây tầng mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONFIRM_BUILD_NEW_FLOOR_TEXT</LocID>        <Text>Bạn có muốn thêm tầng mới cho bệnh viện? Thang máy sẽ được mở rộng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONFIRM_BUILD_NEW_FLOOR_COPY_TILES</LocID>  <Text>Sao chép gạch từ tầng trên cùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONFIRM_BUILD_NEW_FLOOR_COPY_WALLS</LocID>  <Text>Sao chép tường từ tầng trên cùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BUILD_NEW_FLOOR</LocID>                     <Text>Xây tầng mới</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_ROLES</LocID>               <Text>Vai trò được phép</Text>  </GameDBLocalizedString>
+
+            <!-- Mã trang phục category names -->
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_DOCTORS_CLINIC</LocID>           <Text>Bác sĩ - phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_DOCTORS_ON_CALL</LocID>          <Text>Bác sĩ - đang được gọi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_SURGERY</LocID>                  <Text>Surgery scrubs</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_NURSES</LocID>                   <Text>Y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_TECHNOLOGISTS</LocID>            <Text>Công nghệ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DRESS_CODE_JANITORS</LocID>                 <Text>Công nhân vệ sinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DRESS_CODE</LocID>                          <Text>Mã trang phục</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_SELECT_DRESS_CODE_COLOR</LocID>     <Text>Chọn mã màu trang phục</Text>  </GameDBLocalizedString>
+
+            <!-- Prestige tooltip data -->
+            <GameDBLocalizedString>      <LocID>PRESTIGE_PATIENTS</LocID>                   <Text>Bệnh nhân hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_STAFF</LocID>                      <Text>Nhân viên hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_TREATED</LocID>                    <Text>Phần trăm được điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_DEAD</LocID>                       <Text>(Không) bệnh nhân chết</Text>  </GameDBLocalizedString>
+
+            <!-- Statistics -->
+            <GameDBLocalizedString>      <LocID>TREATED</LocID>                             <Text>Đã điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNTREATED</LocID>                           <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WRONGLY_DIAGNOSED</LocID>                   <Text>Chẩn đoán sai</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>DEAD_PATIENTS</LocID>      <Text>Bệnh nhân chết / trường hợp bị mất</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>STATISTICS_PROFIT</LocID>                   <Text>Lợi nhuận hàng ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>STATISTICS_PATIENTS</LocID>                 <Text>Bệnh nhân (tổng/đã điều trị)</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_UNLOCK</LocID><Text>Sự kiện sẽ mở khóa khi bạn nhập viện trên tất cả các ngành, hoặc không thể bắt đầu trong đêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_INCREASE_LOAN</LocID>               <Text>Vay 20 000$.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DECREASE_LOAN</LocID>               <Text>Hoàn trả 20 000$.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_AGENCY</LocID>                       <Text>Tuyển dụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_INSURANCE_HOSPITALIZED</LocID>   <Text>Bảo hiểm (nhập viện)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_WAGES_HOSPITALIZED</LocID>       <Text>Tiền công (nhập viện)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_BUDGET_BUILDING</LocID>          <Text>Nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_BUDGET_EVENTS</LocID>            <Text>Sự kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_BUDGET_AMBULANCES</LocID>        <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_BUDGET_OTHER</LocID>             <Text>Khác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GET_GREAT_INTERNS</LocID>                   <Text>{1} thực tập sinh có sẵn để tuyển dụng tiếp theo sẽ là ứng viên tuyệt vời!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EVENT_BONUS</LocID>                         <Text>Thưởng từ sự kiện:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_TOTAL_STAFF</LocID>      <Text>Nhân viên được thuê / giới hạn tổng thể</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MONEY_BONUS</LocID>                         <Text>Thưởng tiền ngân sách:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SANDBOX</LocID>                             <Text>Sandbox</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAMPAIGN</LocID>                            <Text>Chiến dịch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOAD_MAIN_MENU</LocID>                      <Text>Tải</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS</LocID>                             <Text>Tùy chọn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP</LocID>                            <Text>WORKSHOP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CREDITS</LocID>                             <Text>Credits</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXIT_GAME</LocID>                           <Text>Thoát trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BACK</LocID>                                <Text>Trở lại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SANDBOX_EMPTY_FIELDS</LocID>                <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SANDBOX_HOSPITALS</LocID>                   <Text>Bệnh viện và phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAMPAIGN_MAIN_CAMPAIGN</LocID>              <Text>Chiến dịch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAMPAIGN_CHALLENGES</LocID>                 <Text>Thử thách</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>PRESTIGE</LocID>                            <Text>Đạt {1}% uy tín vào cuối ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_AT_DEPARTMENT</LocID>              <Text>Đạt được {1}% uy tín vào cuối ngày ở {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PROFIT_PER_DAY_AT_DEPARTMENT</LocID>        <Text>Đạt được lợi nhuận hàng ngày {1}$ ở mức {2}</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>AMBULANCE_NAME</LocID>                      <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AMBULANCE_MAINTENANCE</LocID>               <Text>Bảo trì:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AMBULANCE_ER_CALLS</LocID>                  <Text>Gọi ER:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_AMBULACE_STOP_START</LocID>         <Text>Vô hiệu / kích hoạt gọi ER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TABLE_PATIENTS_HOSPITALIZED</LocID> <Text>Bệnh nhân nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TABLE_PATIENTS_CLINIC</LocID>       <Text>Bệnh nhân phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TABLE_PATIENTS_BOOKMARKED</LocID>   <Text>Bệnh nhân được đánh dấu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TABLE_PATIENTS_UNTREATED</LocID>    <Text>Bệnh nhân chưa điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_TABLE_PATIENTS_ALL</LocID>          <Text>Tất cả bệnh nhân</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SCENARIO_OPTIONS</LocID>                    <Text>Tùy chọn kịch bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ALLOW_DEATH</LocID>                         <Text>Bệnh nhân có thể chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_ALL</LocID>                          <Text>Mở khóa tất cả các ngành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FREE_BUILDING</LocID>                       <Text>Xây tự do</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EXAMINATION_LEGEND</LocID>                  <Text>Hướng dẫn màu Chuẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXAMINATION_AVAILABLE_TEXT</LocID>          <Text>Có thể được lên kế hoạch hoặc hủy bỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXAMINATION_NOT_AVAILABLE_TEXT</LocID>      <Text>Không có sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXAMINATION_IN_PROGRESS_TEXT</LocID>        <Text>Trong tiến trình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXAMINATION_FINISHED_NOTHING_TEXT</LocID>   <Text>Kết thúc, không tiết lộ gì</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXAMINATION_FINISHED_FOUND_TEXT</LocID>     <Text>Kết thúc, tiết lộ một hoặc nhiều triệu chứng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TREATMENT_LEGEND</LocID>                    <Text>Hướng dẫn điều trị màu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_AVAILABLE_TEXT</LocID>            <Text>Có thể được lên kế hoạch hoặc hủy bỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_NOT_AVAILABLE_TEXT</LocID>        <Text>Không có sẵn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_IN_PROGRESS_TEXT</LocID>          <Text>Tích cực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_FINISHED</LocID>                  <Text>Hoàn thành</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_LEGEND</LocID>                     <Text>Hướng dẫn màu sắc triệu chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_HIDDEN</LocID>                     <Text>Ẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_COLLAPSE</LocID>                   <Text>Gây ra sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_HIGH</LocID>                       <Text>Nguy cơ cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_MEDIUM</LocID>                     <Text>Nguy cơ trung bình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_LOW</LocID>                        <Text>Nguy cơ thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOMS_SUPPRESSED</LocID>                 <Text>Bãi bỏ</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_01</LocID>                  <Text>Thử thách 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_01_DESCRIPTION</LocID>      <Text>Cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_02</LocID>                  <Text>Thử thách 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_02_DESCRIPTION</LocID>      <Text>Phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_03</LocID>                  <Text>Thử thách 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_03_DESCRIPTION</LocID>      <Text>Khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_04</LocID>                  <Text>Thử thách 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_04_DESCRIPTION</LocID>      <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_05</LocID>                  <Text>Thử thách 5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_05_DESCRIPTION</LocID>      <Text>Tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_06</LocID>                  <Text>Thử thách 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_06_DESCRIPTION</LocID>      <Text>Thần kinh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_A_64</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_A_64_DESCRIPTION</LocID>      <Text>Sandbox, 64 x 64</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_A_96</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_A_96_DESCRIPTION</LocID>      <Text>Sandbox, 96 x 96</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_B_64</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_B_64_DESCRIPTION</LocID>      <Text>Sandbox, 64 x 64</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_B_96</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_B_96_DESCRIPTION</LocID>      <Text>Sandbox, 96 x 96</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_C_64</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_C_64_DESCRIPTION</LocID>      <Text>Sandbox, 64 x 64</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_C_96</LocID>                  <Text>Vùng trống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_C_96_DESCRIPTION</LocID>      <Text>Sandbox, 96 x 96</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_A</LocID>            <Text>Phòng khám</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_A_DESCRIPTION</LocID><Text>Phòng khám cấp cứu nhỏ, 64 x 64</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_B</LocID>            <Text>Bệnh viện nhỏ</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_B_DESCRIPTION</LocID><Text>Bệnh viện nhỏ với khoa ngoại tổng quát, 64 x 64</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_C</LocID>            <Text>Bệnh viện nhỏ</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_C_DESCRIPTION</LocID><Text>Bệnh viện nhỏ với khoa chỉnh hình, 64 x 64</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_D</LocID>            <Text>Bệnh viện lớn</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_D_DESCRIPTION</LocID><Text>Tất cả bộ ngành, 96 x 96</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_E</LocID>            <Text>MEDIUM HOSPITAL</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_E_DESCRIPTION</LocID><Text>Bệnh viện có khoa ngoại tổng quát, nội khoa và chỉnh hình, 96 x 96</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_F</LocID>            <Text>Bệnh viện lớn</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_F_DESCRIPTION</LocID><Text>Tất cả bộ ngành, 96 x 96</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>PATIENT_CARD_WRONG_DIAGNOSIS</LocID>        <Text>Sai lầm: </Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BROKEN_CLINIC</LocID>               <Text>Phòng khám không hoạt động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BROKEN_HOSPITALIZATION</LocID>      <Text>Nhập viện không có chức năng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_PRESTIGE_INTAKE</LocID>             <Text>Lượng bệnh nhân:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_PRESTIGE_PAYMENT</LocID>            <Text>Bảo hiểm thanh toán:</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>DAY_ABBREVIATION</LocID>                    <Text>d</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DAY_SUFFIX</LocID>                          <Text></Text>  </GameDBLocalizedString> <!-- Day on main panel -->
+
+            <GameDBLocalizedString>      <LocID>UI_ACHIEVEMENTS</LocID>                     <Text>Thành tựu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXIT_TO_DESKTOP</LocID>                     <Text>Thoát ra desktop</Text>  </GameDBLocalizedString>
+            
+            <!-- UPDATED --><GameDBLocalizedString><LocID>TOOLTIP_SELECT_DEPARTMENT_TRANSPORTED</LocID><Text>Không thể đổi khoa khi bệnh nhân vẫn đang được vận chuyển, đang suy sụp hoặc đang ổn định.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LANGUAGE</LocID>                            <Text>LANGUAGE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>ICU_ONLY_AFTER_DIAGNOSIS</LocID>        	<Text>Chỉ dành cho bệnh nhân được chẩn đoán, bạn có thể thử sử dụng Nhập viện TC để thay thế.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_INDIVIDUAL_OBJECTS</LocID>     <Text>Di chuyển các đối tượng riêng lẻ</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING================== -->
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

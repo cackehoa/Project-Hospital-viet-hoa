@@ -1,0 +1,22 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_PATCH_1_2_32">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_ONLY_HOSPITALIZED</LocID>                <Text>Bệnh nhân cần nhập viện trước khi điều trị!</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>POPUP_TAKE_OVER_EVENT_PATIENTS</LocID>                 <Text>Tiếp nhận tất cả bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>POPUP_ACCEPT_EVENT_TAKE_OVER_EVENT_PATIENTS</LocID>    <Text>Chấp nhận và tiếp nhận tất cả bệnh nhân</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EVENT_CRASH</LocID>                     <Text>Tai nạn</Text>  </GameDBLocalizedString>
+            <!--todo Oxymoron team: if Qloc trnaslation is complete, delete IDs of "event_crash" in all languages-->
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+</Database>    

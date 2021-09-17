@@ -1,0 +1,996 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_SYMPTOMS">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- Symptoms-->
+            <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>Thiếu A1At</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY_DESCRIPTION</LocID>                     <Text>Alpha-1 antitrypsin đóng vai trò quan trọng trong việc ức chế thiệt hại có thể gây ra bởi hệ thống miễn dịch. Bệnh nhân bị thiếu A1AT thường bị suy thoái dần dần ở mô phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS</LocID>                                <Text>Chuột rút ở bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS_DESCRIPTION</LocID>                    <Text>Chuột rút dữ dội ở vùng bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_GUARDING</LocID>                              <Text>Bảo vệ bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_GUARDING_DESCRIPTION</LocID>                  <Text>Bảo vệ bụng, còn được gọi là 'défense', là sự căng thẳng dữ dội của các cơ thành bụng để phản ứng với áp lực tác dụng lên vùng bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_INJURY</LocID>                                <Text>Chấn thương bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_INJURY_DESCRIPTION</LocID>                    <Text>Bệnh nhân bị chấn thương vùng bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_PAIN</LocID>                                  <Text>Đau bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_PAIN_DESCRIPTION</LocID>                      <Text>Người bệnh đau dữ dội vùng bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_SWELLING</LocID>                              <Text>Sưng bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_SWELLING_DESCRIPTION</LocID>                  <Text>Vùng bụng phình to, cảm thấy khó chịu và đau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ACIDOSIS</LocID>                                        <Text>Nhiễm toan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ACIDOSIS_DESCRIPTION</LocID>                            <Text>Máu của bệnh nhân có tính axit với độ pH dưới 7,35.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AMNESIA_ABOUT_TRAUMA</LocID>                            <Text>Chứng hay quên sau chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AMNESIA_ABOUT_TRAUMA_DESCRIPTION</LocID>                <Text>Bệnh nhân mất phương hướng và không thể nhớ các sự kiện xảy ra trong hoặc ngay sau khi bị chấn thương sọ não.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANEMIA</LocID>                                          <Text>Thiếu máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANEMIA_DESCRIPTION</LocID>                              <Text>Máu của bệnh nhân thiếu các tế bào hồng cầu khỏe mạnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_BRUISE</LocID>                                    <Text>Vết bầm ở mắt cá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_BRUISE_DESCRIPTION</LocID>                        <Text>Vết bầm tím xảy ra do tổn thương mao mạch do chấn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_INJURY</LocID>                                    <Text>Chấn thương mắt cá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_INJURY_DESCRIPTION</LocID>                        <Text>Bệnh nhân bị thương ở mắt cá chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANXIETY</LocID>                                         <Text>Sự lo ngại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANXIETY_DESCRIPTION</LocID>                             <Text>Bệnh nhân có biểu hiện lo lắng, hồi hộp dữ dội.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASTASIS</LocID>                                         <Text>Astasis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASTASIS_DESCRIPTION</LocID>                             <Text>Không có khả năng đứng hoặc đi lại do không điều phối được cơ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS</LocID>                                 <Text>Xơ vữa động mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS_DESCRIPTION</LocID>                     <Text>Hẹp động mạch do mảng bám tích tụ làm ảnh hưởng đến lưu lượng máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA</LocID>                                        <Text>Tăng ure huyết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA_DESCRIPTION</LocID>                            <Text>Mức độ cao bất thường của các hợp chất nitơ trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACK_INJURY</LocID>                                     <Text>Chấn thương lưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACK_INJURY_DESCRIPTION</LocID>                         <Text>Bệnh nhân bị chấn thương ở lưng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACK_PAIN</LocID>                                       <Text>Đau lưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACK_PAIN_DESCRIPTION</LocID>                           <Text>Bệnh nhân đau dữ dội ở lưng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTEREMIA</LocID>                                      <Text>Bacteremia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTEREMIA_DESCRIPTION</LocID>                          <Text>Sự hiện diện của vi khuẩn trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BAD_BREATH</LocID>                                      <Text>Hôi miệng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BAD_BREATH_DESCRIPTION</LocID>                          <Text>Còn được gọi là chứng hôi miệng, là một mùi khó chịu từ miệng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLOATING</LocID>                                        <Text>Đầy hơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLOATING_DESCRIPTION</LocID>                            <Text>Sự tích tụ bất thường của khí hoặc chất lỏng trong đường tiêu hóa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLOOD_LOSS</LocID>                                      <Text>Mất máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLOOD_LOSS_DESCRIPTION</LocID>                          <Text>Còn được gọi là giảm thể tích tuần hoàn, mô tả sự mất thể tích máu đáng kể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLURRED_VISION</LocID>                                  <Text>Nhìn mờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLURRED_VISION_DESCRIPTION</LocID>                      <Text>Thiếu thị lực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BONE_FRACTURE_VISIBLE</LocID>                           <Text>Xương lộ ra ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BONE_FRACTURE_VISIBLE_DESCRIPTION</LocID>               <Text>Xương bị gãy và xuyên qua da, để lại phần xương lộ ra qua vết thương hở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRADYCARDIA</LocID>                                     <Text>Nhịp tim chậm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRADYCARDIA_DESCRIPTION</LocID>                         <Text>Bệnh nhân có nhịp tim lúc nghỉ dưới 60 nhịp/phút. Nhịp tim khi nghỉ ngơi bình thường là từ 60 đến 100.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BREATHING_DIFFICULTIES</LocID>                          <Text>Vấn đề về hô hấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BREATHING_DIFFICULTIES_DESCRIPTION</LocID>              <Text>Bệnh nhân khó thở không rõ nguyên nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRUISE</LocID>                                          <Text>Bầm tím</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRUISE_DESCRIPTION</LocID>                              <Text>Vết bầm tím xảy ra do tổn thương mao mạch do chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BURNING_EYE</LocID>                                     <Text>Đau mắt đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BURNING_EYE_DESCRIPTION</LocID>                         <Text>Bệnh nhân có cảm giác nóng rát ở mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BUTTERFLY_RASH</LocID>                                  <Text>Bướm phát ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BUTTERFLY_RASH_DESCRIPTION</LocID>                      <Text>Phát ban rất độc đáo trên mặt hình con bướm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARDIOMEGALY</LocID>                                    <Text>Tim to</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARDIOMEGALY_DESCRIPTION</LocID>                        <Text>Tim to bất thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CEREBROSPINAL_FLUID_LEAKAGE</LocID>                     <Text>Rò rỉ dịch não tủy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CEREBROSPINAL_FLUID_LEAKAGE_DESCRIPTION</LocID>         <Text>Bệnh nhân có dịch não tủy rò rỉ ra khỏi mũi hoặc tai do khuyết tật trong hộp sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOUDY_URINE</LocID>                                    <Text>Nước tiểu đục</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOUDY_URINE_DESCRIPTION</LocID>                        <Text>Nước tiểu của bệnh nhân có màu đục.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_COMA</LocID>                                            <Text>Hôn mê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_COMA_DESCRIPTION</LocID>                                <Text>Bệnh nhân trong tình trạng bất tỉnh sâu và không thể đánh thức được..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONFUSION</LocID>                                       <Text>Hoang mang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONFUSION_DESCRIPTION</LocID>                           <Text>Người bệnh hoang mang, mất phương hướng..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONSTIPATION</LocID>                                    <Text>Táo bón</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONSTIPATION_DESCRIPTION</LocID>                        <Text>Bệnh nhân không thể đi tiêu được.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRAMPS</LocID>                                          <Text>Chuột rút</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRAMPS_DESCRIPTION</LocID>                              <Text>Bệnh nhân có các cơn co thắt cơ đột ngột, không tự chủ và đau đớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH</LocID>                            <Text>CK tăng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH_DESCRIPTION</LocID>                <Text>Bệnh nhân bị tăng nồng độ creatine kinase (CK) trong máu, một loại enzym có trong tất cả các mô, đặc biệt là cơ. Nồng độ CK trong máu cao cho thấy cơ bị tổn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH</LocID>                                        <Text>CRP tăng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH_DESCRIPTION</LocID>                            <Text>Bệnh nhân đã tăng nồng độ protein phản ứng C (CRP) trong máu, một loại protein do gan sản xuất để phản ứng với nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRUMBLY_NAIL</LocID>                                    <Text>Móng tay dễ gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRUMBLY_NAIL_DESCRIPTION</LocID>                        <Text>Bệnh nhân có móng tay trông dễ gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CYANOSIS</LocID>                                        <Text>Tím tái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CYANOSIS_DESCRIPTION</LocID>                            <Text>Bệnh nhân tím tái với môi hoặc da đổi màu hơi xanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DARK_URINE</LocID>                                      <Text>Nước tiểu đậm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DARK_URINE_DESCRIPTION</LocID>                          <Text>Nước tiểu của bệnh nhân có màu sẫm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEGLOVED_SKIN</LocID>                                   <Text>Da sạm màu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEGLOVED_SKIN_DESCRIPTION</LocID>                       <Text>Một vùng rộng của da bị xé ra khỏi mô bên dưới.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEHYDRATION</LocID>                                     <Text>Mất nước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEHYDRATION_DESCRIPTION</LocID>                         <Text>Bệnh nhân không đủ nước trong cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPRESSION</LocID>                                      <Text>Trầm cảm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPRESSION_DESCRIPTION</LocID>                          <Text>Bệnh nhân rơi vào trạng thái chán nản và chán nản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIARRHEA</LocID>                                        <Text>Tiêu chảy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIARRHEA_DESCRIPTION</LocID>                            <Text>Bệnh nhân thường xuyên đi cầu ra phân ở dạng lỏng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIMINISHED_HEARING</LocID>                              <Text>Nghe kém</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIMINISHED_HEARING_DESCRIPTION</LocID>                  <Text>Bệnh nhân không nghe rõ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIZZINESS</LocID>                                       <Text>Chóng mặt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIZZINESS_DESCRIPTION</LocID>                           <Text>Bệnh nhân cảm thấy chóng mặt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DRY_COUGH</LocID>                                       <Text>Ho khan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DRY_COUGH_DESCRIPTION</LocID>                           <Text>Bệnh nhân ho mà không tiết ra chất nhầy hoặc đờm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSPHAGIA</LocID>                                       <Text>Khó nuốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSPHAGIA_DESCRIPTION</LocID>                           <Text>Bệnh nhân gặp khó khăn hoặc khó chịu khi nuốt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSPNEA</LocID>                                         <Text>Khó thở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSPNEA_DESCRIPTION</LocID>                             <Text>Khó thở đột ngột, còn được gọi là khó thở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSURIA</LocID>                                         <Text>Khó tiểu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DYSURIA_DESCRIPTION</LocID>                             <Text>Bệnh nhân phàn nàn về cảm giác nóng rát khi đi tiểu..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EAR_FLUID_DRAINAGE</LocID>                              <Text>Chảy mủ tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EAR_FLUID_DRAINAGE_DESCRIPTION</LocID>                  <Text>Bệnh nhân có chất lỏng không xác định từ tai chảy ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EDEMA</LocID>                                           <Text>Phù nề</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EDEMA_DESCRIPTION</LocID>                               <Text>Bệnh nhân bị sưng các bộ phận cơ thể do dư thừa chất lỏng tích tụ trong mô của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_PAIN</LocID>                                      <Text>Đau khuỷu tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_PAIN_DESCRIPTION</LocID>                          <Text>Bệnh nhân phàn nàn về cơn đau ở khuỷu tay của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_STIFFNESS</LocID>                                 <Text>Cứng khuỷu tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_STIFFNESS_DESCRIPTION</LocID>                     <Text>Khớp khuỷu tay của bệnh nhân có một phạm vi cử động hạn chế.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EXCESSIVE_BURPING</LocID>                               <Text>Ợ hơi quá mức</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EXCESSIVE_BURPING_DESCRIPTION</LocID>                   <Text>Bệnh nhân phàn nàn về lượng khí thoát ra quá nhiều từ dạ dày của họ (ợ hơi).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EXHAUSTION</LocID>                                      <Text>Kiệt sức</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EXHAUSTION_DESCRIPTION</LocID>                          <Text>Người bệnh ở trạng thái cực kỳ mệt mỏi về thể chất hoặc tinh thần..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EYE_PAIN</LocID>                                        <Text>Đau mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EYE_PAIN_DESCRIPTION</LocID>                            <Text>Bệnh nhân kêu đau mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FAT_MALABSORPTION</LocID>                               <Text>Kém hấp thu chất béo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FAT_MALABSORPTION_DESCRIPTION</LocID>                   <Text>Chất béo được hấp thụ không hoàn hảo từ ruột non.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FAINTING</LocID>                                        <Text>Ngất xỉu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FAINTING_DESCRIPTION</LocID>                            <Text>Còn được gọi là ngất, là tình trạng mất ý thức tạm thời.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FATIGUE</LocID>                                         <Text>Mệt mỏi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FATIGUE_DESCRIPTION</LocID>                             <Text>Tiến triển mệt mỏi do gắng sức về tinh thần hoặc thể chất hoặc bệnh tật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEVER</LocID>                                           <Text>Sốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEVER_DESCRIPTION</LocID>                               <Text>Bệnh nhân có thân nhiệt trong khoảng 37,5-39,5 °C (99,5-103,1 °F).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FINGER_NUMBNESS</LocID>                                 <Text>Tê ngón tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FINGER_NUMBNESS_DESCRIPTION</LocID>                     <Text>Bệnh nhân phàn nàn về tình trạng tê một hoặc nhiều ngón tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLATULENCE</LocID>                                      <Text>Đầy hơi quá mức</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLATULENCE_DESCRIPTION</LocID>                          <Text>Bệnh nhân phàn nàn về lượng khí thoát ra quá nhiều từ ruột của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_FALLING</LocID>                                <Text>Thường xuyên rơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_FALLING_DESCRIPTION</LocID>                    <Text>Bệnh nhân có xu hướng thường xuyên bị ngã.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_URINATION</LocID>                              <Text>Đi tiểu thường xuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_URINATION_DESCRIPTION</LocID>                  <Text>Đi tiểu thường xuyên, một lượng nhỏ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GALLBLADDER_RUPTURE</LocID>                             <Text>Vỡ túi mật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GALLBLADDER_RUPTURE_DESCRIPTION</LocID>                 <Text>Túi mật của bệnh nhân đã bị vỡ!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAIR_LOSS</LocID>                                       <Text>Rụng tóc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAIR_LOSS_DESCRIPTION</LocID>                           <Text>Rụng tóc, còn được gọi là rụng tóc, là tình trạng không có tóc một phần hoặc hoàn toàn ở những vùng cơ thể thường có tóc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION</LocID>                                   <Text>Ảo giác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION_DESCRIPTION</LocID>                       <Text>Trải nghiệm nhận thức thông qua bộ máy cảm giác khi không có kích thích bên ngoài.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN</LocID>                                       <Text>Đau tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN_DESCRIPTION</LocID>                           <Text>Bệnh nhân phàn nàn về cơn đau ở bàn tay của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>Yếu tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS_DESCRIPTION</LocID>                       <Text>Điểm yếu đáng chú ý của các cơ liên quan đến bàn tay, dẫn đến sức mạnh của tay cầm bất thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES</LocID>                              <Text>Kháng thể tự miễn dịch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES_DESCRIPTION</LocID>                  <Text>Các kháng thể tự miễn dịch đặc hiệu của bệnh đã được phát hiện. Các kháng thể này làm cho hệ thống miễn dịch của chính bệnh nhân tấn công cơ thể của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA</LocID>                                     <Text>Chấn thương đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA_DESCRIPTION</LocID>                         <Text>Bệnh nhân bị chấn thương vùng đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEADACHE</LocID>                                        <Text>Đau đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEADACHE_DESCRIPTION</LocID>                            <Text>Bệnh nhân phàn nàn về việc bị đau đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES</LocID>                            <Text>Vấn đề về thính giác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEARING_DIFFICULTIES_DESCRIPTION</LocID>                <Text>Khó khăn với nhận thức thính giác như giảm thính lực hoặc ù tai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE</LocID>                                   <Text>Suy tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE_DESCRIPTION</LocID>                       <Text>Tim không thể duy trì đủ lưu lượng máu để đáp ứng các yêu cầu của cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS</LocID>                                     <Text>Co giật do sốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_CRAMPS_DESCRIPTION</LocID>                         <Text>Bệnh nhân lên cơn sốt do thân nhiệt quá cao..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA</LocID>                                    <Text>Hematochezia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATOCHEZIA_DESCRIPTION</LocID>                        <Text>Hematochezia là sự hiện diện của máu trong phân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA</LocID>                                       <Text>Tiểu ra máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMATURIA_DESCRIPTION</LocID>                           <Text>Tiểu ra máu là hiện tượng có máu trong nước tiểu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS</LocID>                                     <Text>Chứng liệt nửa người</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>Chứng liệt nửa người là tình trạng yếu toàn bộ một bên của cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW</LocID>                                  <Text>Hemoglobin thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW_DESCRIPTION</LocID>                      <Text>Bệnh nhân có lượng hemoglobin trong máu thấp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS</LocID>                                      <Text>Ho ra máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS_DESCRIPTION</LocID>                          <Text>Ho ra máu là hành vi ho ra máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE</LocID>                                      <Text>Xuất huyết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMORRHAGE_DESCRIPTION</LocID>                          <Text>Xuất huyết hay còn gọi là chảy máu là hiện tượng máu thoát ra khỏi mạch máu bị vỡ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS</LocID>                                      <Text>Khàn tiếng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HOARSENESS_DESCRIPTION</LocID>                          <Text>Giọng nói của bệnh nhân nghe có vẻ khó thở, khàn khàn và/hoặc căng thẳng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUNGER</LocID>                                          <Text>Đói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUNGER_DESCRIPTION</LocID>                              <Text>Bệnh nhân cảm thấy đói.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY</LocID>                                    <Text>Tăng tiết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERACIDITY_DESCRIPTION</LocID>                        <Text>Tăng tiết dịch vị là tình trạng dạ dày tiết ra dư thừa axit dịch vị..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA</LocID>                                  <Text>Tăng lipid máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERLIPIDEMIA_DESCRIPTION</LocID>                      <Text>Tăng lipid máu là tình trạng tăng lipid trong máu trên mức bình thường..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA</LocID>                                    <Text>Sốt cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERPYREXIA_DESCRIPTION</LocID>                        <Text>Bệnh nhân có thân nhiệt trên 39,5 °C (103,1 °F).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION</LocID>                                    <Text>Tăng huyết áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSION_DESCRIPTION</LocID>                        <Text>Tăng huyết áp hay còn gọi là huyết áp cao là tình trạng máu chảy với áp suất trên mức bình thường..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA</LocID>                                   <Text>Hạ canxi máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOCALCAEMIA_DESCRIPTION</LocID>                       <Text>Hạ canxi máu là tình trạng giảm canxi trong máu xuống dưới mức bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION</LocID>                                     <Text>Huyết áp thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOTENSION_DESCRIPTION</LocID>                         <Text>Tụt huyết áp hay còn gọi là huyết áp thấp là tình trạng máu chảy với áp suất dưới mức bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK</LocID>                               <Text>Sốc giảm thể tích</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIC_SHOCK_DESCRIPTION</LocID>                   <Text>Sốc giảm thể tích là một tình trạng đe dọa tính mạng do huyết áp quá thấp để duy trì lưu lượng máu đủ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN</LocID>                                      <Text>Tức ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHEST_PAIN_DESCRIPTION</LocID>                          <Text>Bệnh nhân phàn nàn về cơn đau phát ra từ vùng ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHILLS</LocID>                                          <Text>Ớn lạnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHILLS_DESCRIPTION</LocID>                              <Text>Ớn lạnh là một cảm giác lạnh lẽo trong sốt cao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT</LocID>                     <Text>Bất động khớp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT_DESCRIPTION</LocID>         <Text>Phạm vi chuyển động bị hạn chế hoặc không có khả năng di chuyển một khớp cụ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP</LocID>                                   <Text>Tăng ICP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP_DESCRIPTION</LocID>                       <Text>Tăng áp lực nội sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION</LocID>                                     <Text>Khó tiêu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INDIGESTION_DESCRIPTION</LocID>                         <Text>Còn được gọi là chứng khó tiêu, đề cập đến cảm giác đau hoặc khó chịu ở vùng bụng trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND</LocID>                                  <Text>Vết thương bị nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND_DESCRIPTION</LocID>                      <Text>Các sinh vật gây bệnh đã làm nhiễm trùng vết thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES</LocID>                               <Text>Xoang bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES_DESCRIPTION</LocID>                   <Text>Lớp mô nhầy bị viêm bao phủ các xoang.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_ARM</LocID>                               <Text>Chấn thương cánh tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_ARM_DESCRIPTION</LocID>                   <Text>Bệnh nhân bị chấn thương ở cánh tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_COLLARBONE</LocID>                        <Text>Chấn thương xương đòn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_COLLARBONE_DESCRIPTION</LocID>            <Text>Bệnh nhân bị chấn thương vùng xương đòn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_FOOT</LocID>                              <Text>Chấn thương chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_FOOT_DESCRIPTION</LocID>                  <Text>Bệnh nhân bị chấn thương ở bàn chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_HAND</LocID>                              <Text>Chân thương tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_HAND_DESCRIPTION</LocID>                  <Text>Bệnh nhân bị chấn thương ở tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_HEAD</LocID>                              <Text>Chấn thương đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_HEAD_DESCRIPTION</LocID>                  <Text>Bệnh nhân bị chấn thương vùng đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_CHEST</LocID>                             <Text>Chấn thương ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_CHEST_DESCRIPTION</LocID>                 <Text>Bệnh nhân bị chấn thương vùng ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_LEG</LocID>                               <Text>Cẳng chân bị thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_LEG_DESCRIPTION</LocID>                   <Text>Bệnh nhân bị chấn thương ở cẳng chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH</LocID>                       <Text>Chảy máu dạ dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH_DESCRIPTION</LocID>           <Text>Nội soi dạ dày phát hiện ổ loét dạ dày chảy máu; một vết thương trong niêm mạc dạ dày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_BLEEDING</LocID>                             <Text>Chảy máu đường ruột</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_BLEEDING_DESCRIPTION</LocID>                 <Text>Bệnh nhân bị chảy máu ống tiêu hóa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMORRHAGE</LocID>                         <Text>Xuất huyết nội sọ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMORRHAGE_DESCRIPTION</LocID>             <Text>Bệnh nhân đang chảy máu trong hộp sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRREGULAR_HEARTBEAT</LocID>                             <Text>Nhịp tim không đều</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRREGULAR_HEARTBEAT_DESCRIPTION</LocID>                 <Text>Bệnh nhân có nhịp tim không đều hay còn gọi là rối loạn nhịp tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRRITABILITY</LocID>                                    <Text>Cáu gắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRRITABILITY_DESCRIPTION</LocID>                        <Text>Bệnh nhân cảm thấy kích động và dễ trở nên thất vọng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRRITABLE_COUGH</LocID>                                 <Text>Ho khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IRRITABLE_COUGH_DESCRIPTION</LocID>                     <Text>Cổ họng của bệnh nhân bị kích thích dẫn đến ho liên tục mà không tiết ra chất nhầy hoặc đờm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHING</LocID>                                         <Text>Ngứa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHING_DESCRIPTION</LocID>                             <Text>Ngứa là một cảm giác khó chịu khiến bạn muốn gãi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHING_EYE</LocID>                                     <Text>Ngứa mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHING_EYE_DESCRIPTION</LocID>                         <Text>Ngứa là một cảm giác khó chịu khiến bạn muốn gãi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHY_BLISTERS</LocID>                                  <Text>Mụn nước ngứa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHY_BLISTERS_DESCRIPTION</LocID>                      <Text>Mụn nước là những túi nhỏ chứa chất lỏng có thể gây ngứa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_JAUNDICE</LocID>                                        <Text>Vàng da</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_JAUNDICE_DESCRIPTION</LocID>                            <Text>Vàng da, còn được gọi là vàng da, là một sắc tố vàng ở da và mắt do nồng độ bilirubin cao..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY</LocID>                                     <Text>Chấn thương đầu gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY_DESCRIPTION</LocID>                         <Text>Bệnh nhân bị chấn thương đầu gối..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL</LocID>                                  <Text>LDL tăng cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>Tăng mức cholesterol LDL trong máu trên mức bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS</LocID>                                    <Text>Tăng bạch cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS_DESCRIPTION</LocID>                        <Text>Số lượng tế bào bạch cầu trong máu tăng cao hơn mức bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA</LocID>                                      <Text>Giảm bạch cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA_DESCRIPTION</LocID>                          <Text>Số lượng bạch cầu trong máu giảm xuống dưới mức bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_ARM_MOTION</LocID>                              <Text>Chuyển động cánh tay hạn chế</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_ARM_MOTION_DESCRIPTION</LocID>                  <Text>Bệnh nhân có một phạm vi cử động hạn chế của cánh tay của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION</LocID>                              <Text>Chuyển động chân hạn chế</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION_DESCRIPTION</LocID>                  <Text>Bệnh nhân bị hạn chế cử động của cẳng chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIPIDURIA</LocID>                                       <Text>Lipid niệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIPIDURIA_DESCRIPTION</LocID>                           <Text>Lipid niệu là sự hiện diện của lipid trong nước tiểu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LFT_HIGH_LEVEL</LocID>                                  <Text>LFT bất thường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LFT_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>Giá trị tăng cao của xét nghiệm chức năng gan (LFT) cho thấy gan bị tổn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LONG_REACT_TIME</LocID>                                 <Text>Thời gian phản ứng lâu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LONG_REACT_TIME_DESCRIPTION</LocID>                     <Text>Trả lời chậm cho các câu hỏi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_APETITE</LocID>                                 <Text>Ăn mất ngon</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_APETITE_DESCRIPTION</LocID>                     <Text>Bệnh nhân chán ăn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_BLADDER_CONTROL</LocID>                         <Text>Tiểu không tự chủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_BLADDER_CONTROL_DESCRIPTION</LocID>             <Text>Mất kiểm soát bàng quang hoặc tiểu không kiểm soát.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_VISION</LocID>                                  <Text>Mất thị lực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_VISION_DESCRIPTION</LocID>                      <Text>Đột ngột mù hoàn toàn hoặc một phần.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_FINDINGS</LocID>                                   <Text>Phát hiện bất thường về phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_FINDINGS_DESCRIPTION</LocID>                       <Text>Chụp X-quang cho thấy những phát hiện bất thường ở phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MALAISE</LocID>                                         <Text>Khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MALAISE_DESCRIPTION</LocID>                             <Text>Một cảm giác chung của sự khó chịu, không thoải mái và đôi khi đau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MALNUTRITION</LocID>                                    <Text>Suy dinh dưỡng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MALNUTRITION_DESCRIPTION</LocID>                        <Text>Thiếu dinh dưỡng hợp lý do ăn không đủ chất hoặc ăn uống không điều độ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MANDIBULAR_INJURY</LocID>                               <Text>Tổn thương hàm dưới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MANDIBULAR_INJURY_DESCRIPTION</LocID>                   <Text>Bệnh nhân đã bị chấn thương ở hàm dưới (xương hàm).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MOUTH_OPENING_DIFFICULTIES</LocID>                      <Text>Cứng hàm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MOUTH_OPENING_DIFFICULTIES_DESCRIPTION</LocID>          <Text>Bệnh nhân không mở miệng được do cơ hàm bị co cứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MULTIPLE_ARTERIES_DAMAGE</LocID>                        <Text>Nhiều động mạch bị tổn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MULTIPLE_ARTERIES_DAMAGE_DESCRIPTION</LocID>            <Text>Tổn thương nhiều động mạch nhỏ hơn do vết thương lớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_JOINTS_PAIN</LocID>                         <Text>Đau cơ và khớp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_JOINTS_PAIN_DESCRIPTION</LocID>             <Text>Người bệnh cảm thấy đau cơ và khớp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_SKIN_DAMAGED</LocID>                        <Text>Cơ và da bị tổn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_SKIN_DAMAGED_DESCRIPTION</LocID>            <Text>Bệnh nhân có một vết thương lớn liên quan đến cả da và mô cơ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN</LocID>                                     <Text>Đau cơ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN_DESCRIPTION</LocID>                         <Text>Đau cơ hay còn gọi là đau cơ là một cảm giác đau chung của các cơ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS</LocID>                                 <Text>Yếu cơ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS_DESCRIPTION</LocID>                     <Text>Bệnh nhân bị giảm sức mạnh ở một cơ cụ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION</LocID>                              <Text>Đổi màu móng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION_DESCRIPTION</LocID>                  <Text>Móng tay của bệnh nhân bị đổi màu từ màu hồng và trắng khỏe mạnh bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION</LocID>                                <Text>Nghẹt mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION_DESCRIPTION</LocID>                    <Text>Mũi hoặc hốc mũi của bệnh nhân bị tắc nghẽn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_DEFORMITY</LocID>                                 <Text>Biến dạng mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_DEFORMITY_DESCRIPTION</LocID>                     <Text>Mũi của bệnh nhân trông biến dạng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NAUSEA</LocID>                                          <Text>Buồn nôn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NAUSEA_DESCRIPTION</LocID>                              <Text>Buồn nôn là cảm giác buồn nôn và khó chịu kèm theo ý muốn nôn mửa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NECK_PAIN</LocID>                                       <Text>Đau cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NECK_PAIN_DESCRIPTION</LocID>                           <Text>Bệnh nhân cảm thấy đau dữ dội ở cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NOSEBLEEDS</LocID>                                      <Text>Chảy máu cam</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NOSEBLEEDS_DESCRIPTION</LocID>                          <Text>Bệnh nhân chảy máu mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NUMBNESS</LocID>                                        <Text>Tê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NUMBNESS_DESCRIPTION</LocID>                            <Text>Tê có thể mô tả cảm giác ngứa ran hoặc mất cảm giác hoàn toàn ở bất kỳ bộ phận nào trên cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NIGHT_SWEATS</LocID>                                    <Text>Đổ mồ hôi đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NIGHT_SWEATS_DESCRIPTION</LocID>                        <Text>Các đợt đổ mồ hôi cực độ nhiều lần lặp đi lặp lại vào ban đêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OCULAR_HYPERTENSION</LocID>                             <Text>Tăng huyết áp mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OCULAR_HYPERTENSION_DESCRIPTION</LocID>                 <Text>Áp suất bên trong mắt cao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES</LocID>                        <Text>Bất thường thực quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES_DESCRIPTION</LocID>            <Text>X-quang mô tả bất thường thực quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OLIGURIA</LocID>                                        <Text>Thiểu niệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OLIGURIA_DESCRIPTION</LocID>                            <Text>Lượng nước tiểu rất thấp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND</LocID>                                      <Text>Vết thương hở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND_DESCRIPTION</LocID>                          <Text>Vết thương hở trên vùng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS</LocID>                                    <Text>Loãng xương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS_DESCRIPTION</LocID>                        <Text>Tình trạng xương dần yếu đi, làm tăng nguy cơ gãy xương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTALGIA</LocID>                                         <Text>Otalgia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTALGIA_DESCRIPTION</LocID>                             <Text>Đau tai cụ thể từ nhẹ đến nặng, tiến triển trong 1-2 ngày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTORHINOLARYNGOLOGICAL_FINDINGS</LocID>                 <Text>Phát hiện ORL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTORHINOLARYNGOLOGICAL_FINDINGS_DESCRIPTION</LocID>     <Text>Khám nghiệm phát hiện ra những phát hiện có giá trị về tai mũi họng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAIN</LocID>                                            <Text>Đau đớn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAIN_DESCRIPTION</LocID>                                <Text>Cảm giác đau đớn về thể chất ở vùng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAIN_IN_THE_EARS</LocID>                                <Text>Đau tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAIN_IN_THE_EARS_DESCRIPTION</LocID>                    <Text>Cảm giác đau đớn khó chịu trong ống tai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_CERVICAL_LYMPH_NODES</LocID>                    <Text>Các hạch bạch huyết đau</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_CERVICAL_LYMPH_NODES_DESCRIPTION</LocID>        <Text>Cảm giác đau đớn do sưng hạch bạch huyết cổ tử cung.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_URINATION</LocID>                               <Text>Đi tiểu đau</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_URINATION_DESCRIPTION</LocID>                   <Text>Khó chịu khi đi tiểu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_VESICULAR_RASH</LocID>                          <Text>Phát ban mụn nước đau đớn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAINFUL_VESICULAR_RASH_DESCRIPTION</LocID>              <Text>Phát ban da mụn nước đau đớn với mụn nước chứa đầy dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PALE_SKIN</LocID>                                       <Text>Da nhợt nhạt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PALE_SKIN_DESCRIPTION</LocID>                           <Text>Màu da sáng bất thường so với tông màu bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PALPITATIONS</LocID>                                    <Text>Đánh trống ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PALPITATIONS_DESCRIPTION</LocID>                        <Text>Nhịp tim nhanh hoặc rung rinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PERSISTENT_URGE_TO_URINATE</LocID>                      <Text>Tiểu gấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PERSISTENT_URGE_TO_URINATE_DESCRIPTION</LocID>          <Text>Đi tiểu liên tục.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PETECHIAE</LocID>                                       <Text>Đốm xuất huyết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PETECHIAE_DESCRIPTION</LocID>                           <Text>Các đốm nhỏ màu tím, đỏ hoặc nâu trên da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PHOTOPHOBIA</LocID>                                     <Text>Chứng sợ ám ảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PHOTOPHOBIA_DESCRIPTION</LocID>                         <Text>Không có khả năng chịu ánh sáng, gây khó chịu hoàn toàn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PNEUMATOCELE</LocID>                                    <Text>Pneumatocele</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PNEUMATOCELE_DESCRIPTION</LocID>                        <Text>Một khoang chứa đầy không khí trong phổi, gây ra bởi vết rách ở phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POLYURIA</LocID>                                        <Text>Đa niệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POLYURIA_DESCRIPTION</LocID>                            <Text>Bệnh nhân đi tiểu nhiều hơn bình thường và thải quá nhiều nước tiểu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POOR_BALANCE</LocID>                                    <Text>Cân bằng kém</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POOR_BALANCE_DESCRIPTION</LocID>                        <Text>Mất thăng bằng tạm thời khi đứng hoặc đi bộ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION</LocID>                             <Text>Tăng áp cửa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION_DESCRIPTION</LocID>                 <Text>Huyết áp cao trong hệ thống cổng gan (gan).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PROLONGED_BLEEDING</LocID>                              <Text>Chảy máu kéo dài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PROLONGED_BLEEDING_DESCRIPTION</LocID>                  <Text>Chảy máu kéo dài do vết cắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PROTEINURIA</LocID>                                     <Text>Protein niệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PROTEINURIA_DESCRIPTION</LocID>                         <Text>Phân tích nước tiểu đã xác nhận một lượng protein rất cao trong mẫu nước tiểu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE</LocID>                       <Text>Tắc nghẽn động mạch phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE_DESCRIPTION</LocID>           <Text>Chụp mạch cho thấy tắc nghẽn động mạch phổi của bệnh nhân do cục máu đông.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PURPURA</LocID>                                         <Text>Purpura</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PURPURA_DESCRIPTION</LocID>                             <Text>Dễ bị bầm tím hoặc bầm tím quá mức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH</LocID>                                            <Text>Phát ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_DESCRIPTION</LocID>                                <Text>Phát ban có thể khiến da thay đổi màu sắc, ngứa, trở nên ấm, gồ ghề, nứt nẻ, khô, nứt hoặc phồng rộp, bong vảy và có thể đau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_ARM</LocID>                                     <Text>Phát ban trên cánh tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_ARM_DESCRIPTION</LocID>                         <Text>Sự thay đổi bất thường của màu da và kết cấu da làm biến dạng bề ngoài bình thường của da, khu trú trên cánh tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG</LocID>                                     <Text>Phát ban trên chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG_DESCRIPTION</LocID>                         <Text>Sự thay đổi bất thường của màu da và kết cấu da làm biến dạng bề ngoài bình thường của da, khu trú ở cẳng chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK</LocID>                                    <Text>Phát ban trên cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK_DESCRIPTION</LocID>                        <Text>Sự thay đổi bất thường của màu da và kết cấu da làm biến dạng bề ngoài bình thường của da, khu trú ở cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO</LocID>                                   <Text>Phát ban trên thân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO_DESCRIPTION</LocID>                       <Text>Sự thay đổi bất thường của màu da và kết cấu da làm biến dạng bề ngoài bình thường của da, khu trú trên thân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RED_EYE</LocID>                                         <Text>Mắt đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RED_EYE_DESCRIPTION</LocID>                             <Text>Thay đổi màu sắc của màng cứng, từ trắng sang đỏ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RED_SWOLLEN_TONSILS</LocID>                             <Text>Amidan sưng đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RED_SWOLLEN_TONSILS_DESCRIPTION</LocID>                 <Text>Amidan sưng đỏ, viêm và sưng tấy, đôi khi nghiêm trọng đến mức gây tắc nghẽn đường thở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS</LocID>                                         <Text>Đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS_DESCRIPTION</LocID>                             <Text>Đỏ không xác định của một khu vực hoặc các khu vực nhất định trên cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS_OF_SWELLING</LocID>                             <Text>Sưng tấy đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS_OF_SWELLING_DESCRIPTION</LocID>                 <Text>Vùng sưng tấy đỏ do viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS_OF_SKIN</LocID>                                 <Text>Đỏ da</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_REDNESS_OF_SKIN_DESCRIPTION</LocID>                     <Text>Đỏ da do quá trình viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RESPIRATORY_FAILURE</LocID>                             <Text>Suy hô hấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RESPIRATORY_FAILURE_DESCRIPTION</LocID>                 <Text>Do hệ thống hô hấp trao đổi khí không đầy đủ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RINGING_IN_THE_EARS</LocID>                             <Text>Ù tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RINGING_IN_THE_EARS_DESCRIPTION</LocID>                 <Text>Còn được gọi là ù tai, là cảm giác nghe thấy tiếng chuông hoặc âm thanh khác mà không có bất kỳ nguồn bên ngoài nào.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER</LocID>                                <Text>Vai chảy xệ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER_DESCRIPTION</LocID>                    <Text>Vai rũ xuống.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE</LocID>                         <Text>Mắt bị xước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE_DESCRIPTION</LocID>             <Text>Da bị trầy xước ở vùng mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK</LocID>                                    <Text>Sốc nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK_DESCRIPTION</LocID>                        <Text>Biến chứng đe dọa tính mạng của nhiễm trùng có thể làm tổn thương nhiều hệ thống cơ quan, khiến chúng bị hỏng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_ARM_PAIN</LocID>                                 <Text>Đau cánh tay nghiêm trọng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_ARM_PAIN_DESCRIPTION</LocID>                     <Text>Đau cánh tay dữ dội có thể xảy ra với nhiều loại chấn thương khác nhau hoặc nếu kèm theo một áp lực trong lồng ngực, có thể là dấu hiệu của một cơn đau tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_HEMORRHAGE</LocID>                               <Text>Xuất huyết nghiêm trọng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_HEMORRHAGE_DESCRIPTION</LocID>                   <Text>Chảy máu nghiêm trọng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_LEG_PAIN</LocID>                                 <Text>Đau cẳng chân nghiêm trọng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_LEG_PAIN_DESCRIPTION</LocID>                     <Text>Đau chân nghiêm trọng xảy ra do nhiều loại chấn thương khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_PAIN_IN_ANKLE</LocID>                            <Text>Đau mắt cá chân nghiêm trọng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEVERE_PAIN_IN_ANKLE_DESCRIPTION</LocID>                <Text>Đau dữ dội ở mắt cá chân liên quan đến mẩn đỏ xung quanh khu vực bị ảnh hưởng, nhưng không có tổn thương bề ngoài trên da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHOULDER_INJURY</LocID>                                 <Text>Chấn thương vai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHOULDER_INJURY_DESCRIPTION</LocID>                     <Text>Bệnh nhân nói rằng họ bị chấn thương ở vai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKIN_AVULSION</LocID>                                   <Text>Da tách ra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKIN_AVULSION_DESCRIPTION</LocID>                       <Text>Da bị tách khỏi vị trí bình thường trên khu vực bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKULL_BASIS_FRACTURE</LocID>                            <Text>Gãy xương sọ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKULL_BASIS_FRACTURE_DESCRIPTION</LocID>                <Text>Gãy xương ở đáy hộp sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKULL_FRACTURE</LocID>                                  <Text>Sọ gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SKULL_FRACTURE_DESCRIPTION</LocID>                      <Text>Gãy các xương khác nhau trong hộp sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SLEEPING_DIFFICULTIES</LocID>                           <Text>Vấn đề về giấc ngủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SLEEPING_DIFFICULTIES_DESCRIPTION</LocID>               <Text>Khó đi vào giấc ngủ, thường xuyên thức giấc vào ban đêm, mệt mỏi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SLURRED_SPEECH</LocID>                                  <Text>Nói lắp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SLURRED_SPEECH_DESCRIPTION</LocID>                      <Text>Còn được gọi là chứng rối loạn phát triển biểu hiện bằng cách phát âm các từ kém, nói lẩm bẩm hoặc thay đổi tốc độ hoặc nhịp điệu khi nói chuyện.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SNEEZING</LocID>                                        <Text>Hắt xì</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SNEEZING_DESCRIPTION</LocID>                            <Text>Trục tống không khí ra khỏi phổi qua mũi và miệng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SORE_THROAT</LocID>                                     <Text>Viêm họng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SORE_THROAT_DESCRIPTION</LocID>                         <Text>Bao gồm đau, cảm giác bỏng rát hoặc trầy xước ở phía sau cổ họng, đau khi nuốt và đau ở cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPASMS</LocID>                                          <Text>Co thắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPASMS_DESCRIPTION</LocID>                              <Text>Các loại hoạt động cơ không tự nguyện khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPUTUM_COUGH</LocID>                                    <Text>Ho có đờm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPUTUM_COUGH_DESCRIPTION</LocID>                        <Text>Ho có đờm, giải phóng đờm từ đường hô hấp trên và dưới.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STEATORRHEA</LocID>                                     <Text>Tăng tiết mỡ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STEATORRHEA_DESCRIPTION</LocID>                         <Text>Sự hiện diện của chất béo dư thừa trong phân. Phân trở nên lỏng hơn, nhạt màu và có mùi hôi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS</LocID>                                       <Text>Độ cứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_DESCRIPTION</LocID>                           <Text>Mất phạm vi cử động, kết hợp với đau ở vùng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_IN_THE_HIP</LocID>                            <Text>Cứng hông</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_IN_THE_HIP_DESCRIPTION</LocID>                <Text>Mất phạm vi cử động, liên quan đến đau ở khớp háng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_IN_THE_KNEE</LocID>                           <Text>Cứng đầu gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_IN_THE_KNEE_DESCRIPTION</LocID>               <Text>Mất phạm vi cử động, liên quan đến đau khớp gối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_BACK</LocID>                           <Text>Cứng lưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_BACK_DESCRIPTION</LocID>               <Text>Mất phạm vi cử động, liên quan đến đau ở vùng cột sống lưng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_JOINTS</LocID>                         <Text>Cứng khớp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_JOINTS_DESCRIPTION</LocID>             <Text>Mất phạm vi cử động, liên quan đến đau khớp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_NECK</LocID>                           <Text>Cứng cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STIFFNESS_OF_THE_NECK_DESCRIPTION</LocID>               <Text>Mất phạm vi cử động, liên quan đến đau cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STOMACH_PAIN</LocID>                                    <Text>Đau bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STOMACH_PAIN_DESCRIPTION</LocID>                        <Text>Cảm giác đau trong dạ dày có thể liên quan đến nhiều bệnh. Cần có các quy trình chẩn đoán tiếp theo.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STRONG-SMELLING_URINE</LocID>                           <Text>Nước tiểu có mùi nồng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STRONG-SMELLING_URINE_DESCRIPTION</LocID>               <Text>Nước tiểu có mùi mạnh có thể cho thấy nhiễm trùng đường tiết niệu nhưng cũng có thể là kết quả của việc ăn một loại thực phẩm cụ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SUPPURATIVE_TONSILS</LocID>                             <Text>Amidan bổ sung</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SUPPURATIVE_TONSILS_DESCRIPTION</LocID>                 <Text>Tình trạng viêm nhu mô của amidan với xu hướng hình thành áp xe. Amidan có màu đỏ và có thể sưng to.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWALLOV_PAIN</LocID>                                    <Text>Nuốt đau</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWALLOV_PAIN_DESCRIPTION</LocID>                        <Text>Khó chịu khi nuốt. Đau ở vị trí cao ở cổ hoặc thấp hơn sau xương ức. Thông thường, có cảm giác như bị bóp mạnh hoặc bỏng rát.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWEATING</LocID>                                        <Text>Đổ mồ hôi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWEATING_DESCRIPTION</LocID>                            <Text>Sản xuất quá nhiều chất lỏng do tuyến mồ hôi trên da tiết ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING</LocID>                                        <Text>Sưng tấy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_DESCRIPTION</LocID>                            <Text>Sự mở rộng bất thường thoáng qua của một khu vực bị ảnh hưởng, thường là do mô chứa đầy chất lỏng do phản ứng với tình trạng viêm hoặc vết bầm tím.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_JOINTS</LocID>                                 <Text>Sưng khớp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_JOINTS_DESCRIPTION</LocID>                     <Text>Sự mở rộng bất thường thoáng qua của một khớp, thường là do khu vực bên trong chứa đầy chất lỏng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_KNEE</LocID>                                   <Text>Sưng đầu gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_KNEE_DESCRIPTION</LocID>                       <Text>Mở rộng bất thường thoáng qua của đầu gối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_LIMBS</LocID>                                  <Text>Sưng chân tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWELLING_LIMBS_DESCRIPTION</LocID>                      <Text>Sự to ra bất thường thoáng qua của các chi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EAR_LOBE</LocID>                                <Text>Vành tai bị sưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EAR_LOBE_DESCRIPTION</LocID>                    <Text>Mở rộng vành tai do viêm hoặc chấn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EAR_CANAL</LocID>                               <Text>Sưng ống tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EAR_CANAL_DESCRIPTION</LocID>                   <Text>Co thắt ống tai do sưng niêm mạc và mô.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EYELIDS</LocID>                                 <Text>Sưng mí mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_EYELIDS_DESCRIPTION</LocID>                     <Text>Mí mắt to ra thoáng qua.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_LYMPH_NODES</LocID>                             <Text>Sưng hạch bạch huyết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_LYMPH_NODES_DESCRIPTION</LocID>                 <Text>Các hạch bạch huyết mở rộng / sưng lên là dấu hiệu phổ biến của các bệnh truyền nhiễm, tự miễn dịch và ác tính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_THYROID_GLAND</LocID>                           <Text>Tuyến giáp sưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_THYROID_GLAND_DESCRIPTION</LocID>               <Text>Tuyến giáp to lên bất thường có thể là một triệu chứng tạm thời của tình trạng viêm tuyến. Phản ứng viêm tạo ra phù nề (chất lỏng tích tụ) bên trong tuyến, làm cho nó sưng lên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TACHYCARDIA</LocID>                                     <Text>Nhịp tim nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TACHYCARDIA_DESCRIPTION</LocID>                         <Text>Nhịp tim nhanh (nhịp tim tăng cao) là một triệu chứng phổ biến do phản ứng của hệ thần kinh giao cảm hoặc phản ứng chiến đấu của hệ thần kinh giao cảm và xảy ra trong các bệnh khác nhau hoặc khi một người gặp nguy hiểm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TENDERNESS</LocID>                                      <Text>Tenderness</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TENDERNESS_DESCRIPTION</LocID>                          <Text>Khu vực bị ảnh hưởng rất nhạy cảm khi chạm vào.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THICKENING_AND_DISTORTION_OF_THE_NAIL</LocID>           <Text>Móng dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THICKENING_AND_DISTORTION_OF_THE_NAIL_DESCRIPTION</LocID><Text>Móng tay bệnh nhân dày lên và biến dạng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THIRST</LocID>                                          <Text>Khát nước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THIRST_DESCRIPTION</LocID>                              <Text>Muốn uống.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THUMB_PAIN</LocID>                                      <Text>Đau ngón tay cái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THUMB_PAIN_DESCRIPTION</LocID>                          <Text>Cảm giác nóng và đau ở ngón tay cái.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TREMOR</LocID>                                          <Text>Rung lắc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TREMOR_DESCRIPTION</LocID>                              <Text>Chuyển động cơ không chủ ý, nhịp nhàng liên quan đến các chuyển động tới và lui (dao động) của một hoặc nhiều bộ phận của cơ thể (ví dụ: bàn tay, cánh tay, bàn chân).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TROUBLE_RISING</LocID>                                  <Text>Trở ngại đứng lên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TROUBLE_RISING_DESCRIPTION</LocID>                      <Text>Khó khăn khi cố gắng đứng dậy từ tư thế ngồi hoặc nằm sấp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNAR_CLAW</LocID>                                      <Text>Móng ulnar</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNAR_CLAW_DESCRIPTION</LocID>                          <Text>Vị trí cụ thể và bất thường của ngón tay thứ 4 và thứ 5 (ngón đeo nhẫn và ngón út).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNCONSCIOUSNESS</LocID>                                 <Text>Vô thức</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNCONSCIOUSNESS_DESCRIPTION</LocID>                     <Text>Trạng thái thiếu hoàn toàn hoặc gần hoàn toàn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTOPPABLE_BLEEDING</LocID>                            <Text>Chảy máu không ngừng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTOPPABLE_BLEEDING_DESCRIPTION</LocID>                <Text>Hay còn gọi là xuất huyết là tình trạng máu nhanh chóng thoát ra khỏi hệ tuần hoàn. Chảy máu không ngừng có thể do vết thương lớn hoặc do tổn thương nhiều tĩnh mạch hoặc động mạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED</LocID>                            <Text>Trường hình ảnh bị giới hạn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED_DESCRIPTION</LocID>                <Text>Phép đo ngoại vi cho thấy bệnh nhân có thị giác hạn chế.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY</LocID>                              <Text>Thiếu vitamin</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY_DESCRIPTION</LocID>                  <Text>Thiếu các vitamin, khoáng chất hoặc các chất dinh dưỡng khác trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VOMITING</LocID>                                        <Text>Nôn mửa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VOMITING_DESCRIPTION</LocID>                            <Text>Còn được gọi là nôn trớ là sự tống xuất không chủ ý các chất trong dạ dày qua miệng hoặc đôi khi qua mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT</LocID>                                   <Text>Dáng đi lạch bạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT_DESCRIPTION</LocID>                       <Text>Kiểu đi bất thường, xuất hiện khi hông bị ảnh hưởng bởi các khuyết tật khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WALKING_DIFFICULTIES</LocID>                            <Text>Vấn đề đi bộ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WALKING_DIFFICULTIES_DESCRIPTION</LocID>                <Text>Khó khăn khi đi thẳng hoặc giữ thăng bằng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WARMTH</LocID>                                          <Text>Sự ấm áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WARMTH_DESCRIPTION</LocID>                              <Text>Cảm giác ấm áp gần khu vực bị ảnh hưởng (một trong năm dấu hiệu của viêm hoặc nhiễm trùng do lưu lượng máu đến khu vực đó tăng lên).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WATERY_EYES</LocID>                                     <Text>Chảy nước mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WATERY_EYES_DESCRIPTION</LocID>                         <Text>Chảy nước mắt có thể do nước mắt tiết ra liên tục hoặc quá nhiều hoặc do hệ thống thoát nước từ mắt bị tắc..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS</LocID>                                        <Text>Yếu đuối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS_DESCRIPTION</LocID>                            <Text>Còn được gọi là suy nhược, là một tình trạng mà một người bị suy nhược cực kỳ tạm thời hoặc mãn tính và cảm thấy mệt mỏi, mất năng lượng và sức mạnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEIGHT_GAIN</LocID>                                     <Text>Tăng cân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEIGHT_GAIN_DESCRIPTION</LocID>                         <Text>Tăng trọng lượng cơ thể, thường không có lý do quan sát được hoặc đã biết.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEIGHT_LOSS</LocID>                                     <Text>Giảm cân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEIGHT_LOSS_DESCRIPTION</LocID>                         <Text>Giảm trọng lượng cơ thể, thường không có lý do quan sát được hoặc đã biết (là một triệu chứng chính trong nhiều bệnh ác tính).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WHEEZING</LocID>                                        <Text>Thở khò khè</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WHEEZING_DESCRIPTION</LocID>                            <Text>Tiếng thở khò khè trong quá trình hô hấp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WRIST_PAIN</LocID>                                      <Text>Đau cổ tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WRIST_PAIN_DESCRIPTION</LocID>                          <Text>Căng thẳng và đau rát ở cổ tay.</Text>  </GameDBLocalizedString>
+
+            <!-- Main symptoms -->
+            <GameDBLocalizedString>      <LocID>SYM_ACL_INJURY</LocID>                                      <Text>ACL chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ACL_INJURY_DESCRIPTION</LocID>                          <Text>MRI cho thấy tổn thương dây chằng chéo trước (ACL) ở đầu gối của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AIRWAYS_INFECTED</LocID>                                <Text>Nhiễm trùng đường thở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AIRWAYS_INFECTED_DESCRIPTION</LocID>                    <Text>Việc cấy vi khuẩn trong đờm của bệnh nhân đã cho thấy sự hiện diện của vi khuẩn trong đường thở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGEN_DETECTED</LocID>                               <Text>Dị ứng được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGEN_DETECTED_DESCRIPTION</LocID>                   <Text>Kiểm tra dị ứng da đã tiết lộ một chất gây dị ứng cụ thể gây kích ứng da của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGIC_CONJUNCTIVITIS</LocID>                         <Text>Viêm kết mạc dị ứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGIC_CONJUNCTIVITIS_DESCRIPTION</LocID>             <Text>Kiểm tra dị ứng da đã tiết lộ một chất gây dị ứng cụ thể gây kích ứng mắt của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGY_DISCOVERED</LocID>                              <Text>Dị ứng được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALLERGY_DISCOVERED_DESCRIPTION</LocID>                  <Text>Thử nghiệm tiêm da đã phát hiện ra sự gia tăng nhạy cảm với một số chất gây dị ứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ARTERIAL_STENOSIS</LocID>                               <Text>Hẹp động mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ARTERIAL_STENOSIS_DESCRIPTION</LocID>                   <Text>Chụp động mạch vành cho thấy hẹp động mạch vành (động mạch cung cấp máu cho tim).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_CONTUSION</LocID>                                 <Text>Co thắt mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_CONTUSION_DESCRIPTION</LocID>                     <Text>Chụp X-quang cho thấy không có xương gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_FRACTURE</LocID>                                  <Text>Gãy mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_FRACTURE_DESCRIPTION</LocID>                      <Text>Chụp X-quang cho thấy mắt cá chân bị gãy đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_SPRAIN</LocID>                                    <Text>Bong gân mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANKLE_SPRAIN_DESCRIPTION</LocID>                        <Text>Chụp MRI cổ chân của bệnh nhân xác nhận bệnh nhân bị bong gân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AORTIC_ANEURYSM</LocID>                                 <Text>Phình động mạch chủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AORTIC_ANEURYSM_DESCRIPTION</LocID>                     <Text>Siêu âm tim đã phát hiện một túi phình của động mạch chủ ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ARM_PENETRATION</LocID>                                 <Text>Vết thương xuyên tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ARM_PENETRATION_DESCRIPTION</LocID>                     <Text>Một vết thương xuyên thấu ở cánh tay gây ra một vết thương sâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASPERGILLOMA_DISCOVERED</LocID>                         <Text>Aspergilloma được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASPERGILLOMA_DISCOVERED_DESCRIPTION</LocID>             <Text>Kiểm tra CT phổi của bệnh nhân phát hiện một khối nấm lớn - aspergilloma.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ATOPIC_ECZEMA_FINDINGS</LocID>                          <Text>Phát hiện bệnh chàm cơ địa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ATOPIC_ECZEMA_FINDINGS_DESCRIPTION</LocID>              <Text>Các triệu chứng và phát hiện gợi ý bệnh viêm da dị ứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._ANTHRACIS_DETECTED</LocID>                           <Text>B. anthracis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._ANTHRACIS_DETECTED_DESCRIPTION</LocID>               <Text>Các nhà công nghệ sử dụng phản ứng chuỗi polymerase (PCR) đã phát hiện vi khuẩn Bacillus anthracis trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._HENSELAE_DETECTED</LocID>                            <Text>B. henselae được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._HENSELAE_DETECTED_DESCRIPTION</LocID>                <Text>Các nhà công nghệ sử dụng phản ứng chuỗi polymerase (PCR) đã phát hiện vi khuẩn Bartonella henselae trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._PERTUSSIS_DETECTED</LocID>                           <Text>B. pertussis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_B._PERTUSSIS_DETECTED_DESCRIPTION</LocID>               <Text>Nuôi cấy vi khuẩn từ đờm của bệnh nhân đã xác định được vi khuẩn Bordetella pertussis.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BABESIOSIS_DETECTED</LocID>                             <Text>Babesios đã phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BABESIOSIS_DETECTED_DESCRIPTION</LocID>                 <Text>Các nhà công nghệ sử dụng phản ứng chuỗi polymerase (PCR) đã phát hiện sự hiện diện của nhiễm trùng Babesia trong một mẫu máu ngoại vi của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_BLEPHARITIS</LocID>                           <Text>Viêm bờ mi do vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_BLEPHARITIS_DESCRIPTION</LocID>               <Text>Cấy gạc lấy từ da của bệnh nhân xác nhận sự hiện diện của nhiễm trùng do vi khuẩn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_CONJUNCTIVITIS</LocID>                        <Text>Viêm kết mạc do vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_CONJUNCTIVITIS_DESCRIPTION</LocID>            <Text>Nuôi cấy mẫu lấy từ dịch mắt của bệnh nhân xác nhận sự hiện diện của nhiễm trùng do vi khuẩn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BEEF_TAPEWORM_PRESENT</LocID>                           <Text>Sán dây bò phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BEEF_TAPEWORM_PRESENT_DESCRIPTION</LocID>               <Text>Sán dây bò đã được phát hiện trong mẫu phân của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BELLYBUTTON_PAIN</LocID>                                <Text>Đau quanh rốn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BELLYBUTTON_PAIN_DESCRIPTION</LocID>                    <Text>Đau dữ dội quanh rốn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_INFECTION</LocID>                               <Text>Nhiễm trùng bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_INFECTION_DESCRIPTION</LocID>                   <Text>Nhiễm trùng bàng quang do vi khuẩn đã được xác định.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_LINING_DEFECTED</LocID>                         <Text>Khiếm khuyết niêm mạc bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_LINING_DEFECTED_DESCRIPTION</LocID>             <Text>Chụp cắt lớp vi tính đã tìm thấy các khuyết tật khác nhau trong niêm mạc của bàng quang.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_STONES_DETECTED</LocID>                         <Text>Sỏi bàng quang được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLADDER_STONES_DETECTED_DESCRIPTION</LocID>             <Text>Siêu âm cho thấy nhiều viên sỏi trong bàng quang của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_KIDNEY_CONTUSION</LocID>                          <Text>Nhồi máu thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_KIDNEY_CONTUSION_DESCRIPTION</LocID>              <Text>Chụp CT cho thấy mô thận của bệnh nhân bị nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PANCREAS_CONTUSION</LocID>                        <Text>Nhồi máu tuyến tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PANCREAS_CONTUSION_DESCRIPTION</LocID>            <Text>Siêu âm đã phát hiện một khối u nhỏ của tuyến tụy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PANCREAS_LACERATION</LocID>                       <Text>Vết rách tuyến tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PANCREAS_LACERATION_DESCRIPTION</LocID>           <Text>Siêu âm đã phát hiện một vết rách trong mô tụy của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PULMONARY_CONTUSION</LocID>                       <Text>Nhồi máu phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_PULMONARY_CONTUSION_DESCRIPTION</LocID>           <Text>Chụp CT đã phát hiện có tràn máu phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_SPLEEN_CONTUSION</LocID>                          <Text>Co thắt lá lách cùn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_SPLEEN_CONTUSION_DESCRIPTION</LocID>              <Text>Chụp cắt lớp đã phát hiện ra một vết sưng tấy ở lá lách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_SPLEEN_RUPTURE</LocID>                            <Text>Vỡ lá lách cùn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLUNT_SPLEEN_RUPTURE_DESCRIPTION</LocID>                <Text>Chụp CT cho thấy vỡ lách, xảy ra do chấn thương nặng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BONE_INFECTED</LocID>                                   <Text>Nhiễm trùng xương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BONE_INFECTED_DESCRIPTION</LocID>                       <Text>MRI mô xương của bệnh nhân cho thấy bị nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_ARTERIES_BLOCKED</LocID>                          <Text>Động mạch não bị tắc nghẽn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_ARTERIES_BLOCKED_DESCRIPTION</LocID>              <Text>Siêu âm tim cho thấy tắc nghẽn nhiều động mạch não do cục máu đông.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_HEMATOMAS</LocID>                                 <Text>Tụ máu não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_HEMATOMAS_DESCRIPTION</LocID>                     <Text>Chụp CT đã phát hiện cả tụ máu ngoài màng cứng và trong não.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_INFLAMMATION</LocID>                              <Text>Viêm não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_INFLAMMATION_DESCRIPTION</LocID>                  <Text>Phân tích chất lỏng tủy sống đã phát hiện số lượng tế bào bạch cầu cao gợi ý tình trạng viêm nhiễm trong não.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_TISSUE_DAMAGED</LocID>                            <Text>Mô não bị hư hỏng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_TISSUE_DAMAGED_DESCRIPTION</LocID>                <Text>MRI cho thấy mô não bị tổn thương, có thể do đột quỵ do thiếu máu cục bộ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRONCHIAL_HYPERREACTIVITY</LocID>                       <Text>Tăng hoạt phế quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRONCHIAL_HYPERREACTIVITY_DESCRIPTION</LocID>           <Text>Xét nghiệm đặc biệt ở phế quản cho thấy bệnh nhân bị hen suyễn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRONCHIAL_INFECTION</LocID>                             <Text>Nhiễm trùng phế quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRONCHIAL_INFECTION_DESCRIPTION</LocID>                 <Text>Việc cấy vi khuẩn trong đờm của bệnh nhân (chất nhờn có thể ho ra) đã chứng minh sự hiện diện của vi khuẩn trong phế quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CALF_CONTUSION</LocID>                                  <Text>Co bắp chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CALF_CONTUSION_DESCRIPTION</LocID>                      <Text>Kết quả chụp X-quang không thấy xương bị gãy ở bắp chân của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARBOXYHEMOGLOBIN_HIGH_LEVEL</LocID>                    <Text>COHb mức cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARBOXYHEMOGLOBIN_HIGH_LEVEL_DESCRIPTION</LocID>        <Text>A Xét nghiệm máu đã tiết lộ mức độ cao của carboxyhemoglobin trong máu của bệnh nhân, gợi ý về ngộ độc carbon monoxide.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CAROTID_ARTERIES_BLOCKED</LocID>                        <Text>Động mạch cảnh bị tắc nghẽn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CAROTID_ARTERIES_BLOCKED_DESCRIPTION</LocID>            <Text>Siêu âm với kỹ thuật Doppler cho thấy tắc động mạch cảnh do cục máu đông.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CELIAC_ANTIBODIES_DETECTED</LocID>                      <Text>Đã phát hiện kháng thể Celiac</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CELIAC_ANTIBODIES_DETECTED_DESCRIPTION</LocID>          <Text>Một xét nghiệm huyết thanh học xác định các kháng thể celiac cụ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CEREBRAL_CONTUSION_FINDINGS</LocID>                     <Text>Đụng dập não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CEREBRAL_CONTUSION_FINDINGS_DESCRIPTION</LocID>         <Text>Chụp cắt lớp vi tính não của bệnh nhân cho thấy có hiện tượng tràn dịch não.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHR._FATIGUE_SYNDROME</LocID>                           <Text>Mệt mỏi mãn tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHR._FATIGUE_SYNDROME_DESCRIPTION</LocID>               <Text>Đánh giá tất cả các triệu chứng của bệnh nhân gợi ý đến Hội chứng Mệt mỏi mãn tính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_FRACTURE</LocID>                               <Text>Gãy xương đòn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_FRACTURE_DESCRIPTION</LocID>                   <Text>Chụp CT cho thấy xương đòn bị gãy đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_SHAFT_FRACTURE</LocID>                         <Text>Gãy trục xương đòn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_SHAFT_FRACTURE_DESCRIPTION</LocID>             <Text>Chụp CT cho thấy trục xương đòn bị gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOSED_ANGLE</LocID>                                    <Text>Góc đóng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOSED_ANGLE_DESCRIPTION</LocID>                        <Text>Khám nội soi cho thấy góc đóng giữa mống mắt và giác mạc, gợi ý bệnh tăng nhãn áp góc đóng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOTTING_FACTOR_LOW</LocID>                             <Text>Hệ số đông kết thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLOTTING_FACTOR_LOW_DESCRIPTION</LocID>                 <Text>Xét nghiệm máu đã phát hiện mức độ thấp của yếu tố đông máu trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLUSTER_HEADACHE_FINDINGS</LocID>                       <Text>Đau đầu cụm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CLUSTER_HEADACHE_FINDINGS_DESCRIPTION</LocID>           <Text>Các phát hiện MRI hỗ trợ chẩn đoán rối loạn đau đầu cụm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONCUSSION</LocID>                                      <Text>Chấn động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONCUSSION_DESCRIPTION</LocID>                          <Text>Chụp CT não của bệnh nhân gợi ý đến chấn động.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONSTANT_BRONCHIAL_INFECTION</LocID>                    <Text>Nhiễm trùng phế quản - mãn tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CONSTANT_BRONCHIAL_INFECTION_DESCRIPTION</LocID>        <Text>Kết quả chụp X-quang cho thấy phế quản bị kích thích liên tục do nhiễm trùng lan rộng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CROHN_DISEASE_DISCOVERED</LocID>                        <Text>Bệnh Crohn được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CROHN_DISEASE_DISCOVERED_DESCRIPTION</LocID>            <Text>CT ruột đã tiết lộ những phát hiện gợi ý bệnh Crohn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CYSTIC_DUCT_OBSTRUCTED</LocID>                          <Text>Ống dẫn nang bị tắc nghẽn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CYSTIC_DUCT_OBSTRUCTED_DESCRIPTION</LocID>              <Text>Siêu âm cho thấy một sự tắc nghẽn của ống nang do một viên sỏi mật lớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS</LocID>                           <Text>Phát hiện thoái hóa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS_DESCRIPTION</LocID>               <Text>MRI đã cho thấy những thay đổi thoái hóa ở cột sống cổ của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS</LocID>                        <Text>Các phát hiện về khử nilêin hóa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS_DESCRIPTION</LocID>            <Text>Sinh thiết dây thần kinh mặt với phân tích hậu quả đã tìm thấy các dấu hiệu của quá trình khử myelin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE</LocID>                     <Text>Xương đùi bị gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE_DESCRIPTION</LocID>         <Text>Chụp X-quang cho thấy một vết gãy hở của xương đùi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_HUMERUS_FRACTURE</LocID>                   <Text>Xương sống bị gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_HUMERUS_FRACTURE_DESCRIPTION</LocID>       <Text>Chụp X-quang cho thấy gãy hở xương quai xanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_TIBIA_FRACTURE</LocID>                     <Text>Xương chày bị gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_TIBIA_FRACTURE_DESCRIPTION</LocID>         <Text>Chụp X-quang cho thấy một vết nứt hở của xương chày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_ULNAR_FRACTURE</LocID>                     <Text>Vết nứt hở ulna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_ULNAR_FRACTURE_DESCRIPTION</LocID>         <Text>Chụp X-quang cho thấy một vết nứt hở của ulna.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIFFUSE_AXONAL_INJURY</LocID>                           <Text>Tổn thương trục lan tỏa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIFFUSE_AXONAL_INJURY_DESCRIPTION</LocID>               <Text>Chụp MRI đã cho thấy nhiều phát hiện gợi ý tổn thương trục lan tỏa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DILATED_VENTRICLE</LocID>                               <Text>Tâm thất giãn nở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DILATED_VENTRICLE_DESCRIPTION</LocID>                   <Text>Chụp động mạch tim cho thấy tâm thất trái bị giãn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DUODENITIS_DISCOVERED</LocID>                           <Text>Duodenitis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DUODENITIS_DISCOVERED_DESCRIPTION</LocID>               <Text>Nội soi dạ dày thấy tá tràng bị viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_E._HISTOLYTICA_DISCOVERED</LocID>                       <Text>E. histolytica được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_E._HISTOLYTICA_DISCOVERED_DESCRIPTION</LocID>           <Text>Nuôi cấy vi khuẩn đã phát hiện Entamoeba histolytica trong mẫu phân của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EAR_CANAL_INFECTED</LocID>                              <Text>Ống tai bị nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EAR_CANAL_INFECTED_DESCRIPTION</LocID>                  <Text>Khám tai ngoài phát hiện ống tai ngoài bị nhiễm trùng..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EBV_DETECTED</LocID>                                    <Text>EBV được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EBV_DETECTED_DESCRIPTION</LocID>                        <Text>Xét nghiệm huyết thanh học phát hiện các kháng nguyên vi rút Epstein-Barr cụ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_MUSCLES_DAMAGED</LocID>                           <Text>Cơ khuỷu tay bị hư</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_MUSCLES_DAMAGED_DESCRIPTION</LocID>               <Text>MRI đã phát hiện ra các dấu hiệu viêm các cơ của khuỷu tay, rất có thể là do hoạt động quá mức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_TENDONS_DAMAGED</LocID>                           <Text>Gân khuỷu tay bị hư</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_TENDONS_DAMAGED_DESCRIPTION</LocID>               <Text>Chụp X-quang đã phát hiện ra các gân bị tổn thương của các cơ ở khuỷu tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EMPHYSEMA_DISCOVERED</LocID>                            <Text>Khí phế thũng được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EMPHYSEMA_DISCOVERED_DESCRIPTION</LocID>                <Text>Chụp CT cho thấy khí phế thũng ở phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ENDOCARDITIS_DETECTED</LocID>                           <Text>Đã phát hiện viêm nội tâm mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ENDOCARDITIS_DETECTED_DESCRIPTION</LocID>               <Text>Siêu âm tim đã phát hiện ra sự phát triển sinh dưỡng trên van trong tim, gợi ý nhiều đến viêm nội tâm mạc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_F._TULARENSIS_DETECTED</LocID>                          <Text>F. tularensis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_F._TULARENSIS_DETECTED_DESCRIPTION</LocID>              <Text>Các nhà công nghệ đã phát hiện ra vi khuẩn Francisella tularensis trong quá trình nuôi cấy vi khuẩn trong đờm của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEET_PENETRATION</LocID>                                <Text>Chân xuyên thấu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEET_PENETRATION_DESCRIPTION</LocID>                    <Text>Một vết thương xuyên thấu ở bàn chân gây ra một vết thương sâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEMUR_FRACTURE</LocID>                                  <Text>Gãy xương đùi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEMUR_FRACTURE_DESCRIPTION</LocID>                      <Text>X-quang cho thấy gãy xương đùi đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEMUR_FRAGMENTS_FRACTURE</LocID>                        <Text>Gãy mảnh xương đùi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FEMUR_FRAGMENTS_FRACTURE_DESCRIPTION</LocID>            <Text>Chụp X-quang cho thấy nhiều mảnh xương trong trường hợp gãy xương đùi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FIBROTIC_LIVER_TISSUE</LocID>                           <Text>Mô gan xơ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FIBROTIC_LIVER_TISSUE_DESCRIPTION</LocID>               <Text>Mô gan bị hư hỏng được thay thế bằng mô xơ do cơ quan này sửa chữa mô bị tổn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FIBULA_FRACTURE</LocID>                                 <Text>Gãy xương sợi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FIBULA_FRACTURE_DESCRIPTION</LocID>                     <Text>Chụp X-quang cho thấy xương mác bị gãy đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FINGER_FRACTURE</LocID>                                 <Text>Gãy ngón tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FINGER_FRACTURE_DESCRIPTION</LocID>                     <Text>Chụp X-quang cho thấy ngón tay bị gãy đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLAIL_CHEST</LocID>                                     <Text>Dập ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLAIL_CHEST_DESCRIPTION</LocID>                         <Text>Kết quả chụp CT cho thấy nhiều xương sườn bị gãy, cô lập một phần lồng ngực của bệnh nhân với phần còn lại của thành ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLUID_IN_MIDDLE_EAR</LocID>                             <Text>Dịch trong tai giữa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                 <Text>Khám tai với nội soi tai đã phát hiện ra dịch trong tai giữa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FOREARM_CONTUSION</LocID>                               <Text>Co cứng cẳng tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FOREARM_CONTUSION_DESCRIPTION</LocID>                   <Text>X-quang loại trừ khả năng gãy xương cẳng tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FORMATE_TOXIC_LEVEL</LocID>                             <Text>Formate - mức độ độc hại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FORMATE_TOXIC_LEVEL_DESCRIPTION</LocID>                 <Text>Mức độ độc hại của formate đã được phát hiện trong máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_MANDIBLE</LocID>                            <Text>Gãy xương quai xanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_MANDIBLE_DESCRIPTION</LocID>                <Text>Chụp X-quang cho thấy gãy xương hàm dưới của bệnh nhân (hàm dưới).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_NOSE</LocID>                                <Text>Gãy mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_NOSE_DESCRIPTION</LocID>                    <Text>Đánh giá tất cả các triệu chứng của bệnh nhân xác nhận gãy mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FUNGAL_INFECTION</LocID>                                <Text>Nhiễm trùng nấm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FUNGAL_INFECTION_DESCRIPTION</LocID>                    <Text>Các xét nghiệm nấm mốc đã xác định được nhiễm trùng nấm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GALLSTONES_DISCOVERED</LocID>                           <Text>Sỏi mật xác định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GALLSTONES_DISCOVERED_DESCRIPTION</LocID>               <Text>Siêu âm túi mật phát hiện nhiều viên sỏi mật lớn bên trong túi mật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GASTRIC_ULCERS_DISCOVERED</LocID>                       <Text>Loét dạ dày xác định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GASTRIC_ULCERS_DISCOVERED_DESCRIPTION</LocID>           <Text>Nội soi dạ dày đã phát hiện ra một số vết loét trong dạ dày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GASTRITIS_DISCOVERED</LocID>                            <Text>Phát hiện viêm dạ dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GASTRITIS_DISCOVERED_DESCRIPTION</LocID>                <Text>Nội soi dạ dày đã phát hiện ra một ổ viêm lớn..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GIANT_CELLS</LocID>                                     <Text>Viêm động mạch tế bào khổng lồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GIANT_CELLS_DESCRIPTION</LocID>                         <Text>Chụp động mạch cho thấy tình trạng viêm trong niêm mạc của động mạch thái dương gợi ý viêm động mạch tế bào khổng lồ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GIARDIA_LAMBLIA_DISCOVERED</LocID>                      <Text>Giardia lamblia được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GIARDIA_LAMBLIA_DISCOVERED_DESCRIPTION</LocID>          <Text>Nuôi cấy vi khuẩn đã phát hiện Giardia lamblia trong mẫu phân của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_EYES</LocID>                                 <Text>U hạt - mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_EYES_DESCRIPTION</LocID>                     <Text>Khám mắt đặc biệt cho thấy u hạt ảnh hưởng đến mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_HEART</LocID>                                <Text>U hạt - tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_HEART_DESCRIPTION</LocID>                    <Text>MRI đã phát hiện u hạt ảnh hưởng đến tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_LUNGS</LocID>                                <Text>U hạt - phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GRANULOMAS_LUNGS_DESCRIPTION</LocID>                    <Text>Hình ảnh chụp X-quang cho thấy các u hạt ảnh hưởng đến phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GUILLAIN-BARRE_FINDINGS</LocID>                         <Text>Phát hiện của Guillain-Barre</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GUILLAIN-BARRE_FINDINGS_DESCRIPTION</LocID>             <Text>Phân tích chất lỏng tủy sống cho thấy nhiều dấu hiệu của hội chứng Guillain-Barre.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_H._PYLORI_DETECTED</LocID>                              <Text>H. pylori được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_H._PYLORI_DETECTED_DESCRIPTION</LocID>                  <Text>Các xét nghiệm tìm thấy các kháng thể cụ thể liên quan đến Helicobacter pylori.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_BURSAE_INFLAMMED</LocID>                           <Text>Tay bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_BURSAE_INFLAMMED_DESCRIPTION</LocID>               <Text>Siêu âm đã phát hiện ra tình trạng viêm bao hoạt dịch ở tay bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PENETRATION</LocID>                                <Text>Tay thâm nhập</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_PENETRATION_DESCRIPTION</LocID>                    <Text>Bàn tay đâm vào tay gây ra vết thương sâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAPTOGLOBIN_HIGH</LocID>                                <Text>Haptoglobin - mức độ thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAPTOGLOBIN_HIGH_DESCRIPTION</LocID>                    <Text>Các xét nghiệm trong phòng thí nghiệm đã phát hiện ra sự giảm mức độ Haptoglobin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_ATTACK</LocID>                                    <Text>Đau tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_ATTACK_DESCRIPTION</LocID>                        <Text>Điện tim đã phát hiện một cơn đau tim đang diễn ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILING</LocID>                                   <Text>Suy tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILING_DESCRIPTION</LocID>                       <Text>Siêu âm tim cho thấy hở van ba lá trào ngược.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEPATITIS_A_POSITIVE</LocID>                            <Text>Viêm gan A dương tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEPATITIS_A_POSITIVE_DESCRIPTION</LocID>                <Text>Xét nghiệm máu cụ thể đã phát hiện ra sự hiện diện của virus Viêm gan A.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEPATITIS_B_POSITIVE</LocID>                            <Text>Viêm gan B dương tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEPATITIS_B_POSITIVE_DESCRIPTION</LocID>                <Text>Xét nghiệm máu cụ thể đã phát hiện ra sự hiện diện của virus Viêm gan B.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIGH_CHLORIDE_LEVEL</LocID>                             <Text>Mức clorua cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIGH_CHLORIDE_LEVEL_DESCRIPTION</LocID>                 <Text>Kiểm tra clorua mồ hôi tiết lộ hàm lượng clorua cao trong mồ hôi của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIGH_SUGAR_LEVEL</LocID>                                <Text>Mức đường cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIGH_SUGAR_LEVEL_DESCRIPTION</LocID>                    <Text>Xét nghiệm đường huyết đặc biệt cho thấy lượng đường cao bất thường trong máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIP_JOINTS_DAMAGED</LocID>                              <Text>Khớp háng bị hư</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HIP_JOINTS_DAMAGED_DESCRIPTION</LocID>                  <Text>MRI cho thấy khớp háng bị hư hại.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRACTURE</LocID>                                <Text>Xương khớp vai bị gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRACTURE_DESCRIPTION</LocID>                    <Text>Chụp X-quang đã phát hiện ra gãy xương khớp vai đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRAGMENTS_FRACTURE</LocID>                      <Text>Mảnh xương khớp vai bị gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRAGMENTS_FRACTURE_DESCRIPTION</LocID>          <Text>Hình ảnh chụp X-quang đã phát hiện ra các mảnh xương trong xương khớp vai bị gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSIVE_FINDINGS</LocID>                           <Text>Phát hiện tăng huyết áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPERTENSIVE_FINDINGS_DESCRIPTION</LocID>               <Text>Siêu âm tim phát hiện phì đại thất trái và tái cấu trúc, giảm dự trữ lưu lượng mạch vành và thiếu máu cục bộ cơ tim im lặng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HISTOPLASMA_DETECTED</LocID>                            <Text>Histoplasma được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HISTOPLASMA_DETECTED_DESCRIPTION</LocID>                <Text>Xét nghiệm PCR đã phát hiện sự hiện diện của Histoplasma trong máu bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHLORINE_DETECTED</LocID>                               <Text>Clo được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHLORINE_DETECTED_DESCRIPTION</LocID>                   <Text>Clo đã được phát hiện trong máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IBS-D_CONFIRMED</LocID>                                 <Text>IBS-D đã xác nhận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_IBS-D_CONFIRMED_DESCRIPTION</LocID>                     <Text>Xét nghiệm máu đặc biệt đã phát hiện ra Hội chứng ruột kích thích với tiêu chảy là chủ yếu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_BILDUCT</LocID>                               <Text>Ống mật bị viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_BILDUCT_DESCRIPTION</LocID>                   <Text>Ống dẫn mật bị tắc nghẽn và bị viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_MYOCARDIUM</LocID>                            <Text>Cơ tim bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_MYOCARDIUM_DESCRIPTION</LocID>                <Text>Chụp MRI đã phát hiện ra dấu hiệu viêm cơ tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_THYROID</LocID>                               <Text>Tuyến giáp bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_THYROID_DESCRIPTION</LocID>                   <Text>Phân tích trong phòng thí nghiệm vật liệu sinh học từ tuyến giáp đã phát hiện ra một tuyến viêm lớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_A_DETECTED</LocID>                            <Text>Cúm A được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_A_DETECTED_DESCRIPTION</LocID>                <Text>Xét nghiệm huyết thanh học đặc biệt phát hiện sự hiện diện của kháng nguyên vi rút Cúm A.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INSOMNIA_REVEALED</LocID>                               <Text>Mất ngủ tiết lộ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INSOMNIA_REVEALED_DESCRIPTION</LocID>                   <Text>Đánh giá tất cả các triệu chứng gần đây của bệnh nhân chỉ ra rằng họ bị Mất ngủ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INSTEP_CONTUSION</LocID>                                <Text>Đau mu bàn chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INSTEP_CONTUSION_DESCRIPTION</LocID>                    <Text>Kiểm tra X-quang loại trừ khả năng o bị gãy xương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_FISTULA</LocID>                              <Text>Lỗ rò ruột</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_FISTULA_DESCRIPTION</LocID>                  <Text>Nuốt Bari kiểm tra phát hiện một lỗ rò ruột kết nối hai phần khác nhau của ruột non.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMATOMA</LocID>                           <Text>Tụ máu trong sọ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMATOMA_DESCRIPTION</LocID>               <Text>Chụp CT đã phát hiện tụ máu nội sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_INTERSTITIUM_ABSCESS</LocID>                     <Text>Áp xe kẽ thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_INTERSTITIUM_ABSCESS_DESCRIPTION</LocID>         <Text>Kiểm tra MRI tìm thấy một ổ áp xe trong thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_PROGRESSIVE_DAMAGE</LocID>                       <Text>Tổn thương thận tiến triển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_PROGRESSIVE_DAMAGE_DESCRIPTION</LocID>           <Text>Kiểm tra CT đã phát hiện ra tổn thương tiến triển của mô thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_STONES_DISCOVERED</LocID>                        <Text>Phát hiện sỏi thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_STONES_DISCOVERED_DESCRIPTION</LocID>            <Text>Kiểm tra CT phát hiện sỏi lớn bên trong thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_TISSUE_DAMAGED</LocID>                           <Text>Mô thận bị hư</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_TISSUE_DAMAGED_DESCRIPTION</LocID>               <Text>MRI mô thận đã chứng minh mức độ tổn thương nhất định.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_TISSUE_INFLAMMED</LocID>                         <Text>Mô thận bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KIDNEY_TISSUE_INFLAMMED_DESCRIPTION</LocID>             <Text>Sinh thiết đã phát hiện thấy một quả thận bị viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_BURSAE_INFLAMMED</LocID>                           <Text>Viêm bao khớp gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_BURSAE_INFLAMMED_DESCRIPTION</LocID>               <Text>Siêu âm đã phát hiện ra tình trạng viêm bao khớp gối của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_JOINT_DAMAGED</LocID>                              <Text>Khớp gối bị hư</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_JOINT_DAMAGED_DESCRIPTION</LocID>                  <Text>Chụp MRI cho thấy khớp gối bị tổn thương nghiêm trọng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_SPRAIN</LocID>                                     <Text>Bong gân đầu gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_KNEE_SPRAIN_DESCRIPTION</LocID>                         <Text>Chụp MRI đầu gối của bệnh nhân xác nhận bị bong gân đầu gối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LACTOSE_INTOLERANCE_DETECTED</LocID>                    <Text>Không dung nạp lactose</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LACTOSE_INTOLERANCE_DETECTED_DESCRIPTION</LocID>        <Text>Thử nghiệm dung nạp lactose đặc biệt cho thấy lượng đường không tăng sau khi tiêu thụ chất lỏng lactose.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LARYNX_INFECTED</LocID>                                 <Text>Thanh quản bị nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LARYNX_INFECTED_DESCRIPTION</LocID>                     <Text>Thanh quản và dây thanh bị nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEAD_LEVELS_HIGH</LocID>                                <Text>Mức chì cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEAD_LEVELS_HIGH_DESCRIPTION</LocID>                    <Text>Hàm lượng chì trong máu rất cao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEG_PENETRATION</LocID>                                 <Text>Cẳng chân bị đâm xuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEG_PENETRATION_DESCRIPTION</LocID>                     <Text>Xuyên vào chân gây ra vết thương sâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEGIONELLA_DETECTED</LocID>                             <Text>Legionella được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEGIONELLA_DETECTED_DESCRIPTION</LocID>                 <Text>Chẩn đoán PCR phát hiện sự hiện diện của Legionella pneumophila.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIVER_CONTUSION</LocID>                                 <Text>Bầm gan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIVER_CONTUSION_DESCRIPTION</LocID>                     <Text>Chụp CT cho thấy mô gan bị tổn thương do vết thương thẳng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIVER_LACERATION</LocID>                                <Text>Rách gan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIVER_LACERATION_DESCRIPTION</LocID>                    <Text>FAST đã tiết lộ vết rách gan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOW_HEMATOCRIT</LocID>                                  <Text>Hematocrit thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOW_HEMATOCRIT_DESCRIPTION</LocID>                      <Text>Xét nghiệm máu phát hiện ra mức hematocrit thấp (đại diện cho phần trăm thể tích máu được tạo thành bởi các tế bào màu đỏ).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_EMBOLISM</LocID>                                   <Text>Thuyên tắc phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_EMBOLISM_DESCRIPTION</LocID>                       <Text>Chụp động mạch phổi phát hiện tắc mạch phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_TISSUE_FINDINGS</LocID>                            <Text>Phát hiện mô phổi mỏng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_TISSUE_FINDINGS_DESCRIPTION</LocID>                <Text>Chụp CT cho thấy tình trạng nhiễm vi khuẩn nghiêm trọng trong phổi và phế quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUPUS_FINDINGS</LocID>                                  <Text>Phát hiện bệnh lupus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUPUS_FINDINGS_DESCRIPTION</LocID>                      <Text>Xem xét tất cả các triệu chứng và khám nghiệm được thực hiện, tất cả đều chỉ ra chẩn đoán Lupus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LYME_DISEASE_DETECTED</LocID>                           <Text>Phát hiện kháng thể Borrelia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LYME_DISEASE_DETECTED_DESCRIPTION</LocID>               <Text>Xét nghiệm huyết thanh học đã phát hiện ra kháng thể Borrelia.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_M._TUBERCULOSIS_DETECTED</LocID>                        <Text>Bệnh lao được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_M._TUBERCULOSIS_DETECTED_DESCRIPTION</LocID>            <Text>Mycobacterium tuberculosis đã được phát hiện bằng phản ứng chuỗi polymerase.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MAC_DETECTED</LocID>                                    <Text>MAC được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MAC_DETECTED_DESCRIPTION</LocID>                        <Text>Phức hợp Mycobacterium avium đã được phát hiện bằng phản ứng chuỗi polymerase.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MASTOID_CELLS_INFECTED</LocID>                          <Text>Đã phát hiện viêm cơ ức đòn chũm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MASTOID_CELLS_INFECTED_DESCRIPTION</LocID>              <Text>Chụp CT cho thấy các tế bào chũm của xương thái dương bị nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MEDIAN_NERVE_COMPRESSION</LocID>                        <Text>Chèn ép dây thần kinh giữa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MEDIAN_NERVE_COMPRESSION_DESCRIPTION</LocID>            <Text>Chụp CT đã phát hiện ra sự chèn ép của dây thần kinh giữa ở tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_METATARSAL_FRACTURE</LocID>                             <Text>Gãy cổ chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_METATARSAL_FRACTURE_DESCRIPTION</LocID>                 <Text>Chụp X-quang đã phát hiện ra một vết gãy đơn giản của xương cổ chân ở bàn chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MIGRAINE_DETECTED</LocID>                               <Text>Đã phát hiện chứng đau nửa đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MIGRAINE_DETECTED_DESCRIPTION</LocID>                   <Text>Chụp MRI đã phát hiện các dấu hiệu khác nhau cho thấy sự hiện diện của chứng đau nửa đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MITRAL_STENOSIS</LocID>                                 <Text>Hẹp van hai lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MITRAL_STENOSIS_DESCRIPTION</LocID>                     <Text>Siêu âm tim đã phát hiện hẹp van hai lá của tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MITRAL_VALVE_PROLAPSED</LocID>                          <Text>Sa van hai lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MITRAL_VALVE_PROLAPSED_DESCRIPTION</LocID>              <Text>Chụp mạch vành phát hiện sa van hai lá..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_INFLAMMED</LocID>                               <Text>Cơ bắp bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLES_INFLAMMED_DESCRIPTION</LocID>                   <Text>MRI đã phát hiện ra một vết viêm lớn của cơ và da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MYOCARDIAL_CONTUSION</LocID>                            <Text>Co bóp cơ tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MYOCARDIAL_CONTUSION_DESCRIPTION</LocID>                <Text>Siêu âm tim cho thấy có sự co thắt cơ tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MYOCARDIAL_SCARRING</LocID>                             <Text>Sẹo cơ tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MYOCARDIAL_SCARRING_DESCRIPTION</LocID>                 <Text>Xảy ra do một số bệnh tim di truyền và nhồi máu cơ tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NARROWED_ARTERIES</LocID>                               <Text>Động mạch bị thu hẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NARROWED_ARTERIES_DESCRIPTION</LocID>                   <Text>Chụp động mạch đã phát hiện ra các động mạch bị thu hẹp cần được điều trị bằng phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_OBSTRUCTION</LocID>                               <Text>Tắc nghẽn mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>                   <Text>Nghẹt mũi gây khó thở và đau quanh mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_VIRAL_INFECTION</LocID>                           <Text>Nhiễm virus ở mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_VIRAL_INFECTION_DESCRIPTION</LocID>               <Text>Kiểm tra khoang mũi phát hiện khoang mũi của bệnh nhân bị nhiễm virus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NECK_BONE_SPURS</LocID>                                 <Text>Gai xương cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NECK_BONE_SPURS_DESCRIPTION</LocID>                     <Text>MRI đã phát hiện ra các gai xương ở cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NEUROMYELITIS_DISCOVERED</LocID>                        <Text>Phát hiện viêm dây thần kinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NEUROMYELITIS_DISCOVERED_DESCRIPTION</LocID>            <Text>MRI đã phát hiện các dấu hiệu của bệnh viêm thần kinh tủy (viêm và khử men của dây thần kinh thị giác).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NO_PULSE_PRESENT</LocID>                                <Text>Không có mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NO_PULSE_PRESENT_DESCRIPTION</LocID>                    <Text>Không sờ thấy được mạch của bệnh nhân (có thể cảm nhận được bằng cách chạm vào ngón tay).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OBSTRUCTED_AIRWAYS</LocID>                              <Text>Tắc nghẽn đường thở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OBSTRUCTED_AIRWAYS_DESCRIPTION</LocID>                  <Text>Xét nghiệm đo phế dung đã chứng minh bệnh nhân mắc bệnh phổi tắc nghẽn..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OLECRANON_BURSAE_INFLAMMED</LocID>                      <Text>Túi lệ bị viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OLECRANON_BURSAE_INFLAMMED_DESCRIPTION</LocID>          <Text>Siêu âm cho thấy bệnh nhân bị viêm túi lệ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPEN_HEAD_WOUND</LocID>                                 <Text>Vết thương hở đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPEN_HEAD_WOUND_DESCRIPTION</LocID>                     <Text>Bệnh nhân bị vết thương hở ở đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPTIC_NERVE_ATROPHY</LocID>                             <Text>Teo thần kinh thị giác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OPTIC_NERVE_ATROPHY_DESCRIPTION</LocID>                 <Text>MRI thần kinh chức năng cho thấy teo dây thần kinh thị giác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTOSCLEROSIS_DISCOVERED</LocID>                         <Text>Phát hiện ra xơ vữa tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTOSCLEROSIS_DISCOVERED_DESCRIPTION</LocID>             <Text>Chụp CT cho thấy mô xương cứng bất thường gần kết nối của tai giữa với tai trong.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_ANKLE</LocID>                              <Text>Mắt cá chân lệch ra ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_ANKLE_DESCRIPTION</LocID>                  <Text>Chụp X-quang mắt cá chân của bệnh nhân bị biến dạng và lệch ra ngoài xác nhận trật khớp cổ chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_KNEE</LocID>                               <Text>Đầu gối lệch ra ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_KNEE_DESCRIPTION</LocID>                   <Text>Hình ảnh chụp X-quang của bệnh nhân biến dạng trực quan và lệch đầu gối xác nhận trật khớp gối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_SHOULDER</LocID>                           <Text>Vai lệch ra ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_SHOULDER_DESCRIPTION</LocID>               <Text>Hình ảnh chụp X-quang của bệnh nhân biến dạng thị giác và lệch vai đã xác nhận trật khớp vai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUTER_EAR_INFECTED</LocID>                              <Text>Viêm tai ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OUTER_EAR_INFECTED_DESCRIPTION</LocID>                  <Text>Khám tai bằng hình ảnh trực tiếp của tai ngoài đã cho thấy bị nhiễm trùng do vi khuẩn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA</LocID>                                   <Text>P. aeruginosa bị phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA_DESCRIPTION</LocID>                       <Text>Nuôi cấy vi sinh đã phát hiện sự hiện diện của Pseudomonas aeruginosa, gây nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._MENINGITIS</LocID>                                   <Text>Streptococcus pneumoniae</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._MENINGITIS_DESCRIPTION</LocID>                       <Text>Nuôi cấy vi sinh dịch tủy sống đã phát hiện ra sự hiện diện của vi khuẩn Streptococcus pneumoniae, được biết là nguyên nhân gây viêm màng não.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_ELASTASE_LOW_LEVEL</LocID>                   <Text>Elastase - mức thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_ELASTASE_LOW_LEVEL_DESCRIPTION</LocID>       <Text>Một cuộc thử nghiệm phân tích đã cho thấy mức độ elastase tuyến tụy thấp trong một mẫu phân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED</LocID>                     <Text>Viêm tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED_DESCRIPTION</LocID>         <Text>Chụp CT cho thấy tuyến tụy bị viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAPULAS_AND_VESICLES</LocID>                            <Text>Dịch và mụn nước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAPULAS_AND_VESICLES_DESCRIPTION</LocID>                <Text>Bằng cách kiểm tra thể chất và hình ảnh, người ta tìm thấy các mụn đỏ nổi lên và mụn nước chứa đầy dịch trên da của một bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAROTID_INFECTED</LocID>                                <Text>Nhiễm trùng mang tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PAROTID_INFECTED_DESCRIPTION</LocID>                    <Text>Xét nghiệm huyết thanh học cho thấy các kháng thể đặc hiệu cho nhiễm trùng parotis.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_KIDNEY_LACERATION</LocID>                   <Text>Rách thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_KIDNEY_LACERATION_DESCRIPTION</LocID>       <Text>Kiểm tra FAST (Đánh giá tập trung với Siêu âm trong vết thương) cho thấy thận bị rách dẫn đến xuất huyết nội.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_PANCREAS_LACERATION</LocID>                 <Text>Tuyến tụy bị rách</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_PANCREAS_LACERATION_DESCRIPTION</LocID>     <Text>FAST (Đánh giá tập trung với Siêu âm trong vết thương) khám cho thấy đầu tụy bị rách dẫn đến chảy máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_PULMONARY_LACERATION</LocID>                <Text>Rách phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_PULMONARY_LACERATION_DESCRIPTION</LocID>    <Text>FAST (Đánh giá tập trung với Siêu âm trong vết thương) khám cho thấy một vết rách ở phổi dẫn đến tràn máu màng phổi (chảy máu trong khoang ngực).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_SPLEEN_RUPTURE</LocID>                      <Text>Lá lách vỡ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PENETRATING_SPLEEN_RUPTURE_DESCRIPTION</LocID>          <Text>FAST (Đánh giá tập trung với Siêu âm trong vết thương) đã tiết lộ một vỡ lách dẫn đến xuất huyết nội tạng lớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PERITONEAL_FLUID_INFECTED</LocID>                       <Text>Dịch màng bụng nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PERITONEAL_FLUID_INFECTED_DESCRIPTION</LocID>           <Text>Phân tích dịch màng bụng đã cho thấy một kết quả gợi ý nhiễm trùng trong phúc mạc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PNEUMONIC_LUNGS</LocID>                                 <Text>Viêm phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PNEUMONIC_LUNGS_DESCRIPTION</LocID>                     <Text>Chụp X-quang cho thấy thâm nhiễm trong phổi của bệnh nhân cùng với việc kiểm tra bệnh nhân đã kết quả chẩn đoán viêm phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POLYMYOSITIS_FINDINGS</LocID>                           <Text>Phát hiện polymyositic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POLYMYOSITIS_FINDINGS_DESCRIPTION</LocID>               <Text>EMG của các cơ của bệnh nhân đã cho thấy những phát hiện gợi ý viêm đa cơ nghiêm trọng (một tình trạng viêm trong mô cơ).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORK_TAPEWORM_PRESENT</LocID>                           <Text>Sán dây lợn detected</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORK_TAPEWORM_PRESENT_DESCRIPTION</LocID>               <Text>Phân tích phân đã phát hiện ra sự hiện diện của sán dây lợn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_VEIN_BLOCKED</LocID>                             <Text>Tĩnh mạch cửa bị tắc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_VEIN_BLOCKED_DESCRIPTION</LocID>                 <Text>Chụp cắt lớp vi tính (CT) với chụp mạch (hình ảnh động mạch hoặc tĩnh mạch) đã phát hiện ra cục máu đông làm tắc tĩnh mạch cửa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PSEUDOFRACTURES</LocID>                                 <Text>Gãy xương giả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PSEUDOFRACTURES_DESCRIPTION</LocID>                     <Text>Chụp CT cho thấy nhiều vết nứt trên cơ thể bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_DAMAGE</LocID>                                <Text>Vỡ phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_DAMAGE_DESCRIPTION</LocID>                    <Text>Hình ảnh chụp X-quang cho thấy tổn thương phổi dẫn đến tràn khí màng phổi (xẹp phổi) do không khí thoát vào khoang ngực từ phổi bị tổn thương.(.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_HYPERTENSION_DETECTED</LocID>                 <Text>Phát hiện tăng áp động mạch phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_HYPERTENSION_DETECTED_DESCRIPTION</LocID>     <Text>Siêu âm tim cho thấy tăng áp động mạch phổi (tăng áp động mạch phổi).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_R._TYPHI_DETECTED</LocID>                               <Text>R. typhi đã phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_R._TYPHI_DETECTED_DESCRIPTION</LocID>                   <Text>Huyết thanh học đã phát hiện kháng nguyên Rickettsia typhi trong huyết thanh từ máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RABIES_DETECTED</LocID>                                 <Text>Phát hiện bệnh dại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RABIES_DETECTED_DESCRIPTION</LocID>                     <Text>Phản ứng chuỗi polymerase (PCR) trong mẫu máu của bệnh nhân đã phát hiện ra sự hiện diện của vi rút dại.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RADIUS_FRACTURE</LocID>                                 <Text>Xương cánh tay gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RADIUS_FRACTURE_DESCRIPTION</LocID>                     <Text>Hình ảnh chụp X-quang cho thấy xương cánh tay gãy đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RAYNAUD'S_FINDINGS</LocID>                              <Text>Phát hiện của Raynaud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RAYNAUD'S_FINDINGS_DESCRIPTION</LocID>                  <Text>Hoàn thành Kiểm tra thể chất của bệnh nhân thấy các triệu chứng cổ điển gợi ý bệnh Raynaud.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RENAL_HYPERTENSION</LocID>                              <Text>Tăng huyết áp thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RENAL_HYPERTENSION_DESCRIPTION</LocID>                  <Text>Sinh thiết mô thận của bệnh nhân có dấu hiệu tổn thương thận gây tăng huyết áp toàn thân..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RETINA_SCARRING</LocID>                                 <Text>Sẹo võng mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RETINA_SCARRING_DESCRIPTION</LocID>                     <Text>Chụp mạch đã phát hiện ra các phần có sẹo của võng mạc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RETINOPATHY_DISCOVERED</LocID>                          <Text>Bệnh võng mạc được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RETINOPATHY_DISCOVERED_DESCRIPTION</LocID>              <Text>Soi đáy mắt cho thấy tổn thương các mạch máu của võng mạc, gợi ý bệnh lý võng mạc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RIBS_FRACTURE</LocID>                                   <Text>Gãy xương sườn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RIBS_FRACTURE_DESCRIPTION</LocID>                       <Text>Hình ảnh chụp X-quang cho thấy nhiều xương sườn bị gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RH._FEVER</LocID>                                       <Text>Thấp khớp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RH._FEVER_DESCRIPTION</LocID>                           <Text>Siêu âm tim cho thấy các triệu chứng của sốt thấp khớp liên quan đến tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RHEUMATOID_FACTOR</LocID>                               <Text>Yếu tố dạng thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RHEUMATOID_FACTOR_DESCRIPTION</LocID>                   <Text>Các xét nghiệm huyết thanh đã cho thấy sự hiện diện của Yếu tố dạng thấp trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RSV_AND_ADVS_PRESENT</LocID>                            <Text>RSV hiện diện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RSV_AND_ADVS_PRESENT_DESCRIPTION</LocID>                <Text>Xét nghiệm huyết thanh học đã phát hiện ra sự hiện diện của kháng thể RSV.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S-IBM_FINDINGS</LocID>                                  <Text>phát hiện sIBM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S-IBM_FINDINGS_DESCRIPTION</LocID>                      <Text>EMG đã tiết lộ những phát hiện gợi ý viêm cơ lẻ tẻ của cơ thể bao gồm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S._MENINGITIS</LocID>                                   <Text>Staphylococcus aureus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S._MENINGITIS_DESCRIPTION</LocID>                       <Text>Phân tích dịch tủy sống của bệnh nhân cho thấy sự hiện diện của Staphylococcus aureus gợi ý viêm màng não..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S._PYOGENES_PRESENT</LocID>                             <Text>S. pyogenes hiện diện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_S._PYOGENES_PRESENT_DESCRIPTION</LocID>                 <Text>Nuôi cấy vi khuẩn đã xác nhận sự hiện diện của Streptococcus pyogenes.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SALMONELLA_TYPHI_DETECTED</LocID>                       <Text>S. typhi được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SALMONELLA_TYPHI_DETECTED_DESCRIPTION</LocID>           <Text>Nuôi cấy vi khuẩn đã phát hiện Salmonella typhi trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SALMONELLOSIS_CONFIRMED</LocID>                         <Text>Salmonellosis được xác nhận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SALMONELLOSIS_CONFIRMED_DESCRIPTION</LocID>             <Text>Nuôi cấy vi khuẩn đã xác nhận nhiễm khuẩn Salmonella trong mẫu phân của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCLERA_CHANGES</LocID>                                  <Text>Viêm màng cứng tự miễn dịch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCLERA_CHANGES_DESCRIPTION</LocID>                      <Text>Siêu âm đã cho thấy những thay đổi đối với màng cứng gợi ý đến tình trạng viêm màng cứng tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCLEROTIC_LIVER_TISSUE</LocID>                          <Text>Mô gan xơ cứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCLEROTIC_LIVER_TISSUE_DESCRIPTION</LocID>              <Text>Khi mô gan bị tổn thương, nó được thay thế bằng mô sẹo thô hơn nhiều so với mô khỏe mạnh và không thể thực hiện các nhiệm vụ bình thường của gan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCRATCHED_CORNEA</LocID>                                <Text>Trầy xước giác mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCRATCHED_CORNEA_DESCRIPTION</LocID>                    <Text>Nội soi cho thấy có một vết thương nhỏ ở giác mạc do dị vật đập vào mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCOLIOTIC_FINDINGS</LocID>                              <Text>Vẹo cột sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCOLIOTIC_FINDINGS_DESCRIPTION</LocID>                  <Text>Kiểm tra thể chất và hình ảnh chụp X-quang cho thấy cột sống của bệnh nhân bị cong bất thường (vẹo cột sống).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHIFTED_VERTEBRA</LocID>                                <Text>Gãy và trật khớp đốt sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHIFTED_VERTEBRA_DESCRIPTION</LocID>                    <Text>Hình ảnh chụp X-quang cho thấy một đốt sống bị gãy và trật khớp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHOULDER_SPRAIN</LocID>                                 <Text>Bong gân vai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SHOULDER_SPRAIN_DESCRIPTION</LocID>                     <Text>Kiểm tra MRI vai của một bệnh nhân xác nhận bị bong gân ở vai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPATULA_TEST_POSITIVE</LocID>                           <Text>Spatula dương tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SPATULA_TEST_POSITIVE_DESCRIPTION</LocID>               <Text>Đánh giá các triệu chứng của bệnh nhân được kết thúc bằng xét nghiệm thìa cho thấy có trismus (hàm bị khóa) và do đó xác nhận nhiễm Uốn ván.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STOOL_CONTAINING_BACTERIAS</LocID>                      <Text>Campylobacter trong phân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STOOL_CONTAINING_BACTERIAS_DESCRIPTION</LocID>          <Text>Việc nuôi cấy vi khuẩn từ một mẫu phân đã xác nhận sự hiện diện của Campylobacter.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREP_SKIN_INFECTION</LocID>                            <Text>Nhiễm trùng da do Strep</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREP_SKIN_INFECTION_DESCRIPTION</LocID>                <Text>Nuôi cấy vi khuẩn trên một miếng gạc da đã xác nhận nhiễm trùng da do loài Streptococcal.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED</LocID>                        <Text>Đã phát hiện vi khuẩn Streptobacillus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED_DESCRIPTION</LocID>            <Text>Xét nghiệm huyết thanh học phát hiện kháng thể đặc hiệu cho Streptobacillus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STRESS_VERTEBRAL_FRACTURE</LocID>                       <Text>Gãy xương do căng thẳng đốt sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STRESS_VERTEBRAL_FRACTURE_DESCRIPTION</LocID>           <Text>MRI cho thấy một vết gãy do căng thẳng nhỏ của một đốt sống thắt lưng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SUPERFICIAL_THROMBOSIS</LocID>                          <Text>Huyết khối bề ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SUPERFICIAL_THROMBOSIS_DESCRIPTION</LocID>              <Text>Siêu âm đã phát hiện ra huyết khối tĩnh mạch nông.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_PERICARDIUM</LocID>                             <Text>Màng ngoài tim sưng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SWOLLEN_PERICARDIUM_DESCRIPTION</LocID>                 <Text>Chụp CT cho thấy một màng ngoài tim bị sưng và bị kích thích (viêm túi chứa tim).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_T._PEDIS_DETECTED</LocID>                               <Text>Phát hiện nấm da đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_T._PEDIS_DETECTED_DESCRIPTION</LocID>                   <Text>Trồng nấm đã được chứng minh là một bệnh nhiễm trùng da liễu khu trú ở lòng bàn chân và các khoang giữa các đốt sống cổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TBE_DETECTED</LocID>                                    <Text>TBE được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TBE_DETECTED_DESCRIPTION</LocID>                        <Text>Phân tích CSF đã phát hiện vi rút TBE (Tick Borne Encephalitis).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIBIA_FRACTURE</LocID>                                  <Text>Gãy xương chày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIBIA_FRACTURE_DESCRIPTION</LocID>                      <Text>Chụp X-quang cho thấy gãy xương chày đơn giản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIBIA_SPIRAL_FRACTURE</LocID>                           <Text>Gãy xoắn ốc xương chày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIBIA_SPIRAL_FRACTURE_DESCRIPTION</LocID>               <Text>Chụp X-quang cho thấy một vết gãy xoắn ốc phức tạp của xương chày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THALASSEMIA_DISCOVERED</LocID>                          <Text>Thalassemia được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THALASSEMIA_DISCOVERED_DESCRIPTION</LocID>              <Text>Xét nghiệm máu cho kết quả gợi ý bệnh Thalassemia.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THORAX_CONTUSION</LocID>                                <Text>Thorax contusion</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THORAX_CONTUSION_DESCRIPTION</LocID>                    <Text>Chụp X-quang không cho thấy bất kỳ mảnh xương nào bị gãy ở một bệnh nhân bị co thắt ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TOXOPLASMOSIS_DETECTED</LocID>                          <Text>Toxoplasmosis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TOXOPLASMOSIS_DETECTED_DESCRIPTION</LocID>              <Text>Xét nghiệm huyết thanh đã tiết lộ Toxoplasmosis trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRAUMATIC_AORTIC_RUPTURE</LocID>                        <Text>Vỡ động mạch chủ sau chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRAUMATIC_AORTIC_RUPTURE_DESCRIPTION</LocID>            <Text>Một bệnh nhân bị chấn thương vỡ động mạch chủ dẫn đến xuất huyết nội tạng lớn..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRAUMATIC_CARDIAC_ARREST</LocID>                        <Text>Ngừng tim do chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRAUMATIC_CARDIAC_ARREST_DESCRIPTION</LocID>            <Text>Một bệnh nhân bị ngừng tim do chấn thương ngực.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRICUSPID_REGURGITATION</LocID>                         <Text>Trào ngược van ba lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRICUSPID_REGURGITATION_DESCRIPTION</LocID>             <Text>Siêu âm tim cho thấy hở van ba lá trào ngược.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTOPENIA_DETECTED</LocID>                       <Text>Giảm tiểu cầu được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTOPENIA_DETECTED_DESCRIPTION</LocID>           <Text>Xét nghiệm máu đã phát hiện mức độ thấp của tiểu cầu (dưới 150k mỗi ml).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRYPANOSOMA_DETECTED</LocID>                            <Text>Trypanosoma được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TRYPANOSOMA_DETECTED_DESCRIPTION</LocID>                <Text>Xét nghiệm huyết thanh học đã phát hiện ra kháng thể Trypanosoma cruzi trong mẫu máu của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TSH_LEVEL_HIGH</LocID>                                  <Text>TSH - mức cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TSH_LEVEL_HIGH_DESCRIPTION</LocID>                      <Text>Nồng độ TSH (hormone kích thích tuyến giáp) trong máu cao cho thấy tuyến giáp hoạt động kém.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TSH_LEVEL_LOW</LocID>                                   <Text>TSH - mức thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TSH_LEVEL_LOW_DESCRIPTION</LocID>                       <Text>Nồng độ TSH (hormone kích thích tuyến giáp) trong máu thấp cho thấy cường giáp (tuyến giáp hoạt động quá mức).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TUBULUS_INFLAMMED</LocID>                               <Text>Viêm hệ thống ống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TUBULUS_INFLAMMED_DESCRIPTION</LocID>                   <Text>Phân tích trong phòng thí nghiệm vật liệu sinh học lấy từ một quả thận đã phát hiện ra tình trạng viêm hệ thống ống.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TYMPANIC_MEMBRANE_INFLAMMED</LocID>                     <Text>Viêm màng nhĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TYMPANIC_MEMBRANE_INFLAMMED_DESCRIPTION</LocID>         <Text>Khám tai mũi họng đã phát hiện ra tình trạng viêm màng nhĩ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULCERS_IN_COLON_DISCOVERED</LocID>                      <Text>Loét ruột kết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULCERS_IN_COLON_DISCOVERED_DESCRIPTION</LocID>          <Text>Một phương pháp chẩn đoán chuyên biệt được gọi là CT enterography đã phát hiện ra nhiều vết loét trong đại tràng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNA_FRACTURE</LocID>                                   <Text>Đứt gãy xương tay trụ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNA_FRACTURE_DESCRIPTION</LocID>                       <Text>Chụp X-quang cho thấy một vết gãy đơn giản của xương tay trụ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNA_FRAGMENTS_FRACTURE</LocID>                         <Text>Mãnh xương tay trụ gãy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNA_FRAGMENTS_FRACTURE_DESCRIPTION</LocID>             <Text>Chụp X-quang cho thấy nhiều mảnh xương trong gãy xương tay trụ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNAR_NERVE_COMPRESSION</LocID>                         <Text>Chèn dây thần kinh tay trụ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ULNAR_NERVE_COMPRESSION_DESCRIPTION</LocID>             <Text>Kiểm tra điện cơ của các cơ được điều khiển bởi dây thần kinh tay trụ cho thấy sự chèn ép dây thần kinh tay trụ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_URETHRAL_STONES_DETECTED</LocID>                        <Text>Phát hiện sỏi niệu quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_URETHRAL_STONES_DETECTED_DESCRIPTION</LocID>            <Text>Kiểm tra siêu âm cho thấy một viên sỏi lớn làm tắc nghẽn một trong các niệu quản (ống nối thận và bàng quang).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VARICES_IN_OESOPHAGUS</LocID>                           <Text>Dị vật trong thực quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VARICES_IN_OESOPHAGUS_DESCRIPTION</LocID>               <Text>Nội soi dạ dày đã phát hiện nhiều dị vật trong thực quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VEIN_OCCLUSION</LocID>                                  <Text>Tắc tĩnh mạch võng mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VEIN_OCCLUSION_DESCRIPTION</LocID>                      <Text>Chụp mạch cho thấy một tĩnh mạch bị tắc nghẽn trong võng mạc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIBRIO_CHOLERAE_DETECTED</LocID>                        <Text>Đã phát hiện Vibrio cholerae</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIBRIO_CHOLERAE_DETECTED_DESCRIPTION</LocID>            <Text>Nuôi cấy vi khuẩn từ một mẫu phân đã phát hiện sự hiện diện của Vibrio cholerae.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIRAL_INFECTION_OF_OESOPHAGUS</LocID>                   <Text>Nhiễm trùng thực quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIRAL_INFECTION_OF_OESOPHAGUS_DESCRIPTION</LocID>       <Text>Nội soi dạ dày phát hiện thực quản bệnh nhân bị nhiễm trùng lớn dẫn đến áp xe.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WHITE_PATCHES_ON_TONSILS</LocID>                        <Text>Các mảng trắng trên amidan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WHITE_PATCHES_ON_TONSILS_DESCRIPTION</LocID>            <Text>Amiđan bị đổi màu hoặc mảng trắng cho thấy quá trình viêm nhiễm trong cổ họng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WIDESPREAD_PAINFUL_RASH</LocID>                         <Text>Phát ban đau đớn lan rộng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WIDESPREAD_PAINFUL_RASH_DESCRIPTION</LocID>             <Text>Bằng cách kiểm tra trực quan của một bệnh nhân, một vết phát ban lan rộng, đau đớn bao phủ toàn bộ cơ thể được tìm thấy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WRIST_CONTUSION</LocID>                                 <Text>Co cứng cổ tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WRIST_CONTUSION_DESCRIPTION</LocID>                     <Text>Kiểm tra bằng tia WidespreaX cho thấy không có xương gãy ở một bệnh nhân bị phát ban đau ở cổ tay.</Text>  </GameDBLocalizedString>
+
+            <!-- Surgery complication symptoms -->
+            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE</LocID>                               <Text>Chèn ép tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CARDIAC_TAMPONADE_DESCRIPTION</LocID>                   <Text>Tình trạng đe dọa tính mạng sau phẫu thuật khi màng ngoài tim (một túi bao quanh tim) chứa đầy máu, khiến tim rất khó bơm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND</LocID>                         <Text>Vết cắt do phẫu thuật chảy máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLEEDING_FROM_THE_WOUND_DESCRIPTION</LocID>             <Text>Chảy máu do vết cắt phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION</LocID>                                 <Text>Vết thương nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WOUND_INFECTION_DESCRIPTION</LocID>                     <Text>Nhiễm trùng vết mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING</LocID>                                  <Text>Sưng não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_SWELLING_DESCRIPTION</LocID>                      <Text>Phù não do phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE</LocID>                         <Text>Huyết áp không ổn định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_UNSTABLE_BLOOD_PRESSURE_DESCRIPTION</LocID>             <Text>Huyết áp không ổn định do phản ứng với phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEIZURES</LocID>                                        <Text>Động kinh sau phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEIZURES_DESCRIPTION</LocID>                            <Text>Các đợt co giật ngắn gây ra bởi hoạt động bất thường của tế bào thần kinh sau phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABSCESS</LocID>                                         <Text>Áp xe</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ABSCESS_DESCRIPTION</LocID>                             <Text>Tích tụ mủ trong mô xung quanh vết thương phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE</LocID>                               <Text>Xẹp phế nang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ALVEOLAR_COLLAPSE_DESCRIPTION</LocID>                   <Text>Xẹp các phần nhỏ nhất của mô phổi (phế nang) sau khi dùng thuốc an thần và thở máy trong khi phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPSIS</LocID>                                          <Text>Nhiễm trùng huyết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPSIS_DESCRIPTION</LocID>                              <Text>Biến chứng sau phẫu thuật và tình trạng đe dọa tính mạng do phản ứng của cơ thể đối với nhiễm trùng.</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

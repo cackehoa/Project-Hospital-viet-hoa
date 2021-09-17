@@ -1,0 +1,34 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_EVENTS">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+
+            <!-- Event names -->
+            <GameDBLocalizedString>      <LocID>EVENT_TEST</LocID>                      <Text>Sự kiện thử nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EVENT_PANDEMIC</LocID>                  <Text>Dịch bệnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EVENT_NATURAL_DISASTER</LocID>          <Text>Thảm họa thiên nhiên</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_CURE_PATIENT</LocID>          <Text>Chữa khỏi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_CURE_PATIENTS</LocID>         <Text>Chữa bệnh cho bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_STABILIZE_PATIENT</LocID>     <Text>Điều trị các triệu chứng cao:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_PLACE_ROOM</LocID>            <Text>Đặt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_EQUIP_ROOM</LocID>            <Text>Trang bị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_HIRE_EMPLOYEE</LocID>         <Text>Thuê nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_MAINTAIN_PRESTIGE</LocID>     <Text>Giữ uy tín trên {1} sao trong {2} ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_MAINTAIN_HIGH_INCOME</LocID>  <Text>Giữ thu nhập {1} trở lên trong {2} ngày</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_COMPLETE_HOSPITALIZATION</LocID><Text>Nhập viện trên tất cả bộ ngành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_TREATED_PATIENTS_PERCENTAGE</LocID>  <Text>Ít nhất {1}% Bệnh nhân điều trị trong 10 ngày</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    

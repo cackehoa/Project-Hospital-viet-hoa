@@ -1,0 +1,519 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_DIAGNOSES">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <!-- ============================ -->
+            <!-- Diagnoses - Emergency -->
+            <!-- ============================ -->
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Sán dây lợn</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Sán dây lợn (T. solium) là loài giun dẹp ký sinh sống trong hệ tiêu hóa của người. Lợn đóng vai trò là vật chủ trung gian khi chúng ăn thức ăn gia súc hoặc nước bị nhiễm phân người. Ăn thịt lợn nấu chưa chín có thể gây nhiễm sán.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Sán dây bò</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Sán dây bò (T. saginata) là loài giun dẹp ký sinh sống trong hệ tiêu hóa của người. Gia súc đóng vai trò là vật chủ trung gian khi chúng tiêu thụ thức ăn gia súc hoặc nước bị nhiễm phân người. Ăn thịt bò chưa nấu chín có thể gây nhiễm trùng.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Thủy đậu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Bệnh thủy đậu là một bệnh rất dễ lây lan do nhiễm vi rút Varicella zoster ban đầu. Bệnh dẫn đến phát ban da đặc trưng tạo thành các mụn nước nhỏ và ngứa, cuối cùng đóng vảy..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Bệnh giời leo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Bệnh zona là một bệnh nhiễm trùng do vi rút varicella-zoster tái hoạt động. Căn bệnh này dẫn đến phát ban đỏ trên da, hình thành các mụn nước nhỏ thành dải rộng sau quá trình phát ban da liễu. Bệnh zona có thể cực kỳ đau đớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nấm móng tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>Nấm móng tay, còn được gọi là Nấm móng hoặc Tinea unguium, là một bệnh nhiễm trùng do nấm ảnh hưởng đến ngón tay hoặc móng chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>Chân của vận động viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>Chân của vận động viên, còn gọi là bệnh nấm da chân là một bệnh nhiễm trùng da ở bàn chân rất dễ lây lan do nấm gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>Thiếu máu do thiếu sắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>Thiếu máu được định nghĩa là tình trạng giảm khả năng vận chuyển oxy của máu. Điều này có thể do giảm lượng hồng cầu hoặc hemoglobin. Thiếu máu do thiếu sắt là dạng thiếu máu phổ biến nhất.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>Không dung nạp lactose</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>Không dung nạp lactose là không có khả năng tiêu hóa lactose, một loại đường có trong các sản phẩm sữa. Đường lactose không được tiêu hóa có thể dẫn đến đầy hơi, tiêu chảy, đầy hơi hoặc đau bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>Cảm lạnh thông thường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>Cảm lạnh thông thường là một bệnh nhiễm vi rút nằm ở hệ thống hô hấp trên, thường là mũi hoặc họng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>Viêm xoang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>Viêm xoang là tình trạng viêm của một hoặc nhiều xoang. Viêm xoang gây sưng tấy và có thể làm ảnh hưởng đến việc thoát chất nhầy hoặc mủ từ các hốc xoang liên quan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>Viêm họng hạt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>Viêm họng là tình trạng cổ họng bị viêm và có thể do vi khuẩn hoặc vi rút gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>Viêm amidan do vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Viêm amidan do vi khuẩn là tình trạng amidan bị nhiễm trùng. Viêm amidan do vi khuẩn phổ biến nhất là do Streptococcus pyogenes gây ra, và được gọi là 'viêm họng do liên cầu khuẩn'.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>Viêm amidan do virus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>Viêm amidan do virut là tình trạng nhiễm trùng amidan và có thể do một số tác nhân virut gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Viêm thanh quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Viêm thanh quản đề cập đến tình trạng viêm của vòm họng. Nó có thể do vi khuẩn hoặc vi rút gây ra, nhưng cũng có thể do sử dụng giọng nói quá nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Bệnh cúm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Bệnh cúm, thường được gọi là 'cúm', là một bệnh truyền nhiễm phổ biến do họ vi rút cúm gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Viêm phế quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Viêm phế quản là tình trạng viêm đường hô hấp dưới được gọi là phế quản và thường do vi rút gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Sốt mùa hè</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Sốt mùa hè, về mặt y học được gọi là viêm mũi dị ứng, là tình trạng viêm ở mũi do phản ứng dị ứng với chất gây dị ứng trong không khí, chẳng hạn như phấn hoa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Viêm da tiếp xúc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Viêm da tiếp xúc là phát ban cục bộ hoặc kích ứng da do tiếp xúc với chất gây dị ứng hoặc kích ứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>Khuỷu tay của người chơi golf</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW_DESCRIPTION</LocID>             <Text>Khuỷu tay của người chơi gôn, còn được gọi là bệnh viêm vận động cơ sống giữa, được đặc trưng bởi cơn đau lan tỏa từ bên trong khuỷu tay đến cổ tay. Tình trạng này là do thực hiện các chuyển động lặp đi lặp lại dẫn đến kích thích các cơ và gân chịu trách nhiệm cho các chuyển động nói trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS</LocID>                         <Text>Vẹo cột sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS_DESCRIPTION</LocID>             <Text>Vẹo cột sống là tình trạng cột sống bị cong sang một bên, thường có hình chữ C hoặc S. Vẹo cột sống thường không đau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS</LocID>                         <Text>Hội chứng Raynaud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS_DESCRIPTION</LocID>             <Text>Hội chứng Raynaud gây tê và lạnh bàn tay, ngón tay và ngón chân do phản ứng với nhiệt độ lạnh ngoài trời.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS</LocID>                         <Text>Hội chứng mệt mỏi mãn tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS_DESCRIPTION</LocID>             <Text>Hội chứng mệt mỏi mãn tính là một bệnh rất phức tạp đề cập đến một tình trạng mệt mỏi mà không thể giải thích được bằng bất kỳ tình trạng bệnh lý tiềm ẩn nào.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>Mất ngủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>Mất ngủ được định nghĩa là một trải nghiệm chủ quan về giấc ngủ tồi tệ. Điều này có thể do bạn không thể đi vào giấc ngủ, ngủ liên tục suốt đêm hoặc thức dậy quá sớm.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>Sưng tấy tay</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>Sưng tấy bàn tay</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>Sưng tấy chân</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>Sưng tấy mắt cá chân</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>Sưng tấy cẳng chân</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>Sưng tấy ngực</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>Vết sưng tấy, còn được gọi là vết bầm tím, là một vùng mô bị thương thường có màu tím.</Text>   </GameDBLocalizedString>
+
+            <!-- ============================ -->
+            <!-- Diagnoses - Khoa phẫu thuật tổng quát-->
+            <!-- ============================ -->
+
+            <GameDBLocalizedString>      <LocID>DIA_HEPA</LocID>                        <Text>Viêm gan A</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPA_DESCRIPTION</LocID>            <Text>Viêm gan đề cập đến một bệnh nhiễm vi rút ở gan. Virus viêm gan A lây lan qua phân và thường xảy ra ở những nơi có điều kiện vệ sinh hoặc kém vệ sinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPB</LocID>                        <Text>Viêm gan B</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Viêm gan đề cập đến một bệnh nhiễm vi rút ở gan. Virus viêm gan B lây lan qua đường máu, đường tình dục hoặc từ mẹ sang con.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>Suy tuyến tụy ngoại tiết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Suy tuyến tụy xảy ra khi tuyến bị tổn thương đủ để hoạt động bình thường. Do đó, sự hấp thụ bình thường của các chất dinh dưỡng trong ruột non bị tổn hại, dẫn đến thiếu hụt dinh dưỡng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>Bệnh viêm tuyến giáp Hashimoto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>Viêm tuyến giáp Hashimoto là một bệnh tự miễn dịch trong đó hệ thống miễn dịch dần dần phá hủy tuyến giáp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>Suy giáp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>Suy giáp là một bệnh mà tuyến giáp hoạt động không đầy đủ và sản xuất quá ít hormone tuyến giáp..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT</LocID>                         <Text>Chứng bệnh Grave</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>Bệnh Grave là một bệnh nội tiết mà tuyến giáp sản xuất quá mức hormone tuyến giáp..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OES</LocID>                         <Text>Viêm thực quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>Viêm thực quản là tình trạng viêm niêm mạc thực quản, thường do trào ngược axit.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>Giãn tĩnh mạch thực quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV_DESCRIPTION</LocID>             <Text>Giãn tĩnh mạch thực quản là hiện tượng các tĩnh mạch trong thực quản mở rộng bất thường. Chúng thường do tăng áp lực tĩnh mạch cửa do bệnh gan hiện có.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP</LocID>                         <Text>Nhiễm H. pylori</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP_DESCRIPTION</LocID>             <Text>Helicobacter pylori là một loại vi khuẩn có ở đường tiêu hóa trên. Nó là nguyên nhân chính gây ra viêm loét dạ dày tá tràng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAU</LocID>                         <Text>Bệnh viêm loét dạ dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAU_DESCRIPTION</LocID>             <Text>Loét dạ dày tá tràng là một tổn thương hở ở niêm mạc dạ dày, tá tràng hoặc thực quản. Nó thường được gây ra bởi vi khuẩn h. pylori hoặc sử dụng kéo dài, quá nhiều NSAID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAS</LocID>                         <Text>Viêm dạ dày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAS_DESCRIPTION</LocID>           	<Text>Viêm dạ dày là tình trạng viêm hoặc xói mòn niêm mạc dạ dày. Nó được gây ra bởi; chế độ dinh dưỡng không tốt, sử dụng quá nhiều rượu hoặc sử dụng quá nhiều một số loại thuốc. Điều trị bằng thuốc ức chế bơm protone và ngừng rượu hoặc thuốc gây ra các triệu chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DUO</LocID>                         <Text>Viêm tá tràng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DUO_DESCRIPTION</LocID>             <Text>Viêm tá tràng là tình trạng viêm niêm mạc của tá tràng; phần đầu tiên của ruột non, dài 12 inch và cong thành hình chữ C..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APP</LocID>                         <Text>Viêm ruột thừa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APP_DESCRIPTION</LocID>             <Text>Viêm ruột thừa đề cập đến tình trạng nhiễm trùng trong ruột thừa, trở nên tắc nghẽn và sưng lên. Một ruột thừa bị vỡ có thể gây tử vong và do đó viêm ruột thừa là một trong những lý do phổ biến nhất cho phẫu thuật bụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRH</LocID>                         <Text>Bệnh Crohn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRH_DESCRIPTION</LocID>             <Text>Bệnh Crohn là một bệnh viêm ruột ảnh hưởng đến toàn bộ ruột. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có các thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ULC</LocID>                         <Text>Viêm đại tràng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ULC_DESCRIPTION</LocID>             <Text>Viêm loét đại tràng là một bệnh viêm ruột tạo ra các vết loét trong ruột già. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có các thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBS</LocID>                         <Text>Hội chứng ruột kích thích</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBS_DESCRIPTION</LocID>             <Text>Hội chứng ruột kích thích là rối loạn tiêu hóa mãn tính đòi hỏi một phương pháp điều trị lâu dài. Nó không lây nhiễm. Thay đổi chế độ ăn uống và thuốc thường có thể làm giảm các triệu chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_FDR</LocID>                         <Text>Viêm dạ dày ruột do vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_FDR_DESCRIPTION</LocID>             <Text>Viêm dạ dày ruột do vi khuẩn là bệnh đường tiêu hóa phổ biến, trong hầu hết các trường hợp kéo dài vài ngày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_FOI</LocID>                         <Text>Lỗ rò của ruột</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_FOI_DESCRIPTION</LocID>             <Text>Một lỗ rò là một kết nối giải phẫu bất thường giữa hai không gian rỗng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PER</LocID>                         <Text>Viêm phúc mạc nguyên phát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PER_DESCRIPTION</LocID>             <Text>Viêm phúc mạc nguyên phát là một nhiễm trùng do vi khuẩn của phúc mạc; một lớp màng bao phủ thành bụng bên trong và các cơ quan trong khoang bụng. Nếu không được điều trị, tình trạng này hầu như luôn luôn gây tử vong.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEF</LocID>                         <Text>Xơ gan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEF_DESCRIPTION</LocID>             <Text>Xơ gan thể hiện sự tích tụ mô sẹo trong gan. Các mô sẹo có thể là kết quả của tình trạng viêm lâu dài hoặc một bệnh gan khác do vi rút, vi khuẩn, suy dinh dưỡng hoặc lạm dụng rượu, v.v. Nếu không được điều trị, nó sẽ gây ra xơ gan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CIR</LocID>                         <Text>Xơ gan cứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CIR_DESCRIPTION</LocID>             <Text>Xơ gan mô tả tình trạng gan hoạt động sai chức năng do tổn thương lâu dài; mô gan bình thường được thay thế bằng mô sẹo.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLT</LocID>                         <Text>Sỏi mật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLT_DESCRIPTION</LocID>             <Text>Sỏi mật, còn được gọi là sỏi đường mật, là sự kết dính thường được tạo ra từ bilirubin, axit mật và canxi được hình thành trong túi mật. Sỏi mật thường không gây ra các triệu chứng, tuy nhiên, nếu chúng làm tắc ống mật, chúng có thể gây ra nhiều tình trạng nghiêm trọng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLS</LocID>                         <Text>Viêm túi mật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLS_DESCRIPTION</LocID>             <Text>Viêm túi mật là tình trạng viêm và nhiễm trùng túi mật, thường là do tắc nghẽn ống nang bởi sỏi mật..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLA</LocID>                         <Text>Viêm đường mật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLA_DESCRIPTION</LocID>             <Text>Viêm đường mật là một bệnh nhiễm trùng của ống mật thường do vi khuẩn đi lên từ tá tràng gây ra. Nó thường xảy ra khi ống mật đã bị tắc nghẽn một phần do sỏi mật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APT</LocID>                         <Text>Viêm tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APT_DESCRIPTION</LocID>             <Text>Viêm tụy đề cập đến tình trạng viêm của tuyến tụy. Nó thường là do tắc nghẽn sỏi mật hoặc lạm dụng rượu quá mức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COE</LocID>                         <Text>Bệnh Celiac</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COE_DESCRIPTION</LocID>             <Text>Bệnh Celiac là một rối loạn tự miễn dịch trong đó hệ thống miễn dịch phản ứng với gluten trong chế độ ăn uống có trong lúa mì, lúa mạch đen và lúa mạch. Phản ứng này gây viêm ruột non và do đó làm kém hấp thu các chất dinh dưỡng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANS</LocID>                         <Text>Viêm cầu thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANS_DESCRIPTION</LocID>             <Text>Viêm cầu thận đề cập đến tình trạng viêm của bộ phận lọc của thận. Nó có thể được gây ra bởi nhiễm trùng hoặc tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TIN</LocID>                         <Text>Viêm thận kẽ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TIN_DESCRIPTION</LocID>             <Text>Viêm thận kẽ là tình trạng viêm mô kẽ của thận. Nó có thể do nhiễm trùng hoặc do phản ứng bất lợi với thuốc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNS</LocID>                         <Text>Viêm bể thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNS_DESCRIPTION</LocID>             <Text>Viêm bể thận là tình trạng viêm thận, thường là do vi khuẩn tăng dần lây lan qua đường tiết niệu..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARF</LocID>                         <Text>Suy thận cấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARF_DESCRIPTION</LocID>             <Text>Suy thận cấp là tình trạng mất chức năng thận đột ngột, không còn khả năng lọc máu và sản xuất nước tiểu. Nguyên nhân có thể do nhiều nguyên nhân, nhưng thường là do tổn thương mô rộng hoặc do giảm lưu lượng máu đến thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKD</LocID>                         <Text>Bệnh thận mãn tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKD_DESCRIPTION</LocID>             <Text>Bệnh thận mãn tính đề cập đến sự mất dần chức năng của thận. Nguyên nhân phổ biến nhất là bệnh đái tháo đường không được điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COK</LocID>                         <Text>Sỏi thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COK_DESCRIPTION</LocID>             <Text>Sỏi thận, còn được gọi là sỏi niệu, thường là sự kết dính của canxi. Mặc dù sỏi thường tự đào thải qua đường tiết niệu nhưng đây là một tình trạng vô cùng đau đớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COU</LocID>                         <Text>Calculus niệu quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COU_DESCRIPTION</LocID>             <Text>Sỏi thận, còn được gọi là sỏi niệu, thường là sự kết dính của canxi. Mặc dù sỏi thường tự di chuyển qua đường tiết niệu nhưng đôi khi chúng có thể bị mắc kẹt trong niệu quản, đây là một tình trạng vô cùng đau đớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CIB</LocID>                         <Text>Calculus trong bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CIB_DESCRIPTION</LocID>             <Text>Sỏi bàng quang có thể được hình thành trong bàng quang do sự khoáng hóa của nước tiểu cô đặc. Sẽ chỉ có các triệu chứng nếu dòng chảy của nước tiểu bị tổn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACS</LocID>                         <Text>Nhiễm trùng đường tiết niệu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACS_DESCRIPTION</LocID>             <Text>UTF, hay viêm bàng quang, là một bệnh nhiễm trùng bàng quang thường do E. coli; một loại vi khuẩn thường được tìm thấy trong đường tiêu hóa (GI). Đây là một tình trạng phổ biến hơn hàng trăm lần ở phụ nữ do đường tiết niệu ngắn hơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INC</LocID>                         <Text>Viêm bàng quang kẽ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INC_DESCRIPTION</LocID>             <Text>Viêm bàng quang kẽ còn được gọi là hội chứng bàng quang đau.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_LIP</LocID>                         <Text>Rách gan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LIP_DESCRIPTION</LocID>             <Text>Vết rách gan xảy ra khi một vật thể xuyên qua mô của cơ thể và làm rách gan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LIB</LocID>                         <Text>Co bóp gan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LIB_DESCRIPTION</LocID>             <Text>Co thắt gan xảy ra do chấn thương thực thể ở vùng bụng trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SRB</LocID>                         <Text>Vỡ lá lách cùn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SRB_DESCRIPTION</LocID>             <Text>Vỡ lá lách cùn do va đập, chấn thương hoặc tấn công vật lý, nhưng không có vết thương hở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SRP</LocID>                         <Text>Thủng lá lách</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SRP_DESCRIPTION</LocID>             <Text>Vỡ lá lách do xuyên thủng xảy ra khi một vật thể xuyên qua da bụng trên, gây ra vết thương hở và tổn thương lá lách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SCB</LocID>                         <Text>Lách bị sưng tấy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SCB_DESCRIPTION</LocID>             <Text>Lách bị sưng tấy là hiện tượng lá lách bị bầm tím sau khi tác động trực tiếp vào vùng bụng trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCB</LocID>                         <Text>Tràn dịch tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCB_DESCRIPTION</LocID>             <Text>Tràn dịch tụy xảy ra do chấn thương thực thể ở vùng bụng trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLB</LocID>                         <Text>Vết rách tuyến tụy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLB_DESCRIPTION</LocID>             <Text>Vết rách tuyến tụy do va đập, chấn thương hoặc tấn công vật lý, nhưng không có vết thương hở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCP</LocID>                         <Text>Vết rách tuyến tụy đâm xuyên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCP_DESCRIPTION</LocID>             <Text>Vết rách do xuyên thủng tuyến tụy xảy ra khi một vật thể xuyên qua da bụng trên, gây ra vết thương hở và tổn thương tuyến tụy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KLP</LocID>                         <Text>Rách thận</Text>  </GameDBLocalizedString>
+            <!--UPDATED--> <GameDBLocalizedString>      <LocID>TRM_KLP_DESCRIPTION</LocID>             <Text>Rách thận xảy ra khi một vật thể xuyên qua mô của cơ thể và làm rách thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KCB</LocID>                         <Text>Sưng tấy thận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KCB_DESCRIPTION</LocID>             <Text>Đập vào thận đề cập đến tình trạng bầm tím của thận (tiếng latin: ren) sau một tác động trực tiếp đến phần trên dưới của lưng.</Text>  </GameDBLocalizedString>
+
+            <!-- ======================================== -->
+            <!-- Diagnoses - Khoa nội khoa -->
+            <!-- ======================================== -->
+            <GameDBLocalizedString>      <LocID>DIA_CLC</LocID>                         <Text>Bệnh tả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLC_DESCRIPTION</LocID>             <Text>Bệnh tả là một bệnh do vi khuẩn thường lây lan qua nguồn nước bị ô nhiễm. Xử lý nước và xử lý nước thải hiện đại đã loại bỏ bệnh tả ở các nước công nghiệp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TYF</LocID>                         <Text>Sốt thương hàn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TYF_DESCRIPTION</LocID>             <Text>Sốt thương hàn là một bệnh do vi khuẩn lây lan qua nguồn nước và thực phẩm bị ô nhiễm. Nó hiếm ở các nước công nghiệp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SLM</LocID>                         <Text>Salmonellosis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SLM_DESCRIPTION</LocID>             <Text>Nhiễm khuẩn Salmonella là một trong những bệnh nhiễm trùng do vi khuẩn phổ biến ảnh hưởng đến đường ruột của con người. Con người bị nhiễm bệnh do ăn phải nước hoặc thực phẩm bị ô nhiễm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMB</LocID>                         <Text>Amip</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMB_DESCRIPTION</LocID>             <Text>Bệnh amip do Entamoeba histolytica gây ra, bệnh lây lan qua nước hoặc thức ăn bị nhiễm phân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GRD</LocID>                         <Text>Giardiasis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GRD_DESCRIPTION</LocID>             <Text>Nhiễm Giardia là một trong những bệnh nhiễm trùng đường ruột do nước phổ biến nhất. Giardias có thể được truyền qua tiếp xúc trực tiếp với những người bị nhiễm bệnh hoặc do ăn phải thực phẩm bị ô nhiễm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TBC</LocID>                         <Text>Bệnh lao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TBC_DESCRIPTION</LocID>             <Text>Lao phổi là một căn bệnh nguy hiểm do vi khuẩn Mycobacterium tuberculosis gây ra, ảnh hưởng chủ yếu đến phổi, nhưng nó có thể lây lan sang các cơ quan khác như não..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TUL</LocID>                         <Text>Tularaemia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TUL_DESCRIPTION</LocID>             <Text>Tularaemia là một bệnh truyền nhiễm chủ yếu ảnh hưởng đến da, mắt, hạch bạch huyết hoặc phổi. Nó do vi khuẩn Francisella tularensis gây ra. Tulareamia rất dễ lây lan, có khả năng gây tử vong, nhưng có thể được điều trị hiệu quả.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNA</LocID>                         <Text>Bệnh than phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNA_DESCRIPTION</LocID>             <Text>Bệnh than là bệnh nhiễm trùng nghiêm trọng do vi khuẩn Bacillus anthracis gây ra. Nó lây lan qua các bào tử của vi khuẩn. Tiếp xúc thường được thực hiện bằng cách hít hoặc ăn các bào tử hoặc qua các tổn thương da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RBF</LocID>                         <Text>Sốt do chuột cắn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RBF_DESCRIPTION</LocID>             <Text>Sốt do chuột cắn là một bệnh sốt cấp tính do vi khuẩn lây truyền qua các loài gặm nhấm, đặc biệt là qua nước tiểu hoặc dịch tiết của chúng..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSD</LocID>                         <Text>Bệnh mèo cào xước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSD_DESCRIPTION</LocID>             <Text>Bệnh mèo cào là bệnh truyền nhiễm phổ biến do vi khuẩn Bartonella henselae gây ra. Nó được truyền qua mèo, qua vết cào hoặc vết cắn của mèo. Sự hiện diện của vi khuẩn ở người rất khó phát hiện bằng phương pháp nuôi cấy vi khuẩn truyền thống vì quá trình phát triển mất đến 6 tuần.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMI</LocID>                         <Text>Nhiễm trùng NTMB phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMI_DESCRIPTION</LocID>             <Text>Nhiễm khuẩn mycobacterium ở phổi thuộc loại bệnh không do lao do các loài mycobacterium khác gây ra và nó tương đối phổ biến. Thường xảy ra ở bệnh nhân suy giảm miễn dịch hoặc ở bệnh nhân có bệnh phổi từ trước, nhưng cũng có thể xảy ra ở những bệnh nhân khỏe mạnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTS</LocID>                         <Text>Ho gà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTS_DESCRIPTION</LocID>             <Text>Ho gà hay còn gọi là Ho gà là một bệnh lây truyền qua đường hô hấp. Nó do vi khuẩn Bordetella pertussis gây ra. Trước khi có vắc-xin, ho gà được coi là bệnh ở trẻ nhỏ. Bây giờ nó ảnh hưởng đến những người có hệ miễn dịch bị suy yếu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LEG</LocID>                         <Text>Bệnh nhiễm trùng phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LEG_DESCRIPTION</LocID>             <Text>Bệnh nhiễm trùng phổi do vi khuẩn Legionella pneumophila gây ra. Bệnh phát triển thành dạng viêm phổi nặng, lây truyền từ người sang người. Các bệnh Legionnaires không được điều trị thường gây tử vong.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPF</LocID>                         <Text>Sốt phát ban</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPF_DESCRIPTION</LocID>             <Text>Điều quan trọng là không được nhầm lẫn với sốt thương hàn. Bệnh sốt phát ban do vi khuẩn Rickettsia Typhi gây ra, lây truyền qua nhiều loại bọ chét. Bệnh sốt phát ban được mô tả lần đầu tiên vào năm 1528. Bệnh sốt xuất hiện đột ngột với các triệu chứng khác nhau có thể so sánh với bệnh cúm thông thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IMN</LocID>                         <Text>Tăng bạch cầu đơn nhân nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IMN_DESCRIPTION</LocID>             <Text>Bệnh tăng bạch cầu đơn nhân nhiễm trùng thường do EBV - Epstein-Barr Virus - những người thường bị nhiễm bệnh trong thời thơ ấu của họ. Không có thuốc chủng ngừa cho căn bệnh này. Vào những năm 1920, nó được mô tả là "bệnh hôn".</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPM</LocID>                         <Text>Histoplasmosis </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPM_DESCRIPTION</LocID>             <Text>Bệnh nấm histoplasmosis còn được gọi là Bệnh hang động là bệnh đường hô hấp do vi nấm Histoplasma Capsulatum gây ra, chủ yếu ảnh hưởng đến phổi. Các triệu chứng khác nhau rất nhiều. Nhiễm trùng trong quá khứ tạo ra miễn dịch một phần.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASP</LocID>                         <Text>Aspergillosis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASP_DESCRIPTION</LocID>             <Text>Aspergillosis là một bệnh đường hô hấp do nấm Aspergillus gây ra. Nếu bệnh nhân bị suy giảm hệ miễn dịch, dạng xâm lấn của bệnh sẽ lây lan qua phổi. Phổi bị nhiễm trùng phải phẫu thuật cắt phổi để loại bỏ nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATS</LocID>                         <Text>Trùng roi Mỹ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATS_DESCRIPTION</LocID>             <Text>Trùng roi Mỹ còn được gọi là bệnh Chagas là một bệnh truyền nhiễm nghiêm trọng do ký sinh trùng Trypanosoma cruzi gây ra. Nếu không được điều trị, nó có thể dẫn đến các biến chứng nghiêm trọng về tim và tiêu hóa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TXM</LocID>                         <Text>Toxoplasmosis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TXM_DESCRIPTION</LocID>             <Text>Bệnh Toxoplasmosis do ký sinh trùng Toxoplasma gondii gây ra. Các triệu chứng tương tự như bệnh cúm thông thường. Ký sinh trùng lây lan qua thức ăn chưa nấu chín và tiếp xúc với phân của mèo.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BAB</LocID>                         <Text>Bệnh Babesiosis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BAB_DESCRIPTION</LocID>             <Text>Bệnh Babesiosis là bệnh ký sinh trùng do ký sinh trùng Babesia gây ra. Nó có thể so sánh với bệnh sốt rét. Nó lây lan qua bọ ve và thường có biểu hiện của bệnh Lyme.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LYD</LocID>                         <Text>Bệnh lyme</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LYD_DESCRIPTION</LocID>             <Text>Bệnh Lyme là do vết cắn của ve hươu hoặc ve ở chân sau. Nó có thể truyền một loại vi khuẩn, Borrelia burgdorferi, trực tiếp gây bệnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HLA</LocID>                         <Text>Chứng thiếu máu tan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HLA_DESCRIPTION</LocID>             <Text>Thiếu máu tan máu xảy ra do tan máu, sự phân hủy bất thường của các tế bào hồng cầu trong mạch máu hoặc ở những nơi khác trong cơ thể con người.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TCP</LocID>                         <Text>Giảm tiểu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TCP_DESCRIPTION</LocID>             <Text>Giảm tiểu cầu đại diện cho một tình trạng có mức độ tiểu cầu trong máu thấp hơn đáng kể, có nhiệm vụ cầm máu bằng cách đông lại và hình thành cục máu đông..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPL</LocID>                         <Text>Bệnh máu khó đông</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPL_DESCRIPTION</LocID>             <Text>Bệnh máu khó đông là một bệnh di truyền gây ra mức độ thấp của các yếu tố đông máu. Nếu không có đủ mức độ của các yếu tố đông máu, máu không đông lại đúng cách dẫn đến chảy máu quá nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THL</LocID>                         <Text>Thalassaemia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THL_DESCRIPTION</LocID>             <Text>Thalassemia là một bệnh rối loạn máu di truyền với sự hình thành hemoglobin bất thường liên kết với oxy kém hiệu quả hơn và làm cho hồng cầu không có hình dạng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCL</LocID>                        <Text>Sarcoidosis - phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCL_DESCRIPTION</LocID>            <Text>Sarcoidosis là sự phát triển của u hạt (tế bào viêm thành cụm) trong phổi. Nhiều khả năng là do phản ứng miễn dịch bất thường với một số tác nhân. Không có cách chữa trị, nhưng với thuốc hỗ trợ, sự tiến triển của bệnh có thể được ngăn chặn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCE</LocID>                        <Text>Sarcoidosis - Mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCE_DESCRIPTION</LocID>            <Text>Sarcoidosis là sự phát triển của u hạt (tế bào viêm thành cụm) trong mắt. Nhiều khả năng là do phản ứng miễn dịch bất thường với một số tác nhân. Không có cách chữa trị, nhưng với thuốc hỗ trợ, sự tiến triển của bệnh có thể được ngăn chặn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCH</LocID>                        <Text>Sarcoidosis - tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SRCH_DESCRIPTION</LocID>            <Text>Sarcoidosis là sự phát triển của u hạt (tế bào viêm thành cụm) trong tim. Nhiều khả năng là do phản ứng miễn dịch bất thường với một số tác nhân. Không có cách chữa trị, nhưng với thuốc hỗ trợ, sự tiến triển của bệnh có thể được ngăn chặn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DM1</LocID>                         <Text>Bệnh tiểu đường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DM1_DESCRIPTION</LocID>             <Text>Đái tháo đường là một nhóm bệnh ảnh hưởng đến quá trình chuyển hóa glucose. Có nhiều loại bệnh tiểu đường, nhưng nói chung là có lượng đường quá cao trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFB</LocID>                         <Text>Bệnh xơ nang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFB_DESCRIPTION</LocID>             <Text>Bệnh xơ nang là một bệnh di truyền dẫn đến tổn thương nghiêm trọng ở phổi do tràn khí tái phát nhiều lần. Xơ nang cũng dẫn đến giảm hấp thu chất dinh dưỡng từ đường tiêu hóa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OTE</LocID>                         <Text>Viêm tai ngoài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OTE_DESCRIPTION</LocID>             <Text>Viêm tai ngoài là tình trạng viêm phần ngoài của ống tai, phần lớn là do vi khuẩn gây ra..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OME</LocID>                         <Text>Viêm tai giữa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OME_DESCRIPTION</LocID>             <Text>Viêm tai giữa có tràn dịch là tình trạng có dịch trong tai giữa do bị nhiễm trùng hoặc bị viêm sau nhiễm trùng. Nó thường ảnh hưởng đến trẻ em.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASO</LocID>                         <Text>ASOM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASO_DESCRIPTION</LocID>             <Text>Viêm tai giữa cấp tính là một bệnh nhiễm trùng tai giữa rất đau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMT</LocID>                         <Text>Viêm xương chũm cấp tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMT_DESCRIPTION</LocID>             <Text>Viêm xương chũm đề cập đến tình trạng nhiễm trùng và viêm các tế bào xương chũm nằm trong quá trình xương chũm ở xương thái dương (bên dưới tai).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OTS</LocID>                         <Text>Xơ cứng tai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OTS_DESCRIPTION</LocID>             <Text>Xơ cứng tai đề cập đến sự cứng bất thường của mô xương gần tai giữa gây ra tình trạng không thể truyền âm thanh từ tai giữa sang tai trong; dẫn đến mất thính giác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OOR</LocID>                         <Text>Otorrhea</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OOR_DESCRIPTION</LocID>             <Text>Tai biến về cơ bản là một chứng viêm tai.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MUM</LocID>                         <Text>Quai bị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MUM_DESCRIPTION</LocID>             <Text>Quai bị còn được gọi là Viêm tai, là một bệnh viêm nhiễm ảnh hưởng đến các tuyến mang tai (ở một hoặc cả hai bên đầu). Tình trạng viêm do các tác nhân vi khuẩn hoặc vi rút gây ra. Tốt nhất là phòng ngừa bằng cách tiêm vắc xin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNM</LocID>                         <Text>Viêm phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PNM_DESCRIPTION</LocID>             <Text>Viêm phổi là một bệnh nhiễm trùng ở phổi. Viêm phổi có thể nhẹ hoặc đe dọa tính mạng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BPN</LocID>                         <Text>Viêm phế quản phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BPN_DESCRIPTION</LocID>             <Text>Viêm phế quản phổi là một loại viêm phổi chủ yếu ảnh hưởng đến phế quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BES</LocID>                         <Text>Giãn phế quản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BES_DESCRIPTION</LocID>             <Text>Giãn phế quản là tình trạng các đường dẫn khí lớn trong phổi bị tổn thương và mở rộng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCB</LocID>                         <Text>Viêm phế quản mãn tính đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCB_DESCRIPTION</LocID>             <Text>Viêm phế quản mãn tính đề cập đến tình trạng ho có đờm kéo dài kèm theo kích thích liên tục niêm mạc phế quản.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EMP</LocID>                         <Text>Khí phổi thủng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EMP_DESCRIPTION</LocID>             <Text>Khí phế thũng là tình trạng khi các phế nang - túi khí - bị tổn thương hoặc bị phá hủy, gây ra khó thở, ngay cả trong trạng thái thư giãn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CPD</LocID>                         <Text>COPD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CPD_DESCRIPTION</LocID>             <Text>Bệnh phổi tắc nghẽn mãn tính - COPD là một bệnh phổi viêm mãn tính dẫn đến tắc nghẽn đường thở trong phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASM</LocID>                         <Text>Bệnh hen suyễn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASM_DESCRIPTION</LocID>             <Text>Hen suyễn đề cập đến tình trạng đường thở bị thu hẹp, sưng và tiết ra nhiều chất nhầy. Đây là một bệnh hô hấp mãn tính và các triệu chứng có thể khác nhau ở mỗi người và có thể do dị ứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMX</LocID>                         <Text>Tràn khí màng phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMX_DESCRIPTION</LocID>             <Text>Xẹp phổi, còn được gọi là tràn khí màng phổi, xảy ra khi không khí thoát ra khỏi phổi, lấp đầy không gian giữa phổi và thành ngực, ngăn cản sự giãn nở của phổi bị ảnh hưởng..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CEL</LocID>                         <Text>Viêm mô tế bào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CEL_DESCRIPTION</LocID>             <Text>Viêm mô tế bào là một bệnh nhiễm trùng da phổ biến do vi khuẩn gây ra, chủ yếu do các loài liên cầu và tụ cầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ADS</LocID>                         <Text>Viêm da dị ứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ADS_DESCRIPTION</LocID>             <Text>Viêm da dị ứng hoặc bệnh chàm là một tình trạng làm cho da đỏ và ngứa. Đó là bệnh da mãn tính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LUP</LocID>                         <Text>Lupus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LUP_DESCRIPTION</LocID>             <Text>Lupus là một bệnh tự miễn hệ thống. Rất khó chẩn đoán.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_CMP</LocID>                         <Text>Ngộ độc khí CO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CMP_DESCRIPTION</LocID>             <Text>Ngộ độc carbon monoxide xảy ra do hít phải quá nhiều carbon monoxide.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CGP</LocID>                         <Text>Ngộ độc khí clo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CGP_DESCRIPTION</LocID>             <Text>Ngộ độc khí clo là một tình trạng do hít phải khí clo.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MTP</LocID>                         <Text>Ngộ độc methanol</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MTP_DESCRIPTION</LocID>             <Text>Uống methanol dẫn đến ngộ độc không phổ biến có thể gây rối loạn chuyển hóa nghiêm trọng, mù lòa, rối loạn chức năng thần kinh vĩnh viễn và tử vong.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LDP</LocID>                         <Text>Nhiễm độc chì</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LDP_DESCRIPTION</LocID>             <Text>Ngộ độc chì là một loại ngộ độc kim loại do sự tích tụ của chì trong cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCT</LocID>                         <Text>Co bóp phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PCT_DESCRIPTION</LocID>             <Text>Chấn thương cùn hoặc chấn thương thực thể ở ngực do va chạm hoặc tấn công vật lý dẫn đến nhồi máu phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLP</LocID>                         <Text>Rách phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLP_DESCRIPTION</LocID>             <Text>Chấn thương xuyên thấu là chấn thương xảy ra khi một vật thể xuyên qua da và đi vào mô của cơ thể, tạo ra vết thương hở. Vết rách ở phổi có thể xảy ra do chấn thương như vậy.</Text>  </GameDBLocalizedString>
+
+            <!-- ====================================== -->
+            <!-- Diagnoses - Orthopaedy -->
+            <!-- ====================================== -->
+            <GameDBLocalizedString>      <LocID>DIA_CTS</LocID>                         <Text>Hội chứng ống cổ tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CTS_DESCRIPTION</LocID>             <Text>Tình trạng dây thần kinh giữa ở cổ tay bị nén bởi các cấu trúc xung quanh khi đi qua đường hầm gần gốc cổ tay. Đau và cảm giác ngủ của bàn tay là các triệu chứng chính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CUS</LocID>                         <Text>Hội chứng đường hầm Cubital</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CUS_DESCRIPTION</LocID>             <Text>Hội chứng đường hầm khối là do chèn ép dây thần kinh khu vực khuỷu tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAT</LocID>                         <Text>Viêm khớp dạng thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAT_DESCRIPTION</LocID>             <Text>Viêm khớp dạng thấp là một bệnh tự miễn mãn tính ảnh hưởng đến các khớp khác nhau. Nó thường dẫn đến các khớp ấm, sưng và đau. Đau và cứng thường trở nên tồi tệ hơn sau khi nghỉ ngơi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HOA</LocID>                         <Text>Viêm xương khớp háng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HOA_DESCRIPTION</LocID>             <Text>Thoái hóa khớp là tình trạng sụn bị thoái hóa từ từ và phát sinh các biến dạng ở khớp bị ảnh hưởng. Thoái hóa khớp háng thường làm cho việc đi lại trở nên đau đớn và cồng kềnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KOA</LocID>                         <Text>Viêm khớp gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KOA_DESCRIPTION</LocID>             <Text>Thoái hóa khớp gối là một trong những loại viêm khớp phổ biến nhất. Sụn đầu gối thoái hóa chậm gây đau khi đi lại và cứng khớp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DMS</LocID>                         <Text>Viêm da cơ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DMS_DESCRIPTION</LocID>             <Text>Viêm cơ da là tình trạng viêm cơ tiến triển mãn tính. Các triệu chứng thường là phát ban trên da và tăng yếu cơ theo thời gian.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBM</LocID>                         <Text>Viêm cơ toàn thân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBM_DESCRIPTION</LocID>             <Text>Viêm cơ toàn thân là tình trạng viêm tiến triển mãn tính và làm suy yếu các cơ. Rõ ràng nhất là cơ gấp ngón tay và cơ duỗi đầu gối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMS</LocID>                         <Text>Viêm đa cơ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMS_DESCRIPTION</LocID>             <Text>Viêm đa cơ là tình trạng viêm tiến triển mãn tính và làm suy yếu các cơ. Nó bắt đầu với sự suy yếu ở các cơ gần thân nhất từ nơi nó lan ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDS</LocID>                         <Text>Spondylolysis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDS_DESCRIPTION</LocID>             <Text>Thoái hóa đốt sống là một khuyết tật, vết nứt hoặc gãy do căng thẳng ở một trong các đốt sống, điển hình là ở cấp độ L5-S1. Tình trạng có thể gây đau đớn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDL</LocID>                         <Text>Thoái hóa cột sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDL_DESCRIPTION</LocID>             <Text>Thoái hóa cột sống đề cập đến một đốt sống bị di lệch. Một số điều kiện có thể gây ra thoái hóa đốt sống; thay đổi thoái hóa, chấn thương, bất thường bẩm sinh, bệnh ác tính, v.v..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSL</LocID>                         <Text>Thoái hóa đốt sống cổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSL_DESCRIPTION</LocID>             <Text>Thoái hóa đốt sống cổ là tình trạng cột sống cổ bị thoái hóa do bất kỳ nguyên nhân nào. Thường thì nó đồng nghĩa với sự hao mòn do tuổi tác gây ra thoái hóa khớp cột sống.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OSM</LocID>                         <Text>Viêm tủy xương cấp tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OSM_DESCRIPTION</LocID>             <Text>Viêm tủy xương cấp tính là một bệnh nhiễm trùng xương do vi khuẩn. Nó có thể phát triển thành viêm tủy xương mãn tính rất khó điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CDD</LocID>                         <Text>Hẹp ống sống</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CDD_DESCRIPTION</LocID>             <Text>Hẹp ống sống đề cập đến sự thu hẹp bất thường của ống sống, ảnh hưởng đến tủy sống hoặc rễ thần kinh. Nó gây đau nhức, khó chịu và mất khả năng vận động thường ở các chi tương ứng với mức độ hẹp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOT</LocID>                         <Text>Viêm bao hoạt dịch đầu gối </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOT_DESCRIPTION</LocID>             <Text>Túi nước là một túi nhỏ chứa đầy chất lỏng, hoạt động như một tấm đệm giữa xương và các khu vực dễ bị ma sát. Viêm bao hoạt dịch đề cập đến tình trạng sưng tấy của túi nói trên do viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOH</LocID>                         <Text>Viêm bao hoạt dịch tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOH_DESCRIPTION</LocID>             <Text>Túi nước là một túi nhỏ chứa đầy chất lỏng, hoạt động như một tấm đệm giữa xương và các khu vực dễ bị ma sát. Viêm bao hoạt dịch đề cập đến tình trạng sưng tấy của túi nói trên do viêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AOM</LocID>                         <Text>Nhuyễn xương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AOM_DESCRIPTION</LocID>             <Text>Nhuyễn xương, được gọi là Còi xương nếu nó xảy ra ở thời thơ ấu, đề cập đến tình trạng xương mềm do sự chuyển hóa xương bị suy giảm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TEW</LocID>                         <Text>Chấn thương khủy tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TEW_DESCRIPTION</LocID>             <Text>Khuỷu tay quần vợt, còn được gọi là viêm màng cứng khớp bên, được đặc trưng bởi cơn đau lan tỏa từ bên ngoài khuỷu tay đến cổ tay. Tình trạng này là do thực hiện chuyển động lặp đi lặp lại và do đó, kích thích cơ và gân liên quan đến chuyển động nói trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OLB</LocID>                         <Text>Viêm bao hoạt dịch khuỷu tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OLB_DESCRIPTION</LocID>             <Text>Túi nước là một túi nhỏ chứa đầy chất lỏng, hoạt động như một tấm đệm giữa xương và các khu vực dễ bị ma sát. Viêm bao hoạt dịch đề cập đến tình trạng sưng tấy của túi nói trên do viêm.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_DWH</LocID>                         <Text>Vết thương sâu trên tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWH_DESCRIPTION</LocID>             <Text>Chảy máu vết thương sâu, nhẵn hoặc lởm chởm. Nó cần khâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWA</LocID>                         <Text>Vết thương sâu trên cánh tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWA_DESCRIPTION</LocID>             <Text>Chảy máu vết thương sâu, nhẵn hoặc lởm chởm. Nó cần khâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWL</LocID>                         <Text>Vết thương sâu ở cẳng chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWL_DESCRIPTION</LocID>             <Text>Chảy máu vết thương sâu, nhẵn hoặc lởm chởm. Nó cần khâu..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWF</LocID>                         <Text>Vết thương sâu ở chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DWF_DESCRIPTION</LocID>             <Text>Chảy máu vết thương sâu, nhẵn hoặc lởm chởm. Nó cần khâu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHS</LocID>                         <Text>Bong gân vai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHS_DESCRIPTION</LocID>             <Text>Bong gân là tình trạng dây chằng bao quanh khớp bị vượt quá phạm vi chuyển động chức năng của nó, gây rách và đôi khi đứt hoàn toàn các dây chằng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHD</LocID>                         <Text>Trật khớp vai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHD_DESCRIPTION</LocID>             <Text>Trật khớp, còn được gọi là lệch khớp, là tình trạng các xương được nối bởi một khớp bị tách rời một cách bất thường. Tổn thương mô lân cận là phổ biến.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KSP</LocID>                         <Text>Bong gân đầu gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KSP_DESCRIPTION</LocID>             <Text>Bong gân là tình trạng dây chằng bao quanh khớp bị vượt quá phạm vi chuyển động chức năng của nó, gây rách và đôi khi đứt hoàn toàn các dây chằng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KDL</LocID>                         <Text>Trật khớp gối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_KDL_DESCRIPTION</LocID>             <Text>Trật khớp, còn được gọi là lệch khớp, là tình trạng các xương được nối bởi một khớp bị tách rời một cách bất thường. Tổn thương mô lân cận là phổ biến.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ASP</LocID>                         <Text>Bong gân mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ASP_DESCRIPTION</LocID>             <Text>Bong gân là tình trạng dây chằng bao quanh khớp bị vượt quá phạm vi chuyển động chức năng của nó, gây rách và đôi khi đứt hoàn toàn các dây chằng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DLA</LocID>                         <Text>Trật mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DLA_DESCRIPTION</LocID>             <Text>Trật khớp, còn được gọi là lệch khớp, là tình trạng các xương được nối bởi một khớp bị tách rời một cách bất thường. Tổn thương mô lân cận là phổ biến.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACL</LocID>                         <Text>ACL chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACL_DESCRIPTION</LocID>             <Text>Dây chằng chéo trước, là một dây chằng nằm bên trong khớp gối có tác dụng ngăn chặn sự dịch chuyển về phía trước giữa các xương chân. Tổn thương dây chằng này thường gặp trong thể thao và gây ra bởi chuyển động quay vào trong bất thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFU</LocID>                         <Text>Gãy xương khuỷu đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFU_DESCRIPTION</LocID>             <Text>Gãy xương khuỷu, một trong hai xương ở cẳng tay, không gây tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFU</LocID>                         <Text>Gãy xương khuỷu hở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFU_DESCRIPTION</LocID>             <Text>Gãy xương khuỷu hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương khuỷu là một trong hai xương ở cẳng tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFU</LocID>                         <Text>Gãy xương khuỷu phức tạp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFU_DESCRIPTION</LocID>             <Text>Gãy xương có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương khuỷu là một trong hai xương ở cẳng tay.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFR</LocID>                         <Text>Xương cánh tay đứt gãy đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFR_DESCRIPTION</LocID>             <Text>Gãy xương cánh tay, một trong hai xương ở cẳng tay, không gây tổn thương đến các mô xung quanh hoặc gãy da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFH</LocID>                         <Text>Gãy xương quai xanh đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh, xương ở cánh tay trên, không gây tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFH</LocID>                         <Text>Hở xương quai xanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương quai xanh là xương ở cánh tay trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFH</LocID>                         <Text>Gãy xương quai xanh phức tạp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương quai xanh là xương ở cánh tay trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BRR</LocID>                         <Text>Gãy xương sườn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BRR_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương sườn đơn giản mà không làm tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFF</LocID>                         <Text>Gãy xương đùi đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFF_DESCRIPTION</LocID>             <Text>Gãy xương đùi, xương đùi, không tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFF</LocID>                         <Text>Gãy xương đùi hở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFF_DESCRIPTION</LocID>             <Text>Gãy xương đùi hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương đùi là xương ở đùi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFF</LocID>                         <Text>Gãy xương đùi có biến chứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CFF_DESCRIPTION</LocID>             <Text>Gãy xương có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương đùi là xương ở đùi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFT</LocID>                         <Text>Gãy xương chày đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFT_DESCRIPTION</LocID>             <Text>Gãy xương chày, xương lớn ở cẳng chân, không gây tổn thương các mô xung quanh hoặc vỡ da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFT</LocID>                         <Text>Gãy xương chày đơn giản hở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OFT_DESCRIPTION</LocID>             <Text>Gãy xương hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương chày là xương lớn ở cẳng chân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SPT</LocID>                         <Text>Gãy xương chày xoắn ốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SPT_DESCRIPTION</LocID>             <Text>Đặc biệt gãy xương chày xoắn ốc, không gây tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFI</LocID>                         <Text>Gãy xương mác đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFI_DESCRIPTION</LocID>             <Text>Gãy xương mác, xương mỏng ở cẳng chân, không gây tổn thương đến các mô xung quanh hoặc da bị vỡ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ANF</LocID>                         <Text>Gãy mắt cá chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ANF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương của mắt cá chân mà không gây tổn thương đến các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MBF</LocID>                         <Text>Gãy xương cổ chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MBF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương cổ chân, không tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FOF</LocID>                         <Text>Gãy ngón tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FOF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương ngón tay, không tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFC</LocID>                         <Text>Gãy xương đòn đơn giản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFC_DESCRIPTION</LocID>             <Text>Gãy xương đòn mà không gây tổn thương đến các mô xung quanh hoặc làm đứt da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHC</LocID>                         <Text>Gãy trục xương đòn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SHC_DESCRIPTION</LocID>             <Text>Gãy xương đòn với trật một phần xương gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MNF</LocID>                         <Text>Gãy xương hàm dưới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MNF_DESCRIPTION</LocID>             <Text>Gãy xương hàm. Thường bao gồm một thời gian nghỉ ở hai nơi. Thường gây giảm khả năng mở miệng hoàn toàn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_NSF</LocID>                         <Text>Gãy mũi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_NSF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương mũi đơn giản kèm theo chảy máu.</Text>  </GameDBLocalizedString>
+
+            <!-- ===================== -->
+            <!-- Diagnoses - Cardiology-->
+            <!-- ===================== -->
+            <GameDBLocalizedString>      <LocID>DIA_ARR</LocID>                         <Text>Sốt thấp khớp cấp tính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARR_DESCRIPTION</LocID>             <Text>Sốt thấp khớp cấp tính là một bệnh viêm ảnh hưởng đến tim, cơ, khớp và não. Thông thường nó phát triển sau một nhiễm trùng liên cầu đơn giản ở cổ họng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MST</LocID>                         <Text>Hẹp van hai lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MST_DESCRIPTION</LocID>             <Text>Hẹp van hai lá là tình trạng van hai lá của tim bị hẹp lại, gây ra tình trạng mở van không đúng cách và do đó lưu lượng máu qua van bị giảm..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TRS</LocID>                         <Text>Trào ngược van ba lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TRS_DESCRIPTION</LocID>             <Text>Đóng van ba lá của tim không đúng cách, dẫn đến máu trào ngược (máu được bơm ngược, sai hướng do van không thể đóng lại đúng cách).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HHD</LocID>                         <Text>HHD với suy tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HHD_DESCRIPTION</LocID>             <Text>Bệnh tim cao huyết áp đề cập đến nhiều biến chứng liên quan đến huyết áp cao ảnh hưởng đến tim và có thể dẫn đến suy tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IHD</LocID>                         <Text>IHD với suy tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IHD_DESCRIPTION</LocID>             <Text>Thiếu máu cơ tim, còn được gọi là bệnh mạch vành, là một nhóm lớn các bệnh tim mạch do mảng xơ vữa của động mạch vành có thể dẫn đến suy tim..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRD</LocID>                         <Text>Bệnh thận tăng huyết áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRD_DESCRIPTION</LocID>             <Text>Bệnh thận tăng huyết áp đề cập đến sự gia tăng huyết áp toàn thân do chấn thương hoặc bệnh lý ở thận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANP</LocID>                         <Text>Cơn đau thắt ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANP_DESCRIPTION</LocID>             <Text>Đau thắt ngực là hiện tượng tức là do lượng máu đến cơ tim không đủ. Đau thắt ngực thường là một trong những triệu chứng của bệnh mạch vành.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMI</LocID>                         <Text>Nhồi máu cơ tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMI_DESCRIPTION</LocID>             <Text>Nhồi máu cơ tim cấp tính, còn được gọi là cơn đau tim, xảy ra khi dòng máu đến cơ tim (mô cơ của tim) bị tắc nghẽn. Các mô cơ bị ảnh hưởng có thể chết và bệnh nhân cũng có nguy cơ tử vong cao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TAA</LocID>                         <Text>Phình động mạch chủ ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TAA_DESCRIPTION</LocID>             <Text>Phình động mạch chủ ngực là tình trạng một phần của động mạch chủ trong khoang ngực bị giãn ra (trở nên giống như một quả bóng). Phình mạch có thể bị vỡ và dẫn đến tử vong ngay lập tức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEM</LocID>                         <Text>Thuyên tắc phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEM_DESCRIPTION</LocID>             <Text>Thuyên tắc phổi đề cập đến sự tắc nghẽn ở một trong các động mạch phổi. Thuyên tắc thường xuất phát từ huyết khối tĩnh mạch sâu bị trật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECT</LocID>                         <Text>Viêm nội tâm mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECT_DESCRIPTION</LocID>             <Text>Viêm nội tâm mạc là tình trạng nhiễm trùng của màng trong tim. Thường thì nhiễm trùng phát sinh do vi khuẩn xâm nhập vào các van tim bị bệnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PCT</LocID>                         <Text>Viêm màng ngoài tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PCT_DESCRIPTION</LocID>             <Text>Viêm màng ngoài tim đề cập đến tình trạng màng mỏng, hoặc túi, bao quanh tim bị viêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INM</LocID>                         <Text>Viêm cơ tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INM_DESCRIPTION</LocID>             <Text>Viêm cơ tim là tình trạng viêm cơ tim, còn được gọi là cơ tim, ảnh hưởng đến khả năng bơm máu của tim và hệ thống điện của tim, có khả năng làm phát sinh các rối loạn nhịp tim khác nhau (nhịp tim không đều và bất thường).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAR</LocID>                         <Text>Tim ngừng đập</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAR_DESCRIPTION</LocID>             <Text>Ngừng tim là tình trạng tim mất khả năng bơm máu đột ngột. Ngừng tim thường là hậu quả của nhồi máu cơ tim cấp tính hoặc các đợt tăng tim ác tính đột ngột.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CHF</LocID>                         <Text>CHF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CHF_DESCRIPTION</LocID>             <Text>Suy giảm xung huyết khi tim mất khả năng bơm đủ lượng máu vào cơ thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_STK</LocID>                         <Text>Đột quỵ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_STK_DESCRIPTION</LocID>             <Text>Đột quỵ xảy ra khi nguồn cung cấp máu cho một vùng não bị gián đoạn hoặc giảm nghiêm trọng, dẫn đến chết (hoại tử) mô não ở vùng bị ảnh hưởng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATH</LocID>                         <Text>Xơ vữa động mạch - Carotides</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATH_DESCRIPTION</LocID>             <Text>Xơ vữa động mạch là một căn bệnh mà các mảng bám tích tụ bên trong động mạch cảnh của cơ thể (các động mạch lớn chạy từ động mạch chủ đến đầu), làm cứng và thu hẹp chúng, do đó làm giảm lưu lượng máu. Nó có thể không có triệu chứng trong nhiều thập kỷ, các triệu chứng thường xuất hiện khi động mạch bị tắc nghẽn hơn 50%.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPB</LocID>                         <Text>Viêm tắc tĩnh mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPB_DESCRIPTION</LocID>             <Text>Viêm tắc tĩnh mạch là tình trạng các tĩnh mạch bị viêm dẫn đến hình thành cục máu đông làm tắc nghẽn một hoặc nhiều tĩnh mạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PVT</LocID>                         <Text>Huyết khối tĩnh mạch cửa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PVT_DESCRIPTION</LocID>             <Text>Huyết khối tĩnh mạch cửa đề cập đến tình trạng tĩnh mạch cửa (tĩnh mạch lớn từ ruột đến gan) bị tắc nghẽn bởi cục máu đông.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEB</LocID>                         <Text>Tăng huyết áp động mạch phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PEB_DESCRIPTION</LocID>             <Text>Tăng áp động mạch phổi là tình trạng tăng huyết áp trong các động mạch từ tim đến phổi. Tăng áp động mạch phổi thường xảy ra do tắc mạch phổi lớn hoặc nhiều nhỏ (cục máu đông trong phổi).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PAD</LocID>                         <Text>PAD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PAD_DESCRIPTION</LocID>             <Text>Bệnh động mạch ngoại biên là do giảm lưu lượng máu đến chi trên hoặc chi dưới do động mạch bị thu hẹp, thường là do bệnh xơ vữa động mạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MVP</LocID>                         <Text>Sa van hai lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MVP_DESCRIPTION</LocID>             <Text>Sa van hai lá là tình trạng van hai lá của tim phình ra tâm nhĩ trái trong quá trình tâm thất trái co bóp. Điều này thường xảy ra sau một cơn nhồi máu cơ tim cấp tính ảnh hưởng đến sự gắn van trong tâm thất trái.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DCP</LocID>                         <Text>Bệnh cơ tim giãn nở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DCP_DESCRIPTION</LocID>             <Text>Bệnh cơ tim giãn nở là tình trạng tim bị phì đại nghiêm trọng, làm giảm khả năng bơm máu của tim, khiến tim không thể bơm đủ lượng máu vào máu một cách hiệu quả..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GCA</LocID>                         <Text>Viêm động mạch tế bào khổng lồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GCA_DESCRIPTION</LocID>             <Text>Viêm động mạch tế bào khổng lồ là tình trạng viêm niêm mạc động mạch, chủ yếu ở động mạch thái dương cùng bên.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_BCI</LocID>                         <Text>Chấn thương tim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BCI_DESCRIPTION</LocID>             <Text>Chấn thương cùn tim là chấn thương thực thể ở một vùng ngực, dẫn đến chấn thương tim.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FLC</LocID>                         <Text>Dập ngực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FLC_DESCRIPTION</LocID>             <Text>Dập ngực là một tình trạng đe dọa tính mạng xảy ra khi một đoạn của khung xương sườn bị vỡ do chấn thương và di chuyển độc lập với phần còn lại của thành ngực / xương sườn trong quá trình thở.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TCA</LocID>                         <Text>Ngừng tim do chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TCA_DESCRIPTION</LocID>             <Text>Ngừng tim do chấn thương là tình trạng tim ngừng đập do chấn thương xuyên thấu hoặc thẳng, chẳng hạn như một vết đâm vào tim. Đây là một trường hợp cấp cứu ngoại khoa sẽ luôn dẫn đến tử vong nếu không được chăm sóc phẫu thuật ngay lập tức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TAR</LocID>                         <Text>Vỡ động mạch chủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TAR_DESCRIPTION</LocID>             <Text>Vỡ động mạch chủ sau chấn thương là tình trạng động mạch chủ, động mạch lớn nhất trong cơ thể, bị vỡ do bệnh lý động mạch chủ (phình động mạch chủ, bóc tách động mạch chủ) hoặc chấn thương cơ thể. Tình trạng này thường gây tử vong do chảy máu ồ ạt do vỡ.</Text>  </GameDBLocalizedString>
+
+            <!-- ===================== -->
+            <!-- Diagnoses - Neurology -->
+            <!-- ===================== -->
+            <GameDBLocalizedString>      <LocID>DIA_TBE</LocID>                         <Text>Viêm não do ve</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TBE_DESCRIPTION</LocID>             <Text>Viêm não do ve là một bệnh truyền nhiễm do ve do vi rút gây ra liên quan đến não và hệ thần kinh trung ương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECS</LocID>                         <Text>Viêm não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>Viêm não là tình trạng viêm não, thường gặp nhất là do phản ứng tự miễn dịch hoặc do vi rút gây ra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>Bệnh dại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>Bệnh dại là một loại vi rút chết người lây lan qua nước bọt của động vật bị nhiễm bệnh. Sự lây truyền thường qua vết cắn của động vật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>Viêm màng não do phế cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN_DESCRIPTION</LocID>             <Text>Viêm màng não do phế cầu là tình trạng viêm màng bao bọc tủy sống và não do nhiễm khuẩn phế cầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SMN</LocID>                         <Text>Viêm màng não do tụ cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SMN_DESCRIPTION</LocID>             <Text>Viêm màng não do tụ cầu là tình trạng viêm màng bao bọc tủy sống và não do nhiễm trùng tụ cầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MIG</LocID>                         <Text>Migraine</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MIG_DESCRIPTION</LocID>             <Text>Migraine là một cơn đau đầu dữ dội, đau đớn, có hoặc không kèm theo mùi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GBS</LocID>                         <Text>Hội chứng Guillain Barre</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GBS_DESCRIPTION</LocID>             <Text>Hội chứng Guillain-Barre là một căn bệnh nghiêm trọng khi hệ thống miễn dịch tấn công hệ thống thần kinh của chính nó.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_NMO</LocID>                         <Text>Neuromyelitis optica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_NMO_DESCRIPTION</LocID>             <Text>Neuromyelitis optica là một bệnh tự miễn dịch trong đó hệ thống miễn dịch tấn công các dây thần kinh mắt và tủy sống. Một tình trạng thường thấy do bệnh đa xơ cứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IPD</LocID>                         <Text>CIPD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IPD_DESCRIPTION</LocID>             <Text>Bệnh viêm đa dây thần kinh do viêm mãn tính là một bệnh viêm miễn dịch ảnh hưởng đến hệ thần kinh ngoại vi bằng cách phá hủy tấm bìa bảo vệ và cách điện các dây thần kinh và sợi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TTN</LocID>                         <Text>Uốn ván</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TTN_DESCRIPTION</LocID>             <Text>Uốn ván là một bệnh vi khuẩn nghiêm trọng ảnh hưởng đến hệ thần kinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BLP</LocID>                         <Text>Viêm bờ mi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BLP_DESCRIPTION</LocID>             <Text>Viêm bờ mi là tình trạng viêm mí mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CJN</LocID>                         <Text>Viêm kết mạc (vi khuẩn)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CJN_DESCRIPTION</LocID>             <Text>Viêm kết mạc hay còn gọi là "Đau mắt đỏ" là một bệnh viêm lớp ngoài cùng của phần lòng trắng của mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAN</LocID>                         <Text>Viêm kết mạc (dị ứng)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAN_DESCRIPTION</LocID>             <Text>Viêm kết mạc hay còn gọi là "Đau mắt đỏ" là một bệnh viêm lớp ngoài cùng của phần lòng trắng của mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GLC</LocID>                         <Text>Bệnh tăng nhãn áp góc mở</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GLC_DESCRIPTION</LocID>             <Text>Bệnh tăng nhãn áp là một bệnh dẫn đến tổn thương dây thần kinh thị giác do áp suất cao bên trong mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLH</LocID>                         <Text>Đau đầu cụm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLH_DESCRIPTION</LocID>             <Text>Đau đầu cụm là chứng đau đầu cực kỳ đau đớn, thường kèm theo khóc và chảy nước mũi, chỉ xảy ra ở một bên đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRP</LocID>                         <Text>Bệnh võng mạc tăng huyết áp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRP_DESCRIPTION</LocID>             <Text>Bệnh võng mạc tăng huyết áp là tổn thương võng mạc và các mạch máu của võng mạc do huyết áp cao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_UVE</LocID>                         <Text>Viêm màng bồ đào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_UVE_DESCRIPTION</LocID>             <Text>Viêm màng bồ đào đề cập đến tình trạng viêm một phần của mắt được gọi là màng bồ đào. Mống mắt bao gồm mống mắt và một số cấu trúc lân cận.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCL</LocID>                         <Text>Viêm củng mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCL_DESCRIPTION</LocID>             <Text>Viêm củng mạc đề cập đến tình trạng viêm màng cứng của mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KRT</LocID>                         <Text>Viêm giác mạc - vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KRT_DESCRIPTION</LocID>             <Text>Viêm giác mạc là một bệnh viêm, chủ yếu do vi khuẩn gây ra, của giác mạc - bề mặt vòm trong của mắt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAB</LocID>                         <Text>Mài mòn giác mạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CAB_DESCRIPTION</LocID>             <Text>Mài mòn giác mạc - còn được gọi là trầy xước mắt là một trong những chấn thương mắt phổ biến nhất, khi các chướng ngại vật lạ làm xước mắt và gây khó chịu và các triệu chứng liên quan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACG</LocID>                         <Text>Bệnh tăng nhãn áp góc đóng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACG_DESCRIPTION</LocID>             <Text>Bệnh tăng nhãn áp góc đóng cấp tính là do nhãn áp tăng đột ngột và nhanh chóng..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRV</LocID>                         <Text>CRVO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRV_DESCRIPTION</LocID>             <Text>Tắc tĩnh mạch trung tâm võng mạc là một trong những rối loạn mạch máu của võng mạc mắt thường gặp..</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_CCS</LocID>                         <Text>Chấn động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCS_DESCRIPTION</LocID>             <Text>Chấn động là một chấn thương sọ não nhẹ dẫn đến trạng thái tinh thần bị thay đổi tạm thời và / hoặc mất chức năng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CTS</LocID>                         <Text>Đụng dập não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CTS_DESCRIPTION</LocID>             <Text>Chập dịch não là chấn thương sọ não thường do chấn thương đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DAI</LocID>                         <Text>Tổn thương trục lan tỏa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_DAI_DESCRIPTION</LocID>             <Text>Tổn thương trục lan tỏa là một trong những chấn thương phổ biến nhất của chấn thương đầu, nó xảy ra khi não thay đổi quá nhanh bên trong hộp sọ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TBI</LocID>                         <Text>Chấn thương sọ não</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_TBI_DESCRIPTION</LocID>             <Text>Xảy ra khi có ngoại lực làm tổn thương não. Nó có thể được gây ra bởi tai nạn hoặc chấn thương cùn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_AIH</LocID>                         <Text>Tụ máu dưới màng cứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_AIH_DESCRIPTION</LocID>             <Text>Tụ máu dưới màng cứng là tình trạng các tĩnh mạch trong khoang dưới màng cứng bị rách và bắt đầu chảy máu. Máu tích tụ trong không gian hẹp làm tăng áp lực bên trong khoang sọ. Tình trạng này thường gây tử vong nếu không được điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OBI</LocID>                         <Text>Chấn thương xuyên thấu - Đầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_OBI_DESCRIPTION</LocID>             <Text>Chấn thương đầu là một chấn thương trong đó màng cứng, lớp ngoài của màng não, bị thủng.</Text>  </GameDBLocalizedString>
+
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

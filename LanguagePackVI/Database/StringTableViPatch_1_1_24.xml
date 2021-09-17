@@ -1,0 +1,183 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_PATCH_1_1_24">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Lưu ý: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+
+            <!-- RELATED FILE: StringTable[Language]UI.xml -->
+            <GameDBLocalizedString>       <LocID>TOOLTIP_BUILDING_UNDO</LocID>                   <Text>Hoàn tác thay đổi cuối cùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>       <LocID>TOOLTIP_BUILDING_UNDO_UNAVAILABLE</LocID>       <Text>Không thể hoàn tác. Không có gì thay đổi hoặc không thể hoàn nguyên tác vụ cuối cùng</Text>  </GameDBLocalizedString>
+            
+            <!-- ROOM TYPES -->
+
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_UNIQUE_IM_OFFICE</LocID>               <Text>Đơn vị thủ tục đặc biệt</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_UNIQUE_IM_OFFICE_DESCRIPTION</LocID>   <Text>Khoa nội khoa duy nhất được sử dụng cho các thủ thuật xâm lấn tối thiểu đặc biệt khác nhau.</Text>	</GameDBLocalizedString> <!--todo description-->
+            
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_IM_UNIQUE_UNIT</LocID>              <Text>Đơn vị thủ tục đặc biệt</Text>	</GameDBLocalizedString>
+
+            <!--PREFABS-->
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_IM_UNIQUE_OFFICE_LARGE_ABBR</LocID>  <Text>Đơn vị thủ tục đặc biệt - 8 x 6</Text>	</GameDBLocalizedString>
+
+            <!--diagnoses-->
+
+            <!--ER-->
+            <GameDBLocalizedString>      <LocID>DIA_046</LocID>                  <Text>Cúm B</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_046_DESCRIPTION</LocID>      <Text>Cúm B do virut Cúm B gây ra, gây ra các đợt bùng phát theo mùa của bệnh Cúm ở người.</Text>	</GameDBLocalizedString>
+            <!--GS-->
+            <GameDBLocalizedString>      <LocID>DIA_047</LocID>                  <Text>HUS</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_047_DESCRIPTION</LocID>      <Text>Hội chứng tan máu tăng urê máu đề cập đến tình trạng khi các mạch máu nhỏ trong thận bị tổn thương và viêm. Trong hầu hết các trường hợp, nhiễm trùng Escherichia coli là nguyên nhân.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_048</LocID>                  <Text>Campylobacteriosis</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_048_DESCRIPTION</LocID>      <Text>Campylobacteriosis đề cập đến bệnh nhiễm trùng phổ biến do Campylobacter jejuni gây ra. Nó thường là bệnh truyền qua thực phẩm.</Text>	</GameDBLocalizedString>
+            <!--NE-->
+            <GameDBLocalizedString>      <LocID>DIA_049</LocID>                  <Text>PCF</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_049_DESCRIPTION</LocID>      <Text>PCF - Sốt pharyngoconjunctival đề cập đến tình trạng chủ yếu do Human mastadenovirus B gây ra, điều đó gây ra những vụ bùng phát nhỏ chủ yếu là giữa những người trẻ tuổi trong các tập thể. Bệnh ảnh hưởng đến cổ họng và mắt.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_050</LocID>                  <Text>Botulism</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_050_DESCRIPTION</LocID>      <Text>Chứng ngộ độc thịt là bệnh hiếm gặp và có khả năng gây tử vong do độc tố do vi khuẩn Clostridium botulinum tạo ra.</Text>	</GameDBLocalizedString>
+            <!--IM-->
+            <GameDBLocalizedString>      <LocID>DIA_051</LocID>                  <Text>TIA</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_051_DESCRIPTION</LocID>      <Text>TIA - Transient ischemic attack is similar to a stroke, but usually lasts  up to 24h and causes no permanent damage.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_052</LocID>                  <Text>Viêm màng phổi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_052_DESCRIPTION</LocID>      <Text>Viêm màng phổi đề cập đến tình trạng khi các màng bao quanh phổi bị viêm.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_053</LocID>                  <Text>Bệnh bụi phổi amiăng</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_053_DESCRIPTION</LocID>      <Text>Bệnh bụi phổi amiăng đề cập đến một tình trạng gây ra bởi các chất khoáng amiăng cực nhỏ trong phổi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_054</LocID>                  <Text>Miliaria</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_054_DESCRIPTION</LocID>      <Text>Miliaria, còn được gọi là "phát ban mồ hôi", là một bệnh ngoài da, thường gặp ở điều kiện nóng ẩm.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_055</LocID>                  <Text>Ciguatera</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_055_DESCRIPTION</LocID>      <Text>Ngộ độc cá Ciguatera hay còn gọi là bệnh xì gà là một bệnh truyền qua thực phẩm do ăn phải thịt cá bị nhiễm chất độc.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_056</LocID>                  <Text>Phù màng phổi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_056_DESCRIPTION</LocID>      <Text>Phù màng phổi đề cập đến sự tích tụ mủ trong khoang màng phổi, do nhiễm trùng do vi khuẩn.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_057</LocID>                  <Text>Chylothorax</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_057_DESCRIPTION</LocID>      <Text>Chylothorax đề cập đến tình trạng khi chất lỏng bạch huyết được tích tụ trong khoang màng phổi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_058</LocID>                  <Text>Tràn dịch màng phổi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_058_DESCRIPTION</LocID>      <Text>Tràn dịch màng phổi đề cập đến một tình trạng phát sinh do viêm phổi, giãn phế quản hoặc áp xe phổi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_059</LocID>                  <Text>Cholesteatoma</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_059_DESCRIPTION</LocID>      <Text>Cholesteatoma là một khối u ngoài da không phải ung thư, thường do nhiễm trùng tai giữa lặp đi lặp lại..</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_060</LocID>                  <Text>Croup</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_060_DESCRIPTION</LocID>      <Text>Croup còn được gọi là viêm thanh quản khí quản và nó thường do vi rút gây ra, hiếm khi do nhiễm vi khuẩn.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_061</LocID>                  <Text>Polyp mũi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_061_DESCRIPTION</LocID>      <Text>Polyp mũi là sự phát triển không phải ung thư trong khoang mũi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_062</LocID>                  <Text>Bệnh Meniere</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_062_DESCRIPTION</LocID>      <Text>Bệnh Meniere là một chứng rối loạn tai trong với đặc điểm là chóng mặt không rõ nguyên nhân..</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_063</LocID>                  <Text>Tăng tiểu cầu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_063_DESCRIPTION</LocID>      <Text>Tăng tiểu cầu cơ bản đề cập đến một tình trạng không phổ biến khi cơ thể bệnh nhân sản xuất nhiều tiểu cầu hơn mức cần thiết.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_064</LocID>                  <Text>Phát ban cây thường xuân độc</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_064_DESCRIPTION</LocID>      <Text>Phát ban do cây thường xuân độc là một phản ứng dị ứng với nhựa urushiol có trong lá, thân và rễ của cây thường xuân độc, cây sồi và cây sơn.</Text>	</GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRM_001</LocID>                  <Text>Hemothorax</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_001_DESCRIPTION</LocID>      <Text>Hemothorax là tình trạng tích tụ máu trong khoang màng phổi và thường do chấn thương ngực.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_002</LocID>                  <Text>Tràn khí màng phổi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_002_DESCRIPTION</LocID>      <Text>Tràn khí màng phổi căng thẳng xảy ra hầu hết trong các tình huống lâm sàng như thở máy, hồi sức hoặc ở những người bị bệnh phổi.</Text>	</GameDBLocalizedString>
+
+            
+            <!-- shared symptoms used tại Khoa nội-->
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_EFFUSION</LocID>                           <Text>Tràn dịch màng phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_EFFUSION_DESCRIPTION</LocID>               <Text>MRI đã phát hiện tràn dịch màng phổi.</Text>  </GameDBLocalizedString>
+            
+               
+            <!--main symptoms - Khoa nội-->
+            <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_B_DETECTED</LocID>                       <Text>Cúm B được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_B_DETECTED_DESCRIPTION</LocID>           <Text>Xét nghiệm huyết thanh đã phát hiện các kháng thể liên quan đến virus Cúm B.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_E_COLI_TOXIN_DETECTED</LocID>                      <Text>Phát hiện độc tố E. coli</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_E_COLI_TOXIN_DETECTED_DESCRIPTION</LocID>          <Text>Phân tích phân đã phát hiện độc tố do E. coli sản sinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_C_JEJUNI_DETECTED</LocID>                          <Text>C. jejuni được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_C_JEJUNI_DETECTED_DESCRIPTION</LocID>              <Text>ELISA đã phát hiện kháng nguyên cho Campylobacter jejuni.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MASTADENOVIRUS_B_DETECTED</LocID>                  <Text>Mastadenovirus B được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MASTADENOVIRUS_B_DETECTED_DESCRIPTION</LocID>      <Text>Xét nghiệm PCR đã phát hiện Human Mastadenovirus B.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIA_DETECTED</LocID>                               <Text>TIA được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TIA_DETECTED_DESCRIPTION</LocID>                   <Text>MRI đã phát hiện các yếu tố của cơn thiếu máu cục bộ thoáng qua.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_C_BOTULINUM_DETECTED</LocID>                       <Text>C. botulinum được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_C_BOTULINUM_DETECTED_DESCRIPTION</LocID>           <Text>ELISA đã phát hiện sự hiện diện của Clostridium botulinum.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_INFECTION_DETECTED</LocID>               <Text>Đã phát hiện nhiễm vi khuẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BACTERIAL_INFECTION_DETECTED_DESCRIPTION</LocID>   <Text>Xét nghiệm PCR đã phát hiện ra một trường hợp nhiễm vi khuẩn mạnh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASBESTOSIS_DETECTED</LocID>                        <Text>Phát hiện bệnh bụi phổi amiăng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASBESTOSIS_DETECTED_DESCRIPTION</LocID>            <Text>Kiểm tra CT phát hiện bệnh bụi phổi amiăng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_RASH</LocID>                                  <Text>Phát ban nhiệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_RASH_DESCRIPTION</LocID>                      <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận phát ban nhiệt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CIGUATOXIN_DETECTED</LocID>                        <Text>Ciguatoxin được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CIGUATOXIN_DETECTED_DESCRIPTION</LocID>            <Text>Xét nghiệm máu phát hiện nhiễm độc ciguatoxin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOTHORAX_DISCOVERED</LocID>                      <Text>Hemothorax được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMOTHORAX_DISCOVERED_DESCRIPTION</LocID>          <Text>Kiểm tra siêu âm phát hiện một lượng lớn máu trong khoang màng phổi của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PUNCTURED_LUNGS</LocID>                            <Text>Punctured lungs</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PUNCTURED_LUNGS_DESCRIPTION</LocID>                <Text>Kiểm tra siêu âm cho thấy phổi bị thủng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_FLUID_INFECTED</LocID>                     <Text>Dịch màng phổi bị nhiễm trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_FLUID_INFECTED_DESCRIPTION</LocID>         <Text>Sinh thiết dịch màng phổi đã xác nhận nhiễm trùng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED</LocID>                       <Text>Chylothorax được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED_DESCRIPTION</LocID>           <Text>Chẩn đoán bằng X-quang đã phát hiện ra chylothorax.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_TRANSUDATE</LocID>                         <Text>Dịch màng phổi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PLEURAL_TRANSUDATE_DESCRIPTION</LocID>             <Text>MRI đã phát hiện sự hiện diện của dịch màng phổi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHOLESTEATOMA_DISCOVERED</LocID>                   <Text>Cholesteatoma được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHOLESTEATOMA_DISCOVERED_DESCRIPTION</LocID>       <Text>Kiểm tra CT đã phát hiện cholesteatoma trong tai bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_POLYPS_DETECTED</LocID>                      <Text>Polyp mũis được phát hiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_POLYPS_DETECTED_DESCRIPTION</LocID>          <Text>Kiểm tra CT đã phát hiện ra khối polyp nhỏ trong hốc mũi của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CROUP_PRESENT</LocID>                              <Text>Croup hiện tại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CROUP_PRESENT_DESCRIPTION</LocID>                  <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận bệnh croup.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT</LocID>                   <Text>Bệnh Meniere</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT_DESCRIPTION</LocID>       <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết sẽ xác nhận bệnh Meniere.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA</LocID>                            <Text>Tăng tiểu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA_DESCRIPTION</LocID>                <Text>Công thức máu toàn bộ cho thấy số lượng tiểu cầu cao bất thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH</LocID>                            <Text>Phát ban cây thường xuân độc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH_DESCRIPTION</LocID>                <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận Phát ban cây thường xuân độc.</Text>  </GameDBLocalizedString>
+
+            <!--new trt procedures-->
+            <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY</LocID>                    <Text>Liệu pháp thành phần máu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY_DESCRIPTION</LocID>        <Text>Loại truyền máu chuyên biệt có thể bao gồm máu toàn phần hoặc các thành phần riêng lẻ bao gồm các tế bào hồng cầu đóng gói, huyết tương tươi đông lạnh, tiểu cầu, kết tủa lạnh, các thành phần bạch cầu hạt và rhogam.\n\nPhòng yêu cầu: Bất kỳ Phòng chẩn đoán / ICU / ward</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_FOREIGN_OBJECT_REMOVAL</LocID>                     <Text>Loại bỏ dị vật</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_FOREIGN_OBJECT_REMOVAL_DESCRIPTION</LocID>         <Text>Loại bỏ dị vật có trong vết thương.\n\nPhòng yêu cầu: Phòng khám / Theo dõi / Trung tâm chấn thương / ICU / Văn phòng / Phòng chẩn đoán tại Chấn thương dpt</Text>	</GameDBLocalizedString>
+
+            <!--Khoa nội-->
+            <GameDBLocalizedString>      <LocID>TRT_THORACENTESIS</LocID>                              <Text>Nội soi lồng ngực</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_THORACENTESIS_DESCRIPTION</LocID>                  <Text>Thủ thuật xâm lấn để loại bỏ chất lỏng hoặc không khí khỏi khoang màng phổi.\n\nPhòng yêu cầu: Đơn vị thủ tục đặc biệt \n\nThiết bị cần thiết: Thiết bị nội soi lồng ngực</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MIEP</LocID>                                       <Text>MIEP</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MIEP_DESCRIPTION</LocID>                           <Text>Thủ thuật nội soi xâm lấn tối thiểu được sử dụng để điều trị các bệnh lý tai mũi họng khác nhau.\n\nPhòng yêu cầu: Đơn vị thủ tục đặc biệt \n\nThiết bị cần thiết: Trạm ENT</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MANNITOL_DOSES</LocID>                             <Text>Liều mannitol</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MANNITOL_DOSES_DESCRIPTION</LocID>                 <Text>Liều mannitol được đưa vào cơ thể con người để chống say do ciguatoxin.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội dpt / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYDROXYUREA</LocID>                                <Text>Hydroxyurea</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYDROXYUREA_DESCRIPTION</LocID>                    <Text>Thuốc đặc biệt ngăn chặn sản xuất tế bào máu trong tủy xương.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội dpt / ICU</Text>	</GameDBLocalizedString>
+
+            <!--neurology-->
+            <GameDBLocalizedString>      <LocID>TRT_BOTULINUM_ANTITOXIN</LocID>                        <Text>Chống độc Botulinum</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BOTULINUM_ANTITOXIN_DESCRIPTION</LocID>            <Text>Kháng thể đặc biệt với khả năng vô hiệu hóa độc tố do Clostridium botulinum tạo ra.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Thần kinh dpt / ICU</Text>	</GameDBLocalizedString>
+            
+            <!--EXAMINATIONS - NEW-->
+            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING</LocID>                            <Text>Lấy mẫu RT-PCR</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING_DESCRIPTION</LocID>                <Text>Phản ứng chuỗi polymerase phiên mã ngược là một kỹ thuật trong phòng thí nghiệm kết hợp phiên mã ngược của RNA thành DNA và khuếch đại các mục tiêu DNA cụ thể bằng cách sử dụng PCR.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Bệnh truyền nhiễm dpt / ICU /\n\nThiết bị cần thiết: Dụng cụ thủy tinh + Đo chu kỳ nhiệt</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_TESTING</LocID>                             <Text>Kiểm tra RT-PCR</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_TESTING_DESCRIPTION</LocID>                 <Text>Phản ứng chuỗi polymerase phiên mã ngược là một kỹ thuật trong phòng thí nghiệm kết hợp phiên mã ngược của RNA thành DNA và khuếch đại các mục tiêu DNA cụ thể bằng cách sử dụng PCR.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING</LocID>                             <Text>Lấy mẫu ELISA</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING_DESCRIPTION</LocID>                 <Text>Xét nghiệm hấp thụ miễn dịch liên kết với enzym là một kỹ thuật phòng thí nghiệm được sử dụng để phát hiện và định lượng peptit, protein, kháng thể và hormone.\n\nLấy mẫu: Cấp cứu dpt / Khoa nội dpt / Bệnh truyền nhiễm dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ELISA_TESTING</LocID>                              <Text>Kiểm tra ELISA</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ELISA_TESTING_DESCRIPTION</LocID>                  <Text>Xét nghiệm hấp thụ miễn dịch liên kết với enzym là một kỹ thuật phòng thí nghiệm được sử dụng để phát hiện và định lượng peptit, protein, kháng thể và hormone.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PULSE_OXYMETRY</LocID>                             <Text>Đo oxy xung</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PULSE_OXYMETRY_DESCRIPTION</LocID>                 <Text>Đo oxy theo nhịp là phương pháp dễ sử dụng và hiệu quả để theo dõi độ bão hòa oxy của bệnh nhân.</Text>	</GameDBLocalizedString>
+
+            <!--OBJECTS - DEVICES-->
+            <GameDBLocalizedString>      <LocID>OBJECT_ENT_WORKSTATION</LocID>                         <Text>Trạm ENT</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ENT_WORKSTATION_DESCRIPTION</LocID>             <Text>Trạm làm việc tai mũi họng cho một loạt các quy trình liên quan đến Tai-Mũi-Họng.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THORA_DEVICE</LocID>                            <Text>Thiết bị nội soi lồng ngực</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THORA_DEVICE_DESCRIPTION</LocID>                <Text>Thiết bị hướng dẫn USG đặc biệt chủ yếu được sử dụng cho các thủ thuật chọc dò lồng ngực.</Text>	</GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SURGEON_ASSISTANTS</LocID>                             <Text>Trợ lý phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGEON_ASSISTANT</LocID>                              <Text>Trợ lý phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SURGEON_ASSISTANT_DESCRIPTION</LocID>                  <Text>Bác sĩ trong phòng trực với vai trò hỗ trợ phẫu thuật, chuyên trách</Text>  </GameDBLocalizedString>
+            
+            <!-- Lưu ý: the name if the new room is ROOM_TYPE_UNIQUE_IM_OFFICE in this file -->
+            <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_INTERNAL_MEDICINE_CHANGE</LocID>         <Text>Thay đổi quan trọng của trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_INTERNAL_MEDICINE_CHANGE_TEXT</LocID>    <Text>Khoa nội khoa không cung cấp các thủ tục phẫu thuật nữa. Bây giờ bạn có thể tạo Đơn vị thủ tục đặc biệt mới để thực hiện khám và điều trị chuyên khoa.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>BANNER_DLC_HOSPITAL_SERVICES</LocID>                   <Text>Kiểm tra Dịch vụ bệnh viện DLC!</Text>  </GameDBLocalizedString>
+            
+            
+            <!--NEW OBJECT-->
+            <GameDBLocalizedString>      <LocID>OBJECT_DONT_CROSS</LocID>                               <Text>Khu vực hạn chế</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+</Database>    

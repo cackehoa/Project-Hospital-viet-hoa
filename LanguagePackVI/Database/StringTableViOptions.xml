@@ -1,0 +1,39 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_OPTIONS">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS</LocID>                     <Text>Tùy chọn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS_MESSAGES</LocID>            <Text>Tùy chọn thông báo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>Hiển thị máu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>Hiển thị lịch trình hoạt động hàng ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>Thang giao diện người dùng tự động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>Thang giao diện người dùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>Độ trễ công cụ chú giải (0 - 1s)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>Âm lượng: FX</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_MUSIC</LocID>           <Text>Âm lượng: Nhạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_DIALOGUE</LocID>        <Text>Âm lượng: Hội thoại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_UI</LocID>              <Text>Âm lượng: UI</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_AUTO_FOUNDATION_WALLS</LocID>  <Text>Tự động thêm tường xung quanh móng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_PAYMENTS_INGAME</LocID>   <Text>Hiển thị các khoản thanh toán trong trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_XP_INGAME</LocID>         <Text>Hiển thị XP đã đạt được trong trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_TRANSPARENT_OPEN_DOORS</LocID> <Text>Làm mờ cửa đang mở</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>      <LocID>OPTIONS_ALLOW_DEATH</LocID>            <Text>Được phép chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_ENABLED</LocID>               <Text>Đã bật tính năng lưu tự động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>Tự động lưu mỗi giờ</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>OPTIONS_RUN_IN_BACKGORUND</LocID>      <Text>Chạy trong nền</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

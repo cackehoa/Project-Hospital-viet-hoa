@@ -1,0 +1,148 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_ACHIEVEMENTS">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+    
+        <Contributors>
+          <Name>Cắc kè hoa</Name>
+        </Contributors>
+    
+        <LocalizedStrings>
+            <!--Building-->
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ah, đó là chỗ</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT_DESCRIPTION</LocID>           <Text>Xin chúc mừng, bạn đã đặt đối tượng đầu tiên của mình!</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS</LocID>                         <Text>Uh, nhiều điểm hơn!</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS_DESCRIPTION</LocID>             <Text>Đặt 100 đối tượng đơn lẻ.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS</LocID>                          <Text>Ồ, tất cả các điểm! </Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS_DESCRIPTION</LocID>              <Text>Đặt 1000 đối tượng đơn lẻ.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE</LocID>                          <Text>Rất đẹp! Tuyệt đẹp!</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE_DESCRIPTION</LocID>              <Text>Đặt 100 món đồ trang trí.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GARDENER</LocID>                           <Text>Người làm vườn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GARDENER_DESCRIPTION</LocID>               <Text>Đặt 30 cây.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_SEE_YOU</LocID>         <Text>Những bức tường có mắt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_SEE_YOU_DESCRIPTION</LocID>              <Text>Đặt 30 áp phích Kiểm tra mắt.</Text>  </GameDBLocalizedString>
+            Những bức tường có mắt<GameDBLocalizedString>      <LocID>ACHIEVEMENT_GOING_UP</LocID>        <Text>Đi lên!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GOING_UP_DESCRIPTION</LocID>               <Text>Xây tầng một.</Text>  </GameDBLocalizedString>
+            Những bức tường có mắt<GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR</LocID>       <Text>Tầng trên cùng, làm ơn!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOP_FLOOR_DESCRIPTION</LocID>              <Text>Xây số tầng tối đa.</Text>  </GameDBLocalizedString>
+          
+            <!-- -->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER</LocID>                            <Text>Builder</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_BUILDER_DESCRIPTION</LocID> <Text>Xây phòng đầu tiên của bạn với các thiết bị bắt buộc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CRUSHER</LocID>                            <Text>Kẻ huỷ diệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CRUSHER_DESCRIPTION</LocID>                <Text>Xóa phòng đầu tiên của bạn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVER</LocID>                              <Text>Người di chuyển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVER_DESCRIPTION</LocID>                  <Text>Di chuyển 50 đối tượng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL</LocID>                         <Text>Bức tường lớn của bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL_DESCRIPTION</LocID>             <Text>Xây dựng hơn 1000 bức tường gạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS</LocID>                            <Text>Đó là tôi, Marius!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS_DESCRIPTION</LocID>                <Text>Đặt 30 nhà vệ sinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE</LocID>                        <Text>Không xả rác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE_DESCRIPTION</LocID>            <Text>Đặt 30 thùng rác.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BIOHAZARD</LocID>         <Text>Môi trường làm việc an toàn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BIOHAZARD_DESCRIPTION</LocID>              <Text>Đặt 30 thùng rác sinh học.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_INSTANT_HOSPITAL</LocID>                   <Text>Bệnh viện cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_INSTANT_HOSPITAL_DESCRIPTION</LocID>       <Text>Đặt 15 nhà lắp sẵns.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHALL_NOT_PASS</LocID>                     <Text>Bạn sẽ không vượt qua!</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHALL_NOT_PASS_DESCRIPTION</LocID><Text>Xây phòng không có cửa ra vào.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HOSPITAL_51</LocID>                        <Text>Bệnh viện 51</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HOSPITAL_51_DESCRIPTION</LocID>            <Text>Xây 10 vệ tinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMPLETE_HOSPITAL</LocID>                  <Text>Bạn có thích bệnh viện của tôi không?</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMPLETE_HOSPITAL_DESCRIPTION</LocID>      <Text>Xây bệnh viện chức năng với mọi khoa.</Text>  </GameDBLocalizedString>
+          
+            <!--Management-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIRE_FIRST_EMPLOYEE</LocID>                <Text>Bạn được thuê</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIRE_FIRST_EMPLOYEE_DESCRIPTION</LocID>    <Text>Thuê nhân viên đầu tiên của bạn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIRE_STAFF</LocID>                         <Text>Quản lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIRE_STAFF_DESCRIPTION</LocID>             <Text>Thuê 20 nhân viên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRE_STAFF</LocID>                         <Text>Sa thải</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRE_STAFF_DESCRIPTION</LocID>             <Text>Sa thải 20 nhân viên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SIGN_INSURANCE</LocID>                     <Text>Tôi đảm bảo với bạn</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_SIGN_INSURANCE_DESCRIPTION</LocID>   <Text>Hợp đồng với công ty bảo hiểm.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_RIGHT_BOSS</LocID>         <Text>Ai là ông chủ?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_RIGHT_BOSS_DESCRIPTION</LocID>             <Text>Chỉ định một bác sĩ trưởng với đặc quyền 'Ông chủ tốt'.</Text>  </GameDBLocalizedString>
+          
+            <!--Diagnoses-->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_CURE_FIRST_PATIENT</LocID> <Text>Bác sĩ trẻ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CURE_FIRST_PATIENT_DESCRIPTION</LocID>     <Text>Điều trị cho bệnh nhân đầu tiên của bạn.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_CURE_PATIENTS</LocID>      <Text>Bác sĩ cao cấp ở nhà da!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CURE_PATIENTS_DESCRIPTION</LocID>          <Text>Điều trị cho 1000 bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BLOOD_TEST_SAMPLES</LocID>                 <Text>Ma cà rồng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BLOOD_TEST_SAMPLES_DESCRIPTION</LocID>     <Text>Rút máu từ 50 bệnh nhân dưới sự chăm sóc của bạn.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_X_RAY_TESTS</LocID>                        <Text>Herr Wilhelm Röntgen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_X_RAY_TESTS_DESCRIPTION</LocID>            <Text>Có 30 bệnh nhân dưới sự chăm sóc của bạn và kiểm tra X-quang.</Text>  </GameDBLocalizedString>
+          
+            <!-- -->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEFT_DOCTOR</LocID>        <Text>Sai một lần nữa</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEFT_DOCTOR_DESCRIPTION</LocID><Text>Chẩn đoán sai 20 bệnh nhân dưới sự chăm sóc của bạn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_RIGHT_DOCTOR</LocID>                       <Text>Bác sĩ đúng</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_RIGHT_DOCTOR_DESCRIPTION</LocID><Text>Chẩn đoán chính xác 20 lần dưới sự chăm sóc của bạn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MY_TURN</LocID>                            <Text>Đến lượt tôi!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MY_TURN_DESCRIPTION</LocID>                <Text>Kiểm soát hơn 30 bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HELLO_ANYBODY</LocID>                      <Text>Xin chào? Có ai không?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HELLO_ANYBODY_DESCRIPTION</LocID>          <Text>Tiếp quản một bệnh nhân từ phòng khám và để anh ta đợi trong hơn hai giờ trò chơi.</Text>  </GameDBLocalizedString>
+          
+            <!--Miscellaneous-->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_SENT_PATIENTS_HOME</LocID> <Text>Thành công rực rỡ!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SENT_PATIENTS_HOME_DESCRIPTION</LocID>     <Text>Gửi 20 Bệnh nhân về nhà.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BANKER</LocID>                             <Text>Ngân hàng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BANKER_DESCRIPTION</LocID>                 <Text>Có 700 000$ trong ngân sách của bạn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SPENDER</LocID>                            <Text>Người tiêu xài</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SPENDER_DESCRIPTION</LocID>                <Text>Chi tiêu trên 1 000 000$.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JANITOR</LocID>                            <Text>Dr. Jan Itor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JANITOR_DESCRIPTION</LocID>                <Text>Yêu cầu các nhà vệ sinh của bạn làm sạch 10 000 viên gạch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DONT_COLLAPSE</LocID>                      <Text>Xin đừng chết trong hành lang!</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString><LocID>ACHIEVEMENT_DONT_COLLAPSE_DESCRIPTION</LocID><Text>Trải nghiệm 10 bệnh nhân sụp đổ tại phòng khám.</Text>  </GameDBLocalizedString>
+          
+            <!-- -->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ALCOHOLIC</LocID>                          <Text>Chờ đã, đây có phải là quán bar không?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ALCOHOLIC_DESCRIPTION</LocID>              <Text>Thuê 5 nhân viên với đặc quyền 'có cồn'.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PRODUCTIVE_DAY</LocID>                     <Text>Ngày làm việc hiệu quả</Text>  </GameDBLocalizedString><!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PRODUCTIVE_DAY_DESCRIPTION</LocID>         <Text>Chơi trong 8 giờ.</Text>  </GameDBLocalizedString><!--after release-->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_CMS</LocID>                <Text>Một máy dầu tốt</Text>  </GameDBLocalizedString> <!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CMS_DESCRIPTION</LocID>                    <Text>Nhận 5 sao uy tín.</Text>  </GameDBLocalizedString> <!--after release-->
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT</LocID>            <Text>Đa thức</Text>  </GameDBLocalizedString> <!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT_DESCRIPTION</LocID>                <Text>Thay đổi ngôn ngữ của trò chơi ít nhất 3 lần.</Text>  </GameDBLocalizedString> <!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE</LocID>                            <Text>Ngôi sao nhỏ lấp lánh</Text>  </GameDBLocalizedString><!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE_DESCRIPTION</LocID>                <Text>Chỉ có một ngôi sao uy tín.</Text>  </GameDBLocalizedString> <!--after release-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>EAAAAGLEEEE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE_DESCRIPTION</LocID>                  <Text>Xoay một đối tượng 4 lần trước khi đặt nó.</Text>  </GameDBLocalizedString>
+          
+            <!--Campaign-->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_1</LocID>                            <Text>Thực tập sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_1_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 1.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_2</LocID>                            <Text>Cư dân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_2_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 2.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_3</LocID>                            <Text>Chăm sóc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_3_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 3.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_4</LocID>                            <Text>Đồng nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_4_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 4.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_5</LocID>                            <Text>Chuyên gia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_5_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 5.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_6</LocID>                            <Text>Trưởng bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_6_DESCRIPTION</LocID>                <Text>Hoàn thành cấp độ 6.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GOOD_CREDIT</LocID>                        <Text>Good credit</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString> <LocID>ACHIEVEMENT_GOOD_CREDIT_DESCRIPTION</LocID> <Text>Trả nợ ngân hàng chỉ trong 20 ngày ở cấp 4.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHIEF_OF_CHIEFS</LocID>                    <Text>Trưởng phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHIEF_OF_CHIEFS_DESCRIPTION</LocID>        <Text>Hoàn thành tất cả các mục tiêu ở cấp độ 6.</Text>  </GameDBLocalizedString> <!-- There are three currently -->
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_1</LocID>                  <Text>Bậc thầy khẩn cấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_1_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 1.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_2</LocID>                  <Text>Phẫu thuật tổng quát bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_2_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 2.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_3</LocID>                  <Text>Khoa nội bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_3_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 3.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_4</LocID>                  <Text>Chỉnh hình bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_4_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 4.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_5</LocID>                  <Text>Tim mạch bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_5_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 5.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_6</LocID>                  <Text>Thần kinh bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_6_DESCRIPTION</LocID>      <Text>Hoàn thành cấp độ thử thách 6.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN</LocID>                             <Text>Thành tích ẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN_DESCRIPTION</LocID>                 <Text>Tiếp tục chơi để mở khóa thành tích này</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,70 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_PATCH_1_1_17">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Lưu ý: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+            <!-- RELATED FILE: StringTable[Language]Characters.xml -->
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_FillingFreeTime</LocID>       <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT_DEP</LocID>               <Text>Chuẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_DEP</LocID>               <Text>Thực hiện phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE_ER</LocID>          <Text>Ổn định chấn thương</Text>  </GameDBLocalizedString>
+
+            <!-- Lưu ý: used in second half of a sentence, lower-case is intentional -->
+            <GameDBLocalizedString>      <LocID>WAITING_FOR_BED</LocID>                    <Text>chờ giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WAITING_FOR_TRANSPORT_TO_BED</LocID>       <Text>chờ chuyển đến giường</Text>  </GameDBLocalizedString>
+
+            
+            <!-- RELATED FILE: StringTable[Language]Options.xml -->
+            <GameDBLocalizedString>      <LocID>OPTIONS_DAY_LIGHT_BUILDING</LocID>                          <Text>Luôn ánh sáng ban ngày ở chế độ xây</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO_PANEL</LocID>                         <Text>Thang giao diện người dùng tự động (bảng điều khiển chính)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_PANEL</LocID>                              <Text>Thang giao diện người dùng (bảng điều khiển chính)</Text>  </GameDBLocalizedString>
+
+
+            <!-- RELATED FILE: StringTable[Language]Notifications.xml -->
+            <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_FAILED_START</LocID>                     <Text>Không thể bắt đầu sự kiện ngẫu nhiên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_FAILED_START_TEXT</LocID>                <Text>Bệnh viện của bạn đang thiếu phòng khám ban đêm tại khoa cấp cứu, cần thiết để khởi chạy sự kiện ngẫu nhiên.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_TRAUMA_NURSE_CHANGE</LocID>                   <Text>Thay đổi quan trọng của trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_TRAUMA_NURSE_CHANGE_TEXT</LocID>              <Text>Số Y tá phẫu thuật được yêu cầu nhập viện đã tăng lên 2. Điều này đảm bảo rằng toàn bộ nhóm phẫu thuật sẽ có những vai trò chuyên dụng.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LONG_WAIT</LocID>                             <Text>Bệnh nhân sắp rời khỏi phòng khám!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LONG_WAIT_TEXT</LocID>                        <Text>Bệnh nhân tại phòng khám rất lâu không gặp bác sĩ và mệt mỏi vì chờ đợi.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LONG_VISIT</LocID>                            <Text>Bệnh nhân sắp rời khỏi phòng khám!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LONG_VISIT_TEXT</LocID>                       <Text>Bệnh nhân tại phòng khám mất nhiều thời gian nằm viện mà không được điều trị hoặc nằm viện và mệt mỏi vì chờ đợi.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NOTIF_BLOCKED_ELEVATOR</LocID>                              <Text>Không thể tiếp cận thang máy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_BLOCKED_ELEVATOR_TEXT</LocID>                         <Text>Không thể vào một trong các thang máy. Nó có thể bị chặn bởi tường hoặc được đặt sau khu vực hạn chế.</Text>  </GameDBLocalizedString>
+
+            
+            <!-- RELATED FILE: StringTable[Language]UI.xml -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BLOCKED_ROLE</LocID>                                <Text>Không thể bật vai trò này tại nơi làm việc này</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_TRANSPARENCY_SWITCH</LocID>                    <Text>Chuyển đổi độ trong suốt của cửa/cửa sổ và đối tượng</Text>  </GameDBLocalizedString>
+
+            <!-- Lưu ý: from the player's point of view it's the hospital that rotates in this direction -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_ROTATE_CAMERA_CW</LocID>                            <Text>Xoay chế độ xem theo chiều kim đồng hồ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_ROTATE_CAMERA_CCW</LocID>                           <Text>Xoay chế độ xem ngược chiều kim đồng hồ.</Text>  </GameDBLocalizedString>
+
+            <!-- fixed tooltip-->
+            <GameDBLocalizedString>      <LocID>EXM_EAR_EXAMINATION_DESCRIPTION</LocID>                     <Text>Kiểm tra và kiểm tra trực quan tai của bệnh nhân, bao gồm cả ống tai và màng nhĩ.\n\nPhòng yêu cầu: Phòng khám / Phòng chẩn đoán / Phòng theo dõi / Trung tâm chấn thương / ICU tại cấp cứu dpt / Khoa nội dpt / ICU / Thần kinh</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>FILES_TO_UPLOAD</LocID>                                     <Text>Tệp để tải lên</Text>  </GameDBLocalizedString>
+            <!--Updated version of LOADING_TIP_OP in StringTableEnPatch_1_1.xml-->
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_OP_V2</LocID>                                   <Text>Để thực hiện phẫu thuật, bạn cần đội với các chuyên môn sau: 1x bác sĩ phẫu thuật (bác sĩ), 1x chuyên môn bộ phận (bác sĩ), 1x gây mê (bác sĩ), 2x phẫu thuật y tế (y tá) - cộng với y tá rãnh để vận chuyển bệnh nhân.</Text>  </GameDBLocalizedString>
+
+            <!-- StringTableEnTutorial.xml -->
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_ELEVATORS_REMOVE_1_1_17</LocID>             <Text><![CDATA[<b><i>Loại bỏ</i></b> thang máy hoạt động theo cùng một cách, chúng sẽ bị xóa ở tất cả các tầng.]]></Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    

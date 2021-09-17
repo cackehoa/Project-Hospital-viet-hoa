@@ -1,0 +1,393 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_CHARACTERS">
+        
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+        
+    	<LocalizedStrings>
+            <!-- Employee job titles -->
+            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Kỹ thuật viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Hộ lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+
+            <!-- Patient's jobs -->
+            <GameDBLocalizedString>      <LocID>OCCUPATION_OFFICE_JOB</LocID>           <Text>Phòng thư ký</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_MANAGER</LocID>              <Text>Quản lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACCOUNTANT</LocID>           <Text>Kế toán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_TEACHER</LocID>              <Text>Giáo viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Đầu bếp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Công nhân nhà máy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Thu ngân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Vận động viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Diễn viên xiếc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Về hưu</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>Không</Text>  </GameDBLocalizedString>
+            
+            <!-- Perks staff -->
+            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>Ông chủ tốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>Cải thiện sự hài lòng của đồng nghiệp được giám sát mỗi sáng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER</LocID>               <Text>Người học nhanh</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER_DESCRIPTION</LocID>   <Text>Có thể cấp kỹ năng nhanh hơn nhiều.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>Khắc khổ</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN_DESCRIPTION</LocID>   		<Text>Tất cả nhu cầu được giảm chậm hơn nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SCHOLAR</LocID>              		<Text>Học giả</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SCHOLAR_DESCRIPTION</LocID>   		<Text>Sử dụng thời gian rảnh để học.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON</LocID>              <Text>Con người khác</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON_DESCRIPTION</LocID>  <Text>Tiết lộ đặc quyền ẩn những người sau khi tương tác với họ.</Text>  </GameDBLocalizedString>
+        	<GameDBLocalizedString>      <LocID>PERK_GAMER</LocID>              		<Text>Game thủ</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_GAMER_DESCRIPTION</LocID>  		<Text>Nghỉ ngơi nhanh hơn nhiều.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER</LocID>               <Text>Người học chậm</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER_DESCRIPTION</LocID>   <Text>Kỹ năng tăng cấp chậm hơn nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE</LocID>               <Text>Đi làm lâu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE_DESCRIPTION</LocID>   <Text>Lái xe đường dài từ nhà. Thường có thể đi làm muộn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM</LocID>                 <Text>Kẻ nghiện rượu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM_DESCRIPTION</LocID>     <Text>Thường xuyên xuất hiện muộn và nôn nao.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM</LocID>            <Text>Trao đổi chất nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM_DESCRIPTION</LocID><Text>Đói tăng nhanh hơn nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET</LocID>                 <Text>Chân bẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>Giày rất bẩn. Để lại bụi bẩn khắp mọi nơi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES</LocID>        <Text>Chẩn đoán thực tế</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES_DESCRIPTION</LocID><Text>Thưởng 20% kinh nghiệm cho kỹ năng chẩn đoán, sau khi chẩn đoán thành công.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>Restzistance</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE_DESCRIPTION</LocID>   <Text>Mức độ nghỉ ngơi giảm chậm hơn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT</LocID>               <Text>Cha mẹ mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT_DESCRIPTION</LocID>   <Text>Mức độ nghỉ ngơi giảm nhanh hơn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE</LocID>                 <Text>Kẻ ám ảnh vi trùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE_DESCRIPTION</LocID>     <Text>Rửa tay ba lần để chắc chắn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CHEMIST</LocID>                    <Text>Nhà hóa học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CHEMIST_DESCRIPTION</LocID>        <Text>Có thể lau sàn nhanh hơn nhiều.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COMFORTING</LocID>                 <Text>An ủi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COMFORTING_DESCRIPTION</LocID>     <Text>Không gây khó chịu khi khám.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS</LocID>          <Text>Thiên tài chẩn đoán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS_DESCRIPTION</LocID><Text>Thêm tài năng chẩn đoán!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD</LocID>                 <Text>Chim sớm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD_DESCRIPTION</LocID>     <Text>Hoạt động hiệu quả hơn nhiều ban ngày.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL</LocID>                  <Text>Cú đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL_DESCRIPTION</LocID>      <Text>Hoạt động hiệu quả hơn nhiều vào ban đêm.</Text></GameDBLocalizedString>
+
+            <!--  -->
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>Hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>Cung cấp sửa đổi "nhân viên tốt" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>Khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>Cung cấp bổ ngữ "nhân viên có ý nghĩa" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>Làm sạch chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET_DESCRIPTION</LocID>     <Text>Giày rất sạch. Không làm bẩn sàn nhà.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>Người làm việc chăm chỉ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER_DESCRIPTION</LocID>    <Text>Không mất thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LOYAL</LocID>                      <Text>Trung thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LOYAL_DESCRIPTION</LocID>          <Text>Giảm 20% lương khi lên cấp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED</LocID>                  <Text>Trầm cảm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED_DESCRIPTION</LocID>      <Text>Luôn luôn áp dụng công cụ sửa đổi "chán nản" cho sự hài lòng của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HEDONIST</LocID>                   <Text>Chủ nghĩa khoái lạc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HEDONIST_DESCRIPTION</LocID>       <Text>Dành gấp đôi thời gian thưởng thức đồ ăn.</Text>  </GameDBLocalizedString>
+            
+            <!-- Perks patient -->
+            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE</LocID>                <Text>Hợp tác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE_DESCRIPTION</LocID>    <Text>Đẩy nhanh các thủ tục.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE</LocID>                 <Text>Hung hăng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>Làm gián đoạn các thủ tục.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>Động lực</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_INSPIRATOR_DESCRIPTION</LocID>   	<Text>Cải thiện tâm trạng của những người xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>Không biết xấu hổ</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SHAMELESS_DESCRIPTION</LocID>   	<Text>Có khả năng tiết lộ các triệu chứng tế nhị.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>Giáo dục y tế</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION_DESCRIPTION</LocID><Text>Có thể giúp bác sĩ phát hiện ra các triệu chứng.</Text>  </GameDBLocalizedString>
+        	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER</LocID>              	<Text>Du khách</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER_DESCRIPTION</LocID>  	<Text>Không nói tiếng mẹ đẻ. Giao tiếp chậm hơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>Làm phiền</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR_DESCRIPTION</LocID>    <Text>Làm giảm tâm trạng của những người xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>Chậm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SLOW_DESCRIPTION</LocID>     		<Text>Di chuyển chậm hơn nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST</LocID>                		<Text>Nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_DESCRIPTION</LocID>     		<Text>Di chuyển nhanh hơn nhiều.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>Ngại ngùng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY_DESCRIPTION</LocID>			<Text>Có khả năng che giấu các triệu chứng tế nhị</Text>  </GameDBLocalizedString>
+
+            <!--  -->
+            <GameDBLocalizedString>      <LocID>PERK_PIRATE</LocID>                     <Text>Cướp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PIRATE_DESCRIPTION</LocID>         <Text>Không trả tiền cho bất cứ thứ gì</Text>  </GameDBLocalizedString>
+
+            <!-- Need names -->
+            <GameDBLocalizedString>      <LocID>NEED_REST</LocID>                       <Text>Nghỉ ngơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_REST_DESC</LocID>                  <Text>Nhân viên cần nghỉ giải lao một vài lần mỗi ngày.\n\nNếu mức nghỉ ngơi giảm xuống dưới hai sao, nó sẽ bắt đầu ảnh hưởng tiêu cực đến hiệu suất của nhân viên.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF</LocID>               <Text>Đói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF_DESC</LocID>          <Text>Nhân viên cần được tiếp cận với nước và thức ăn và lý tưởng nhất là họ sẽ ăn một bữa trưa thích hợp trong phòng sinh hoạt chung hàng ngày.\n\nNếu mức đói giảm xuống dưới hai sao, nó sẽ bắt đầu ảnh hưởng tiêu cực đến hiệu suất của nhân viên.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS</LocID>            <Text>Đói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS_DESC</LocID>       <Text>Bệnh nhân cần được tiếp cận với nước hoặc đồ ăn nhẹ nếu họ phải chờ đợi lâu.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NEED_BLADDER</LocID>                    <Text>Bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_BLADDER_DESC</LocID>               <Text>Phòng vệ sinh nên có ở mỗi tầng.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT</LocID>                 <Text>Khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT_DESC</LocID>            <Text>Mức độ đau và khó chịu do các triệu chứng, khám và điều trị.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION</LocID>               <Text>Độ hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION_DESC</LocID>          <Text>Sự hài lòng tổng thể bị ảnh hưởng bởi nhu cầu, những người khác và môi trường.</Text>  </GameDBLocalizedString>
+
+            <!-- Satisfaction modifiers -->
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_SIT</LocID>             <Text>không thể ngồi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_LONG_WAIT</LocID>               <Text>đợi lâu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_SHORT_WAIT</LocID>              <Text>đợi nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DIRTY_ENVIRONMENT</LocID>       <Text>sàn bẩn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_WC</LocID>           <Text>đợi WC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BORED</LocID>                   <Text>chán</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_WASH_HANDS</LocID>      <Text>không thể rửa tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_FOOD</LocID>         <Text>đợi thức ăn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WRONG_DIAG_LAST_TIME</LocID>    <Text>Chẩn đoán sai</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_ENVIRONMENT</LocID>        <Text>môi trường tốt đẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_DOCTOR</LocID>             <Text>bác sĩ tốt bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_GOOD_BOSS</LocID>               <Text>Ông chủ tốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NO_BOSS</LocID>                 <Text>không giám sát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAS_BOSS</LocID>                <Text>có ông chủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_INSTIPRATOR</LocID>             <Text>cảm hứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DEMOTIVATOR</LocID>             <Text>khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PATIENT_CURED</LocID>           <Text>Đã điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FIRED</LocID>                   <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_USED</LocID>             <Text>cần giảm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_NOT_USED</LocID>         <Text>cần quan trọng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_EATEN</LocID>              <Text>đầy bụng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_NOT_EATEN</LocID>          <Text>đói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BOREDOM_REDUCED</LocID>         <Text>giải trí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_RESTED</LocID>                  <Text>nghỉ ngơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TIRED</LocID>                   <Text>mệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COMFORTABLE</LocID>             <Text>thoải mái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DISCOMFORTABLE</LocID>          <Text>khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH_STANDING</LocID>      <Text>ăn trưa đứng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH</LocID>               <Text>bữa trưa thích hợp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_ROUGH_NIGHT</LocID>              <Text>đêm vất vả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UNRELEASED</LocID>              <Text>chưa  xuất viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_GOING_HOME</LocID>              <Text>Về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_DRY_HANDS</LocID>       <Text>không thể làm khô tay</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UGLY_ENVIRONMENT</LocID>        <Text>môi trường xấu xí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_SHOCKED</LocID>                 <Text>bị sốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BIG_COMFORT</LocID>             <Text>có giường hiện đại</Text>  </GameDBLocalizedString>
+
+            <!--  -->
+            <GameDBLocalizedString>      <LocID>SAT_MOD_CARED_FOR</LocID>               <Text>kê đơn nhanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NEGLECTED</LocID>               <Text>kê đơn chậm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_STAFF</LocID>              <Text>nhân viên tốt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_MEAN_STAFF</LocID>              <Text>nhân viên có ý nghĩa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PRODUCTIVE</LocID>              <Text>năng suất</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DOUBTFUL</LocID>                <Text>mơ hồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DEPRESSED</LocID>               <Text>Trầm cảm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HUNGOVER</LocID>                <Text>nôn nao</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NONE</LocID>                    <Text>không có bổ ngữ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_NONE</LocID>            <Text>không khó chịu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_UNKNOWN</LocID>         <Text>không xác định</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>GENDER_MALE</LocID>                     <Text>Nam</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GENDER_FEMALE</LocID>                   <Text>Nữ</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HAZARD_UNKNOWN</LocID>                  <Text>nguy hiểm không xác định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_NONE</LocID>                     <Text>không nguy hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_LOW</LocID>                      <Text>Thấp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_MEDIUM</LocID>                   <Text>Trung bình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_HIGH</LocID>                     <Text>Cao</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_SUPPRESSED</LocID>               <Text>Bình phục</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_KILLED_PATIENT</LocID>           <Text>Bệnh nhân bị chết</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SYMPTOM_MOBILE</LocID>                  <Text>Di động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOM_IMOBILE</LocID>                 <Text>Bất động</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYMPTOM_INTUBATED</LocID>               <Text>Đặt nội khí quản</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SENT_HOME</LocID>                       <Text>Gửi về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED</LocID>                    <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZING</LocID>                   <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            
+            <!-- Daily schedule -->
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF</LocID>                <Text>Ca ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF_NIGHT</LocID>          <Text>Ca đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_PATIENTS</LocID>             <Text>Phòng khám mở cửa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_LUNCH</LocID>        <Text>Bệnh nhân lunch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_STAFF_LUNCH</LocID>                        <Text>Bữa trưa của nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_DOCTORS_ROUNDS</LocID>                     <Text>Vòng của bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_MORNING</LocID>                <Text>Thuốc buổi sáng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_EVENING</LocID>                <Text>Thuốc buổi tối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_PATIENTS_PILLS_MORNING</LocID>             <Text>Thuốc buổi sáng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_PATIENTS_PILLS_EVENING</LocID>             <Text>Thuốc buổi tối</Text>  </GameDBLocalizedString>
+
+            <!-- Stabilization localization -->
+            <GameDBLocalizedString>      <LocID>STABILIZATION_TEXT</LocID>                          <Text>Ổn định</Text>  </GameDBLocalizedString>
+
+            <!-- Patient states -->
+            <GameDBLocalizedString>      <LocID>Spawned</LocID>                                     <Text>Sinh sản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Idle</LocID>                                        <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToReception</LocID>                            <Text>Đi đến lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToReceptionist</LocID>                         <Text>Đi đến lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ExaminedAtReception</LocID>                         <Text>Tại lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FindQueueMachine</LocID>                            <Text>Đi đến phòng chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoToQueueMachine</LocID>                            <Text>Đi đến phòng chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UseQueueMachine</LocID>                             <Text>Đi đến phòng chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Wandering</LocID>                                   <Text>Lang thang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToWaitingRoom</LocID>                          <Text>Đi đến phòng chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingGoingToChair</LocID>                         <Text>Đi đến ghế</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingSitting</LocID>                              <Text>Đang chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingStandingIdle</LocID>                         <Text>Đang chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingBeingCalled</LocID>                          <Text>Được gọi là</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FulfillingNeeds</LocID>                             <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToDoctor</LocID>                               <Text>Đi đến bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BeingExamined</LocID>                               <Text>Đã kiểm tra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BeingTreated</LocID>                                <Text>Đã điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BlockedByAmbiguousResults</LocID>                   <Text>Kết quả mơ hồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BlockedByNoTreatment</LocID>                        <Text>Không thể điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>BlockedByComplicatedDiagnosis</LocID>               <Text>Chẩn đoán phức tạp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Leaving</LocID>                                     <Text>Rời đi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Left</LocID>                                        <Text>Rời khỏi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OverriddenByHospitalization</LocID>                 <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CallOnCallRoomDoctor</LocID>                        <Text>Gọi bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitForOnCallRoomDoctor</LocID>                     <Text>Chờ bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToStatLab</LocID>                              <Text>Đi tới phòng thí nghiệm STAT</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>Collapsing</LocID>                                  <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToCollapse</LocID>                             <Text>Không có cảm giác... Quá tốt...</Text>  </GameDBLocalizedString>
+
+            <!-- Hospitalization states -->
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Idle</LocID>                           <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToBed</LocID>                     <Text>đi ngủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_InBed</LocID>                          <Text>nhàn rỗi trên giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FulfillingNeeds</LocID>                <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTime</LocID>                <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTimeLying</LocID>           <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Eating</LocID>                         <Text>ăn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Sleeping</LocID>                       <Text>ngủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BlockedByAmbiguousResults</LocID>      <Text>chẩn đoán mơ hồ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BlockedByNoTreatment</LocID>           <Text>không có điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_OverridenByNurseCheckUp</LocID>        <Text>kiểm tra bởi y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_OverridenByDoctorsRounds</LocID>       <Text>kiểm tra bởi bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_OverridenByMedicine</LocID>            <Text>nhận thuốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Interrupted</LocID>                    <Text>bị gián đoạn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingExamined</LocID>                  <Text>Đã kiểm tra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTreated</LocID>                   <Text>Đã điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_AfterExaminationCheck</LocID>          <Text>sau khi kiểm tra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_AfterTreatmentCheck</LocID>            <Text>sau khi điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_DeliveredByAmbulance</LocID>           <Text>chuyển từ xe cứu thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedFromAmbulance</LocID>  <Text>chuyển từ xe cứu thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToTreatment</LocID>    <Text>chuyển đến điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedFromTreatment</LocID>  <Text>chuyển từ điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToExamination</LocID>  <Text>chuyển đi khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedFromExamination</LocID><Text>chuyển từ khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedBackToRoom</LocID>     <Text>chuyển đến phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToCollapse</LocID>                <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Collapsing</LocID>                     <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_CollapsingInBed</LocID>                <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FindNewBed</LocID>                     <Text>chờ giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForBed</LocID>                  <Text>chờ giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForStabilization</LocID>        <Text>chờ ổn định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingStabilized</LocID>                <Text>đang ổn định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForTransport</LocID>            <Text>chờ vận chuyển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingToBeReleased</LocID>            <Text>chờ để xuất viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForRoomFix</LocID>              <Text>trong phòng hỏng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_NoHospitalization</LocID>              <Text>chờ nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_TransportedAway</LocID>                <Text>chuyển đi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Leaving</LocID>                        <Text>Rời đi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Dead</LocID>                           <Text>chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DEAD</LocID>                                        <Text>Chết</Text>  </GameDBLocalizedString>
+
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT</LocID>          <Text>Chẩn đoán / quan sát</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY</LocID>          <Text>Phẫu thuật / chấn thương</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>Hỗ trợ phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>Gây mê tại phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_CARE</LocID>                      <Text>Chăm sóc bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_TRANSFERS</LocID>                 <Text>Chuyển bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>Y tá - phẫu thuật</Text>  </GameDBLocalizedString>
+            <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>EMPL_ROLE_LAB</LocID>    <Text>Bệnh nhân phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_CLEANING</LocID>                          <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+
+            <!-- Doctor states -->
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Idle</LocID>                           <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_GoingToWorkPlace</LocID>               <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FulfilingNeeds</LocID>                 <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FilingReports</LocID>                  <Text>Viết báo cáo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FillingFreeTime</LocID>                <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenByProcedureScript</LocID>     <Text>Thực hành:</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenReservedForProcedure</LocID>  <Text>Dành cho:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_DoctorsRounds</LocID>                  <Text>Thực hiện vòng người bệnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_GoingHome</LocID>                      <Text>Về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_AtHome</LocID>                         <Text>Ở nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Commuting</LocID>                      <Text>Đi lại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FiredAtHome</LocID>                    <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+            
+            <!-- Nurse states -->
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_Idle</LocID>                            <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedureWaitWithPatient</LocID><Text>Chờ đợi với bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingToWorkplace</LocID>                <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringFood</LocID>                  <Text>Giao đồ ăn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_PatientCheckUp</LocID>                  <Text>Kiểm tra bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringMedicine</LocID>              <Text>Cung cấp thuốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FulfillingNeeds</LocID>                 <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FillingFreeTime</LocID>                 <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenByProcedureScript</LocID>      <Text>Thực hành:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenGoingToStretcher</LocID>       <Text>Lấy cáng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenMovingStretcher</LocID>        <Text>Di chuyển cáng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenReturningStretcher</LocID>     <Text>Trả lại cáng</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenReservedForProcedure</LocID>   <Text>Dành cho:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingHome</LocID>                       <Text>Về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_AtHome</LocID>                          <Text>Ở nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_Commuting</LocID>                       <Text>Đi lại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FiredAtHome</LocID>                     <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+
+            <!-- Janitor states -->
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_AtHome</LocID>                        <Text>Ở nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_FiredAtHome</LocID>                   <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingHome</LocID>                     <Text>Về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToWorkplace</LocID>              <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Walking</LocID>                       <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCartToNextRoom</LocID>       <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToNextRoom</LocID>             <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_FulfillingNeeds</LocID>               <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Cleaning</LocID>                      <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToReturnCart</LocID>             <Text>Trả lại xe đẩy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_ReturningCart</LocID>                 <Text>Trả lại xe đẩy</Text>  </GameDBLocalizedString>
+            
+            <!-- Technologist states -->
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Idle</LocID>                     <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToWorkplace</LocID>         <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FulfillingNeeds</LocID>          <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FillingFreeTime</LocID>          <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenByProcedureScript</LocID><Text>Thực hành:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingHome</LocID>                <Text>Về nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_AtHome</LocID>                   <Text>Ở nhà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Commuting</LocID>                <Text>Đi lại</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FiredAtHome</LocID>              <Text>Bị sa thải</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenReservedForProcedure</LocID><Text>Dành cho:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSample</LocID>           <Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSampleFromHospitalizedPatient</LocID><Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_TakingSample</LocID>             <Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ProcessingSampleFromPatient</LocID><Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToStoreSampleFromPatient</LocID><Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoringSampleFromPatient</LocID> <Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_SampleFromPatientStored</LocID>  <Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ReturningWithSample</LocID>      <Text>Xử lý mẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StartWritingNotes</LocID>        <Text>Xử lý kết quả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StopWritingNotes</LocID>         <Text>Xử lý kết quả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToEquipment</LocID>         <Text>Chạy thử nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_UsingEquipment</LocID>           <Text>Chạy thử nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoppedUsingEquipment</LocID>    <Text>Chạy thử nghiệm</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>      <LocID>HAZARD_POSITIVE</LocID>                             <Text>Khả quan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_HAD_COFFEE</LocID>                              <Text>đã có cà phê</Text>  </GameDBLocalizedString>
+            <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>EMPL_ROLE_LAB_FOR_HOSPITALIZED</LocID>              <Text>Bệnh nhân nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_BREAKFAST</LocID>    <Text>Bữa sáng của bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_DINNER</LocID>       <Text>Bữa tối của bệnh nhân</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_AlmostDeadWaitingForTransport</LocID>  <Text>mất chờ vận chuyển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_AlmostDeadTransportedAway</LocID>      <Text>mất chuyển đi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_AlmostDeadIdle</LocID>                 <Text>mất chuyển đi</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

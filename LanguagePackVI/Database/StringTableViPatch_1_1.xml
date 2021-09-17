@@ -1,0 +1,410 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_PATCH_1_1">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Lưu ý: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+
+            <!-- RELATED FILE: StringTable[Language]UI.xml -->
+            <GameDBLocalizedString>      <LocID>NEW_GAME_MAIN_MENU</LocID>                       <Text>Trò chơi mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPLETED</LocID>                                <Text>Hoàn thành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOCKED</LocID>                                   <Text>Đã khóa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCENARIOS</LocID>                                <Text>Kịch bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>START</LocID>                                    <Text>Bắt đầu</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>CHECK_SAVE</LocID>                               <Text>Kiểm tra lưu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAN_NOT_BE_LOADED_MODS</LocID>                   <Text>Trò chơi được lưu trữ bằng các mod/addon hiện chưa được cài đặt và không thể tải được.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>GAME_SAVED</LocID>                               <Text>Trò chơi đã lưu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCENARIO_CREATED</LocID>                         <Text>Kịch bản đã tạo.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>WORKSHOP</LocID>                                 <Text>WORKSHOP</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>WORKSHOP_BROWSE</LocID>                          <Text>Duyệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_UPLOAD_MOD</LocID>                      <Text>Tải lên mod</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_UPLOAD_SCENARIO</LocID>                 <Text>Tải lên kịch bản</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>WORKSHOP_UPLOAD</LocID>                          <Text>Tải lên xưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_FOLDER</LocID>                          <Text>Thư mục</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_PREVIEW_HINT</LocID>                    <Text>Đặt preview.png vào thư mục.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_NAME</LocID>                            <Text>Tên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_DESCRIPTION</LocID>                     <Text>Mô tả</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_BUTTON_UPLOAD</LocID>                   <Text>Tải lên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_UPDATING</LocID>                        <Text>Đang tải lên (điều này có thể mất đến một phút)...</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>WORKSHOP_BROWSING</LocID>                        <Text>Duyệt xưởng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_BROWSING_TIPS</LocID>                   <Text>Project Hospital sử dụng giao diện web Steam để duyệt các bản mod và kịch bản xưởng.\nSau khi đăng ký các vật phẩm mới, vui lòng khởi động lại trò chơi để cho phép Steam tải xuống nội dung</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SAVE_INFO_LABEL</LocID>                          <Text>Thông tin:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_INFO_TIME</LocID>                           <Text><![CDATA[<b>Thời gian:  </b>Day ]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_INFO_BALANCE</LocID>                        <Text><![CDATA[<b>Cân bằng:  </b>$]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_INFO_OLD_VERSION</LocID>                    <Text>Được lưu bằng Project Hospital 1.0</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVED_WITH_ADDONS</LocID>                        <Text>Được lưu bằng addons:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ADDON_NOT_INSTALLED</LocID>                      <Text>(Chưa cài đặt!)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TREATMENT_HOSPITALIZATION_UNAVAILABLE</LocID>    <Text>Không cần nhập viện để điều trị. Kiểm tra giường rãnh hoặc thử nhập viện ưu tiên cao hơn.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FLOORS_PLACE</LocID>            <Text>Đặt tầng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FLOORS_DELETE</LocID>           <Text>Xóa tầng</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_GENERATE_COST</LocID>        	 <Text>Tìm ứng viên mới với 2500$</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_NUMBER_OF_INSURANCE_COMPANIES</LocID>    <Text>Số hợp đồng công ty bảo hiểm/được phép đã ký</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>BUTTON_CREATE_SCENARIO</LocID>        	         <Text>Tạo kịch bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LABEL_CREATE_SCENARIO</LocID>        	         <Text>Tạo kịch bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LABEL_CREATE_SCENARIO_FOLDER</LocID>        	 <Text>Thư mục</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LABEL_CREATE_SCENARIO_NAME</LocID>        	     <Text>Tên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LABEL_CREATE_SCENARIO_DESCRIPTION</LocID>        <Text>Mô tả</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_DEFAULT_COLOR</LocID>   <Text>Tất cả màu xám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_RESTORE_DEFAULT_COLORS</LocID>     <Text>Khôi phục màu sắc</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>PRESTIGE_PATIENTS_ALL_DAY</LocID>                <Text>Bệnh nhân hài lòng (ghé thăm và rời đi)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>UI_ROOM_PLANNING_ONLY</LocID>                    <Text>Chỉ lập kế hoạch\n(Không có trên nền tảng)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_REQUIRED_HOSPITALIZATION</LocID>         <Text>Bắt buộc nhập viện:</Text>  </GameDBLocalizedString>
+            
+            <!-- Bảo hiểm objectives -->
+            <GameDBLocalizedString>      <LocID>SAVE_PATIENT_AFTER_COLLAPSES</LocID>                           <Text>Cứu bệnh nhân sau {1} lần sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_CLINIC_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>           <Text>Mở phòng khám tại khoa chuyên môn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_HOSPITALIZATION_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>  <Text>Mở nhập viện tại bất kỳ bộ phận chuyên môn nào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERFORM_SURGERY</LocID>                                        <Text>Thực hiện {1} phẫu thuật/tổng phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>                 <Text>Đạt được uy tín {1} tại bất kỳ bộ phận chuyên môn nào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_PER_DAY_AT_ANY_SPECIALIZED_DEPARTMENT</LocID> <Text>Điều trị {1} bệnh nhân mỗi ngày tại bất kỳ bộ phận chuyên môn nào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_OF_TYPE</LocID>                              <Text>Kết thúc thành công {1} {2} sự kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_IN_ROW</LocID>                               <Text>Kết thúc thành công {1} sự kiện liên tiếp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NUMBER_OF_FULLY_WORKING_DEPARTMENTS</LocID>                    <Text>Có {1} các phòng ban làm việc đầy đủ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</LocID>                <Text>Không có bệnh nhân chưa điều trị trong {1} ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_DEAD_PATIENTS_DAYS</LocID>                                  <Text>Không có Bệnh nhân chết/bị mất trong {1} ngày</Text>  </GameDBLocalizedString>
+
+            <!-- Bảo hiểm objective rewards -->
+            <GameDBLocalizedString>      <LocID>PRESTIGE_BONUS</LocID>                           <Text>Phần thưởng uy tín {1} trong {2} ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_ALL_HOSPITALIZATIONS</LocID>              <Text>Mở khóa nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SET_MOBILE_PATIENT_COUNT</LocID>                 <Text>Tăng bệnh nhân phòng khám mỗi ngày lên {1}</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>SET_IMMOBILE_PATIENT_COUNT</LocID>               <Text>Tăng lượng xe cứu thương bệnh nhân mỗi ngày lên {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_EVENTS</LocID>                            <Text>Mở khóa các nút sự kiện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_RANDOM_EVENTS</LocID>                     <Text>Sự kiện ngẫu nhiên</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>CONTRACTED_INSURANCE_COMPANY_COUNT</LocID>       <Text>Công ty đã ký hợp đồng:</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>PURCHASE_AMBULANCES</LocID>                      <Text>Mua xe cứu thương</Text>  </GameDBLocalizedString>
+                 
+            <!-- Employee's card  roles tooltips -->
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MISSING_SPECIALIZATION</LocID>           <Text>Nhân viên không có chuyên môn bắt buộc cho vai trò này, vì vậy không thể bật vai trò này</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_ONLY_SPECIALIZATION</LocID>              <Text>Nhân viên chỉ có một vai trò khả dụng, vì vậy không thể vô hiệu hóa nó</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_CLINIC_PATIENTS</LocID><Text>Số lượng bệnh nhân gửi đến phòng khám mỗi ngày.\nSố lượng sẽ giảm nếu bệnh viện có uy tín kém.</Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>      <LocID>CANDIDATES</LocID>                               <Text>Candidates</Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_CLINIC</LocID>                  <Text>Ca ngày: Phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC</LocID>                <Text>Ca đêm: Phòng khám</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_HOSPITALIZATION</LocID>         <Text>Ca ngày: Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC_HOSPITALIZATION</LocID><Text>Ca đêm: Nhập viện</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_RADIOLOGIST</LocID>             <Text>Bác sĩ X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_RADIOLOGISTS</LocID>            <Text>Bác sĩ X-quang</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EMPLOYEES_DAY_NIGH</LocID>       <Text>Nhân viên ngày/đêm</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_KEYBOARD_CONTROLS</LocID>        <Text>Điều khiển bàn phím</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LOADING_V2</LocID>                               <Text>Đang tải</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_ICU</LocID>                          <Text>ICU chỉ chấp nhận bệnh nhân với chẩn đoán xác nhận, Bệnh nhân yếu nhược không có chẩn đoán rõ ràng, hãy đến Trung tâm Chấn thương (TC).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_NURSES</LocID>                       <Text>Nếu việc khám và điều trị mất nhiều thời gian để bắt đầu, kiểm tra xem có đủ y tá sẵn sàng để vận chuyển bệnh nhân không.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_HDU</LocID>                          <Text>Nhập viện HDU hầu hết được sử dụng cho những bệnh nhân bất động. Nó cung cấp y tá kiểm tra thường xuyên hơn và mang cho bệnh nhân cơ hội tốt hơn để sống sót sau khi bị sụp đổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_OP</LocID>                           <Text>Để thực hiện phẫu thuật, bạn cần đội với các chuyên môn sau: 1x bác sĩ phẫu thuật (bác sĩ), 1x chuyên môn bộ phận (bác sĩ), 1x gây mê (bác sĩ), 1x phẫu thuật y tế (y tá), 1x Chăm sóc bệnh nhân (y tá) - cộng với y tá rãnh để vận chuyển bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_MANAGEMENT</LocID>                   <Text>Các khu vực không được đánh dấu bất kỳ phòng nào trong chế độ quản lý được coi là ưu tiên thấp nhất bởi công nhân vệ sinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_BUILDING</LocID>                     <Text>Bạn có thể mở rộng các tầng trên mặt đất bằng cách sử dụng công cụ móng, chúng thậm chí có thể vượt ra khỏi tầng bên dưới.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_JANITORS</LocID>                     <Text>Khi nhân viên vệ sinh dọn dẹp xong bộ phận của họ, họ sẽ giúp việc khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_MOVING_OBJ</LocID>                   <Text>Bạn có thể di chuyển đối tượng đính kèm (giống như cái bàn với máy tính), để chỉ chọn đính kèm, hãy giữ [CTRL].</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_RECEPTION</LocID>                    <Text>Nhân viên lễ tân chỉ định mức độ ưu tiên cao hơn cho các trường hợp quan trọng hơn trong cuộc thử nghiệm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_COFFEE_MAKER</LocID>                 <Text>Không có máy pha cà phê trong phòng sinh hoạt chung? Nghiêm trọng? :)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_ROLES_CARD</LocID>                   <Text>Để tối đa hóa hiệu suất của nhân viên, bạn có thể bật/tắt vai trò cụ thể. Ví dụ, bạn có thể tạo nhóm phẫu thuật chuyên dụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_OBSERVATION</LocID>                  <Text>Nhận những ca phức tạp để quan sát, bác sĩ tại phòng khám cũng sẽ rãnh khám cho bệnh nhân khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_HIRING_PERKS</LocID>                 <Text>Thuê ai đó? Đảm bảo kiểm tra các đặc quyền của họ!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_DECORATIONS</LocID>                  <Text>Trang trí cẩn thận và môi trường sạch sẽ đảm bảo nhân viên và bệnh nhân hài lòng hơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_BUDGET_LOANS</LocID>                 <Text>Hết tiền? Bạn có thể vay khoản vay lên đến 500 000$. Trong trường hợp xấu nhất, bạn thậm chí có thể bán thiết bị hoặc đồ trang trí.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_UNAVAILABLE_EXM</LocID>              <Text>Nếu khám hoặc phương pháp điều trị không có sẵn, có thể bạn đang thiếu phòng hoặc thiết bị chuyên dụng hoặc cần chuyển bệnh nhân sang khoa khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_GOOD_BOSS</LocID>                    <Text>Bác sĩ trưởng giỏi có thể làm cho nhân viên của bạn hạnh phúc và hiệu quả hơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_PRESTIGE</LocID>                     <Text>Uy tín ảnh hưởng đến cả khoản thanh toán bảo hiểm và sự chấp nhận của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_STAFF</LocID>                        <Text>Bảng của bệnh nhân và nhân viên có thể được mở từ bảng điều khiển bên trái trong chế độ quản lý.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_BLUED_OBJ</LocID>                    <Text>Nếu vật thể chuyển sang màu xanh lam, nó đang thiếu thiết bị bổ sung. Khi di chuột qua đối tượng, các phần phụ thuộc sẽ được đánh dấu trong bảng điều khiển xây. Mũi tên màu xanh lam sẽ giúp bạn đặt đúng vị trí.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_DIA_TABLE</LocID>                    <Text>Bảng chẩn đoán có thể sẽ giúp bạn tìm ra những bài kiểm tra nào là cần thiết để phát hiện triệu chứng cụ thể.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_ROOMS_SHARED</LocID>             <Text>Phòng chung</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_STATISTICS_YESTERDAY</LocID>          <Text>Hôm qua</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_STATISTICS_TODAY</LocID>              <Text>Hôm nay</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DEPARTMENT_STATISTICS</LocID>                    <Text>Thống kê khoa</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_PRESTIGE</LocID>              <Text>Uy tín</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_SATISFACTION_STAFF</LocID>    <Text>Nhân viên hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_SATISFACTION_PATIENTS</LocID> <Text>Bệnh nhân hài lòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_STATISTICS_HISTORY</LocID>    <Text>Lịch sử thống kê</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_DAY</LocID>          <Text>Khối lượng công việc ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_NIGHT</LocID>        <Text>Khối lượng công việc đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_STAFF</LocID>        <Text>Khối lượng công việc hiện tại của nhân viên</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>WORKLOAD_ON_CALL_ROOM</LocID>                    <Text>Phòng đang gọi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKLOAD_NURSES_STATION</LocID>                  <Text>Trạm y tá</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_PROCEDURES</LocID>            <Text>Thủ tục</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MOST_FREQUENT_MODIFIERS</LocID>                  <Text>Công cụ sửa đổi thường xuyên nhất:</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TREATED</LocID>                <Text>Đã điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_HOSPITALIZED</LocID>           <Text>Nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_SENT_TO_OTHER_DPT</LocID>      <Text>Gửi đến bộ phận chuyên môn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_COLLAPSED</LocID>              <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_UNTREATED</LocID>              <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TIME_TO_SEE_DOCTOR</LocID>     <Text>Thời gian trung bình gặp bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TIME_TO_SEE_SPECIALIST</LocID> <Text>Thời gian chờ trung bình chuyên ngành</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_RELEASED</LocID>      <Text> xuất viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_DEAD</LocID>          <Text>chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_COLLAPSED</LocID>     <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_UNTREATED</LocID>     <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_HUNGRY</LocID>        <Text>đói</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_EXAMINATIONS</LocID>        <Text>Kiểm tra</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_TREATMENTS</LocID>          <Text>Điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_STABILIZATIONS</LocID>      <Text>Ổn định</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_SURGERIES</LocID>           <Text>Phẫu thuật</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_WITHOUT_DAY_CLINIC</LocID>        <Text>Ca đêm ở phòng khám cần ca ngày được biên chế trước.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_WITHOUT_EMERGENCY</LocID>         <Text>Ca đêm ở phòng khám chuyên khoa cần ca đêm cấp cứu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPLOYEE_IS_MISSING_SKILL</LocID>                <Text>Nhân viên được chọn không có chuyên môn cần thiết cho phòng này.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_INTERNS_IN_ON_CALL_ROOM</LocID>               <Text>Thực tập sinh không được chỉ định vào phòng theo cuộc gọi.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED_TEXT_V2</LocID>               <Text>Bạn không hoàn thành sự kiện kịp thời hoặc bệnh nhân của bạn bị chẩn đoán sai, tử vong hoặc chuyển đi. Uy tín của bạn giảm cho ngày này hoặc cho đến khi bạn hoàn thành thành công sự kiện khác.\nBạn cũng bị phạt: {1}$</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_SELECT_DEPARTMENT</LocID>           <Text>Chọn bộ phận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_INGAME_HELP</LocID>                 <Text>Ingame help</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE_BUILDING</LocID>             <Text>Chuyển sang công cụ xóa trong chế độ xây / Đóng các bảng giao diện người dùng đã bỏ ghim</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION_V2</LocID>         <Text>Khám phá khía cạnh khác nhau của việc xây bằng cách xây phòng khám chức năng nhỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION_V2</LocID>         <Text>Tìm hiểu các quy tắc của quản lý bệnh viện và làm quen với quy trình nhập viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION_V2</LocID>         <Text>Sử dụng các kỹ năng của bạn để giúp bệnh viện kém hiệu quả này phát triển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02_DESCRIPTION_V2</LocID>         <Text>Bạn sẽ quản lý để đưa bệnh viện này thoát khỏi nợ?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION_V2</LocID>         <Text>Tất cả hoặc không có gì. Cuộc đua cho trợ cấp nhà nước bắt đầu ngay!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_01_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_02_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_03_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_04_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa chỉnh hình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_05_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_06_DESCRIPTION_V2</LocID>        <Text>Thử thách kỹ năng của bạn tập trung vào Khoa thần kinh</Text>  </GameDBLocalizedString>
+
+            <!-- Colors of notification messages in log and popups -->
+            <GameDBLocalizedString>      <LocID>NOTIF_COLOR_RED</LocID>                          <Text>đỏ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLOR_YELLOW</LocID>                       <Text>vàng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLOR_GREEN</LocID>                        <Text>xanh lá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLOR_BLUE</LocID>                         <Text>xanh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLOR_DEFAULT</LocID>                      <Text>mặc định</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>BUTTON_SWITCH_MESSAGE_COLOR</LocID>              <Text>Chuyển màu tin nhắn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_LOCKED</LocID>                    <Text>Nút sự kiện này sẽ mở khóa sau khi bạn mua xe cứu thương và làm cho ít nhất một bộ phận sau hoạt động (kể cả phòng khám ban đêm): {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_LOCKED_INSURANCE</LocID>          <Text>Nút sự kiện của người dùng sẽ mở khóa sau khi hoàn thành mục tiêu thứ 2 cho Công ty bảo hiểm chăm sóc nhanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_LOCKED</LocID>        <Text>Đã khóa hoặc đạt đến số lượng công ty bảo hiểm đã ký hợp đồng tối đa (3/3).</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_MANDATORY</LocID>                 <Text> (bắt buộc)</Text>  </GameDBLocalizedString>
+
+            
+            <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
+            <GameDBLocalizedString>      <LocID>NO_FUNDS</LocID>                                 <Text>Không đủ tiền</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ONLY_GROUND_FLOOR</LocID>            <Text>chỉ có thể được đặt trên mặt đất</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ELEVATOR_MARKER</LocID>                <Text>Lập kế hoạch thang máy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ELEVATOR_MARKER_DESCRIPTION</LocID>    <Text>Khi sử dụng chế độ quản lý làm công cụ lập kế hoạch, điều này có thể sử dụng đánh dấu nơi thang máy sẽ đi.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_MOVE_AREA</LocID>                        <Text>Di chuyển phòng hoặc khu vực đã chọn</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>MOVED_AREA</LocID>                               <Text>Khu vực đã di chuyển</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAN_BE_MOVED</LocID>                             <Text>Khu vực đã chọn có thể được di chuyển.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MOVE_NOT_ALLOWED_IN_USE</LocID>                  <Text>Chọn chứa đối tượng đang được sử dụng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MOVE_NOT_ALLOWED_CUTS_OBJECT</LocID>             <Text>Lựa chọn cắt một nửa đối tượng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MOVE_NOT_ALLOWED_CONTAINS_SPECIAL_OBJECTS</LocID><Text>Lựa chọn chứa cơ sở hạ tầng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MOVE_NOT_ALLOWED_LOCKED_AREA</LocID>             <Text>Một phần của khu vực đã chọn nằm ngoài tài sản của bệnh viện.</Text>  </GameDBLocalizedString>
+
+
+            <!-- RELATED FILE: StringTable[Language]Options.xml -->
+            <!-- New option for workplace panel color -->
+            <GameDBLocalizedString>      <LocID>OPTIONS_WORKPLACE_COLOR</LocID>                  <Text>Hiển thị màu nền nơi làm việc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_EXTENDED_EMPLOYEE_LIMIT</LocID>          <Text>Tăng giới hạn nhân viên lên 600 (PC cần nhanh)</Text>  </GameDBLocalizedString>
+
+            
+            <!-- RELATED FILE: StringTable[Language]Notifications.xml -->
+            <!-- New and updated unclear department notifications  -->
+            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT_PATCH_1_1</LocID>           <Text>Khoa không thể chẩn đoán bệnh nhân!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT_PATCH_1_1_TEXT</LocID>      <Text>Khoa dường như không thể chạy thêm bất kỳ kiểm tra nào nữa, hãy thử chọn kiểm tra khác trong danh sách chẩn đoán có thể hoặc tạo thêm kiểm tra khác. Hoặc bệnh nhân sẽ được đưa đến bệnh viện khác.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT_TAKEN_AWAY</LocID>          <Text>Bệnh nhân đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT_TAKEN_AWAY_TEXT</LocID>     <Text>Bệnh nhân chờ chẩn đoán quá lâu do khoa không thể chạy thêm xét nghiệm nên bệnh nhân được đưa đến bệnh viện khác.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_CLOSED_FOR_PATIENTS_STATISTICS</LocID>         <Text>Giờ mở cửa của phòng khám kết thúc!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CLOSED_FOR_PATIENTS_STATISTICS_TEXT</LocID>    <Text>Phòng khám đã đóng cửa với bệnh nhân, vẫn còn {1} bệnh nhân đang đợi.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LEFT_AFTER_LONG_WAIT</LocID>           <Text>Bệnh nhân đã đợi quá lâu và đang rời đi!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LEFT_AFTER_LONG_WAIT_TEXT</LocID>      <Text>Bệnh nhân phòng khám chờ quá lâu mà không được bác sĩ thăm khám.\nNếu có xét nghiệm chạy, bệnh nhân sẽ trở lại vào ngày hôm sau.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LEFT_AFTER_LONG_VISIT</LocID>          <Text>Bệnh nhân đang rời đi!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_LEFT_AFTER_LONG_VISIT_TEXT</LocID>     <Text>Bệnh nhân tại phòng khám dành nửa ngày trong bệnh viện mà không được điều trị hoặc nhập viện.\nNếu có xét nghiệm chạy, bệnh nhân sẽ trở lại vào ngày hôm sau.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_NIGHT_CLINIC_OPEN</LocID>                      <Text>Phòng khám hiện mở cửa suốt đêm!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NIGHT_CLINIC_OPEN_TEXT</LocID>                 <Text>Phòng khám bệnh nhân hiện được chấp nhận 24/7.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_NIGHT_CLINIC_CLOSED</LocID>                    <Text>Phòng khám không mở cửa qua đêm nữa!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NIGHT_CLINIC_CLOSED_TEXT</LocID>               <Text>Không có bác sĩ phục vụ ca đêm, phòng khám bây giờ chỉ mở cửa trong ngày.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_NOT_ENOUGH_STRETCHERS</LocID>                  <Text>Không đủ băng ca!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NOT_ENOUGH_STRETCHERS_TEXT</LocID>             <Text>Y tá phàn nàn rằng không đủ băng ca cho tất cả bệnh nhân cần vận chuyển tại {1}.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>POPUP_ACCEPT_EVENT</LocID>                           <Text>Chấp nhận</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>POPUP_DECLINE_EVENT</LocID>                          <Text>Từ chối</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_START</LocID>                     <Text>Tin nóng:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_START_TEXT</LocID>                <Text>{1}</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT</LocID>        <Text>Bệnh nhân không thể được giải phóng khỏi quan sát!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT_TEXT</LocID>   <Text>Bệnh nhân nên tiếp tục đến phòng khám {1}, nhưng nó hiện đang đóng cửa. Thay vào đó chúng tôi sẽ cố gắng chuyển viện cho bệnh nhân tại khoa.</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>POPUP_OPEN_DEPARTMENT_STATISTIC</LocID>              <Text>Mở thống kê</Text>  </GameDBLocalizedString>
+                                                                                                     
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_PATH</LocID>                                <Text>Không tìm thấy đường dẫn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_PATH_TEXT</LocID>                           <Text>Nhân vật không tìm ra cách, vì có thể có thứ gì đó chặn nó.\nNhân vật sẽ cố tìm cách mới, nếu có. Nhưng hãy nhớ kiểm tra các cửa bị hỏng, thang máy bị chặn hoặc khu vực hạn chế trên đường đi.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_AVAILABLE_DOCTOR</LocID>                   <Text>Không có bác sĩ chẩn đoán nào</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_AVAILABLE_DOCTOR_TEXT</LocID>              <Text>Không có bác sĩ nào trong phòng trực trên {1} với vai trò chẩn đoán được bật cho bệnh nhân nhập viện.</Text>  </GameDBLocalizedString>
+            
+            <!-- RELATED FILE: StringTable[Language]Characters.xml -->
+            <!-- New patient states  -->
+            <GameDBLocalizedString>      <LocID>WaitingForAmbulance</LocID>                          <Text>Chờ xe cấp cứu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_UnclearDiagnose</LocID>                 <Text>chờ đợi chẩn đoán</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_PATIENTS_NONSTOP</LocID>      <Text>Phòng khám mở cửa</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PROFESSIONAL_CARE_LEVEL_1</LocID>            <Text>chăm sóc chuyên nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PROFESSIONAL_CARE_LEVEL_2</LocID>            <Text>chăm sóc chuyên nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UNTREATED</LocID>                            <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>EMPLOYEE_WITHOUT_WORKSPACE</LocID>                   <Text>Nhân viên không có nơi làm việc</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>NOT_PRESCRIBABLE_DEPARTMENT</LocID>                  <Text>Không thể được kê đơn tại bộ phận này</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_RECEPTIONIST</LocID>                       <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>
+
+
+            <!-- RELATED FILE: StringTable[Language]Tutorial.xml -->
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_DOOR_PLACEMENT</LocID>                  <Text><![CDATA[Bạn trang bị thành công tất cả phòng được yêu cầu, nhưng có vẻ bạn đã quên đặt cửa.<b><i> Đặt cửa</i></b> mọi nơi chúng cần thiết.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_LOGISTICS_ROOMS_V2</LocID>              <Text><![CDATA[Phòng được phân chia bắt buộc (số màu đỏ) và phòng tùy chọn (số xanh lá). Một số phòng được chia sẻ giữa các phòng ban.<b><i>Hãy đặt một trong mỗi phòng: phòng khám bác sĩ, phòng chờ và phòng vệ sinh</i></b>, những thứ này cần thiết cho một phòng khám đang hoạt động.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_WORKSPACES_V2</LocID>                   <Text>nơi làm việc bao gồm bàn, ghế và máy tính và khi được xây dựng đúng cách, chúng sẽ hiển thị ở chế độ quản lý. Bạn thuê nhân viên của mình thông qua chúng. Chúng thể hiện ca ngày lẫn ca đêm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_HIRING_V2</LocID>                       <Text><![CDATA[Hãy xem xét các lựa chọn tuyển dụng của bạn.<b><i>Nhấp vào bất kỳ nơi làm việc trống nào</i></b> (không có chân dung), để mở thẻ tuyển dụng.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_HIRE_EMPLOYEE_INFO_V2</LocID>           <Text>Bạn thuê nhân viên bằng cách nhấp vào ảnh chân dung của họ. Bạn cũng có thể chỉ định bất kỳ nơi làm việc nào từ thẻ nhân viên. Sau khi thuê nhân viên, bạn có thể thấy vai trò được phép của họ trên nơi làm việc của họ.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_EMPLOYEE_CARD_V2</LocID>                <Text><![CDATA[Hãy xem xét kỹ hơn về nhân viên của bạn.<b><i>Mở bất kỳ thẻ nhân viên nào của bạn</i></b>.\n\nNhấp vào nơi làm việc bị chiếm dụng trong chế độ quản lý hoặc trực tiếp trên nhân viên trong chế độ trò chơi.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_MANAGEMENT_TOOLS</LocID>                <Text><![CDATA[Hãy cùng tìm hiểu sơ qua về các công cụ quản lý cho toàn bệnh viện.<b><i>Mở thẻ quản lý bệnh viện</i></b> bằng cách nhấp vào bất kỳ danh mục nào trên bảng điều khiển chính.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_MANAGEMENT_TOOLS_OPENED</LocID>         <Text>Thẻ này chứa 5 danh mục: Thống kê bộ phận, Bảo hiểm, Xe cứu thương, Ngân sách và Thống kê. Kiểm tra chúng thường xuyên vì chúng sẽ cung cấp cho bạn thông tin phản hồi bạn cần để điều hành một bệnh viện hiệu quả.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_DEPARTMENT_HOSPITALIZATION_STAFF_V2</LocID><Text><![CDATA[Đến lúc để<b><i> thuê bác sĩ phẫu thuật</i></b> cho ca ngày trong phòng trực. Nếu bạn di chuột qua các ngành nghề, công cụ chú giải sẽ cho bạn biết chuyên môn nào là cần thiết. Họ có thể được lọc trong thẻ tuyển dụng.\n\nTất cả các biển cảnh báo đỏ phải được xử lý để chức năng phòng khám và nhập viện.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TUTORIAL_TEXT_OBJECTIVES_V2</LocID>                   <Text><![CDATA[Bây giờ khi chúng ta đề cập đến những điều cơ bản, Đến lúc để đưa phòng khám hoạt động.<b><i>Điều trị cho 4 bệnh nhân.</i></b>\n\nBạn có thể kiểm tra số lượng bệnh nhân đã điều trị (xanh lá) trên bảng điều khiển chính.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAMPAIGN_EVENTS</LocID>                               <Text>Cách tuyệt vời khác để tăng thu nhập và cả uy tín là hoàn thành thành công sự kiện liên tiếp. Nhưng hãy cẩn thận vì thất bại có thể có kết quả ngược lại.</Text>  </GameDBLocalizedString> <!--Used in campaign level 03-->
+
+            <!-- ingame tutorial -->
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_HIRING_MANAGEMENT_MODE_1_1</LocID>      <Text><![CDATA[Chọn <b><i>Chế độ quản lý</i></b>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_HIRING_BUTTON_1_1</LocID>               <Text><![CDATA[Nhấp vào <b><i>nơi làm việc</i></b> trong phòng bạn đã chọn. Bên trái cho ca ngày, bên phải cho ca đêm.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_HIRING_PROFESSION_1_1</LocID>           <Text><![CDATA[Chọn <b><i>nghề</i></b> nào bạn cần.\n\nMẹo: các ngành nghề bắt buộc được đánh dấu màu đỏ, được đề xuất bằng màu vàng.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_HIRING_SELECTION_1_1</LocID>            <Text><![CDATA[Chọn một trong <b><i>nhân viên có sẵn</i></b> và họ sẽ được chỉ định đến nơi làm việc.\n\nMẹo: nhận thức được các đặc quyền của họ.]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_INSURANCE_CONTRACT_1_1</LocID>          <Text><![CDATA[Tại đây bạn có thể xem tất cả công ty bảo hiểm có thể <b><i>ký hợp đồng</i></b>.\n\nMẹo: có giới hạn tối đa 3 hợp đồng cùng một lúc.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_INSURANCE_INFO_1_1</LocID>              <Text><![CDATA[Mỗi công ty cũng cho bạn biết có bao nhiêu <b><i>bệnh nhân</i></b> họ gửi mỗi ngày.\n\nMẹo: bạn có thể tăng con số đó bằng cách hoàn thành mục tiêu của công ty.]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_WORKLOAD_STATS_1_1</LocID>           	<Text><![CDATA[Trong một số phòng nhất định, bạn có thể thấy <b><i>giá trị khối lượng công việc</i></b>, đại diện cho công việc trong 24 giờ qua. Không có nghĩa là nhân viên trong phòng này không có gì để làm, quan trọng có nghĩa là nhân viên của bạn đang quá tải.\n\nMẹo: tóm tắt khối lượng công việc cho từng bộ phận có sẵn trong thống kê bộ phận.]]></Text>  </GameDBLocalizedString>
+
+
+            <!--==================-->
+            <!--New lab department-->
+            <!--==================-->
+            
+            <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
+            <GameDBLocalizedString>      <LocID>DPT_LAB</LocID>                                      <Text>Phòng thí nghiệm y tế</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HEMATOLOGY_LAB</LocID>                     <Text>Phòng thí nghiệm huyết học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HEMATOLOGY_LAB_DESCRIPTION</LocID>         <Text>Phòng thí nghiệm được trang bị đầy đủ có khả năng cung cấp các xét nghiệm liên quan đến máu và huyết thanh.\n\nTối thiểu. Yêu cầu nhân viên:\n1x Nhà công nghệ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MICROBIOLOGY_LAB</LocID>                   <Text>Phòng thí nghiệm vi sinh</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MICROBIOLOGY_LAB_DESCRIPTION</LocID>       <Text>Phòng thí nghiệm được trang bị đầy đủ có khả năng cung cấp việc nuôi cấy và thử nghiệm các mẫu khác nhau.\n\nTối thiểu. Yêu cầu nhân viên:\n1x Nhà công nghệ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HISTOLOGY_LAB</LocID>                      <Text>Phòng thí nghiệm mô</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HISTOLOGY_LAB_DESCRIPTION</LocID>          <Text>Phòng thí nghiệm được trang bị đầy đủ có khả năng cung cấp phân tích hiển vi của các mẫu khác nhau.\n\nTối thiểu. Yêu cầu nhân viên:\n1x Nhà công nghệ</Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF_WALL</LocID>                        <Text>Kệ phòng thí nghiệm treo tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF_WALL_DESCRIPTION</LocID>            <Text>Kệ phòng thí nghiệm thông thường - gắn trên tường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MIC_INCUBATOR</LocID>                         <Text>Máy nuôi cấy vi sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MIC_INCUBATOR_DESCRIPTION</LocID>             <Text>Thiết bị chuyên dụng liên quan đến việc nuôi cấy vi khuẩn và/hoặc nấm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_HALF_DESK</LocID>                         <Text>Nửa bàn thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_HALF_DESK_DESCRIPTION</LocID>             <Text>Kích thước nửa - bàn thí nghiệm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_CABINET</LocID>                           <Text>Tủ phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_CABINET_DESCRIPTION</LocID>               <Text>Tủ thí nghiệm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FUME_HOOD</LocID>                             <Text>Tủ hút khói</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_FUME_HOOD_DESCRIPTION</LocID>                 <Text>Thiết bị phòng thí nghiệm chuyên dụng được sử dụng để hạn chế tiếp xúc với khói, hơi hoặc bụi nguy hiểm hoặc độc hại.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_BURETTES</LocID>                          <Text>Dụng cụ thủy tinh - đựng nước</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_BURETTES_DESCRIPTION</LocID>              <Text>Bộ dụng cụ thủy tinh và đựng chất lỏng.</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_HIST_LAB</LocID>       		         <Text>Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_HEM_LAB</LocID>       			         <Text>Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_MIC_LAB</LocID>       			         <Text>Phòng thí nghiệm vi sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_LAB_DPT</LocID>       			         <Text>Phòng thí nghiệm y tế</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HEMATOLOGY_SMALL_ABBR</LocID>            <Text>Phòng thí nghiệm huyết học - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HEMATOLOGY_LARGE_ABBR</LocID>            <Text>Phòng thí nghiệm huyết học - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MICROBIOLOGY_SMALL_ABBR</LocID>          <Text>Phòng thí nghiệm vi sinh - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MICROBIOLOGY_LARGE_ABBR</LocID>          <Text>Phòng thí nghiệm vi sinh - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HISTOLOGY_SMALL_ABBR</LocID>             <Text>Phòng thí nghiệm mô - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HISTOLOGY_LARGE_ABBR</LocID>             <Text>Phòng thí nghiệm mô - 12 x 6</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_LAB</LocID>                  <Text>Mẫu của phòng thí nghiệm y tế</Text>  </GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]Examinations.xml -->
+            <!-- New descriptions of laboratory examinations
+                 These are similar to the original descriptions (for example EXM_BACTERIA_CULTIVATION_SAMPLING_DESCRIPTION), but with updated
+                 names of the required rooms (Phòng thí nghiệm mô, Phòng thí nghiệm huyết học or Phòng thí nghiệm vi sinh) 
+            -->
+            <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_SAMPLING_DESCRIPTION_1_1</LocID>           <Text>Lấy mẫu vi sinh vật là việc thu thập các mẫu bệnh phẩm từ bệnh nhân (ví dụ: dịch cơ thể, đờm, phân) để phân tích thêm.\n\nPhòng yêu cầu: Phòng thí nghiệm vi sinh \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Khoa nội dpt / Thần kinh dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Tủ hút khói + lồng ấp vi trùng + Kính hiển vi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_TESTING_DESCRIPTION_1_1</LocID>            <Text>Nuôi cấy trong phòng thí nghiệm đối với mẫu cụ thể thu được từ bệnh nhân để xác định xem có vi khuẩn hay không và đó là loại vi khuẩn nào.\n\nPhòng yêu cầu: Phòng thí nghiệm vi sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING_DESCRIPTION_1_1</LocID>                         <Text>Thủ tục phẫu thuật trong đó mảnh mô (ví dụ: phổi, gan, ruột) được đưa ra ngoài để kiểm tra thêm.\n\nPhòng yêu cầu: Phòng thí nghiệm mô \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Chỉnh hình dpt / Tim mạch dpt / Thần kinh dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích phòng thí nghiệm + Kính hiển vi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_TESTING_DESCRIPTION_1_1</LocID>                          <Text>Mảnh mô được chúng tôi lấy trong quá trình sinh thiết được kiểm tra dưới kính hiển vi và xử lý bằng các chế phẩm khác nhau để cho phép thử nghiệm cụ thể hơn.\n\nPhòng yêu cầu: Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_SAMPLING_DESCRIPTION_1_1</LocID>                     <Text>Việc thu thập một mẫu máu của bệnh nhân (tĩnh mạch hoặc động mạch) để phân tích thêm or kiểm tra.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Bất kỳ bộ phận nào \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_TESTING_DESCRIPTION_1_1</LocID>                      <Text>Phân tích mẫu máu trong phòng thí nghiệm.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CBC_SAMPLING_DESCRIPTION_1_1</LocID>                            <Text>Lấy mẫu máu để xét nghiệm Công thức máu toàn bộ (CBC).\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Khoa nội dpt / Chỉnh hình dpt / Thần kinh dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CBC_TESTING_DESCRIPTION_1_1</LocID>                             <Text>Xét nghiệm Công thức máu toàn bộ (CBC) đếm tất cả các tế bào được tìm thấy trong máu và xác định xem có tăng hoặc giảm bất kỳ tế bào nào trong số đó không.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_SAMPLING_DESCRIPTION_1_1</LocID>            <Text>Việc thu thập mẫu phân từ bệnh nhân để định lượng lượng elastase do tuyến tụy sản xuất. Nó chỉ ra chức năng thực sự của tuyến tụy.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_TESTING_DESCRIPTION_1_1</LocID>             <Text>Phép đo elastase trong mẫu phân của bệnh nhân. Số lượng cho biết chức năng thực tế của tuyến tụy.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING_DESCRIPTION_1_1</LocID>             <Text>Thu thập các mẫu khác nhau từ cơ thể bệnh nhân để nuôi cấy nhằm xác định xem có các loài nấm hay không.\n\nPhòng yêu cầu: Phòng thí nghiệm vi sinh \n\nLấy mẫu: Cấp cứu dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Tủ hút khói + lồng ấp vi trùng + Kính hiển vi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_TESTING_DESCRIPTION_1_1</LocID>              <Text>Phòng thí nghiệm nuôi cấy các mẫu cụ thể thu được từ cơ thể bệnh nhân.\n\nPhòng yêu cầu: Phòng thí nghiệm vi sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PCR_SAMPLING_DESCRIPTION_1_1</LocID>                            <Text>Lấy mẫu vật sinh học để phân tích chuỗi phản ứng polymerase trong phòng thí nghiệm. Khám nhanh, rẻ và chính xác.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Tất cả bộ ngành \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Đo chu kỳ nhiệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PCR_TESTING_DESCRIPTION_1_1</LocID>                             <Text>Phản ứng chuỗi polymerase là phương pháp kiểm tra nhanh chóng để xác định bệnh truyền nhiễm do vi khuẩn hoặc vi rút gây ra. Khám nhanh, rẻ và chính xác.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>      <Text>Lấy mẫu dịch màng bụng bằng kim và ống tiêm lớn qua thành bụng.\n\nPhòng yêu cầu: Phòng thí nghiệm mô \n\nLấy mẫu: Phẫu thuật tổng quát dpt \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy ly tâm y tế + Máy phân tích phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PERITONEAL_FLUID_ANALYSIS_TESTING_DESCRIPTION_1_1</LocID>       <Text>Xét nghiệm sinh hóa phân tích chất lỏng thu được từ khoang phúc mạc.\n\nPhòng yêu cầu: Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_SAMPLING_DESCRIPTION_1_1</LocID>               <Text>Rút mẫu máu để xét nghiệm huyết thanh.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Tất cả bộ ngành \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_TESTING_DESCRIPTION_1_1</LocID>                <Text>Xét nghiệm máu đặc biệt kiểm tra các kháng thể và kháng nguyên cụ thể. Kháng thể là các protein được tạo ra bởi hệ thống miễn dịch của con người để vô hiệu hóa các tác nhân gây bệnh.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>          <Text>Lấy mẫu dịch não tủy được thực hiện bằng cách đưa kim qua lưng dưới vào ống sống, dẫn lưu lượng nhỏ dịch não tủy.\n\nPhòng yêu cầu: Phòng thí nghiệm mô \n\nLấy mẫu: Thần kinh dpt \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy ly tâm y tế + Máy phân tích phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING_DESCRIPTION_1_1</LocID>           <Text>Quy trình phân tích dịch não tủy trong phòng thí nghiệm.\n\nPhòng yêu cầu: Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>                 <Text>Quy trình lấy mẫu phân của bệnh nhân để phân tích thêm.\n\nPhòng yêu cầu: Phòng thí nghiệm mô \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Khoa nội dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích phân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_TESTING_DESCRIPTION_1_1</LocID>                  <Text>Phân tích phân của bệnh nhân để tìm vi khuẩn, máu, ký sinh trùng, v.v...\n\nPhòng yêu cầu: Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>          <Text>Lấy mẫu nước tiểu giữa dòng từ bệnh nhân hoặc từ ống thông của bệnh nhân.\n\nPhòng yêu cầu: Phòng thí nghiệm mô \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Khoa nội dpt / Tim mạch dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích phòng thí nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_TESTING_DESCRIPTION_1_1</LocID>           <Text>Phân tích sinh hóa mẫu nước tiểu.\n\nPhòng yêu cầu: Phòng thí nghiệm mô</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>EXM_EMG_DESCRIPTION_1_1</LocID>                                     <Text>Điện cơ (EMG) là việc ghi lại và đánh giá hoạt động điện của các cơ của bệnh nhân.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Chỉnh hình dpt </Text>  </GameDBLocalizedString>
+         
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    
