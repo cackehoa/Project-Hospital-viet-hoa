@@ -42,7 +42,7 @@
             <GameDBLocalizedString>      <LocID>DIA_050_DESCRIPTION</LocID>      <Text>Chứng ngộ độc thịt là bệnh hiếm gặp và có khả năng gây tử vong do độc tố do vi khuẩn Clostridium botulinum tạo ra.</Text>	</GameDBLocalizedString>
             <!--IM-->
             <GameDBLocalizedString>      <LocID>DIA_051</LocID>                  <Text>TIA</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_051_DESCRIPTION</LocID>      <Text>TIA - Transient ischemic attack is similar to a stroke, but usually lasts  up to 24h and causes no permanent damage.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_051_DESCRIPTION</LocID>      <Text>TIA - Thiếu máu não thoáng qua tương tự như đột quỵ, nhưng thường kéo dài đến 24h và không gây tổn thương vĩnh viễn.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_052</LocID>                  <Text>Viêm màng phổi</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_052_DESCRIPTION</LocID>      <Text>Viêm màng phổi đề cập đến tình trạng khi các màng bao quanh phổi bị viêm.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_053</LocID>                  <Text>Bệnh bụi phổi amiăng</Text>	</GameDBLocalizedString>
@@ -99,7 +99,7 @@
             <GameDBLocalizedString>      <LocID>SYM_ASBESTOSIS_DETECTED</LocID>                        <Text>Phát hiện bệnh bụi phổi amiăng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ASBESTOSIS_DETECTED_DESCRIPTION</LocID>            <Text>Kiểm tra CT phát hiện bệnh bụi phổi amiăng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEAT_RASH</LocID>                                  <Text>Phát ban nhiệt</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEAT_RASH_DESCRIPTION</LocID>                      <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận phát ban nhiệt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEAT_RASH_DESCRIPTION</LocID>                      <Text>Đánh giá tất cả triệu chứng và các chi tiết đã biết xác nhận phát ban nhiệt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CIGUATOXIN_DETECTED</LocID>                        <Text>Ciguatoxin được phát hiện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CIGUATOXIN_DETECTED_DESCRIPTION</LocID>            <Text>Xét nghiệm máu phát hiện nhiễm độc ciguatoxin.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOTHORAX_DISCOVERED</LocID>                      <Text>Hemothorax được phát hiện</Text>  </GameDBLocalizedString>
@@ -117,13 +117,13 @@
             <GameDBLocalizedString>      <LocID>SYM_NASAL_POLYPS_DETECTED</LocID>                      <Text>Polyp mũis được phát hiện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NASAL_POLYPS_DETECTED_DESCRIPTION</LocID>          <Text>Kiểm tra CT đã phát hiện ra khối polyp nhỏ trong hốc mũi của bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CROUP_PRESENT</LocID>                              <Text>Croup hiện tại</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CROUP_PRESENT_DESCRIPTION</LocID>                  <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận bệnh croup.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CROUP_PRESENT_DESCRIPTION</LocID>                  <Text>Đánh giá tất cả triệu chứng và các chi tiết đã biết xác nhận bệnh croup.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT</LocID>                   <Text>Bệnh Meniere</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT_DESCRIPTION</LocID>       <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết sẽ xác nhận bệnh Meniere.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT_DESCRIPTION</LocID>       <Text>Đánh giá tất cả triệu chứng và các chi tiết đã biết sẽ xác nhận bệnh Meniere.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA</LocID>                            <Text>Tăng tiểu cầu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA_DESCRIPTION</LocID>                <Text>Công thức máu toàn bộ cho thấy số lượng tiểu cầu cao bất thường.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH</LocID>                            <Text>Phát ban cây thường xuân độc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH_DESCRIPTION</LocID>                <Text>Đánh giá tất cả các triệu chứng và các chi tiết đã biết xác nhận Phát ban cây thường xuân độc.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH_DESCRIPTION</LocID>                <Text>Đánh giá tất cả triệu chứng và các chi tiết đã biết xác nhận Phát ban cây thường xuân độc.</Text>  </GameDBLocalizedString>
 
             <!--new trt procedures-->
             <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY</LocID>                    <Text>Liệu pháp thành phần máu</Text>	</GameDBLocalizedString>

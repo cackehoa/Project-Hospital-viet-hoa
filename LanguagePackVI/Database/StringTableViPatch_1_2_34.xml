@@ -36,7 +36,7 @@
             
             <!--Loading tips for DLCs-->
             <GameDBLocalizedString>      <LocID>LOADING_TIP_EDUCATION</LocID>               <Text>Nhân viên của bạn lên cấp quá chậm? Gửi họ để đào tạo kỹ năng của họ trong phòng nghiên cứu.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LOADING_TIP_AUTOPSY</LocID>                 <Text>Khám nghiệm tử thi trả lời tất cả các câu hỏi chưa được trả lời...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_AUTOPSY</LocID>                 <Text>Khám nghiệm tử thi trả lời tất cả câu hỏi chưa được trả lời...</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_JANITORS_ASSIGNMENT</LocID>     <Text>Sau khi bạn thuê một người quản lý vệ sinh, bạn sẽ có thể chỉ định các phòng riêng lẻ cho những người phụ trách vệ sinh của mình.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_PHARMACY</LocID>                <Text>Hãy chắc rằng bạn xây hiệu thuốc đủ lớn - nó cần phải sẵn sàng cho một đàn bệnh nhân xuất viện vào buổi sáng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_CONTAGIOUSNESS</LocID>          <Text>Nếu bạn nhập viện một bệnh nhân truyền nhiễm ngoài khu vực Cách ly, sẽ có nhiều nguy cơ họ gây ra dịch bùng phát.</Text>  </GameDBLocalizedString>

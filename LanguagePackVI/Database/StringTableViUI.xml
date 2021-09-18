@@ -728,7 +728,7 @@
             <GameDBLocalizedString>      <LocID>STATISTICS_PATIENTS</LocID>                 <Text>Bệnh nhân (tổng/đã điều trị)</Text>  </GameDBLocalizedString>
 
             <!-- ============= NEW, NEED TRANSLATING ================== -->
-            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_UNLOCK</LocID><Text>Sự kiện sẽ mở khóa khi bạn nhập viện trên tất cả các ngành, hoặc không thể bắt đầu trong đêm.</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_UNLOCK</LocID><Text>Sự kiện sẽ mở khóa khi bạn nhập viện trên tất cả ngành, hoặc không thể bắt đầu trong đêm.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_INCREASE_LOAN</LocID>               <Text>Vay 20 000$.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_DECREASE_LOAN</LocID>               <Text>Hoàn trả 20 000$.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HIRING_AGENCY</LocID>                       <Text>Tuyển dụng</Text>  </GameDBLocalizedString>
@@ -771,7 +771,7 @@
 
             <GameDBLocalizedString>      <LocID>SCENARIO_OPTIONS</LocID>                    <Text>Tùy chọn kịch bản</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOW_DEATH</LocID>                         <Text>Bệnh nhân có thể chết</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UNLOCK_ALL</LocID>                          <Text>Mở khóa tất cả các ngành</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_ALL</LocID>                          <Text>Mở khóa tất cả ngành</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FREE_BUILDING</LocID>                       <Text>Xây tự do</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>EXAMINATION_LEGEND</LocID>                  <Text>Hướng dẫn màu Chuẩn đoán</Text>  </GameDBLocalizedString>

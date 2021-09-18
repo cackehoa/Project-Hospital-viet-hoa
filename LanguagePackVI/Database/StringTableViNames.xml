@@ -137,7 +137,7 @@
             <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_40</LocID>  <Text>Cổ</Text>  </GameDBLocalizedString>
             
             <!-- Công ty bảo hiểm -->
-            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>Không bảo hiểm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>Bảo hiểm như không</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_AAA</LocID>              <Text>Chăm sóc giá rẻ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_BBB</LocID>              <Text>Lòng can đảm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_CCC</LocID>              <Text>Lá gan lớn</Text>  </GameDBLocalizedString>

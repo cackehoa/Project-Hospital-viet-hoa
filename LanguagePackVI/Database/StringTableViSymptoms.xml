@@ -81,7 +81,7 @@
             <GameDBLocalizedString>      <LocID>SYM_CRAMPS</LocID>                                          <Text>Chuột rút</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRAMPS_DESCRIPTION</LocID>                              <Text>Bệnh nhân có các cơn co thắt cơ đột ngột, không tự chủ và đau đớn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH</LocID>                            <Text>CK tăng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH_DESCRIPTION</LocID>                <Text>Bệnh nhân bị tăng nồng độ creatine kinase (CK) trong máu, một loại enzym có trong tất cả các mô, đặc biệt là cơ. Nồng độ CK trong máu cao cho thấy cơ bị tổn thương.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH_DESCRIPTION</LocID>                <Text>Bệnh nhân bị tăng nồng độ creatine kinase (CK) trong máu, một loại enzym có trong tất cả mô, đặc biệt là cơ. Nồng độ CK trong máu cao cho thấy cơ bị tổn thương.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH</LocID>                                        <Text>CRP tăng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH_DESCRIPTION</LocID>                            <Text>Bệnh nhân đã tăng nồng độ protein phản ứng C (CRP) trong máu, một loại protein do gan sản xuất để phản ứng với nhiễm trùng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRUMBLY_NAIL</LocID>                                    <Text>Móng tay dễ gãy</Text>  </GameDBLocalizedString>
@@ -581,7 +581,7 @@
             <GameDBLocalizedString>      <LocID>SYM_CEREBRAL_CONTUSION_FINDINGS</LocID>                     <Text>Đụng dập não</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CEREBRAL_CONTUSION_FINDINGS_DESCRIPTION</LocID>         <Text>Chụp cắt lớp vi tính não của bệnh nhân cho thấy có hiện tượng tràn dịch não.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CHR._FATIGUE_SYNDROME</LocID>                           <Text>Mệt mỏi mãn tính</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHR._FATIGUE_SYNDROME_DESCRIPTION</LocID>               <Text>Đánh giá tất cả các triệu chứng của bệnh nhân gợi ý đến Hội chứng Mệt mỏi mãn tính.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHR._FATIGUE_SYNDROME_DESCRIPTION</LocID>               <Text>Đánh giá tất cả triệu chứng của bệnh nhân gợi ý đến Hội chứng Mệt mỏi mãn tính.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_FRACTURE</LocID>                               <Text>Gãy xương đòn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_FRACTURE_DESCRIPTION</LocID>                   <Text>Chụp CT cho thấy xương đòn bị gãy đơn giản.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CLAVICLE_SHAFT_FRACTURE</LocID>                         <Text>Gãy trục xương đòn</Text>  </GameDBLocalizedString>
@@ -657,7 +657,7 @@
             <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_MANDIBLE</LocID>                            <Text>Gãy xương quai xanh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_MANDIBLE_DESCRIPTION</LocID>                <Text>Chụp X-quang cho thấy gãy xương hàm dưới của bệnh nhân (hàm dưới).</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_NOSE</LocID>                                <Text>Gãy mũi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_NOSE_DESCRIPTION</LocID>                    <Text>Đánh giá tất cả các triệu chứng của bệnh nhân xác nhận gãy mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FRACTURE_OF_NOSE_DESCRIPTION</LocID>                    <Text>Đánh giá tất cả triệu chứng của bệnh nhân xác nhận gãy mũi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FUNGAL_INFECTION</LocID>                                <Text>Nhiễm trùng nấm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FUNGAL_INFECTION_DESCRIPTION</LocID>                    <Text>Các xét nghiệm nấm mốc đã xác định được nhiễm trùng nấm.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_GALLSTONES_DISCOVERED</LocID>                           <Text>Sỏi mật xác định</Text>  </GameDBLocalizedString>
@@ -721,7 +721,7 @@
             <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_A_DETECTED</LocID>                            <Text>Cúm A được phát hiện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_A_DETECTED_DESCRIPTION</LocID>                <Text>Xét nghiệm huyết thanh học đặc biệt phát hiện sự hiện diện của kháng nguyên vi rút Cúm A.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INSOMNIA_REVEALED</LocID>                               <Text>Mất ngủ tiết lộ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INSOMNIA_REVEALED_DESCRIPTION</LocID>                   <Text>Đánh giá tất cả các triệu chứng gần đây của bệnh nhân chỉ ra rằng họ bị Mất ngủ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INSOMNIA_REVEALED_DESCRIPTION</LocID>                   <Text>Đánh giá tất cả triệu chứng gần đây của bệnh nhân chỉ ra rằng họ bị Mất ngủ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INSTEP_CONTUSION</LocID>                                <Text>Đau mu bàn chân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INSTEP_CONTUSION_DESCRIPTION</LocID>                    <Text>Kiểm tra X-quang loại trừ khả năng o bị gãy xương.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_FISTULA</LocID>                              <Text>Lỗ rò ruột</Text>  </GameDBLocalizedString>
@@ -765,7 +765,7 @@
             <GameDBLocalizedString>      <LocID>SYM_LUNG_TISSUE_FINDINGS</LocID>                            <Text>Phát hiện mô phổi mỏng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LUNG_TISSUE_FINDINGS_DESCRIPTION</LocID>                <Text>Chụp CT cho thấy tình trạng nhiễm vi khuẩn nghiêm trọng trong phổi và phế quản.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LUPUS_FINDINGS</LocID>                                  <Text>Phát hiện bệnh lupus</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LUPUS_FINDINGS_DESCRIPTION</LocID>                      <Text>Xem xét tất cả các triệu chứng và khám nghiệm được thực hiện, tất cả đều chỉ ra chẩn đoán Lupus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUPUS_FINDINGS_DESCRIPTION</LocID>                      <Text>Xem xét tất cả triệu chứng và khám nghiệm được thực hiện, tất cả đều chỉ ra chẩn đoán Lupus.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LYME_DISEASE_DETECTED</LocID>                           <Text>Phát hiện kháng thể Borrelia</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LYME_DISEASE_DETECTED_DESCRIPTION</LocID>               <Text>Xét nghiệm huyết thanh học đã phát hiện ra kháng thể Borrelia.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_M._TUBERCULOSIS_DETECTED</LocID>                        <Text>Bệnh lao được phát hiện</Text>  </GameDBLocalizedString>

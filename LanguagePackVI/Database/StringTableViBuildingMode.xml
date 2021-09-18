@@ -169,7 +169,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>Phòng vệ sinh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>Căn phòng mà ngay cả nữ hoàng cũng phải đi bộ.\n\nTối thiểu. Yêu cầu nhân viên: \nKhông</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET</LocID>                   <Text>Phòng lao công</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>Phòng lao công lưu trữ tất cả các thiết bị bắt buộc cho công nhân vệ sinh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>Phòng lao công lưu trữ tất cả thiết bị bắt buộc cho công nhân vệ sinh.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS</LocID>                     <Text>Phòng siêu âm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS_DESCRIPTION</LocID>         <Text>Phòng siêu âm cung cấp các cuộc kiểm tra và điều trị dựa trên siêu âm cụ thể.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - USG</Text>  </GameDBLocalizedString>
@@ -228,7 +228,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>Văn phòng thần kinh là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_OPERATING_ROOM</LocID>                    <Text>Phòng mổ</Text></GameDBLocalizedString>
-            <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>Phòng mổ được trang bị đầy đủ cho tất cả các quy trình phẫu thuật.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ - Bác sĩ phẫu thuật \n1x Bác sĩ - Phụ tá \n1x Bác sĩ gây mê \n1x Y tá phẫu thuật \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Trạm y tá)</Text></GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>Phòng mổ được trang bị đầy đủ cho tất cả quy trình phẫu thuật.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ - Bác sĩ phẫu thuật \n1x Bác sĩ - Phụ tá \n1x Bác sĩ gây mê \n1x Y tá phẫu thuật \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Trạm y tá)</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_OP</LocID>                        		<Text>Phòng mổ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_OP_DESCRIPTION</LocID>            		<Text>Phòng mổ</Text>  </GameDBLocalizedString>
@@ -300,7 +300,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_CARD_FILE_SMALL</LocID>                      <Text>Tệp thẻ nhỏ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CARD_FILE_SMALL_DESCRIPTION</LocID>          <Text>Trang trí.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SHELF</LocID>                                <Text>Kệ</Text>  </GameDBLocalizedString>
-            <!-- IPDATE --><GameDBLocalizedString>      <LocID>OBJECT_SHELF_DESCRIPTION</LocID>     <Text>Kệ tạo ra một nơi làm việc và lưu trữ tất cả các thiết bị cần thiết cho một người gác cổng.</Text>  </GameDBLocalizedString>
+            <!-- IPDATE --><GameDBLocalizedString>      <LocID>OBJECT_SHELF_DESCRIPTION</LocID>     <Text>Kệ tạo ra một nơi làm việc và lưu trữ tất cả thiết bị cần thiết cho một người gác cổng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE</LocID>                             <Text>Tủ sách</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_BOOKCASE_DESCRIPTION</LocID>                 <Text>Tủ sách với các tạp chí y khoa cho phép nhân viên nghiên cứu và nâng cao trong thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_VENDING_MACHINE</LocID>                      <Text>Máy bán hàng tự động</Text>  </GameDBLocalizedString>
@@ -338,9 +338,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL</LocID>                   <Text>Bảng điều khiển X-quang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL_DESCRIPTION</LocID>       <Text>Bảng điều khiển cho máy X-quang.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET</LocID>                    <Text>Tủ thiết bị</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_DESCRIPTION</LocID>        <Text>Thiết bị bắt buộc cho tất cả các phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_DESCRIPTION</LocID>        <Text>Thiết bị bắt buộc cho tất cả phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_WALL</LocID>               <Text>Thiết bị treo tường</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_WALL_DESCRIPTION</LocID>   <Text>Thiết bị bắt buộc cho tất cả các phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_WALL_DESCRIPTION</LocID>   <Text>Thiết bị bắt buộc cho tất cả phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RECEPTION_DESK_LEFT</LocID>                  <Text>Quầy lễ tân trái</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RECEPTION_DESK_LEFT_DESCRIPTION</LocID>      <Text>Thiết bị bắt buộc cho lễ tân. Máy tính được đặt trên cùng sẽ tạo ra nơi làm việc cho y tá lễ tân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RECEPTION_DESK_MIDDLE</LocID>                <Text>Quầy lễ tân giữa</Text>  </GameDBLocalizedString>
@@ -394,9 +394,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_PRIVACY_SCREEN</LocID>                       <Text>Màn hình cá nhân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PRIVACY_SCREEN_DESCRIPTION</LocID>          	<Text>Trang trí để cung cấp một số mức độ riêng tư cho bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_TALL</LocID>               <Text>Tủ thiết bị đứng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_TALL_DESCRIPTION</LocID>   <Text>Thiết bị bắt buộc cho tất cả các phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_TALL_DESCRIPTION</LocID>   <Text>Thiết bị bắt buộc cho tất cả phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_MOBILE</LocID>             <Text>Buồng di động EQ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_MOBILE_DESCRIPTION</LocID> <Text>Thiết bị bắt buộc cho tất cả các phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_MOBILE_DESCRIPTION</LocID> <Text>Thiết bị bắt buộc cho tất cả phòng nơi diễn ra các thủ tục khám và điều trị.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION</LocID>             		<Text>Trạm di động</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION_DESCRIPTION</LocID> 		<Text>Trạm di động cung cấp nơi làm việc di động cho các bác sĩ trong một số phòng nhất định.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL</LocID>             		<Text>Máy theo dõi sự sống</Text>  </GameDBLocalizedString>
@@ -578,7 +578,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECALS_DESCRIPTION</LocID>       			<Text>Decal dán tường.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR</LocID>                      <Text>Thang máy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR_DESCRIPTION</LocID>          <Text>Lưu ý: khi được xây dựng, thang máy được đặt tự động ở tất cả các tầng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_ELEVATOR_DESCRIPTION</LocID>          <Text>Lưu ý: khi được xây dựng, thang máy được đặt tự động ở tất cả tầng.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_DEFAULT</LocID>                       <Text>Trụ cột rộng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PILLAR_DEFAULT_DESCRIPTION</LocID>           <Text>Vật cần gắn vào tường cũng có thể gắn vào trụ.</Text>  </GameDBLocalizedString>

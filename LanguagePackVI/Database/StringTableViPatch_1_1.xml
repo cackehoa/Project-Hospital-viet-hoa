@@ -173,8 +173,8 @@
 
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_RELEASED</LocID>      <Text> xuất viện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_DEAD</LocID>          <Text>chết</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_COLLAPSED</LocID>     <Text>Sụp đổ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_UNTREATED</LocID>     <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_COLLAPSED</LocID>     <Text>sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_UNTREATED</LocID>     <Text>chưa điều trị</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_HUNGRY</LocID>        <Text>đói</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_EXAMINATIONS</LocID>        <Text>Kiểm tra</Text>  </GameDBLocalizedString>
@@ -190,8 +190,8 @@
             <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED_TEXT_V2</LocID>               <Text>Bạn không hoàn thành sự kiện kịp thời hoặc bệnh nhân của bạn bị chẩn đoán sai, tử vong hoặc chuyển đi. Uy tín của bạn giảm cho ngày này hoặc cho đến khi bạn hoàn thành thành công sự kiện khác.\nBạn cũng bị phạt: {1}$</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_SELECT_DEPARTMENT</LocID>           <Text>Chọn bộ phận</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_INGAME_HELP</LocID>                 <Text>Ingame help</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE_BUILDING</LocID>             <Text>Chuyển sang công cụ xóa trong chế độ xây / Đóng các bảng giao diện người dùng đã bỏ ghim</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_INGAME_HELP</LocID>                 <Text>Giúp đỡ trong trò chơi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE_BUILDING</LocID>             <Text>Chuyển sang công cụ xóa trong chế độ xây/Đóng bảng giao diện người dùng đã bỏ ghim</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION_V2</LocID>         <Text>Khám phá khía cạnh khác nhau của việc xây bằng cách xây phòng khám chức năng nhỏ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION_V2</LocID>         <Text>Tìm hiểu các quy tắc của quản lý bệnh viện và làm quen với quy trình nhập viện</Text>  </GameDBLocalizedString>
@@ -384,7 +384,7 @@
             <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_SAMPLING_DESCRIPTION_1_1</LocID>                     <Text>Việc thu thập một mẫu máu của bệnh nhân (tĩnh mạch hoặc động mạch) để phân tích thêm or kiểm tra.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Bất kỳ bộ phận nào \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích huyết học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BLOOD_TEST_TESTING_DESCRIPTION_1_1</LocID>                      <Text>Phân tích mẫu máu trong phòng thí nghiệm.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_CBC_SAMPLING_DESCRIPTION_1_1</LocID>                            <Text>Lấy mẫu máu để xét nghiệm Công thức máu toàn bộ (CBC).\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / Khoa nội dpt / Chỉnh hình dpt / Thần kinh dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích huyết học</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_CBC_TESTING_DESCRIPTION_1_1</LocID>                             <Text>Xét nghiệm Công thức máu toàn bộ (CBC) đếm tất cả các tế bào được tìm thấy trong máu và xác định xem có tăng hoặc giảm bất kỳ tế bào nào trong số đó không.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CBC_TESTING_DESCRIPTION_1_1</LocID>                             <Text>Xét nghiệm Công thức máu toàn bộ (CBC) đếm tất cả tế bào được tìm thấy trong máu và xác định xem có tăng hoặc giảm bất kỳ tế bào nào trong số đó không.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_SAMPLING_DESCRIPTION_1_1</LocID>            <Text>Việc thu thập mẫu phân từ bệnh nhân để định lượng lượng elastase do tuyến tụy sản xuất. Nó chỉ ra chức năng thực sự của tuyến tụy.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Phẫu thuật tổng quát dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_TESTING_DESCRIPTION_1_1</LocID>             <Text>Phép đo elastase trong mẫu phân của bệnh nhân. Số lượng cho biết chức năng thực tế của tuyến tụy.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING_DESCRIPTION_1_1</LocID>             <Text>Thu thập các mẫu khác nhau từ cơ thể bệnh nhân để nuôi cấy nhằm xác định xem có các loài nấm hay không.\n\nPhòng yêu cầu: Phòng thí nghiệm vi sinh \n\nLấy mẫu: Cấp cứu dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Tủ hút khói + lồng ấp vi trùng + Kính hiển vi</Text>  </GameDBLocalizedString>

@@ -23,7 +23,7 @@
 
             <!-- Character levels-->
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_1</LocID>                                              <Text>Thực tập sinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>Cư dân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>Trong nghề</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>Chăm sóc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>Đồng nghiệp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_5</LocID>                                              <Text>Chuyên gia</Text>  </GameDBLocalizedString>
