@@ -156,7 +156,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>Phòng thí nghiệm thần kinh cung cấp nhiều loại xét nghiệm để xác nhận các chẩn đoán khác nhau.\nTối thiểu. Yêu cầu nhân viên:\n1x Nhà công nghệ - Nhà hóa sinh</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>Phòng X-quang</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>Phòng X-quang cung cấp hình ảnh X-quang của các bộ phận khác nhau của cơ thể con người, mô tả các cấu trúc bên dưới da và cơ.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - Bác sĩ X-quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>Phòng X-quang cung cấp hình ảnh X-quang của bộ phận khác nhau của cơ thể con người, mô tả các cấu trúc bên dưới da và cơ.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - Bác sĩ X-quang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>Phòng CT</Text>    </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>CT, viết tắt của 'Chụp cắt lớp điện toán', là một kỹ thuật chụp ảnh X-quang tinh vi để tạo ra hình ảnh có độ phân giải cao.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - Bác sĩ X-quang</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>Phòng MRI</Text>   </GameDBLocalizedString>
@@ -322,7 +322,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_DRAWERS</LocID>                      <Text>Tủ có ngăn kéo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_DRAWERS_DESCRIPTION</LocID>          <Text>Vật trang trí, đồ vật khác có thể đặt lên trên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_DOORS</LocID>                        <Text>Tủ có cửa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_DOORS_DESCRIPTION</LocID>            <Text>Có thể đặt đồ trang trí, bồn rửa bếp và các đồ vật nhỏ khác lên trên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CABINET_DOORS_DESCRIPTION</LocID>            <Text>Có thể đặt đồ trang trí, bồn rửa bếp và đồ vật nhỏ khác lên trên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_WALL</LocID>                         <Text>Tủ treo tường</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CABINET_WALL_DESCRIPTION</LocID>             <Text>Vật trang trí, đồ vật khác có thể đặt lên trên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SINK_KITCHEN</LocID>                         <Text>Chậu rửa bát</Text>  </GameDBLocalizedString>
@@ -356,7 +356,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF</LocID>                            <Text>Kệ phòng thí nghiệm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_SHELF_DESCRIPTION</LocID>                <Text>Trang trí.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT</LocID>                        <Text>Dụng cụ thủy tinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT_DESCRIPTION</LocID>            <Text>Thiết bị bắt buộc của phòng thí nghiệm, nó được sử dụng để chuẩn bị các mẫu khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT_DESCRIPTION</LocID>            <Text>Thiết bị bắt buộc của phòng thí nghiệm, nó được sử dụng để chuẩn bị mẫu khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER</LocID>                  <Text>Máy phân tích huyết học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_HEMATOLOGY_ANALYZER_DESCRIPTION</LocID>      <Text>Thiết bị bắt buộc của phòng thí nghiệm. Nó cung cấp nhiều phương pháp phân tích mẫu máu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ULTRACENTRIFUGE</LocID>                      <Text>Máy ly tâm y tế</Text>  </GameDBLocalizedString>
@@ -364,7 +364,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_RIA</LocID>              		            <Text>RIA</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RIA_DESCRIPTION</LocID>              		<Text>RIA hoặc xét nghiệm miễn dịch vô tuyến là thiết bị bắt buộc của phòng thí nghiệm, nó đo nồng độ kháng nguyên khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE</LocID>              		<Text>Lưu trữ mẫu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE_DESCRIPTION</LocID>          <Text>Lưu trữ mẫu được sử dụng để lưu trữ các mẫu sinh học khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STAT_LAB_FRIDGE_DESCRIPTION</LocID>          <Text>Lưu trữ mẫu được sử dụng để lưu trữ mẫu sinh học khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TREE</LocID>                                 <Text>Cây</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TREE_DESCRIPTION</LocID>                     <Text>Trang trí ngoài trời.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STREET_LAMP</LocID>                          <Text>Đèn đường</Text>  </GameDBLocalizedString>
@@ -400,7 +400,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION</LocID>             		<Text>Trạm di động</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION_DESCRIPTION</LocID> 		<Text>Trạm di động cung cấp nơi làm việc di động cho các bác sĩ trong một số phòng nhất định.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL</LocID>             		<Text>Máy theo dõi sự sống</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL_DESCRIPTION</LocID> 		<Text>Máy theo dõi sự sống kiểm soát các dấu hiệu quan trọng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL_DESCRIPTION</LocID> 		<Text>Máy theo dõi sự sống kiểm soát dấu hiệu quan trọng của bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR</LocID>                        <Text>Máy khử rung tim</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR_DESCRIPTION</LocID>            <Text>Máy khử rung tim được sử dụng để phục hồi nhịp tim bình thường.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FLUID_STAND</LocID>                          <Text>Chất lỏng đứng</Text>  </GameDBLocalizedString>
@@ -410,9 +410,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST</LocID>                             <Text>Fast USG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST_DESCRIPTION</LocID>                 <Text>Thiết bị siêu âm đặc biệt dành cho trường hợp khẩn cấp và sử dụng ICU.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE</LocID>                   <Text>Trạm làm việc gây mê</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE_DESCRIPTION</LocID>       <Text>Thiết bị được sử dụng trong phẫu thuật để gây mê toàn thân và theo dõi các dấu hiệu quan trọng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE_DESCRIPTION</LocID>       <Text>Thiết bị được sử dụng trong phẫu thuật để gây mê toàn thân và theo dõi dấu hiệu quan trọng của bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE</LocID>                   <Text>Máy theo dõi sự sống tiên tiến</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE_DESCRIPTION</LocID>       <Text>Mô hình tiên tiến của máy theo dõi cuộc sống để kiểm soát các dấu hiệu sinh tồn của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE_DESCRIPTION</LocID>       <Text>Mô hình tiên tiến của máy theo dõi cuộc sống để kiểm soát dấu hiệu sinh tồn của bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT</LocID>                   		<Text>Máy hỗ trợ sự sống</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT_DESCRIPTION</LocID>       		<Text>Thiết bị bắt buộc cho bộ phận ICU.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILATOR_WALL</LocID>                   	<Text>Máy khử rung tim treo tường</Text>  </GameDBLocalizedString>
@@ -428,7 +428,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>Máy thở cơ học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DESCRIPTION</LocID>    <Text>Máy thở cơ học cung cấp thông gió nhân tạo cho bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2</LocID>                       <Text>Dụng cụ thủy tinh nhỏ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>Dụng cụ thủy tinh là thiết bị bắt buộc của phòng thí nghiệm, nó được sử dụng để chuẩn bị các mẫu khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>Dụng cụ thủy tinh là thiết bị bắt buộc của phòng thí nghiệm, nó được sử dụng để chuẩn bị mẫu khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_CONTROL_PANEL</LocID>                	<Text>Bảng điều khiển chụp mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_CONTROL_PANEL_DESCRIPTION</LocID>    	<Text>Nó điều khiển máy chụp mạch.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER</LocID>                		<Text>Máy xem X-quang</Text>  </GameDBLocalizedString>
@@ -436,11 +436,11 @@
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING</LocID>                		<Text>OP hình ảnh kỹ thuật số</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING_DESCRIPTION</LocID>    		<Text>Hình ảnh kỹ thuật số thời gian thực trong quá trình phẫu thuật.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE</LocID>                		<Text>Máy hút</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE_DESCRIPTION</LocID>   		<Text>Thiết bị bắt buộc cho Phòng mổ. Nó cung cấp khả năng hút các chất lỏng khác nhau của cơ thể trong quá trình phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE_DESCRIPTION</LocID>   		<Text>Thiết bị bắt buộc cho Phòng mổ. Nó cung cấp khả năng hút chất lỏng khác nhau của cơ thể trong quá trình phẫu thuật.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS</LocID>                	<Text>Dụng cụ phẫu thuật</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS_DESCRIPTION</LocID>   	<Text>Dụng cụ phẫu thuật là bắt buộc để cung cấp cho bất kỳ loại phẫu thuật nào.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE</LocID>               <Text>Máy đốt điện</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE_DESCRIPTION</LocID>   <Text>Máy đốt điện được sử dụng để loại bỏ các mô hoặc niêm phong mạch máu trong các cuộc phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE_DESCRIPTION</LocID>   <Text>Máy đốt điện được sử dụng để loại bỏ mô hoặc niêm phong mạch máu trong các cuộc phẫu thuật.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE</LocID>                	<Text>Bàn dụng cụ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE_DESCRIPTION</LocID>   		<Text>Bàn để đặt dụng cụ phẫu thuật.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF_WALL</LocID>                	<Text>Kệ đựng đồ treo tường</Text>  </GameDBLocalizedString>
@@ -494,9 +494,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DIALISIS</LocID>                         	<Text>Máy thẩm tách</Text>  </GameDBLocalizedString>
            <!--UPDATED--> <GameDBLocalizedString>      <LocID>OBJECT_DIALISIS_DESCRIPTION</LocID>             	<Text>Máy lọc máu là thiết bị bắt buộc đối với Phòng chẩn đoán tại thần kinh và khoa phẫu thuật tổng quát, có thể được sử dụng để thẩm tách hoặc điện di.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH</LocID>                <Text>EEG</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH_DESCRIPTION</LocID>    <Text>Máy đo điện não là thiết bị bắt buộc đặc biệt để ghi lại các mẫu điện trong não người.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH_DESCRIPTION</LocID>    <Text>Máy đo điện não là thiết bị bắt buộc đặc biệt để ghi lại mẫu điện trong não người.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELASTOGRAPH</LocID>                         	<Text>Elastograph</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELASTOGRAPH_DESCRIPTION</LocID>             	<Text>Elastograph là thiết bị bắt buộc đặc biệt được sử dụng để đo các đặc tính đàn hồi và độ cứng của các mô mềm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELASTOGRAPH_DESCRIPTION</LocID>             	<Text>Elastograph là thiết bị bắt buộc đặc biệt được sử dụng để đo đặc tính đàn hồi và độ cứng của mô mềm.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TABLE_SQUERE</LocID>                         <Text>Bàn vuông</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TABLE_SQUERE_DESCRIPTION</LocID>             <Text>Bàn nhỏ để đặt thiết bị khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TABLE_EQUIPMENT</LocID>                      <Text>Bàn thiết bị</Text>  </GameDBLocalizedString>
@@ -514,7 +514,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH</LocID>                      <Text>EMG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH_DESCRIPTION</LocID>          <Text>Máy đo điện cơ được sử dụng để đo các tín hiệu điện trong cơ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER</LocID>                      	<Text>Máy phân tích phòng thí nghiệm</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER_DESCRIPTION</LocID>          	<Text>Thiết bị phòng thí nghiệm đa năng được sử dụng để phân tích các chất và mẫu sinh học khác nhau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER_DESCRIPTION</LocID>          	<Text>Thiết bị phòng thí nghiệm đa năng được sử dụng để phân tích chất và mẫu sinh học khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER</LocID>                      	<Text>Máy phân tích phân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER_DESCRIPTION</LocID>          	<Text>Máy phân tích phân là thiết bị phòng thí nghiệm đặc biệt dùng để phân tích mẫu phân người.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER</LocID>                      	<Text>Máy đo chu kỳ nhiệt</Text>  </GameDBLocalizedString>
@@ -588,7 +588,7 @@
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE</LocID>               <Text>Bàn ăn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE_DESCRIPTION</LocID>   <Text>Ghế có thể gắn vào bàn ăn. Đây là nơi nhân viên dùng bữa.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED</LocID>                   <Text>Bàn kiểm tra</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED_DESCRIPTION</LocID>       <Text>Bàn kiểm tra là thiết bị bắt buộc đối với các văn phòng, đơn vị, hầu hết các công việc kiểm tra đều được thực hiện tại đây.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED_DESCRIPTION</LocID>       <Text>Bàn kiểm tra là thiết bị bắt buộc đối với các văn phòng, đơn vị, hầu hết công việc kiểm tra đều được thực hiện tại đây.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH</LocID>                      <Text>Ghế dài</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH_DESCRIPTION</LocID>          <Text>Ghế dài cung cấp hai chỗ ngồi cho bệnh nhân trong phòng chờ hoặc tại quầy lễ tân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA</LocID>                       <Text>Ghế sofa</Text>  </GameDBLocalizedString>
@@ -612,7 +612,7 @@
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH</LocID>              <Text>Băng ghế ngoài trời</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH_DESCRIPTION</LocID>  <Text>Trang trí ngoài trời.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01</LocID>               <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01_DESCRIPTION</LocID>   <Text>Mua xe cứu thương giúp tiếp cận các trường hợp nguy cấp khó khăn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01_DESCRIPTION</LocID>   <Text>Mua xe cứu thương giúp tiếp cận trường hợp nguy cấp khó khăn.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY</LocID>                          <Text>X-quang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY_DESCRIPTION</LocID>              <Text>Máy chụp X-quang là thiết bị bắt buộc đối với các phòng chụp X-quang. Cần được điều khiển bởi bảng điều khiển X-quang, được đặt trong cùng một phòng.</Text>  </GameDBLocalizedString>

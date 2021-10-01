@@ -53,7 +53,7 @@
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</LocID>                           <Text>Chẩn đoán nâng cao</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS_DESCRIPTION</LocID>               <Text>Chuyên môn chẩn đoán nâng cao cho phép bác sĩ tiếp cận với chẩn đoán khác biệt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>                                <Text>Y học chăm sóc quan trọng</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>Y học chăm sóc quan trọng cho phép bác sĩ tiếp cận với các phương pháp chẩn đoán chuyên biệt được sử dụng tại ICU.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>Y học chăm sóc quan trọng cho phép bác sĩ tiếp cận với phương pháp chẩn đoán chuyên biệt được sử dụng tại ICU.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>Phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>Chuyên môn phẫu thuật tổng quát được sử dụng trong khám và kê đơn điều trị tại khoa phẫu thuật tổng quát và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
@@ -86,7 +86,7 @@
             
             <!-- Nurse's QUALIFICATIONS -->
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE</LocID>                             <Text>Chăm sóc bệnh nhân</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>Y tá có khả năng cung cấp các loại hình chăm sóc bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>Y tá có khả năng cung cấp loại hình chăm sóc bệnh nhân.</Text>  </GameDBLocalizedString>
 
             <!-- Nurse's SPECIALIZATIONS -->
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>

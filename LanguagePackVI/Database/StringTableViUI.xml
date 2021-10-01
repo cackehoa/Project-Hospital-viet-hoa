@@ -334,7 +334,7 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_LEVEL</LocID>        	    <Text>Lựa chọn cấp độ ứng viên để tìm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HIRING_RANDOM</LocID>        	            <Text>Ngẫu nhiên</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_GENERATE</LocID>        	    <Text>Tìm ứng viên mới với khoản phí</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_REVEAL_PERKS</LocID>        	<Text>Tiết lộ các đặc quyền ẩn với 1000$</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_HIRING_REVEAL_PERKS</LocID>        	<Text>Tiết lộ đặc quyền ẩn với 1000$</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>REQUIRED_SKILL</LocID>        	            <Text>Kỹ năng yêu cầu: </Text>  </GameDBLocalizedString>
             
             <!-- Patient card -->
@@ -412,7 +412,7 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_WARNINGS</LocID>           		      <Text>Cảnh báo của bộ phận</Text>  </GameDBLocalizedString>
                                                                                                          
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_STAFF_LIST</LocID>           	      <Text>Mở bảng nhân viên của bộ phận</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CHIEF_DOCTOR</LocID>           	      <Text>Bác sĩ trưởng thêm tiền thưởng hàng ngày cho nhân viên ở các bộ phận tương ứng. Chọn cách khôn ngoan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CHIEF_DOCTOR</LocID>           	      <Text>Bác sĩ trưởng thêm tiền thưởng hàng ngày cho nhân viên ở bộ phận tương ứng. Chọn cách khôn ngoan.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_RESTORE</LocID>              <Text>Khôi phục về mặc định</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_CHART</LocID>                <Text>Xem biểu đồ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_DEPARTMENT_CERTAINTY_GAUGE</LocID>                <Text>Thiết lập giá trị chắc chắn được sử dụng để xác nhận chẩn đoán</Text>  </GameDBLocalizedString>
@@ -518,9 +518,9 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_GENERAL</LocID>                    <Text>Mẫu phòng không dành riêng cho bộ phận</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_EMERGENCY</LocID>                  <Text>Mẫu phòng cấp cứu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_SURGERY</LocID>                    <Text>Mẫu phòng ban phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ICU</LocID>                        <Text>Các mẫu phòng ban ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ICU</LocID>                        <Text>Mẫu phòng ban ICU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_RADIOLOGY</LocID>                  <Text>Mẫu phòng chụp X-quang</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INTERNAL_MEDICINE</LocID>          <Text>Các mẫu phòng ban khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INTERNAL_MEDICINE</LocID>          <Text>Mẫu phòng ban khoa nội</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ORTHOPAEDY</LocID>                 <Text>Mẫu phòng khám chuyên khoa chỉnh hình</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_CARDIOLOGY</LocID>                 <Text>Mẫu phòng khám chuyên khoa tim mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_NEUROLOGY</LocID>                  <Text>Mẫu phòng khám chuyên khoa thần kinh</Text>  </GameDBLocalizedString>

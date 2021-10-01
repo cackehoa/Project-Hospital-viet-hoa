@@ -55,11 +55,11 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_ROTATE_CAMERA_CCW</LocID>                           <Text>Xoay chế độ xem ngược chiều kim đồng hồ.</Text>  </GameDBLocalizedString>
 
             <!-- fixed tooltip-->
-            <GameDBLocalizedString>      <LocID>EXM_EAR_EXAMINATION_DESCRIPTION</LocID>                     <Text>Kiểm tra và kiểm tra trực quan tai của bệnh nhân, bao gồm cả ống tai và màng nhĩ.\n\nPhòng yêu cầu: Phòng khám / Phòng chẩn đoán / Phòng theo dõi / Trung tâm chấn thương / ICU tại cấp cứu dpt / Khoa nội dpt / ICU / Thần kinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_EAR_EXAMINATION_DESCRIPTION</LocID>                     <Text>Kiểm tra và kiểm tra trực quan tai của bệnh nhân, bao gồm cả ống tai và màng nhĩ.\n\nPhòng yêu cầu: Phòng khám / Phòng chẩn đoán / Phòng theo dõi / Trung tâm chấn thương / ICU tại Cấp cứu / Khoa nội / ICU / Thần kinh</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>FILES_TO_UPLOAD</LocID>                                     <Text>Tệp để tải lên</Text>  </GameDBLocalizedString>
             <!--Updated version of LOADING_TIP_OP in StringTableEnPatch_1_1.xml-->
-            <GameDBLocalizedString>      <LocID>LOADING_TIP_OP_V2</LocID>                                   <Text>Để thực hiện phẫu thuật, bạn cần đội với các chuyên môn sau: 1x bác sĩ phẫu thuật (bác sĩ), 1x chuyên môn bộ phận (bác sĩ), 1x gây mê (bác sĩ), 2x phẫu thuật y tế (y tá) - cộng với y tá rãnh để vận chuyển bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_OP_V2</LocID>                                   <Text>Để thực hiện phẫu thuật, bạn cần đội với chuyên môn sau: 1x bác sĩ phẫu thuật (bác sĩ), 1x chuyên môn bộ phận (bác sĩ), 1x gây mê (bác sĩ), 2x phẫu thuật y tế (y tá) - cộng với y tá rãnh để vận chuyển bệnh nhân.</Text>  </GameDBLocalizedString>
 
             <!-- StringTableEnTutorial.xml -->
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_ELEVATORS_REMOVE_1_1_17</LocID>             <Text><![CDATA[<b><i>Loại bỏ</i></b> thang máy hoạt động theo cùng một cách, chúng sẽ bị xóa ở tất cả tầng.]]></Text>  </GameDBLocalizedString>

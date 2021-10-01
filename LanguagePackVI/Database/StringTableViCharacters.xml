@@ -143,7 +143,7 @@
             <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_WASH_HANDS</LocID>      <Text>không thể rửa tay</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_FOOD</LocID>         <Text>đợi thức ăn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_WRONG_DIAG_LAST_TIME</LocID>    <Text>Chẩn đoán sai</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_ENVIRONMENT</LocID>        <Text>môi trường tốt đẹp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_ENVIRONMENT</LocID>        <Text>môi trường đẹp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_DOCTOR</LocID>             <Text>bác sĩ tốt bụng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_GOOD_BOSS</LocID>               <Text>Ông chủ tốt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_NO_BOSS</LocID>                 <Text>không giám sát</Text>  </GameDBLocalizedString>
@@ -167,7 +167,7 @@
             <GameDBLocalizedString>      <LocID>SAT_MOD_UNRELEASED</LocID>              <Text>chưa  xuất viện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_GOING_HOME</LocID>              <Text>Về nhà</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_DRY_HANDS</LocID>       <Text>không thể làm khô tay</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_UGLY_ENVIRONMENT</LocID>        <Text>môi trường xấu xí</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UGLY_ENVIRONMENT</LocID>        <Text>môi trường xấu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_SHOCKED</LocID>                 <Text>bị sốc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_MOD_BIG_COMFORT</LocID>             <Text>có giường hiện đại</Text>  </GameDBLocalizedString>
 

@@ -82,7 +82,7 @@
             <GameDBLocalizedString>      <LocID>DIA_HEPB</LocID>                        <Text>Viêm gan B</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Viêm gan đề cập đến một bệnh nhiễm vi rút ở gan. Virus viêm gan B lây lan qua đường máu, đường tình dục hoặc từ mẹ sang con.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>Suy tuyến tụy ngoại tiết</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Suy tuyến tụy xảy ra khi tuyến bị tổn thương đủ để hoạt động bình thường. Do đó, sự hấp thụ bình thường của các chất dinh dưỡng trong ruột non bị tổn hại, dẫn đến thiếu hụt dinh dưỡng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Suy tuyến tụy xảy ra khi tuyến bị tổn thương đủ để hoạt động bình thường. Do đó, sự hấp thụ bình thường của chất dinh dưỡng trong ruột non bị tổn hại, dẫn đến thiếu hụt dinh dưỡng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>Bệnh viêm tuyến giáp Hashimoto</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>Viêm tuyến giáp Hashimoto là một bệnh tự miễn dịch trong đó hệ thống miễn dịch dần dần phá hủy tuyến giáp.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>Suy giáp</Text>  </GameDBLocalizedString>
@@ -104,13 +104,13 @@
             <GameDBLocalizedString>      <LocID>DIA_APP</LocID>                         <Text>Viêm ruột thừa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_APP_DESCRIPTION</LocID>             <Text>Viêm ruột thừa đề cập đến tình trạng nhiễm trùng trong ruột thừa, trở nên tắc nghẽn và sưng lên. Một ruột thừa bị vỡ có thể gây tử vong và do đó viêm ruột thừa là một trong những lý do phổ biến nhất cho phẫu thuật bụng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CRH</LocID>                         <Text>Bệnh Crohn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CRH_DESCRIPTION</LocID>             <Text>Bệnh Crohn là một bệnh viêm ruột ảnh hưởng đến toàn bộ ruột. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có các thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CRH_DESCRIPTION</LocID>             <Text>Bệnh Crohn là một bệnh viêm ruột ảnh hưởng đến toàn bộ ruột. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ULC</LocID>                         <Text>Viêm đại tràng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ULC_DESCRIPTION</LocID>             <Text>Viêm loét đại tràng là một bệnh viêm ruột tạo ra các vết loét trong ruột già. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có các thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ULC_DESCRIPTION</LocID>             <Text>Viêm loét đại tràng là một bệnh viêm ruột tạo ra các vết loét trong ruột già. Nguyên nhân chính xác là không rõ, tuy nhiên, rõ ràng là có thành phần di truyền, môi trường và tự miễn dịch.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IBS</LocID>                         <Text>Hội chứng ruột kích thích</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IBS_DESCRIPTION</LocID>             <Text>Hội chứng ruột kích thích là rối loạn tiêu hóa mãn tính đòi hỏi một phương pháp điều trị lâu dài. Nó không lây nhiễm. Thay đổi chế độ ăn uống và thuốc thường có thể làm giảm các triệu chứng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FDR</LocID>                         <Text>Viêm dạ dày ruột do vi khuẩn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_FDR_DESCRIPTION</LocID>             <Text>Viêm dạ dày ruột do vi khuẩn là bệnh đường tiêu hóa phổ biến, trong hầu hết các trường hợp kéo dài vài ngày.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_FDR_DESCRIPTION</LocID>             <Text>Viêm dạ dày ruột do vi khuẩn là bệnh đường tiêu hóa phổ biến, trong hầu hết trường hợp kéo dài vài ngày.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FOI</LocID>                         <Text>Lỗ rò của ruột</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FOI_DESCRIPTION</LocID>             <Text>Một lỗ rò là một kết nối giải phẫu bất thường giữa hai không gian rỗng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PER</LocID>                         <Text>Viêm phúc mạc nguyên phát</Text>  </GameDBLocalizedString>
@@ -128,7 +128,7 @@
             <GameDBLocalizedString>      <LocID>DIA_APT</LocID>                         <Text>Viêm tụy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_APT_DESCRIPTION</LocID>             <Text>Viêm tụy đề cập đến tình trạng viêm của tuyến tụy. Nó thường là do tắc nghẽn sỏi mật hoặc lạm dụng rượu quá mức.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_COE</LocID>                         <Text>Bệnh Celiac</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_COE_DESCRIPTION</LocID>             <Text>Bệnh Celiac là một rối loạn tự miễn dịch trong đó hệ thống miễn dịch phản ứng với gluten trong chế độ ăn uống có trong lúa mì, lúa mạch đen và lúa mạch. Phản ứng này gây viêm ruột non và do đó làm kém hấp thu các chất dinh dưỡng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_COE_DESCRIPTION</LocID>             <Text>Bệnh Celiac là một rối loạn tự miễn dịch trong đó hệ thống miễn dịch phản ứng với gluten trong chế độ ăn uống có trong lúa mì, lúa mạch đen và lúa mạch. Phản ứng này gây viêm ruột non và do đó làm kém hấp thu chất dinh dưỡng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANS</LocID>                         <Text>Viêm cầu thận</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANS_DESCRIPTION</LocID>             <Text>Viêm cầu thận đề cập đến tình trạng viêm của bộ phận lọc của thận. Nó có thể được gây ra bởi nhiễm trùng hoặc tự miễn dịch.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TIN</LocID>                         <Text>Viêm thận kẽ</Text>  </GameDBLocalizedString>
@@ -247,13 +247,13 @@
             <GameDBLocalizedString>      <LocID>DIA_OOR</LocID>                         <Text>Otorrhea</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OOR_DESCRIPTION</LocID>             <Text>Tai biến về cơ bản là một chứng viêm tai.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_MUM</LocID>                         <Text>Quai bị</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_MUM_DESCRIPTION</LocID>             <Text>Quai bị còn được gọi là Viêm tai, là một bệnh viêm nhiễm ảnh hưởng đến các tuyến mang tai (ở một hoặc cả hai bên đầu). Tình trạng viêm do các tác nhân vi khuẩn hoặc vi rút gây ra. Tốt nhất là phòng ngừa bằng cách tiêm vắc xin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_MUM_DESCRIPTION</LocID>             <Text>Quai bị còn được gọi là Viêm tai, là một bệnh viêm nhiễm ảnh hưởng đến tuyến mang tai (ở một hoặc cả hai bên đầu). Tình trạng viêm do tác nhân vi khuẩn hoặc vi rút gây ra. Tốt nhất là phòng ngừa bằng cách tiêm vắc xin.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PNM</LocID>                         <Text>Viêm phổi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PNM_DESCRIPTION</LocID>             <Text>Viêm phổi là một bệnh nhiễm trùng ở phổi. Viêm phổi có thể nhẹ hoặc đe dọa tính mạng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BPN</LocID>                         <Text>Viêm phế quản phổi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BPN_DESCRIPTION</LocID>             <Text>Viêm phế quản phổi là một loại viêm phổi chủ yếu ảnh hưởng đến phế quản.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BES</LocID>                         <Text>Giãn phế quản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BES_DESCRIPTION</LocID>             <Text>Giãn phế quản là tình trạng các đường dẫn khí lớn trong phổi bị tổn thương và mở rộng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BES_DESCRIPTION</LocID>             <Text>Giãn phế quản là tình trạng đường dẫn khí lớn trong phổi bị tổn thương và mở rộng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SCB</LocID>                         <Text>Viêm phế quản mãn tính đơn giản</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SCB_DESCRIPTION</LocID>             <Text>Viêm phế quản mãn tính đề cập đến tình trạng ho có đờm kéo dài kèm theo kích thích liên tục niêm mạc phế quản.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EMP</LocID>                         <Text>Khí phổi thủng</Text>  </GameDBLocalizedString>
@@ -347,43 +347,43 @@
             <GameDBLocalizedString>      <LocID>TRM_ACL</LocID>                         <Text>ACL chấn thương</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_ACL_DESCRIPTION</LocID>             <Text>Dây chằng chéo trước, là một dây chằng nằm bên trong khớp gối có tác dụng ngăn chặn sự dịch chuyển về phía trước giữa các xương chân. Tổn thương dây chằng này thường gặp trong thể thao và gây ra bởi chuyển động quay vào trong bất thường.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFU</LocID>                         <Text>Gãy xương khuỷu đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFU_DESCRIPTION</LocID>             <Text>Gãy xương khuỷu, một trong hai xương ở cẳng tay, không gây tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFU_DESCRIPTION</LocID>             <Text>Gãy xương khuỷu, một trong hai xương ở cẳng tay, không gây tổn thương mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFU</LocID>                         <Text>Gãy xương khuỷu hở</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFU_DESCRIPTION</LocID>             <Text>Gãy xương khuỷu hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương khuỷu là một trong hai xương ở cẳng tay.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFU</LocID>                         <Text>Gãy xương khuỷu phức tạp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFU_DESCRIPTION</LocID>             <Text>Gãy xương có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương khuỷu là một trong hai xương ở cẳng tay.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFR</LocID>                         <Text>Xương cánh tay đứt gãy đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFR_DESCRIPTION</LocID>             <Text>Gãy xương cánh tay, một trong hai xương ở cẳng tay, không gây tổn thương đến các mô xung quanh hoặc gãy da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFR_DESCRIPTION</LocID>             <Text>Gãy xương cánh tay, một trong hai xương ở cẳng tay, không gây tổn thương đến mô xung quanh hoặc gãy da.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFH</LocID>                         <Text>Gãy xương quai xanh đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh, xương ở cánh tay trên, không gây tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh, xương ở cánh tay trên, không gây tổn thương mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFH</LocID>                         <Text>Hở xương quai xanh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương quai xanh là xương ở cánh tay trên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFH</LocID>                         <Text>Gãy xương quai xanh phức tạp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFH_DESCRIPTION</LocID>             <Text>Gãy xương quai xanh có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương quai xanh là xương ở cánh tay trên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_BRR</LocID>                         <Text>Gãy xương sườn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_BRR_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương sườn đơn giản mà không làm tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_BRR_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương sườn đơn giản mà không làm tổn thương mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFF</LocID>                         <Text>Gãy xương đùi đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFF_DESCRIPTION</LocID>             <Text>Gãy xương đùi, xương đùi, không tổn thương các mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFF_DESCRIPTION</LocID>             <Text>Gãy xương đùi, xương đùi, không tổn thương mô xung quanh hoặc da bị rách.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFF</LocID>                         <Text>Gãy xương đùi hở</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFF_DESCRIPTION</LocID>             <Text>Gãy xương đùi hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương đùi là xương ở đùi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFF</LocID>                         <Text>Gãy xương đùi có biến chứng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CFF_DESCRIPTION</LocID>             <Text>Gãy xương có biến chứng bao gồm vết thương hở, xương gãy trật khớp và nhiều mảnh xương gãy khác nhau. Xương đùi là xương ở đùi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFT</LocID>                         <Text>Gãy xương chày đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFT_DESCRIPTION</LocID>             <Text>Gãy xương chày, xương lớn ở cẳng chân, không gây tổn thương các mô xung quanh hoặc vỡ da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFT_DESCRIPTION</LocID>             <Text>Gãy xương chày, xương lớn ở cẳng chân, không gây tổn thương mô xung quanh hoặc vỡ da.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFT</LocID>                         <Text>Gãy xương chày đơn giản hở</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_OFT_DESCRIPTION</LocID>             <Text>Gãy xương hở, còn được gọi là gãy xương phức hợp, là gãy xương dẫn đến một vết thương hở, nguyên nhân là do xương bị trật ra, thường có xương nhô ra qua vết thương. Xương chày là xương lớn ở cẳng chân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SPT</LocID>                         <Text>Gãy xương chày xoắn ốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SPT_DESCRIPTION</LocID>             <Text>Đặc biệt gãy xương chày xoắn ốc, không gây tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SPT_DESCRIPTION</LocID>             <Text>Đặc biệt gãy xương chày xoắn ốc, không gây tổn thương mô xung quanh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFI</LocID>                         <Text>Gãy xương mác đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFI_DESCRIPTION</LocID>             <Text>Gãy xương mác, xương mỏng ở cẳng chân, không gây tổn thương đến các mô xung quanh hoặc da bị vỡ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFI_DESCRIPTION</LocID>             <Text>Gãy xương mác, xương mỏng ở cẳng chân, không gây tổn thương đến mô xung quanh hoặc da bị vỡ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_ANF</LocID>                         <Text>Gãy mắt cá chân</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ANF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương của mắt cá chân mà không gây tổn thương đến các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ANF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương của mắt cá chân mà không gây tổn thương đến mô xung quanh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_MBF</LocID>                         <Text>Gãy xương cổ chân</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_MBF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương cổ chân, không tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MBF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương cổ chân, không tổn thương mô xung quanh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_FOF</LocID>                         <Text>Gãy ngón tay</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FOF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương ngón tay, không tổn thương các mô xung quanh.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FOF_DESCRIPTION</LocID>             <Text>Gãy một hoặc nhiều xương ngón tay, không tổn thương mô xung quanh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SFC</LocID>                         <Text>Gãy xương đòn đơn giản</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_SFC_DESCRIPTION</LocID>             <Text>Gãy xương đòn mà không gây tổn thương đến các mô xung quanh hoặc làm đứt da.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_SFC_DESCRIPTION</LocID>             <Text>Gãy xương đòn mà không gây tổn thương đến mô xung quanh hoặc làm đứt da.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SHC</LocID>                         <Text>Gãy trục xương đòn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_SHC_DESCRIPTION</LocID>             <Text>Gãy xương đòn với trật một phần xương gãy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_MNF</LocID>                         <Text>Gãy xương hàm dưới</Text>  </GameDBLocalizedString>

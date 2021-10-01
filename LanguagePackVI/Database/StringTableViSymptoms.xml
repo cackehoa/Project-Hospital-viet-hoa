@@ -39,7 +39,7 @@
             <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS</LocID>                                 <Text>Xơ vữa động mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS_DESCRIPTION</LocID>                     <Text>Hẹp động mạch do mảng bám tích tụ làm ảnh hưởng đến lưu lượng máu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA</LocID>                                        <Text>Tăng ure huyết</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA_DESCRIPTION</LocID>                            <Text>Mức độ cao bất thường của các hợp chất nitơ trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA_DESCRIPTION</LocID>                            <Text>Mức độ cao bất thường của hợp chất nitơ trong máu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BACK_INJURY</LocID>                                     <Text>Chấn thương lưng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BACK_INJURY_DESCRIPTION</LocID>                         <Text>Bệnh nhân bị chấn thương ở lưng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BACK_PAIN</LocID>                                       <Text>Đau lưng</Text>  </GameDBLocalizedString>
@@ -113,7 +113,7 @@
             <GameDBLocalizedString>      <LocID>SYM_EAR_FLUID_DRAINAGE</LocID>                              <Text>Chảy mủ tai</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EAR_FLUID_DRAINAGE_DESCRIPTION</LocID>                  <Text>Bệnh nhân có chất lỏng không xác định từ tai chảy ra.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EDEMA</LocID>                                           <Text>Phù nề</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_EDEMA_DESCRIPTION</LocID>                               <Text>Bệnh nhân bị sưng các bộ phận cơ thể do dư thừa chất lỏng tích tụ trong mô của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EDEMA_DESCRIPTION</LocID>                               <Text>Bệnh nhân bị sưng bộ phận cơ thể do dư thừa chất lỏng tích tụ trong mô của họ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_PAIN</LocID>                                      <Text>Đau khuỷu tay</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_PAIN_DESCRIPTION</LocID>                          <Text>Bệnh nhân phàn nàn về cơn đau ở khuỷu tay của họ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_STIFFNESS</LocID>                                 <Text>Cứng khuỷu tay</Text>  </GameDBLocalizedString>
@@ -473,9 +473,9 @@
             <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED</LocID>                            <Text>Trường hình ảnh bị giới hạn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED_DESCRIPTION</LocID>                <Text>Phép đo ngoại vi cho thấy bệnh nhân có thị giác hạn chế.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY</LocID>                              <Text>Thiếu vitamin</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY_DESCRIPTION</LocID>                  <Text>Thiếu các vitamin, khoáng chất hoặc các chất dinh dưỡng khác trong máu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY_DESCRIPTION</LocID>                  <Text>Thiếu các vitamin, khoáng chất hoặc chất dinh dưỡng khác trong máu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VOMITING</LocID>                                        <Text>Nôn mửa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VOMITING_DESCRIPTION</LocID>                            <Text>Còn được gọi là nôn trớ là sự tống xuất không chủ ý các chất trong dạ dày qua miệng hoặc đôi khi qua mũi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VOMITING_DESCRIPTION</LocID>                            <Text>Còn được gọi là nôn trớ là sự tống xuất không chủ ý chất trong dạ dày qua miệng hoặc đôi khi qua mũi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT</LocID>                                   <Text>Dáng đi lạch bạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT_DESCRIPTION</LocID>                       <Text>Kiểu đi bất thường, xuất hiện khi hông bị ảnh hưởng bởi các khuyết tật khác nhau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WALKING_DIFFICULTIES</LocID>                            <Text>Vấn đề đi bộ</Text>  </GameDBLocalizedString>
@@ -603,7 +603,7 @@
             <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS</LocID>                           <Text>Phát hiện thoái hóa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS_DESCRIPTION</LocID>               <Text>MRI đã cho thấy những thay đổi thoái hóa ở cột sống cổ của bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS</LocID>                        <Text>Các phát hiện về khử nilêin hóa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS_DESCRIPTION</LocID>            <Text>Sinh thiết dây thần kinh mặt với phân tích hậu quả đã tìm thấy các dấu hiệu của quá trình khử myelin.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS_DESCRIPTION</LocID>            <Text>Sinh thiết dây thần kinh mặt với phân tích hậu quả đã tìm thấy dấu hiệu của quá trình khử myelin.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE</LocID>                     <Text>Xương đùi bị gãy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE_DESCRIPTION</LocID>         <Text>Chụp X-quang cho thấy một vết gãy hở của xương đùi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_HUMERUS_FRACTURE</LocID>                   <Text>Xương sống bị gãy</Text>  </GameDBLocalizedString>
@@ -625,7 +625,7 @@
             <GameDBLocalizedString>      <LocID>SYM_EBV_DETECTED</LocID>                                    <Text>EBV được phát hiện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EBV_DETECTED_DESCRIPTION</LocID>                        <Text>Xét nghiệm huyết thanh học phát hiện các kháng nguyên vi rút Epstein-Barr cụ thể.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_MUSCLES_DAMAGED</LocID>                           <Text>Cơ khuỷu tay bị hư</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ELBOW_MUSCLES_DAMAGED_DESCRIPTION</LocID>               <Text>MRI đã phát hiện ra các dấu hiệu viêm các cơ của khuỷu tay, rất có thể là do hoạt động quá mức.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ELBOW_MUSCLES_DAMAGED_DESCRIPTION</LocID>               <Text>MRI đã phát hiện ra dấu hiệu viêm các cơ của khuỷu tay, rất có thể là do hoạt động quá mức.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_TENDONS_DAMAGED</LocID>                           <Text>Gân khuỷu tay bị hư</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ELBOW_TENDONS_DAMAGED_DESCRIPTION</LocID>               <Text>Chụp X-quang đã phát hiện ra các gân bị tổn thương của các cơ ở khuỷu tay.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EMPHYSEMA_DISCOVERED</LocID>                            <Text>Khí phế thũng được phát hiện</Text>  </GameDBLocalizedString>
@@ -703,7 +703,7 @@
             <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRACTURE</LocID>                                <Text>Xương khớp vai bị gãy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRACTURE_DESCRIPTION</LocID>                    <Text>Chụp X-quang đã phát hiện ra gãy xương khớp vai đơn giản.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRAGMENTS_FRACTURE</LocID>                      <Text>Mảnh xương khớp vai bị gãy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRAGMENTS_FRACTURE_DESCRIPTION</LocID>          <Text>Hình ảnh chụp X-quang đã phát hiện ra các mảnh xương trong xương khớp vai bị gãy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HUMERUS_FRAGMENTS_FRACTURE_DESCRIPTION</LocID>          <Text>Hình ảnh chụp X-quang đã phát hiện ra mảnh xương trong xương khớp vai bị gãy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HYPERTENSIVE_FINDINGS</LocID>                           <Text>Phát hiện tăng huyết áp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HYPERTENSIVE_FINDINGS_DESCRIPTION</LocID>               <Text>Siêu âm tim phát hiện phì đại thất trái và tái cấu trúc, giảm dự trữ lưu lượng mạch vành và thiếu máu cục bộ cơ tim im lặng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HISTOPLASMA_DETECTED</LocID>                            <Text>Histoplasma được phát hiện</Text>  </GameDBLocalizedString>
@@ -779,7 +779,7 @@
             <GameDBLocalizedString>      <LocID>SYM_METATARSAL_FRACTURE</LocID>                             <Text>Gãy cổ chân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_METATARSAL_FRACTURE_DESCRIPTION</LocID>                 <Text>Chụp X-quang đã phát hiện ra một vết gãy đơn giản của xương cổ chân ở bàn chân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MIGRAINE_DETECTED</LocID>                               <Text>Đã phát hiện chứng đau nửa đầu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MIGRAINE_DETECTED_DESCRIPTION</LocID>                   <Text>Chụp MRI đã phát hiện các dấu hiệu khác nhau cho thấy sự hiện diện của chứng đau nửa đầu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MIGRAINE_DETECTED_DESCRIPTION</LocID>                   <Text>Chụp MRI đã phát hiện dấu hiệu khác nhau cho thấy sự hiện diện của chứng đau nửa đầu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MITRAL_STENOSIS</LocID>                                 <Text>Hẹp van hai lá</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MITRAL_STENOSIS_DESCRIPTION</LocID>                     <Text>Siêu âm tim đã phát hiện hẹp van hai lá của tim.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MITRAL_VALVE_PROLAPSED</LocID>                          <Text>Sa van hai lá</Text>  </GameDBLocalizedString>
@@ -799,7 +799,7 @@
             <GameDBLocalizedString>      <LocID>SYM_NECK_BONE_SPURS</LocID>                                 <Text>Gai xương cổ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NECK_BONE_SPURS_DESCRIPTION</LocID>                     <Text>MRI đã phát hiện ra các gai xương ở cổ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NEUROMYELITIS_DISCOVERED</LocID>                        <Text>Phát hiện viêm dây thần kinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_NEUROMYELITIS_DISCOVERED_DESCRIPTION</LocID>            <Text>MRI đã phát hiện các dấu hiệu của bệnh viêm thần kinh tủy (viêm và khử men của dây thần kinh thị giác).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NEUROMYELITIS_DISCOVERED_DESCRIPTION</LocID>            <Text>MRI đã phát hiện dấu hiệu của bệnh viêm thần kinh tủy (viêm và khử men của dây thần kinh thị giác).</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NO_PULSE_PRESENT</LocID>                                <Text>Không có mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NO_PULSE_PRESENT_DESCRIPTION</LocID>                    <Text>Không sờ thấy được mạch của bệnh nhân (có thể cảm nhận được bằng cách chạm vào ngón tay).</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OBSTRUCTED_AIRWAYS</LocID>                              <Text>Tắc nghẽn đường thở</Text>  </GameDBLocalizedString>

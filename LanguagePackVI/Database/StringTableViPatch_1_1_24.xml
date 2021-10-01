@@ -32,7 +32,7 @@
             <GameDBLocalizedString>      <LocID>DIA_046_DESCRIPTION</LocID>      <Text>Cúm B do virut Cúm B gây ra, gây ra các đợt bùng phát theo mùa của bệnh Cúm ở người.</Text>	</GameDBLocalizedString>
             <!--GS-->
             <GameDBLocalizedString>      <LocID>DIA_047</LocID>                  <Text>HUS</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_047_DESCRIPTION</LocID>      <Text>Hội chứng tan máu tăng urê máu đề cập đến tình trạng khi các mạch máu nhỏ trong thận bị tổn thương và viêm. Trong hầu hết các trường hợp, nhiễm trùng Escherichia coli là nguyên nhân.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_047_DESCRIPTION</LocID>      <Text>Hội chứng tan máu tăng urê máu đề cập đến tình trạng khi các mạch máu nhỏ trong thận bị tổn thương và viêm. Trong hầu hết trường hợp, nhiễm trùng Escherichia coli là nguyên nhân.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_048</LocID>                  <Text>Campylobacteriosis</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_048_DESCRIPTION</LocID>      <Text>Campylobacteriosis đề cập đến bệnh nhiễm trùng phổ biến do Campylobacter jejuni gây ra. Nó thường là bệnh truyền qua thực phẩm.</Text>	</GameDBLocalizedString>
             <!--NE-->
@@ -46,7 +46,7 @@
             <GameDBLocalizedString>      <LocID>DIA_052</LocID>                  <Text>Viêm màng phổi</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_052_DESCRIPTION</LocID>      <Text>Viêm màng phổi đề cập đến tình trạng khi các màng bao quanh phổi bị viêm.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_053</LocID>                  <Text>Bệnh bụi phổi amiăng</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_053_DESCRIPTION</LocID>      <Text>Bệnh bụi phổi amiăng đề cập đến một tình trạng gây ra bởi các chất khoáng amiăng cực nhỏ trong phổi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_053_DESCRIPTION</LocID>      <Text>Bệnh bụi phổi amiăng đề cập đến một tình trạng gây ra bởi chất khoáng amiăng cực nhỏ trong phổi.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_054</LocID>                  <Text>Miliaria</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_054_DESCRIPTION</LocID>      <Text>Miliaria, còn được gọi là "phát ban mồ hôi", là một bệnh ngoài da, thường gặp ở điều kiện nóng ẩm.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_055</LocID>                  <Text>Ciguatera</Text>	</GameDBLocalizedString>
@@ -73,7 +73,7 @@
             <GameDBLocalizedString>      <LocID>TRM_001</LocID>                  <Text>Hemothorax</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_001_DESCRIPTION</LocID>      <Text>Hemothorax là tình trạng tích tụ máu trong khoang màng phổi và thường do chấn thương ngực.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_002</LocID>                  <Text>Tràn khí màng phổi</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_002_DESCRIPTION</LocID>      <Text>Tràn khí màng phổi căng thẳng xảy ra hầu hết trong các tình huống lâm sàng như thở máy, hồi sức hoặc ở những người bị bệnh phổi.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_002_DESCRIPTION</LocID>      <Text>Tràn khí màng phổi căng thẳng xảy ra hầu hết trong tình huống lâm sàng như thở máy, hồi sức hoặc ở những người bị bệnh phổi.</Text>	</GameDBLocalizedString>
 
             
             <!-- shared symptoms used tại Khoa nội-->
@@ -127,9 +127,9 @@
 
             <!--new trt procedures-->
             <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY</LocID>                    <Text>Liệu pháp thành phần máu</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY_DESCRIPTION</LocID>        <Text>Loại truyền máu chuyên biệt có thể bao gồm máu toàn phần hoặc các thành phần riêng lẻ bao gồm các tế bào hồng cầu đóng gói, huyết tương tươi đông lạnh, tiểu cầu, kết tủa lạnh, các thành phần bạch cầu hạt và rhogam.\n\nPhòng yêu cầu: Bất kỳ Phòng chẩn đoán / ICU / ward</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY_DESCRIPTION</LocID>        <Text>Loại truyền máu chuyên biệt có thể bao gồm máu toàn phần hoặc thành phần riêng lẻ bao gồm các tế bào hồng cầu đóng gói, huyết tương tươi đông lạnh, tiểu cầu, kết tủa lạnh, thành phần bạch cầu hạt và rhogam.\n\nPhòng yêu cầu: Bất kỳ Phòng chẩn đoán / ICU / ward</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_FOREIGN_OBJECT_REMOVAL</LocID>                     <Text>Loại bỏ dị vật</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_FOREIGN_OBJECT_REMOVAL_DESCRIPTION</LocID>         <Text>Loại bỏ dị vật có trong vết thương.\n\nPhòng yêu cầu: Phòng khám / Theo dõi / Trung tâm chấn thương / ICU / Văn phòng / Phòng chẩn đoán tại Chấn thương dpt</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_FOREIGN_OBJECT_REMOVAL_DESCRIPTION</LocID>         <Text>Loại bỏ dị vật có trong vết thương.\n\nPhòng yêu cầu: Phòng khám / Theo dõi / Trung tâm chấn thương / ICU / Văn phòng / Phòng chẩn đoán tại Chấn thương</Text>	</GameDBLocalizedString>
 
             <!--Khoa nội-->
             <GameDBLocalizedString>      <LocID>TRT_THORACENTESIS</LocID>                              <Text>Nội soi lồng ngực</Text>	</GameDBLocalizedString>
@@ -137,21 +137,21 @@
             <GameDBLocalizedString>      <LocID>TRT_MIEP</LocID>                                       <Text>MIEP</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_MIEP_DESCRIPTION</LocID>                           <Text>Thủ thuật nội soi xâm lấn tối thiểu được sử dụng để điều trị các bệnh lý tai mũi họng khác nhau.\n\nPhòng yêu cầu: Đơn vị thủ tục đặc biệt \n\nThiết bị cần thiết: Trạm ENT</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_MANNITOL_DOSES</LocID>                             <Text>Liều mannitol</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_MANNITOL_DOSES_DESCRIPTION</LocID>                 <Text>Liều mannitol được đưa vào cơ thể con người để chống say do ciguatoxin.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội dpt / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MANNITOL_DOSES_DESCRIPTION</LocID>                 <Text>Liều mannitol được đưa vào cơ thể con người để chống say do ciguatoxin.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội / ICU</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HYDROXYUREA</LocID>                                <Text>Hydroxyurea</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_HYDROXYUREA_DESCRIPTION</LocID>                    <Text>Thuốc đặc biệt ngăn chặn sản xuất tế bào máu trong tủy xương.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội dpt / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYDROXYUREA_DESCRIPTION</LocID>                    <Text>Thuốc đặc biệt ngăn chặn sản xuất tế bào máu trong tủy xương.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Khoa nội / ICU</Text>	</GameDBLocalizedString>
 
             <!--neurology-->
             <GameDBLocalizedString>      <LocID>TRT_BOTULINUM_ANTITOXIN</LocID>                        <Text>Chống độc Botulinum</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_BOTULINUM_ANTITOXIN_DESCRIPTION</LocID>            <Text>Kháng thể đặc biệt với khả năng vô hiệu hóa độc tố do Clostridium botulinum tạo ra.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Thần kinh dpt / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BOTULINUM_ANTITOXIN_DESCRIPTION</LocID>            <Text>Kháng thể đặc biệt với khả năng vô hiệu hóa độc tố do Clostridium botulinum tạo ra.\n\nPhòng yêu cầu: Phòng chẩn đoán tại Thần kinh / ICU</Text>	</GameDBLocalizedString>
             
             <!--EXAMINATIONS - NEW-->
             <GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING</LocID>                            <Text>Lấy mẫu RT-PCR</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING_DESCRIPTION</LocID>                <Text>Phản ứng chuỗi polymerase phiên mã ngược là một kỹ thuật trong phòng thí nghiệm kết hợp phiên mã ngược của RNA thành DNA và khuếch đại các mục tiêu DNA cụ thể bằng cách sử dụng PCR.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu dpt / Bệnh truyền nhiễm dpt / ICU /\n\nThiết bị cần thiết: Dụng cụ thủy tinh + Đo chu kỳ nhiệt</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING_DESCRIPTION</LocID>                <Text>Phản ứng chuỗi polymerase phiên mã ngược là một kỹ thuật trong phòng thí nghiệm kết hợp phiên mã ngược của RNA thành DNA và khuếch đại các mục tiêu DNA cụ thể bằng cách sử dụng PCR.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học \n\nLấy mẫu: Cấp cứu / Bệnh truyền nhiễm / ICU /\n\nThiết bị cần thiết: Dụng cụ thủy tinh + Đo chu kỳ nhiệt</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_RT_PCR_TESTING</LocID>                             <Text>Kiểm tra RT-PCR</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_RT_PCR_TESTING_DESCRIPTION</LocID>                 <Text>Phản ứng chuỗi polymerase phiên mã ngược là một kỹ thuật trong phòng thí nghiệm kết hợp phiên mã ngược của RNA thành DNA và khuếch đại các mục tiêu DNA cụ thể bằng cách sử dụng PCR.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING</LocID>                             <Text>Lấy mẫu ELISA</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING_DESCRIPTION</LocID>                 <Text>Xét nghiệm hấp thụ miễn dịch liên kết với enzym là một kỹ thuật phòng thí nghiệm được sử dụng để phát hiện và định lượng peptit, protein, kháng thể và hormone.\n\nLấy mẫu: Cấp cứu dpt / Khoa nội dpt / Bệnh truyền nhiễm dpt / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING_DESCRIPTION</LocID>                 <Text>Xét nghiệm hấp thụ miễn dịch liên kết với enzym là một kỹ thuật phòng thí nghiệm được sử dụng để phát hiện và định lượng peptit, protein, kháng thể và hormone.\n\nLấy mẫu: Cấp cứu / Khoa nội / Bệnh truyền nhiễm / ICU \n\nThiết bị cần thiết: Dụng cụ thủy tinh + RIA</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ELISA_TESTING</LocID>                              <Text>Kiểm tra ELISA</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ELISA_TESTING_DESCRIPTION</LocID>                  <Text>Xét nghiệm hấp thụ miễn dịch liên kết với enzym là một kỹ thuật phòng thí nghiệm được sử dụng để phát hiện và định lượng peptit, protein, kháng thể và hormone.\n\nPhòng yêu cầu: Phòng thí nghiệm huyết học</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_PULSE_OXYMETRY</LocID>                             <Text>Đo oxy xung</Text>	</GameDBLocalizedString>
