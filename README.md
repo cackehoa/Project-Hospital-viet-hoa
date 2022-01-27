@@ -23,9 +23,10 @@ Mình dịch trên phiên bản 1.2.22362 nên có thể không chạy hoặc c�
 - Khởi động trò chơi vào **Option** vào **Language**
 - Bật Addons **Vietnamese**
 
-### Có thể có lỗi với DLC
+### Việt hóa DLC:
 
-- Mình chưa cài bản DLC nào nên không biết có lỗi hay không nhưng nhiều khả năng là có lỗi
+- DLCHospitalServices: DLC dịch vụ bệnh viện
+- Những DLC khác có thể có lỗi
 
 ### Xem thêm hướng dẫn sử dụng github
 
