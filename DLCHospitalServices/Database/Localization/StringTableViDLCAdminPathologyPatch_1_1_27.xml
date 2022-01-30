@@ -17,7 +17,7 @@
             <GameDBLocalizedString>    <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY</LocID>             <Text>Hiệu thuốc</Text></GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY_DESCRIPTION</LocID> <Text>Dược sĩ bán thuốc cho bệnh nhân của bạn và đảm bảo họ nhận được liều lượng và hướng dẫn chính xác.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>    <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>                     <Text>Nhà thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x dược sĩ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>                     <Text>hiệu thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x dược sĩ</Text></GameDBLocalizedString>
 
             <!--NEW SCENARIO-->
             <GameDBLocalizedString>    <LocID>LEVEL_SANDBOX_HOSPITAL_H</LocID>                               <Text>Dịch vụ bệnh viện: Bệnh viện lớn</Text>  </GameDBLocalizedString>
