@@ -1,0 +1,17 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_DLC_DOCTOR_MODE_PATCH_1_1_24">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+    
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+    
+        <LocalizedStrings>
+            <GameDBLocalizedString> <LocID>NOTIF_INSURANCE_OBJ_RESET</LocID>            <Text>Đặt lại mục tiêu của công ty bảo hiểm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NOTIF_INSURANCE_OBJ_RESET_TEXT</LocID>       <Text>Do sự thay đổi trong chế độ bác sĩ, việc đặt lại mục tiêu của công ty bảo hiểm.</Text> </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    
