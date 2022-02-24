@@ -26,6 +26,7 @@ Mình dịch trên phiên bản 1.2.22362 nên có thể không chạy hoặc c�
 ### Việt hóa DLC:
 
 - [DLCHospitalServices](DLCHospitalServices/): DLC dịch vụ bệnh viện
+- [DLCDoctorMode](DLCDoctorMode/): DLC chế độ bác sĩ
 - Những DLC khác có thể có lỗi
 
 ### Xem thêm hướng dẫn sử dụng github
