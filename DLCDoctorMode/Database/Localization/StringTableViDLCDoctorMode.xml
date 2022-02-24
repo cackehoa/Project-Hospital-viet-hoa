@@ -1,0 +1,171 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_DLC_DOCTOR_MODE">
+    
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+            <GameDBLocalizedString> <LocID>DLC_DOCTOR_MODE</LocID>                                     <Text>DLC Chế độ bác sĩ</Text> </GameDBLocalizedString>
+            
+            <!-- RELATED FILE: StringTable[Language]Notifications.xml -->
+            <GameDBLocalizedString> <LocID>NOTIF_CONTROLLED_PATIENT_COLLAPSING</LocID>                 <Text>Bệnh nhân của bác sĩ được kiểm soát đã gục xuống và đã được chuyển đi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NOTIF_CONTROLLED_PATIENT_COLLAPSING_TEXT</LocID>            <Text>Bệnh nhân của một bác sĩ bị kiểm soát đã gục ngã và phải được chuyển đến {1}. Bệnh nhân đã được chỉ định cho một bác sĩ khác.</Text> </GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]UI.xml -->
+            <GameDBLocalizedString> <LocID>TOOLTIP_DOCTOR_MODE_BUTTON</LocID>                          <Text>Chế độ bác sĩ (F8)</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>CONTROLLED_BY_PLAYERS_DOCTOR</LocID>                        <Text>Được giao cho bác sĩ của người chơi</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>SEGMENT_HEADING_CONTROLLED_DOCTORS</LocID>                  <Text>Kiểm soát bác sĩ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SEGMENT_HEADING_DOCTORS_PATIENTS</LocID>                    <Text>Bệnh nhân của bác sĩ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SEGMENT_HEADING_CONTROLLED_PATIENTS</LocID>                 <Text>Kiểm soát bệnh nhân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SEGMENT_HEADING_YOUR_PATIENTS</LocID>                       <Text>Bệnh nhân của bạn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SEGMENT_HEADING_HIGHLIGHTS</LocID>                          <Text>Highlights</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_HAZARD</LocID>                                  <Text>Nguy hiểm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_PROFIT</LocID>                                  <Text>Lợi nhuận</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_SATISFACTION</LocID>                            <Text>Sự hài lòng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_CRITICAL</LocID>                                <Text>Nguy cấp</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_WAITING_FOR_TRT</LocID>                         <Text>Đang chờ điều trị</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_WAITING_FOR_EXM</LocID>                         <Text>Đang chờ khám</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_NO_DIAGNOSIS</LocID>                            <Text>Không có chẩn đoán</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_FILTER_CONTROLLED</LocID>                              <Text>Kiểm soát</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>HARD_CORE_MODE_DIAGNOSE_PERCENTAGE</LocID>                  <Text>Không có gợi ý trong chẩn đoán</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>HARD_CORE_MODE_HIDDEN_SYMPTOMS_NUMBER</LocID>               <Text>Ẩn số lượng các triệu chứng ẩn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>HARD_CORE_MODE_PULSING_HIDDEN_SYMPTOMS</LocID>              <Text>Tắt các triệu chứng ẩn xung</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>BEGINNER_MODE</LocID>                                       <Text>Chế độ bình thường</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EASY_MODE</LocID>                                           <Text>Chế độ thực tập</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>MEDIUM_MODE</LocID>                                         <Text>Chế độ chuyên môn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>HARDCORE_MODE</LocID>                                       <Text>Chế độ chuyên gia</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>TOOLTIP_CODE_BLUE</LocID>                                   <Text>Quy tắt xanh - đối xử ưu tiên với bệnh nhân này như những bệnh nhân nguy kịch</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TOOLTIP_ADD_CONTROLLED_DOCTOR</LocID>                       <Text>Chọn một bác sĩ và tất cả bệnh nhân của họ để người chơi kiểm soát</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>SHOW_PORTRAITS_OR_DIAGNOSES</LocID>                         <Text>Hiển thị chân dung hoặc chẩn đoán của bệnh nhân</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>TOOLTIP_COLOR_GUIDE</LocID>                                 <Text>Hướng dẫn màu</Text> </GameDBLocalizedString>
+                                                                                                          
+            <GameDBLocalizedString> <LocID>FOLLOW_CONTROLLED_DOCTOR</LocID>                            <Text>Giữ chế độ xem tập trung vào bác sĩ đã chọn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>REMOVE_DOCTOR_FROM_CONTROLLED</LocID>                       <Text>Xóa bác sĩ này khỏi danh sách bác sĩ được kiểm soát</Text> </GameDBLocalizedString>
+                                                                                                          
+            <!-- DLC Tutorial and campaign level menu -->                                                 
+            <GameDBLocalizedString> <LocID>DOC_MODE_LEVEL_TUTORIAL_01</LocID>                          <Text>Chế độ bác sĩ: Hướng dẫn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOC_MODE_LEVEL_TUTORIAL_01_DESCRIPTION</LocID>              <Text>Tìm hiểu những điều cơ bản về việc tiếp nhận bác sĩ.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOC_MODE_LEVEL_CAMPAIGN_01</LocID>                          <Text>Chế độ bác sĩ: Cuối cùng thì nghỉ hưu!</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOC_MODE_LEVEL_CAMPAIGN_01_DESCRIPTION</LocID>              <Text>Cuối cùng trước khi nghỉ hưu, có một nhiệm vụ cuối cùng cần đến chuyên môn của bạn. Bạn có thể tìm được nhân viên tốt nhất mà bạn có thể đào tạo và truyền kinh nghiệm cho mình không?</Text> </GameDBLocalizedString>
+
+            <!-- DLC Tutorial texts -->
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_01_WELCOME</LocID>                             <Text>Xin chào ông chủ, chúng ta hãy xem xét chế độ mới trong hệ thống CNTT của chúng tôi. Nó được gọi là Chế độ bác sĩ và nó sẽ cho phép chúng tôi tiếp quản các bác sĩ để chúng tôi có thể theo dõi sát sao hơn nữa bệnh nhân của mình.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_TEXT_DOC_MODE</LocID>                          <Text><![CDATA[Bạn có thể <b><i>nhấn vào nút</i></b> ở góc trên cùng bên trái của màn hình hoặc chỉ cần <b><i>nhấn phím F8</i></b>. \n\nKhi bạn có bác sĩ kiểm soát và hành động của bạn là cần thiết, nút này sẽ nhấp nháy.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_OVERALL_INFO</LocID>                  <Text>Chế độ bác sĩ nằm ở phía bên phải của màn hình. Chúng ta hãy xem xét một số tính năng chính của nó.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_HARDCORE_MODE</LocID>                 <Text><![CDATA[Đầu tiên, có cài đặt độ khó. <b><i>Nhấp vào nút</i></b> để hiển thị bảng cài đặt.]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_HARDCORE_MODE_OPENED</LocID>          <Text>Tại đây, bạn có thể chọn phần nào của quy trình chẩn đoán mà bạn muốn tạo ra nhiều thử thách hơn bằng cách tắt các gợi ý khác nhau trong thẻ của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_CONTROLLED_DOCTORS</LocID>            <Text><![CDATA[Phần lớn đầu tiên hiển thị các bác sĩ được kiểm soát của bạn. Bạn có thể kiểm soát chúng bằng cách <b><i>nhấp vào biểu tượng</i></b> và sau đó chọn một bác sĩ từ bộ phận đang hoạt động. <b><i>Hãy cố gắng làm điều đó ngay.</i></b>]]></Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_CONTROLLED_DOCTOR_PATIENTS</LocID>    <Text>Khi bạn tiếp quản một bác sĩ, bạn sẽ chịu trách nhiệm cho tất cả bệnh nhân của họ, được hiển thị trong danh sách dưới đây.\n\nKhi bạn điều trị cho một bệnh nhân, đừng quên xóa chúng theo cách thủ công từ thẻ bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_CONTROLLED_PATIENTS</LocID>           <Text>Phân đoạn tiếp theo hiển thị cho bạn tất cả các bệnh nhân mà bạn đã tự mình tiếp nhận trong thẻ bệnh nhân hoặc sử dụng nút 'tiếp nhận tất cả bệnh nhân' trong chế độ quản lý.\n\nMàu nền chân dung cho biết trạng thái hiện tại của bệnh nhân. Bạn có thể kiểm tra ý nghĩa của những màu này bằng cách di chuột qua dấu chấm hỏi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_DOC_MODE_HIGHLIGHTS</LocID>                    <Text>Phân đoạn cuối cùng cho phép bạn làm nổi bật thông tin cụ thể về bệnh nhân và nhân viên của mình, vì vậy bạn có thể biết ngay họ đang hạnh phúc hay không hài lòng, những gì bệnh nhân đang chờ đợi hoặc liệu họ có thể gặp nguy hiểm hay không.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_01_TASK</LocID>                                <Text>Và điều đó sẽ bao gồm mọi thứ quan trọng về Chế độ bác sĩ. Hãy thử ngay bây giờ và hoàn thành mục tiêu cho công ty bảo hiểm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_TUTORIAL_01_FINISHED</LocID>                            <Text>Có vẻ như bạn đang hiểu nó. Chúc ông chủ chuẩn đoán vui vẻ ở bệnh viện tiếp theo!</Text> </GameDBLocalizedString>
+            
+            <!-- DLC campaign level texts -->
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_WELCOME_INFO</LocID>                        <Text>Xin chào ông chủ, chúng tôi hiểu rằng ông muốn nghỉ hưu, nhưng chúng tôi sẽ cần kỹ năng của ông một lần nữa. Những gì bạn thấy ở đây là một trong những bệnh viện giảng dạy tốt nhất của chúng tôi được cho là nơi đào tạo các chuyên gia trong các lĩnh vực tương ứng của họ. Thật không may là nó đã không bao giờ được mở.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_WELCOME_MORE_INFO</LocID>                   <Text>Tòa nhà đã hoàn thành, nhưng chúng tôi không tìm thấy ai đủ kỹ năng để vận hành nó và còn thiếu một số phòng và một số thiết bị đắt tiền. Bạn có thể thiết lập và vận hành bệnh viện này không? Hãy thuê nhân viên mới, mở lại các phòng ban và đào tạo một chuyên gia có thể thay thế bạn, sau khi bạn không còn nữa.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_CREATE_DOCTOR</LocID>                       <Text>Bây giờ bạn đã bắt kịp tốc độ, tại sao bạn không bắt đầu bằng cách tạo ra người kế nhiệm tiềm năng của mình.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_TAKE_OVER_DOCTOR</LocID>                    <Text>Tuyệt vời, tôi có một cảm giác tốt về cái này. Bây giờ phòng khám đó đang hoạt động, hãy đưa bác sĩ dưới sự giám sát của bạn để tìm hiểu những thông tin chi tiết của quá trình chẩn đoán.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_NEW_INSURANCE</LocID>                       <Text>Mọi thứ đang có vẻ tốt. Bằng cách này, bác sĩ của bạn sẽ nhanh chóng trở thành một chuyên gia, vì vậy hãy duy trì nó! Trong khi đó, công ty bảo hiểm chị em của chúng tôi sẽ cung cấp nhiều cơ hội hơn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_LAST_INSURANCE</LocID>                      <Text>Một công ty bảo hiểm thân thiện khác cũng có một số thách thức để chúng ta giải quyết, chúng ta hãy cũng tập trung vào những thách thức này. Mục tiêu chính của chúng tôi là hoàn thành tất cả để đảm bảo rằng bệnh viện sẵn sàng hoạt động độc lập.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_CAMPAIGN_01_FINISHED</LocID>                            <Text>Công việc tuyệt vời! Bạn đã tạo ra một bệnh viện tuyệt vời và đào tạo người thay thế bạn. Giờ đây, bạn có thể nghỉ hưu trong hòa bình khi biết rằng di sản của bạn sẽ tiếp tục giúp đỡ mọi người trên khắp đất nước.</Text> </GameDBLocalizedString>
+            
+            <!-- DLC  Achievements-->
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_TUTORIAL_01</LocID>                         <Text>Tạm biệt, bánh xe đào tạo!</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_TUTORIAL_01_DESCRIPTION</LocID>             <Text>Hoàn thành hướng dẫn DLC Chế độ bác sĩ</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_LEVEL_1</LocID>                             <Text>Bác sĩ phân trang Chuột</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_LEVEL_1_DESCRIPTION</LocID>                 <Text>Hoàn thành mức DLC Chế độ bác sĩ</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR</LocID>                     <Text>Tôi chọn bạn...</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR_DESCRIPTION</LocID>         <Text>Tạo nhân vật của riêng bạn.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR</LocID>                    <Text>...và bạn và bạn và bạn cũng vậy.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR_DESCRIPTION</LocID>        <Text>Tạo 10 ký tự riêng.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE</LocID>                     <Text>Hãy đưa các kỹ năng vào bài kiểm tra</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_DESCRIPTION</LocID>         <Text>Kích hoạt Chế độ chuyên gia</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT</LocID>             <Text>Bạn không thấy gì cả</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT_DESCRIPTION</LocID> <Text>Điều trị bệnh nhân đầu tiên của bạn ở Chế độ chuyên gia</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS</LocID>            <Text>Tôi hiệp sĩ của bạn. Arise, Chuyên gia!</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS_DESCRIPTION</LocID><Text>Điều trị 20 bệnh nhân ở Chế độ chuyên gia</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION</LocID>                     <Text>Không bao giờ ngừng quay tôôôôiiii</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION_DESCRIPTION</LocID>         <Text>Xoay máy ảnh 100 lần</Text> </GameDBLocalizedString>
+
+            <!-- Chỉnh sửa nhân vật -->
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_NAME</LocID>                                    <Text>Chỉnh sửa nhân vật</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_INFO</LocID>                                    <Text>Chọn, sửa, tạo ...</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_SELECT_GENDER_AGE</LocID>                       <Text>Chọn giới tính, chỉnh sửa độ tuổi:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_GENDER</LocID>                                  <Text>Giới tính</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_AGE</LocID>                                     <Text>Tuổi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_RANDOM</LocID>                                  <Text>Ngẫu nhiên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_APPEARANCE</LocID>                              <Text>Đặt ngoại hình:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_SKIN</LocID>                                    <Text>Da</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_HAIR</LocID>                                    <Text>Tóc</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_EYES</LocID>                                    <Text>Mắt</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_LIPS</LocID>                                    <Text>Môi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_BEARD</LocID>                                   <Text>Râu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_NOSE</LocID>                                    <Text>Mũi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_WRINKLES</LocID>                                <Text>Nếp nhăn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_ACCESSORIES</LocID>                             <Text>Phụ kiện</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_PERSONAL_INFO</LocID>                           <Text>Thông tin cá nhân:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_OCCUPATION</LocID>                              <Text>Nghề nghiệp:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_LEVEL</LocID>                                   <Text>Cấp độ:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_SKIN_TONES</LocID>                              <Text>Tông màu da</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_HAIR_TONES</LocID>                              <Text>Tóc và râu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_PERKS</LocID>                                   <Text>Chọn đặc quyền:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_PERKS_NUMBER</LocID>                            <Text>Chọn {1}:</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_RANDOM</LocID>                                  <Text>Ngẫu nhiên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_RESET</LocID>                                   <Text>Đặt lại</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>CHAR_EDITOR_CREATE</LocID>                                  <Text>Tạo với {1}$</Text> </GameDBLocalizedString>
+
+            <!-- Insurance objectives -->
+            <GameDBLocalizedString> <LocID>CREATED_DOCTORS</LocID>                                     <Text>Tạo {1} bác sĩ bằng trình chỉnh sửa ký tự (trong thẻ tuyển dụng)</Text> </GameDBLocalizedString>
+
+            <!-- Parameter {1} is a number, parameter {2} is a name of a department -->
+            <GameDBLocalizedString> <LocID>CREATED_DOCTORS_AT_DEPARTMENT</LocID>                       <Text>Tạo {1} bác sĩ bằng trình chỉnh sửa ký tự (trong thẻ tuyển dụng) tại {2}</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TREATED_PATIENTS_WITH_INTERN_MODE_AT_DEPARTMENT</LocID>     <Text>Điều trị {1} bệnh nhân bằng các bác sĩ được kiểm soát tại {2} ở Chế độ thực tập</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TREATED_PATIENTS_WITH_RESIDENT_MODE_AT_DEPARTMENT</LocID>   <Text>Điều trị {1} bệnh nhân bằng các bác sĩ được kiểm soát tại {2} ở Chế độ chuyên môn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TREATED_PATIENTS_WITH_SPECIALIST_MODE_AT_DEPARTMENT</LocID> <Text>Điều trị {1} bệnh nhân bằng các bác sĩ được kiểm soát tại {2} ở Chế độ chuyên gia</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TREATED_CONTROLLED_PATIENTS_AT_DEPARTMENT</LocID>           <Text>Điều trị cho {1} bệnh nhân bằng các bác sĩ được kiểm soát tại {2}</Text> </GameDBLocalizedString>
+
+            <!-- Parameter {1} is name of the level (like Resident or Attending), parameter {2} is name of the profession, currently only Doctor -->
+            <GameDBLocalizedString> <LocID>REACHED_CERTAIN_LEVEL_WITH_CREATED_CHARACTER</LocID>        <Text>Đạt đến cấp độ {1} với một trong những {2} đã tạo của bạn</Text> </GameDBLocalizedString>
+
+            <!-- Parameter {1} is a number, parameter {2} is a name of a department -->
+            <GameDBLocalizedString> <LocID>NO_DEAD_CONTROLLED_PATIENTS_DAYS</LocID>                    <Text>Không có bệnh nhân chết của các bác sĩ được kiểm soát trong {1} ngày tại {2}</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>REACHED_DOCTORS_RATING</LocID>                              <Text>Đạt được xếp hạng của bác sĩ được kiểm soát {1}</Text> </GameDBLocalizedString>
+            
+            <!-- Parameter {1} is difficulty level, see BEGINNER_MODE, EASY_MODE above in this file  -->
+            <GameDBLocalizedString> <LocID>CORRECTLY_DIAGNOSED_CONTROLLED_DOCTORS_PATIENTS</LocID>     <Text>Chẩn đoán chính xác bệnh nhân của các bác sĩ được kiểm soát trong {1}</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TREATED_CONTROLLED_DOCTORS_PATIENTS</LocID>                 <Text>Điều trị bệnh nhân của các bác sĩ được kiểm soát trong {1}</Text> </GameDBLocalizedString>
+
+            <!-- Parameter {1} is a number -->
+            <GameDBLocalizedString> <LocID>EXPERIENCE_POINTS_FOR_CREATED_CHARACTERS</LocID>            <Text>{1} điểm kinh nghiệm cho tất cả các nhân vật do người chơi tạo</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EXPERIENCE_POINTS_FOR_CONTROLLED_DOCTORS</LocID>            <Text>{1} điểm kinh nghiệm cho bác sĩ do người chơi kiểm soát</Text> </GameDBLocalizedString>
+            
+            <!-- RELATED FILE: StringTable[Language]Names.xml -->
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1B</LocID>                           <Text>LifeGoesOn Cure</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_DC_MD_NAME</LocID>                           			<Text>Oopsee Crp.</Text> </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    
