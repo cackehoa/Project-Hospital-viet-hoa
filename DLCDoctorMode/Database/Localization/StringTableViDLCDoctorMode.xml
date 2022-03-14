@@ -162,8 +162,8 @@
             <GameDBLocalizedString> <LocID>EXPERIENCE_POINTS_FOR_CONTROLLED_DOCTORS</LocID>            <Text>{1} điểm kinh nghiệm cho bác sĩ do người chơi kiểm soát</Text> </GameDBLocalizedString>
             
             <!-- RELATED FILE: StringTable[Language]Names.xml -->
-            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1B</LocID>                           <Text>LifeGoesOn Cure</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString>    <LocID>IN_COM_DC_MD_NAME</LocID>                           			<Text>Oopsee Crp.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1B</LocID>                           <Text>Còn sống còn chữa bệnh</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_DC_MD_NAME</LocID>                           			<Text>Ơn trời</Text> </GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>
