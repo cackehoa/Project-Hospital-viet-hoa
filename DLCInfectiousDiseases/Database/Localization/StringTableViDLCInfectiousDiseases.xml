@@ -1,0 +1,411 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_DLC_INFECTIOUS_DISEASES">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+            <GameDBLocalizedString> <LocID>DLC_INFECTIOUS_DISEASES</LocID>                                 <Text>DLC Khoa truyền nhiễm</Text> </GameDBLocalizedString>
+            
+            <!-- Department and rooms-->
+            <!-- Note: the abbreviation DID is also widely used in names of rooms or in descriptions of treatments -->
+            <GameDBLocalizedString> <LocID>DPT_INFECTIOUS_DISEASES_DEPARTMENT</LocID>                      <Text>Bệnh truyền nhiễm</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_ISOLATION_INPATIENT_WARD</LocID>                      <Text>Khu cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_ISOLATION_INPATIENT_WARD_DESCRIPTION</LocID>          <Text>Khu cách ly là khu biệt lập dùng để cách ly bệnh nhân mắc các bệnh truyền nhiễm, ngăn chặn mầm bệnh lây lan.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INFECTIOUS_DISEASES_OFFICE</LocID>                    <Text>Phòng DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INFECTIOUS_DISEASES_OFFICE_DESCRIPTION</LocID>        <Text>Phòng bệnh truyền nhiễm đại diện cho phòng khám bệnh ngoại trú để khám và điều trị đơn giản.\n\nYêu cầu nhân viên:\n1x nhà dịch tễ học </Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_DID_OFFICE</LocID>                          <Text>Đơn vị chẩn đoán</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_DID_OFFICE_DESCRIPTION</LocID>              <Text>Đơn vị chẩn đoán tại khoa truyền nhiễm cung cấp các thủ tục khám và điều trị cho bệnh nhân nằm viện.\n\nTối thiểu. Yêu cầu nhân viên: \n1x nhà dịch tễ học \n(Nhân sự làm việc tại phòng trực điện thoại)</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DID</LocID>            <Text>Đơn vị đo tim</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>DLC_TOOLTIP_LOGISTICS_BIOHAZARD</LocID>                         <Text>Khu vực nguy hiểm sinh học, chỉ vào với khẩu trang và găng tay bảo hộ.</Text> </GameDBLocalizedString>
+                                                                                                                
+            <!-- Hospitalization alias -->                                                                      
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_ISOLATION</LocID>                           <Text>Nhập viện cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_ISOLATION_DESCRIPTION</LocID>               <Text>Nhập viện bệnh nhân tại phòng cách ly để ngăn ngừa lây lan các bệnh truyền nhiễm và chăm sóc bệnh nhân ở mức độ cao.\n\nPhòng yêu cầu: Khu cách ly</Text> </GameDBLocalizedString>
+                                                                                                                
+            <!-- SKILLS-->                                                                                      
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_EPIDEMIOLOGY</LocID>                             <Text>Dịch tễ học</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_EPIDEMIOLOGY_DESCRIPTION</LocID>                 <Text>Các nhà dịch tễ học điều tra sự phân bố của bệnh và ký sinh trùng để xác định nguyên nhân, các yếu tố nguy cơ, tiến triển, vòng đời hoặc phương thức lây truyền.</Text>	</GameDBLocalizedString> <!--todo description-->
+                                                                                                                
+            <!-- Global Admin Events-->                                                                         
+            <GameDBLocalizedString> <LocID>DAYS_LEFT</LocID>                                               <Text>Số ngày còn lại: </Text></GameDBLocalizedString>
+                                                                                                                 
+            <GameDBLocalizedString> <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK</LocID>                        <Text>Sự bùng phát của dịch bệnh!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK_TEXT</LocID>                   <Text>Bạn đã không chứa tất cả các bệnh nhân lây nhiễm và kết quả là một phần bệnh viện của bạn đã bị nhiễm bệnh. Nhân viên bây giờ phải đeo khẩu trang và sẽ làm việc chậm rãi!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK_TEXT_WARD</LocID>              <Text>Một bệnh nhân truyền nhiễm không phải nhập viện trong khu cách ly và kết quả là một phần bệnh viện của bạn đã bị nhiễm bệnh. Nhân viên bây giờ phải đeo khẩu trang và sẽ làm việc chậm rãi!</Text></GameDBLocalizedString>
+                                                                                                                
+            <!-- ============== -->                                                                             
+            <!--EVENTS -->                                                                                      
+            <!-- ============== -->                                                                             
+            <GameDBLocalizedString> <LocID>DLC_EVENT_PANDEMIC_LAB_DESC</LocID>         		            <Text>Một tai nạn trong phòng thí nghiệm của trường đại học đã giải phóng một số mầm bệnh rất nguy hiểm. Tất cả các bệnh viện thành phố nên chuẩn bị thiết bị bảo hộ và đối phó với bệnh nhân mới đến rất cẩn thận.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_PANDEMIC_TOURISTS_DESC</LocID>         	            <Text>Một sự bùng phát của một căn bệnh nguy hiểm đã được báo cáo tại một địa điểm du lịch yêu thích. Tất cả những công dân trở về nếu không được khỏe phải báo ngay đến bệnh viện gần nhất.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_PANDEMIC_CLIMATE_DESC</LocID>         	            <Text>Biến đổi khí hậu đã làm cho các dịch bệnh ngoại lai lây lan ngày càng nhiều và thường xuyên hơn đến các khu vực địa phương, đặc biệt là trong thời gian này trong năm.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_PANDEMIC_CORONA_DESC</LocID>                          <Text>Tuy nhiên, một làn sóng coronavirus mới Covid-19 đã tấn công thành phố. Tất cả các bệnh viện và cơ sở y tế nên chuẩn bị cho một số lượng lớn bệnh nhân bị nhiễm bệnh.</Text></GameDBLocalizedString>
+                                                                                                                
+            <!-- RELATED FILE: StringTable[Language]Notifications.xml -->                                       
+            <GameDBLocalizedString> <LocID>NOTIF_GLOBAL_EVENT_DISEASE_OUTBREAK_ENDED</LocID>               <Text>Tin tức hàng ngày</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NOTIF_GLOBAL_EVENT_DISEASE_OUTBREAK_ENDED_TEXT</LocID>          <Text>Tất cả các nhân viên của bạn sức khỏe đã trở lại bình thường. Bạn đã sống sót sau đợt bùng phát dịch bệnh!</Text> </GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]Characters.xml -->
+            <!-- Satisfaction modifiers -->
+            <GameDBLocalizedString> <LocID>DLC_INFECTED</LocID>                                            <Text>infected</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>HIGHLY_CONTAGIOUS</LocID>                                       <Text>Rất dễ lây!</Text> </GameDBLocalizedString>
+
+            <!--Doors-->
+            <GameDBLocalizedString> <LocID>DOOR_BIOHAZARD</LocID>                     		                <Text>Cửa nguy hiểm sinh học</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOOR_OVAL_WINDOW</LocID>                                        <Text>Cửa có cửa sổ hình bầu dục</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOOR_BIOHAZARD_DOUBLE</LocID>                                   <Text>Cửa nguy hiểm sinh học đôi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DOOR_OVAL_WINDOW_DOUBLE</LocID>                                 <Text>Cửa đôi với cửa sổ hình bầu dục</Text> </GameDBLocalizedString>
+
+            <!-- Objects-->
+            <GameDBLocalizedString> <LocID>OBJECT_LIFE_MONITOR_OLD</LocID>                     	    	<Text>Giám sát sự sống</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_MECHANICAL_VENTILATOR_DLC</LocID>                        <Text>Máy thở cơ</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_WALL</LocID>                                   <Text>Tường cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_WALL_BIOHAZARD</LocID>                         <Text>Tường cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_WALL_CABINET</LocID>                           <Text>Tủ âm tường cách ly</Text> </GameDBLocalizedString>
+            <!-- Description for all three versions of isolation wall -->                                      
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_WALL_DESCRIPTION</LocID>                       <Text>Cung cấp sự bảo vệ chống lại tất cả các bệnh do mầm bệnh có thể lây truyền qua không khí.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_SANITARY_EQUIPMENT</LocID>                     <Text>Thiết bị vệ sinh</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_SANITARY_EQUIPMENT_DESCRIPTION</LocID>         <Text>Dành cho các phòng cách ly để đảm bảo vệ sinh cơ bản cho bệnh nhân.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_AC</LocID>                    			    	<Text>AC cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_AC_DESCRIPTION</LocID>                         <Text>Điều hòa không khí cung cấp không khí trong lành được lọc và sự thoải mái cao hơn cho những bệnh nhân bị cách ly.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_WARNING_CAUTION</LocID>                                  <Text>Dấu hiệu - thận trọng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_WARNING_CAUTION_DESCRIPTION</LocID>                      <Text>Cảnh báo bùng phát.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_WARNING_QUARANTINE</LocID>                               <Text>Dấu hiệu - cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_WARNING_QUARANTINE_DESCRIPTION</LocID>                   <Text>Chỉ nhân viên được ủy quyền.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_AIR_DOOR</LocID>                               <Text>Cửa gió cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_ISOLATION_AIR_DOOR_DESCRIPTION</LocID>                   <Text>Hệ thống luồng không khí âm được sử dụng để giảm nguy cơ ô nhiễm không khí cho các cơ sở xung quanh.</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>OBJECT_NOTICE_BOARD_X</LocID>                                   <Text>Bảng biểu đồ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_NOTICE_BOARD_X_DESCRIPTION</LocID>                       <Text>Bảng từ tính.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_DESINFECTANTS</LocID>                                    <Text>Dụng cụ khử trùng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_DESINFECTANTS_DESCRIPTION</LocID>                        <Text>Dụng cụ khử trùng phù hợp để sử dụng hàng ngày.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_POSTER_INFECT1</LocID>                                   <Text>Áp phích - Nhiễm trùng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_POSTER_INFECT2</LocID>                                   <Text>Áp phích - Sốt rét</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_BENCH_X</LocID>                                <Text>Ghế dài - hiện đại</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_COFFEE_TABLE_2</LocID>                                   <Text>Bàn cà phê</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_AMBULANCE_X_01</LocID>                         <Text>Xe cứu thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_AMBULANCE_X_01_DESCRIPTION</LocID>             <Text>Xe cấp cứu kiểu mới của Châu Âu sẵn sàng đưa bệnh nhân đến trong tình trạng bệnh nặng nhất.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_STRETCHER_X</LocID>                            <Text>Băng ca</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>OBJECT_DECAL_BIOHAZARD</LocID>                                  <Text>Khu cách ly</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_DECAL_DID_DEPARTMENT</LocID>                             <Text>Khoa bệnh truyền nhiễm</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>TOOLTIP_BUILDING_PREFAB_INFECTIOUS_DISEASES</LocID>             <Text>Các mẫu phòng ban Khoa bệnh truyền nhiễm</Text> </GameDBLocalizedString>
+
+            <!-- DIAGNOSES - MIGRATED -->
+            <GameDBLocalizedString> <LocID>DIA_INFX</LocID>                                              	<Text>Bệnh cúm A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_HEPAX</LocID>                                               <Text>Viêm gan A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_HEPBX</LocID>                                               <Text>Viêm gan B</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_CLCX</LocID>                                                <Text>Bệnh tả</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TYFX</LocID>                                                <Text>Sốt thương hàn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TBCX</LocID>                                                <Text>Bệnh lao</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TULX</LocID>                                                <Text>Chứng Tularaemia</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_PNAX</LocID>                                                <Text>Bệnh than phổi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_RBFX</LocID>                                                <Text>Sốt do chuột cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_CSDX</LocID>                                                <Text>Bệnh mèo cào</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_PTSX</LocID>                                                <Text>Ho gà</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_LEGX</LocID>                                                <Text>Bệnh nhiễm trùng phổi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TPFX</LocID>                                                <Text>Sốt phát ban</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_ATSX</LocID>                                                <Text>Trùng roi Mỹ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TXMX</LocID>                                                <Text>Bệnh nhiễm trùng nhiễm độc tố</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_BABX</LocID>                                                <Text>Bệnh Babesiosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_LYDX</LocID>                                                <Text>Bệnh lyme</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_MUMX</LocID>                                                <Text>Quai bị</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_TBEX</LocID>                                                <Text>Viêm não do ve</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_RABX</LocID>                                                <Text>Bệnh dại</Text> </GameDBLocalizedString>
+            
+            <!--DIAGNOSES - NEW -->
+            <GameDBLocalizedString> <LocID>DIA_001</LocID>                                                 <Text>Bệnh Anaplasmosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_001_DESCRIPTION</LocID>                                     <Text>Anaplasmosis là do vi khuẩn Anaplasmosis phagocytophilum lây lan bởi bọ ve.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_002</LocID>                                                 <Text>Bệnh Ehrlichiosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_002_DESCRIPTION</LocID>                                     <Text>Ehrlichiosis là một bệnh giống cúm có liên quan chặt chẽ với bệnh Anaplasmosis. Nó cũng lây lan bởi bọ ve.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_003</LocID>                                                 <Text>Sốt Boutonneuse</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_003_DESCRIPTION</LocID>                                     <Text>Sốt boutonneuse là một cơn sốt do nhiễm trùng rickettsia do Rickettsia conorii gây ra và nó được truyền qua bọ ve chó. Bệnh xảy ra chủ yếu ở lưu vực Địa Trung Hải, Trung Đông, tiểu lục địa Ấn Độ và châu Phi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_004</LocID>                                                 <Text>Sốt màng não miền núi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_004_DESCRIPTION</LocID>                                     <Text>Bệnh do vi khuẩn Rickettsia rickettsii gây ra, lây lan qua nhiều loài ve khác nhau (ve chó Mỹ, ve gỗ núi đá, ve chó nâu).</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_005</LocID>                                                 <Text>Sốt ve Colorado</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_005_DESCRIPTION</LocID>                                     <Text>Nhiễm virus do ve gỗ Rocky Mountain lây lan, các triệu chứng rất giống với Sốt màng não miền núi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_006</LocID>                                                 <Text>Sốt ve ở Bờ biển Thái Bình Dương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_006_DESCRIPTION</LocID>                                     <Text>Bệnh do vi khuẩn Rickettsia philipii gây ra, do ve bờ biển Thái Bình Dương lây lan.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_007</LocID>                                                 <Text>Sốt ve cắn ở châu Phi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_007_DESCRIPTION</LocID>                                     <Text>Sốt do ve cắn ở châu Phi - ATBF là một bệnh nhiễm trùng do vi khuẩn do Rickettsia africae gây ra, lây lan qua bọ ve. Bệnh xảy ra ở Châu Phi cận Sahara, Carribean và Châu Đại Dương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_008</LocID>                                                 <Text>Bọ ve Queensland sốt phát ban</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_008_DESCRIPTION</LocID>                                     <Text>Tác nhân gây bệnh sốt phát ban do ve Queensland gây ra là vi khuẩn Rickettsia australis. Căn bệnh này chỉ xảy ra ở miền Đông Australia, bao gồm cả Tasmania.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_009</LocID>                                                 <Text>Sốt đốm ở đảo Flinders</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_009_DESCRIPTION</LocID>                                     <Text>Bệnh sốt đốm ở đảo Flinders do Rickettsia honei gây ra và bệnh xảy ra chủ yếu ở Đông Nam và Nam Á và cả ở Úc.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_010</LocID>                                                 <Text>Sốt đốm Nhật Bản</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_010_DESCRIPTION</LocID>                                     <Text>Sốt đốm Nhật Bản xảy ra chủ yếu ở các khu vực ấm áp dọc theo Thái Bình Dương của phía tây nam và miền trung Nhật Bản. Bệnh do vi khuẩn Rickettsia japonica gây ra, lây truyền qua vết đốt của ve.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_011</LocID>                                                 <Text>Bệnh TIBOLA</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_011_DESCRIPTION</LocID>                                     <Text>Bệnh nổi hạch do ve gây ra là một bệnh rickettsiosis do ve gây ra tương đối phổ biến ở Trung Âu và do Rickettsia slovaca gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_012</LocID>                                                 <Text>Bệnh Rickettsialpox</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_012_DESCRIPTION</LocID>                                     <Text>Rickettsialpox là một bệnh truyền nhiễm do bọ xít Rickettsia akari gây ra, bệnh này lây lan bởi loài bọ ve thường sống trên chuột nhà.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_013</LocID>                                                 <Text>Bệnh Brucellosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_013_DESCRIPTION</LocID>                                     <Text>Bệnh Brucellosis là bệnh do vi khuẩn thuộc loài Brucella gây ra và nó lây lan khi ăn phải sữa chưa được tiệt trùng hoặc thịt chưa nấu chín.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_014</LocID>                                                 <Text>Nhiễm vi rút Chikungunya</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_014_DESCRIPTION</LocID>                                     <Text>Nhiễm vi rút Chikungunya lây lan qua vết đốt của muỗi bị nhiễm bệnh. Không có thuốc chủng ngừa.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_015</LocID>                                                 <Text>Q - sốt</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_015_DESCRIPTION</LocID>                                     <Text>Sốt Q là một bệnh do Coxiella burnetti gây ra và nó lây lan qua nhiều loài động vật khác nhau như gia súc, cừu, dê, mèo và chó. Vi khuẩn là một loại ký sinh trùng nội bào, có khả năng phát triển và sinh sản bên trong tế bào vật chủ.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_016</LocID>                                                 <Text>Bệnh sốt xuất huyết</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_016_DESCRIPTION</LocID>                                     <Text>Sốt xuất huyết là một bệnh nhiệt đới lây truyền qua muỗi vằn nhiễm bệnh.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_017</LocID>                                                 <Text>Sốt Zika</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_017_DESCRIPTION</LocID>                                     <Text>Sốt Zika là bệnh nhiệt đới do vi rút Zika gây ra và nó lây lan bởi muỗi Aedes.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_018</LocID>                                                 <Text>Ebola</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_018_DESCRIPTION</LocID>                                     <Text>Bệnh do vi rút Ebola là một bệnh sốt xuất huyết do vi rút gây chết người. Bệnh do ebolavirus gây ra, lây lan khi tiếp xúc trực tiếp với chất dịch cơ thể bị nhiễm bệnh.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_019</LocID>                                                 <Text>Bệnh sốt rét</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_019_DESCRIPTION</LocID>                                     <Text>Sốt rét là một bệnh truyền nhiễm nhiệt đới do ký sinh trùng thuộc nhóm plasmodium gây ra. Nó lây lan qua vết muỗi đốt bị nhiễm bệnh.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_020</LocID>                                                 <Text>Sốt vàng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_020_DESCRIPTION</LocID>                                     <Text>Sốt vàng da là một bệnh do vi rút nhiệt đới lây lan qua vết đốt của một con muỗi cái bị nhiễm bệnh. Bệnh do vi rút sốt vàng, vi rút RNA bao bọc thuộc họ Flaviridae gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_021</LocID>                                                 <Text>Cơn sốt Tây sông Nile</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_021_DESCRIPTION</LocID>                                     <Text>Sốt Tây sông Nile là một bệnh nhiễm trùng do virus Tây sông Nile gây ra, bệnh lây lan do những con muỗi bị nhiễm bệnh. Hầu hết mọi người không phát triển bất kỳ triệu chứng nào. Virus này được phát hiện ở Uganda vào năm 1937.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_022</LocID>                                                 <Text>Sốt lassa</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_022_DESCRIPTION</LocID>                                     <Text>Còn được gọi là sốt xuất huyết Lassa do vi rút Lassa gây ra, đặc biệt là loài chuột châu Phi lây lan.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_023</LocID>                                                 <Text>Sốt Marburg</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_023_DESCRIPTION</LocID>                                     <Text>Bệnh do vi rút Marburg là một căn bệnh nghiêm trọng ảnh hưởng đến con người và các loài linh trưởng không phải người, do một trong hai loại vi rút marburg - vi rút Marburg và vi rút Ravn gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_024</LocID>                                                 <Text>Leptospirosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_024_DESCRIPTION</LocID>                                     <Text>Leptospirosis là một bệnh nhiễm trùng máu do vi khuẩn Leptospira gây ra và nó thường lây lan qua các loài gặm nhấm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_025</LocID>                                                 <Text>Nhiễm C. difficile</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_025_DESCRIPTION</LocID>                                     <Text>Nhiễm trùng Clostridium difficile là do vi khuẩn sản sinh độc tố gây ra. Nó có thể gây tử vong.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_026</LocID>                                                 <Text>Sốt Thung lũng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_026_DESCRIPTION</LocID>                                     <Text>Sốt thung lũng, còn được gọi là Coccidioidomycosis, là một bệnh nhiễm trùng do nấm Coccidioides sống trong đất của Tây Nam Hoa Kỳ, Mexico và Trung và Nam Mỹ gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_027</LocID>                                                 <Text>COVID-19</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_027_DESCRIPTION</LocID>                                     <Text>COVID-19 là bệnh do coronavirus mới SARS-CoV-2 gây ra và gây nhiễm trùng đường hô hấp. Lần đầu tiên được xác định tại Wu-han, Trung Quốc vào tháng 12 năm 2019, căn bệnh này đã lây lan trên toàn thế giới, gây ra đại dịch lớn nhất kể từ đại dịch cúm Tây Ban Nha năm 1918.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_028</LocID>                                                 <Text>MERS</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_028_DESCRIPTION</LocID>                                     <Text>MERS - Hội chứng hô hấp Trung Đông, còn được gọi là Cúm lạc đà, là một bệnh nhiễm trùng đường hô hấp do virus rất dễ lây lan do MERS-coronavirus gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_029</LocID>                                                 <Text>SARS</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_029_DESCRIPTION</LocID>                                     <Text>SARS - Hội chứng hô hấp cấp tính nặng là một bệnh đường hô hấp do vi rút gây ra bởi coronavirus SARS. Đợt bùng phát đầu tiên xảy ra ở miền nam Trung Quốc từ tháng 11 năm 2002 đến tháng 7 năm 2003.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_030</LocID>                                                 <Text>Respiratory crypto</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_030_DESCRIPTION</LocID>                                     <Text>Cryptosporidiosis là một bệnh ký sinh trùng do ký sinh trùng đơn bào có tên là Cryptosporidium gây ra. Nó ảnh hưởng đến hệ hô hấp và cả đường tiêu hóa.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_031</LocID>                                                 <Text>Intestinal crypto</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_031_DESCRIPTION</LocID>                                     <Text>Cryptosporidiosis là một bệnh ký sinh trùng do ký sinh trùng đơn bào có tên là Cryptosporidium gây ra. Nó ảnh hưởng đến bộ máy tiêu hóa và cả hệ thống hô hấp.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_032</LocID>                                                 <Text>HPS</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_032_DESCRIPTION</LocID>                                     <Text>HPS - Hantavirus Hội chứng phổi là một bệnh hô hấp do vi-rút nghiêm trọng gây ra do vi-rút hantavirus lây lan bởi loài gặm nhấm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_033</LocID>                                                 <Text>Norovirus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_033_DESCRIPTION</LocID>                                     <Text>Norovirus, còn được gọi là bọ nôn mửa mùa đông là một loại vi rút gây tiêu chảy và nôn mửa. Những người bị nhiễm bệnh có thể tạo ra hàng tỷ hạt norovirus.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_034</LocID>                                                 <Text>Rotavirus A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_034_DESCRIPTION</LocID>                                     <Text>Rotavirus A gây tiêu chảy phân nước. Cách phòng ngừa tốt nhất là tiêm vắc xin.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_035</LocID>                                                 <Text>Melioidosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_035_DESCRIPTION</LocID>                                     <Text>Melioidosis, còn được gọi là bệnh Whitmore, là một bệnh truyền nhiễm do vi khuẩn Burkholderia pseudomallei gây ra và nó được truyền qua cả động vật và đất hoặc nước bị ô nhiễm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_036</LocID>                                                 <Text>Vi-rút thể hợp bào gây bệnh lý hô hấp</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_036_DESCRIPTION</LocID>                                     <Text>HRSV - còn được gọi là Human orthopneumovirus là một loại virus hợp bào gây nhiễm trùng đường hô hấp.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_037</LocID>                                                 <Text>Viêm màng não tủy bạch huyết</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_037_DESCRIPTION</LocID>                                     <Text>Viêm màng não tủy bạch huyết là một bệnh truyền nhiễm do vi rút gây ra ở loài gặm nhấm gây ra bởi vi rút viêm màng não mô tế bào lympho, lây lan phổ biến do chuột nhà gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_038</LocID>                                                 <Text>Bệnh dịch hạch</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_038_DESCRIPTION</LocID>                                     <Text>Bệnh dịch hạch là một trong ba loại bệnh dịch hạch do vi khuẩn Yersinia pestis gây ra. Bệnh dịch hạch lây lan do bọ chét bị nhiễm bệnh sống trên các động vật nhỏ. Nó đặc biệt là nhiễm trùng các hạch bạch huyết, trở nên cực kỳ sưng tấy.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_039</LocID>                                                 <Text>Bệnh dịch hạch máu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_039_DESCRIPTION</LocID>                                     <Text>Bệnh dịch hạch là một trong ba loại bệnh dịch hạch do vi khuẩn Yersinia pestis gây ra. Bệnh dịch hạch lây lan do bọ chét nhiễm bệnh sống trên động vật nhỏ. Đây là dạng hiếm nhất trong cả ba dạng, thường lây nhiễm vào máu.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_040</LocID>                                                 <Text>Bệnh dịch hạch thể phổi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_040_DESCRIPTION</LocID>                                     <Text>Bệnh dịch hạch thể phổi là một trong ba loại bệnh dịch hạch do vi khuẩn Yersinia pestis gây ra. Nó lây lan bởi bọ chét bị nhiễm bệnh sống trên động vật nhỏ. Dạng khí phổi gây ra nhiễm trùng phổi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_041</LocID>                                                 <Text>Nhiễm vi rút Nipah</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_041_DESCRIPTION</LocID>                                     <Text>Nhiễm vi rút Nipah là một bệnh nghiêm trọng và có khả năng gây tử vong, do vi rút RNA thuộc giống Henipavirus gây ra. Nó lây lan giữa người và cũng có thể truyền từ động vật sang người.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_042</LocID>                                                 <Text>Sốt thung lũng Rift</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_042_DESCRIPTION</LocID>                                     <Text>Sốt thung lũng Rift là một bệnh do vi rút gây ra, do vi rút RVF lây truyền qua dịch cơ thể động vật.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_043</LocID>                                                 <Text>Sốt tái phát</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_043_DESCRIPTION</LocID>                                     <Text>Sốt tái phát là một bệnh truyền nhiễm do véc tơ truyền, gây ra bởi một nhóm vi khuẩn thuộc giống Borrelia và nó được truyền qua vết cắn của chấy rận hoặc bọ ve thân mềm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_044</LocID>                                                 <Text>Viêm gan E cấp tính</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_044_DESCRIPTION</LocID>                                     <Text>Viêm gan E là tình trạng viêm gan do vi rút Viêm gan E gây ra. Sự lây truyền tương tự như Viêm gan A, nhưng các vi-rút không liên quan. Được ghi nhận lần đầu tiên vào năm 1955, nhưng virus đã được phân lập lần đầu tiên vào năm 1983.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_045</LocID>                                                 <Text>Cúm gia cầm H5N1</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DIA_045_DESCRIPTION</LocID>                                     <Text>Bệnh vi rút A - kiểu phụ H5N1 là một loại cúm gia cầm có độc lực cao. Con đường lây truyền duy nhất sang người là từ các loài chim. Sự lây lan toàn cầu đầu tiên được ghi nhận vào năm 2004.</Text> </GameDBLocalizedString>
+
+            <!--MAIN SYMPTOMS - MIGRATED-->
+            <GameDBLocalizedString> <LocID>SYM_INFLUENZA_A_DETECTED_X</LocID>                              <Text>Phát hiện bệnh cúm A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HEPATITIS_A_POSITIVE_X</LocID>                              <Text>Xác nhận viêm gan A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HEPATITIS_B_POSITIVE_X</LocID>                              <Text>Xác nhận viêm gan B</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_VIBRIO_CHOLERAE_DETECTED_X</LocID>                          <Text>Phát hiện vi khuẩn Vibrio cholerae</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SALMONELLA_TYPHI_DETECTED_X</LocID>                         <Text>Phát hiện S. typhi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_M._TUBERCULOSIS_DETECTED_X</LocID>                          <Text>Tuberculosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_F._TULARENSIS_DETECTED_X</LocID>                            <Text>Phát hiện F. tularensis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._ANTHRACIS_DETECTED_X</LocID>                             <Text>Phát hiện B. anthracis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_STREPTOBACILLUS_DETECTED_X</LocID>                          <Text>Phát hiện Streptobacillus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._HENSELAE_DETECTED_X</LocID>                              <Text>Phát hiện B. henselae</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._PERTUSSIS_DETECTED_X</LocID>                             <Text>Phát hiện B. pertussis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LEGIONELLA_DETECTED_X</LocID>                               <Text>Phát hiện Legionella</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_R._TYPHI_DETECTED_X</LocID>                                 <Text>Phát hiện R. typhi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_TRYPANOSOMA_DETECTED_X</LocID>                              <Text>Phát hiện Trypanosoma</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_TOXOPLASMOSIS_DETECTED_X</LocID>                            <Text>Phát hiện Toxoplasmosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BABESIOSIS_DETECTED_X</LocID>                               <Text>Phát hiện Babesios</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LYME_DISEASE_DETECTED_X</LocID>                             <Text>Phát hiện kháng thể Borrelia</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PAROTID_INFECTED_X</LocID>                                  <Text>Phát hiện Parotid infection</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_TBE_DETECTED_X</LocID>                                      <Text>Phát hiện TBE</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RABIES_DETECTED_X</LocID>                                   <Text>Phát hiện bệnh dại</Text> </GameDBLocalizedString>
+            
+            <!--MAIN SYMPTOMS - NEW-->
+            <GameDBLocalizedString> <LocID>SYM_ANAPLASMNA_DETECTED</LocID>                                 <Text>Phát hiện Anaplasma</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ANAPLASMNA_DETECTED_DESCRIPTION</LocID>                     <Text>Nồng độ IgG tăng cao chỉ ra sự hiện diện của Anaplasma phagocytophilum.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_EHRLICHIOSIS_DETECTED</LocID>                               <Text>Phát hiện Ehrlichiosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_EHRLICHIOSIS_DETECTED_DESCRIPTION</LocID>                   <Text>PCR phát hiện các gen cụ thể, duy nhất đối với bệnh Ehrlichiosis.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_CONORII_DETECTED</LocID>                         <Text>Phát hiện Rickettsia conorii</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_CONORII_DETECTED_DESCRIPTION</LocID>             <Text>Xét nghiệm miễn dịch huỳnh quang trong vật liệu sinh học phát hiện kháng thể Rickettsia conorii.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_RICKETTSI_DETECTED</LocID>                       <Text>Phát hiện Rickettsia rickettsii</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_RICKETTSI_DETECTED_DESCRIPTION</LocID>           <Text>PCR đã phát hiện sự hiện diện của Rickettsia rickettsii.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COLTIVIRUS_ANTIBODIES_DETECTED</LocID>                      <Text>Phát hiện kháng thể Coltivirus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COLTIVIRUS_ANTIBODIES_DETECTED_DESCRIPTION</LocID>          <Text>RT-PCR đã phát hiện ra kháng thể vi-rút khuẩn lạc trên các tế bào hồng cầu.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_PHILIPII_DETECTED</LocID>                        <Text>Phát hiện Rickettsia philipii</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_PHILIPII_DETECTED_DESCRIPTION</LocID>            <Text>PCR đã phát hiện ra sự hiện diện của Rickettsia philipii.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AFRICAE_DETECTED</LocID>                         <Text>Phát hiện Rickettsia africae</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AFRICAE_DETECTED_DESCRIPTION</LocID>             <Text>PCR đã phát hiện Rickettsia africae.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AUSTRALIS_DETECTED</LocID>                       <Text>Phát hiện Rickettsia australis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AUSTRALIS_DETECTED_DESCRIPTION</LocID>           <Text>Phương pháp miễn dịch huỳnh quang huyết thanh đã phát hiện sự hiện diện của Rickettsia australis.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_HONEI_DETECTED</LocID>                           <Text>Phát hiện Rickettsia honei</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_HONEI_DETECTED_DESCRIPTION</LocID>               <Text>Thử nghiệm huyết thanh học đã phát hiện ra phản ứng trên Rickettsia honei.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_JAPONICA_DETECTED</LocID>                        <Text>Phát hiện Rickettsia japonica</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_JAPONICA_DETECTED_DESCRIPTION</LocID>            <Text>PCR đã phát hiện ra sự hiện diện của Rickettsia japonica.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_SLOVACA_DETECTED</LocID>                         <Text>Phát hiện Rickettsia slovaca</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_SLOVACA_DETECTED_DESCRIPTION</LocID>             <Text>PCR đã phát hiện Rickettsia slovaca.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AKARI_DETECTED</LocID>                           <Text>Phát hiện Rickettsia akari</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RICKETTSIA_AKARI_DETECTED_DESCRIPTION</LocID>               <Text>Thử nghiệm huyết thanh học đã phát hiện ra sự hiện diện của Rickettsia akari.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BRUCELLOSIS_CONFIRMED</LocID>                               <Text>Phát hiện Brucellosis confirmed</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BRUCELLOSIS_CONFIRMED_DESCRIPTION</LocID>                   <Text>Thử nghiệm huyết thanh đã xác nhận sự hiện diện của Brucellosis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHIKV_DETECTED</LocID>                                      <Text>Phát hiện vi rút CHIKV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHIKV_DETECTED_DESCRIPTION</LocID>                          <Text>RT-PCR đã phát hiện ra sự hiện diện của vi rút Chikungunya.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COXIELLA_BURNETII_DETECTED</LocID>                          <Text>Phát hiện Coxiella burnetii</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COXIELLA_BURNETII_DETECTED_DESCRIPTION</LocID>              <Text>Xét nghiệm huyết thanh đã phát hiện phản ứng kháng thể trên vi khuẩn Coxiella burnetii.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DENGUE_VIRUS_DETECTED</LocID>                               <Text>Phát hiện vi rút sốt xuất huyết</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DENGUE_VIRUS_DETECTED_DESCRIPTION</LocID>                   <Text>RT-PCR đã phát hiện bộ gen vi rút sốt xuất huyết trong mẫu huyết thanh của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ZIKA_VIRUS_DETECTED</LocID>                                 <Text>Phát hiện vi rút Zika</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ZIKA_VIRUS_DETECTED_DESCRIPTION</LocID>                     <Text>RT-PCR đã phát hiện vi rút Zika trong các mẫu bệnh phẩm của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_EBOLA_VIRUS_DETECTED</LocID>                                <Text>Phát hiện vi rút Ebola</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_EBOLA_VIRUS_DETECTED_DESCRIPTION</LocID>                    <Text>Thử nghiệm ELISA phát hiện vi rút Ebola.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PLASMODIUM_DETECTED</LocID>                                 <Text>Phát hiện Plasmodium</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PLASMODIUM_DETECTED_DESCRIPTION</LocID>                     <Text>Xét nghiệm ELISA đã phát hiện các kháng thể IgG và IgM chống lại bệnh sốt rét trong mẫu huyết thanh của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_YELLOW_FEVER_VIRUS</LocID>                                  <Text>Vi rút sốt vàng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_YELLOW_FEVER_VIRUS_DESCRIPTION</LocID>                      <Text>RT-PCR đã xác nhận sự hiện diện của bộ gen vi rút Sốt vàng trong mẫu bệnh phẩm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_WEST_NILE_VIRUS</LocID>                                     <Text>Vi rút West nile</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_WEST_NILE_VIRUS_DESCRIPTION</LocID>                         <Text>Thử nghiệm ELISA đã phát hiện ra kháng thể chống lại vi rút West Nile.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LASSA_VIRUS_PRESENT</LocID>                                 <Text>Hiện có vi rút Lassa</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LASSA_VIRUS_PRESENT_DESCRIPTION</LocID>                     <Text>Thử nghiệm PCR đã phát hiện vi rút Lassa.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MARV_DETECTED</LocID>                                       <Text>Phát hiện MARV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MARV_DETECTED_DESCRIPTION</LocID>                           <Text>RT-PC đã phát hiện thấy sự hiện diện của vi rút Marburg.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LEPTOSPIRA_DETECTED</LocID>                                 <Text>Phát hiện Leptospira</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LEPTOSPIRA_DETECTED_DESCRIPTION</LocID>                     <Text>Việc nuôi cấy vi sinh vật đã chứng minh sự hiện diện của leptospira.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_C._DIFFICILE_DETECTED</LocID>                               <Text>Phát hiện C. difficile</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_C._DIFFICILE_DETECTED_DESCRIPTION</LocID>                   <Text>Chẩn đoán PCR đã phát hiện ra Clostridium difficile.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COCCIDIOIDES_ANTIBODIES_DETECTED</LocID>              		<Text>Phát hiện kháng thể Coccidioides</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COCCIDIOIDES_ANTIBODIES_DETECTED_DESCRIPTION</LocID>  		<Text>Xét nghiệm huyết thanh học đã phát hiện ra kháng thể Coccidioides.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_2019_NCOV_DETECTED</LocID>                                  <Text>Phát hiện 2019-nCoV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_2019_NCOV_DETECTED_DESCRIPTION</LocID>                      <Text>Thử nghiệm huyết thanh đã xác nhận phản ứng miễn dịch đối với coronavirus mới 2019 từ các mẫu của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MERS_COV_DETECTED</LocID>                                   <Text>Phát hiện MERS-CoV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MERS_COV_DETECTED_DESCRIPTION</LocID>                       <Text>RT-PCR xác định MERS-coronavirus trong các mẫu bệnh phẩm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SARS_COV_DETECTED</LocID>                                   <Text>Phát hiện SARS-CoV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SARS_COV_DETECTED_DESCRIPTION</LocID>                       <Text>RT-PCR đã xác định được SARS-coronavirus trong các mẫu bệnh phẩm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CRYPTOSPORIDIUM_DETECTED</LocID>                            <Text>Phát hiện Cryptosporidium</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CRYPTOSPORIDIUM_DETECTED_DESCRIPTION</LocID>                <Text>PCR đã xác định Cryptosporidium.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_OOCYST_IN_STOOL_DETECTED</LocID>                            <Text>Phát hiện Oocyst in stool</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_OOCYST_IN_STOOL_DETECTED_DESCRIPTION</LocID>                <Text>Oocyst của Cryptosporidium đã được phát hiện trong mẫu phân của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HANTAVIRUS_DETECTED</LocID>                                 <Text>Phát hiện Hantavirus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HANTAVIRUS_DETECTED_DESCRIPTION</LocID>                     <Text>Xét nghiệm huyết thanh học đã xác định được các kháng thể liên quan đến vi rút hantavirus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NOROVIRUS_DETECTED</LocID>                                  <Text>Phát hiện Norovirus</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NOROVIRUS_DETECTED_DESCRIPTION</LocID>                      <Text>Xét nghiệm PCR đã phát hiện Norovirus.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ROTAVIRUS_A_DETECTED</LocID>                                <Text>Phát hiện Rotavirus A</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ROTAVIRUS_A_DETECTED_DESCRIPTION</LocID>                    <Text>Xét nghiệm RT-PCR đã phát hiện Rotavirus A.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._PSEUDOMALLEI_DETECTED</LocID>                            <Text>Phát hiện B. pseudomallei</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._PSEUDOMALLEI_DETECTED_DESCRIPTION</LocID>                <Text>Việc nuôi cấy vi sinh đã xác nhận sự hiện diện của vi khuẩn Burkholderia pseudomallei.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HRSV_PRESENT</LocID>                                        <Text>Phát hiện HRSV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HRSV_PRESENT_DESCRIPTION</LocID>                            <Text>Xét nghiệm RT-PCR đã phát hiện sự hiện diện của vi rút hợp bào hô hấp ở người.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LCMV_DETECTED</LocID>                                       <Text>Phát hiện LCMV</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LCMV_DETECTED_DESCRIPTION</LocID>                           <Text>Phân tích CSF phát hiện kháng thể đặc hiệu với vi rút Viêm màng não tủy bạch huyết.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_BUBONIC</LocID>                                   <Text>Y. pestis - dạng bubonic</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_BUBONIC_DESCRIPTION</LocID>                       <Text>Phân tích tài liệu sinh học đã phát hiện ra bệnh nhiễm trùng Yersinia pestis dạng bubonic.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_SEPTICEMIC</LocID>                                <Text>Y. pestis - dạng nhiễm trùng huyết</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_SEPTICEMIC_DESCRIPTION</LocID>                    <Text>Xét nghiệm huyết thanh học đã phát hiện ra dạng nhiễm trùng huyết do Yersinia pestis.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_PNEUMONIC</LocID>                                 <Text>Y. pestis - dạng thể khí</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_Y._PESTIS_PNEUMONIC_DESCRIPTION</LocID>                     <Text>Xét nghiệm PCR đã phát hiện ra kháng thể chống lại Yersinia pestis - dạng thể phổi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NIPAH_VIRUS_DETECTED</LocID>                                <Text>Phát hiện vi rút Nipah</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NIPAH_VIRUS_DETECTED_DESCRIPTION</LocID>                    <Text>Xét nghiệm RT-PCR đã phát hiện vi rút Nipah.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RVF_VIRUS_DETECTED</LocID>                                  <Text>Phát hiện vi rút RVF</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RVF_VIRUS_DETECTED_DESCRIPTION</LocID>                      <Text>ELISA - xét nghiệm huyết thanh đã phát hiện ra kháng thể chống lại Sốt thung lũng vi rút Rift.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._RECURRENTIS_DETECTED</LocID>                             <Text>Phát hiện B. recurrentis</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_B._RECURRENTIS_DETECTED_DESCRIPTION</LocID>                 <Text>Xét nghiệm PCR đã phát hiện Borrelia tái phát.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HEPATITIS_E_DETECTED</LocID>                                <Text>Phát hiện Viêm gan E</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HEPATITIS_E_DETECTED_DESCRIPTION</LocID>                    <Text>Xét nghiệm huyết thanh đã phát hiện các kháng thể liên quan đến virus Viêm gan E.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_H5N1_DETECTED</LocID>                                       <Text>Phát hiện H5N1</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_H5N1_DETECTED_DESCRIPTION</LocID>                           <Text>Xét nghiệm RT-PCR đã phát hiện vi rút cúm A H5N1.</Text> </GameDBLocalizedString>
+
+            <!-- SYMPTOMS -->
+            <GameDBLocalizedString> <LocID>SYM_HEMORRHAGIC_FEVER</LocID>                                   <Text>Sốt xuất huyết</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HEMORRHAGIC_FEVER_DESCRIPTION</LocID>                       <Text>Sốt xuất huyết ảnh hưởng đến nhiều cơ quan nội tạng, làm tổn thương mạch máu và ảnh hưởng đến khả năng tự điều chỉnh của cơ thể.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ORIFICE_BLEEDING</LocID>                                    <Text>Chảy máu lỗ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ORIFICE_BLEEDING_DESCRIPTION</LocID>                        <Text>Xuất huyết cấp tính từ các lỗ của cơ thể như mũi, miệng, mắt và/hoặc tai.</Text> </GameDBLocalizedString>
+
+            <!--TREATMENTS-->
+            <GameDBLocalizedString> <LocID>TRT_DOXYCYCLINE</LocID>                                         <Text>Doxycycline</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_DOXYCYCLINE_DESCRIPTION</LocID>                             <Text>Điều trị kháng sinh tetracycline đặc biệt được sử dụng để chống lại vi khuẩn và ký sinh trùng cụ thể.\n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_DOXYCYCLINE</LocID>                                      <Text>Doxycycline truyền tĩnh mạch</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_DOXYCYCLINE_DESCRIPTION</LocID>                          <Text>Điều trị kháng sinh tetracycline đặc biệt được sử dụng để chống lại vi khuẩn và ký sinh trùng cụ thể.\n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Khu cách ly tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_MINOCYCLINE</LocID>                                         <Text>Minocycline</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_MINOCYCLINE_DESCRIPTION</LocID>                             <Text>Điều trị kháng sinh tetracycline đặc biệt được sử dụng để chống lại vi khuẩn và ký sinh trùng cụ thể.\n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CHLORAMPHENICOL</LocID>                                     <Text>Chloramphenicol</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CHLORAMPHENICOL_DESCRIPTION</LocID>                         <Text>Một loại kháng sinh đặc biệt được sử dụng trong các bệnh nhiễm trùng do vi khuẩn phổ rộng.\n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_AZITHROMYCIN</LocID>                                        <Text>Azithromycin</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_AZITHROMYCIN_DESCRIPTION</LocID>                            <Text>Một loại kháng sinh được sử dụng để chống lại các bệnh nhiễm trùng do vi khuẩn khác nhau. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_INTRAMUSCULAR_ANTIBIOTICS</LocID>                           <Text>Kháng sinh IM</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_INTRAMUSCULAR_ANTIBIOTICS_DESCRIPTION</LocID>               <Text>Thuốc kháng sinh tiêm bắp được cung cấp dưới dạng tiêm vào cơ lớn. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SPECIAL_ANTIVIRAL_TREATMENT</LocID>                         <Text>Liệu pháp kháng vi-rút phức tạp</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SPECIAL_ANTIVIRAL_TREATMENT_DESCRIPTION</LocID>             <Text>Liệu pháp kháng vi-rút phức hợp được sử dụng trong trường hợp không có sẵn thuốc kháng vi-rút nhắm mục tiêu. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Khu cách ly tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_EXPERIMENTAL_SERUM</LocID>                                  <Text>Huyết thanh thí nghiệm</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_EXPERIMENTAL_SERUM_DESCRIPTION</LocID>                      <Text>Thử nghiệm huyết thanh thuốc tiêm tĩnh mạch điều trị sốt xuất huyết ebola. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Khu cách ly tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIMALARIAL_MEDICATION</LocID>                             <Text>Thuốc trị sốt rét</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIMALARIAL_MEDICATION_DESCRIPTION</LocID>                 <Text>Sự kết hợp của nhiều loại thuốc kháng sinh, thuốc và các chất hỗ trợ chống lại bệnh sốt rét và các bệnh liên quan đến sốt rét. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_PASSIVE_IMMUNOTHERAPY</LocID>                            <Text>Liệu pháp miễn dịch thụ động IV</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_PASSIVE_IMMUNOTHERAPY_DESCRIPTION</LocID>                <Text>Liều tiêm tĩnh mạch của các kháng thể cụ thể nhắm mục tiêu chống lại các cơn sốt xuất huyết do virus khác nhau. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTISENSE_THERAPY</LocID>                                   <Text>Liệu pháp antisense</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTISENSE_THERAPY_DESCRIPTION</LocID>                       <Text>Liệu pháp Antisense là một hình thức điều trị các rối loạn hoặc nhiễm trùng di truyền - có thể tổng hợp một chuỗi RNA / DNA sẽ tắt một gen cụ thể. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_VANCOMYCIN</LocID>                                          <Text>Vancomycin</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_VANCOMYCIN_DESCRIPTION</LocID>                              <Text>Thuốc kháng sinh tiêm tĩnh mạch điều trị một số bệnh nhiễm trùng do vi khuẩn. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_FLUCONAZOLE</LocID>                                         <Text>Fluconazole</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_FLUCONAZOLE_DESCRIPTION</LocID>                             <Text>Thuốc chống nấm đặc biệt được sử dụng để điều trị các bệnh khác nhau do sinh vật nấm gây ra. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_NITAZOXANIDE</LocID>                                        <Text>Nitazoxanide</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_NITAZOXANIDE_DESCRIPTION</LocID>                            <Text>Thuốc chống ký sinh trùng phổ rộng và cả thuốc kháng vi-rút phổ rộng. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_OSELTAMIVIR</LocID>                                         <Text>Oseltamivir</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_OSELTAMIVIR_DESCRIPTION</LocID>                             <Text>Thuốc kháng vi-rút được sử dụng để điều trị và ngăn ngừa Bệnh cúm A và B. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Khu cách ly tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CIPROFLOXACIN</LocID>                                       <Text>Ciprofloxacin</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CIPROFLOXACIN_DESCRIPTION</LocID>                           <Text>Một loại thuốc kháng sinh được sử dụng để điều trị một số bệnh nhiễm trùng do vi khuẩn. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_CIPROFLOXACIN</LocID>                                    <Text>Ciprofloxacin tiêm tĩnh mạch</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_IV_CIPROFLOXACIN_DESCRIPTION</LocID>                        <Text>Thuốc kháng sinh được sử dụng để điều trị một số bệnh nhiễm trùng do vi khuẩn. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Khu cách ly tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SUPPORTIVE_CARE</LocID>                                     <Text>Liệu pháp hỗ trợ</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SUPPORTIVE_CARE_DESCRIPTION</LocID>                         <Text>Liệu pháp hỗ trợ bao gồm nhiều phương pháp điều trị triệu chứng, chủ yếu dành cho các bệnh do vi rút mà không có phương pháp điều trị đặc hiệu. \n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_RABIES_IMMUNE_GLOBULIN_X</LocID>                            <Text>Globulin miễn dịch bệnh dại</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_RABIES_IMMUNE_GLOBULIN_X_DESCRIPTION</LocID>                <Text>Một mũi tiêm tác dụng nhanh, ngăn chặn vi rút dại lây nhiễm cho bệnh nhân. Thường được sử dụng trước cho những bệnh nhân bị động vật có thể mắc bệnh dại cắn.\n\nPhòng yêu cầu: Văn phòng DID / Đơn vị chẩn đoán + Phòng thông thường tại DID / ICU</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_INTERFERON_ALPHA-2B_X</LocID>                               <Text>Interferon alpha-2b</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_INTERFERON_ALPHA-2B_X_DESCRIPTION</LocID>                   <Text>Liệu pháp chống vi-rút đặc hiệu cao được sử dụng trong điều trị viêm gan mãn tính B và C. \n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán tại DID / ICU</Text> </GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString> <LocID>EXM_GASTROSCOPY_DESCRIPTION</LocID>                             <Text>Một thủ thuật trong đó một ống mềm (ống nội soi) với một máy quay video nhỏ và một nguồn sáng ở cuối được đưa qua miệng để kiểm tra phần trên của đường tiêu hóa.\n\nPhòng yêu cầu: ICU / Văn phòng / Đơn vị chẩn đoán tại Ngoại khoa tổng quát / Nội khoa / Tim mạch / DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>      <Text>Lấy mẫu dịch não tủy được thực hiện bằng cách đưa một cây kim qua lưng dưới vào ống sống, hút một lượng nhỏ dịch. \n\nPhòng yêu cầu: Phòng thí nghiệm mô học \n\nLấy mẫu: Thần kinh / DID \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy ly tâm y tế + Máy phân tích phòng thí nghiệm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>             <Text>Quy trình thu thập một mẫu phân của bệnh nhân để phân tích thêm. \n\nPhòng yêu cầu: Phòng thí nghiệm mô học \n\nLấy mẫu: Cấp cứu / Ngoại khoa tổng quát / Nội khoa / ICU / DID \n\nThiết bị cần thiết: Dụng cụ thủy tinh + Máy phân tích phân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EXM_AUDIOMETRY_DESCRIPTION</LocID>                              <Text>Kiểm tra thính lực xác định mức độ nghe của bệnh nhân. \n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / ICU / Văn phòng / Đơn vị chẩn đoán tại Cấp cứu / ICU / Ngoại khoa tổng quát / Nội khoa / DID</Text> </GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString> <LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN_DESCRIPTION</LocID>              <Text>Sản phẩm máu tinh khiết có chứa các kháng thể được cung cấp qua đường tiêm tĩnh mạch (IV). \n\nPhòng yêu cầu: ICU / Văn phòng / Đơn vị chẩn đoán tại chỉnh hình / Thần kinh / DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIVIROTICS_DESCRIPTION</LocID>                            <Text>Thuốc ức chế nhiễm vi-rút. Không giống như thuốc kháng sinh, thuốc kháng vi-rút không trực tiếp tiêu diệt mầm bệnh.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / ICU / Văn phòng / Đơn vị chẩn đoán ar Ngoại khoa tổng quát / Thần kinh / DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIDIARRHEALS_DESCRIPTION_V2</LocID>                       <Text>Thuốc làm ngừng tiêu chảy, làm giảm các triệu chứng, nhưng không loại bỏ được nguyên nhân. Chúng thường hoạt động bằng cách giảm nhu động ruột.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Văn phòng / Đơn vị chẩn đoán tại Ngoại khoa tổng quát / Nội khoa / DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIPARASITIC_DRUGS_DESCRIPTION_V2</LocID>                  <Text>Thuốc được sử dụng để điều trị các bệnh nhiễm ký sinh trùng khác nhau.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / Văn phòng / Đơn vị chẩn đoán tại nội khoa / DID</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_NASAL_DROPS_DESCRIPTION</LocID>                             <Text>Thuốc làm thông thoáng khoang mũi và tăng thông khí qua mũi.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Văn phòng / Đơn vị chẩn đoán tại nội khoa / Tim mạch / DID</Text> </GameDBLocalizedString>
+
+            <!--SCENARIO-->
+            <GameDBLocalizedString> <LocID>LEVEL_SANDBOX_HOSPITAL_I</LocID>                                <Text>Bệnh truyền nhiễm: Bệnh viện lớn</Text>	</GameDBLocalizedString>
+
+            <!-- Hotfix so this doesn't need to be copied to base game; same for all languages so fallback to EN is ok -->
+            <GameDBLocalizedString> <LocID>NOTIF_GLOBAL_EVENT_TEXT</LocID>                                 <Text>{1}</Text> </GameDBLocalizedString>
+
+            <!--new hematolab for the department-->
+            <GameDBLocalizedString>  <LocID>ROOM_TYPE_HEMATOLOGY_LAB_DID</LocID>                     		<Text>Phòng thí nghiệm huyết học</Text></GameDBLocalizedString>
+			
+			<!--new insurance-->
+			<GameDBLocalizedString>   	 <LocID>IN_COM_ID_NAME</LocID>                           				<Text>Cuộc sống hạnh phúc</Text> </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
