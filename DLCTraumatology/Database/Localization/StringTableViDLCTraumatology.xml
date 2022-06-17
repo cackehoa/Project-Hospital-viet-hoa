@@ -1,0 +1,386 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_DLC_TRAUMATOLOGY">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+            <GameDBLocalizedString> <LocID>DLC_TRAUMATOLOGY</LocID>                                       <Text>DLC Khoa chấn thương</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>Chấn thương</Text> </GameDBLocalizedString>
+
+            <!-- Hospitalization alias -->
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>Nhập viện đơn vị bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER_DESCRIPTION</LocID>            <Text>Nhập viện bệnh nhân tại đơn vị bỏng với sự chăm sóc đặc biệt.\n\nPhòng yêu cầu: Đơn vị bỏng</Text> </GameDBLocalizedString>
+
+            <!--ROOMS-->
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT</LocID>                                    <Text>Đơn vị bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT_DESCRIPTION</LocID>                        <Text>Đơn vị bỏng chuyên điều trị bỏng các loại.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>Văn phòng chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>              <Text>Phòng khám ngoại trú khám và điều trị đơn giản. Yêu cầu nhân viên:\n1x bác sĩ chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE</LocID>                <Text>Đơn vị chẩn đoán</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>    <Text>Đơn vị chẩn đoán tại khoa Chấn thương chỉnh hình khám và điều trị cho bệnh nhân nằm viện. \n\nTối thiểu. Yêu cầu nhân viên: \n1x bác sĩ chấn thương \n(Nhân sự làm việc tại phòng trực điện thoại)</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_TRAUMATOLOGY</LocID>  <Text>Đơn vị đo tim</Text> </GameDBLocalizedString>
+
+            <!-- SKILLS-->
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_TRAUMATOLOGY</LocID>                            <Text>Chấn thương</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_TRAUMATOLOGY_DESCRIPTION</LocID>                <Text>Các bác sĩ chấn thương chuyên điều trị các chấn thương thực thể cấp tính nghiêm trọng cần được chăm sóc y tế ngay lập tức.</Text>	</GameDBLocalizedString>
+                                                                                                            
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_TRAUMA_SURGERY</LocID>                          <Text>Phẫu thuật chấn thương</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SKILL_DOC_SPEC_TRAUMA_SURGERY_DESCRIPTION</LocID>              <Text>Bác sĩ phẫu thuật chấn thương chuyên về các quy trình phẫu thuật phức tạp cho các chấn thương do chấn thương và đa chấn thương.</Text>	</GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
+            <!-- DLC OBJECTS - some objects share descriptions with other objects in the base game so only their names need to be translated -->
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_DLC_HELICOPTER_01</LocID>                     <Text>Trực thăng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_DLC_HELICOPTER_01_DESCRIPTION</LocID>         <Text>Trực thăng</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>PREFAB_OBJECT_DLC_HELIPORT</LocID>                             <Text>Trực thăng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>PREFAB_OBJECT_DLC_HELIPORT_DESCRIPTION</LocID>                 <Text>Máy bay trực thăng đưa những bệnh nhân bị thương nặng nhất.</Text> </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString> <LocID>OBJECT_DLC_MARKER_HELIPORT</LocID>                             <Text>Ánh sáng trực thăng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_HELIPAD_LIGHT_RED</LocID>                               <Text>Ánh sáng trực thăng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_HELIPAD_LIGHT_GREEN</LocID>                             <Text>Ánh sáng trực thăng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_DLC_MARKER_HELIPORT_DESCRIPTION</LocID>                 <Text>Đèn sân bay trực thăng cung cấp các tín hiệu trực quan cho việc hạ cánh ban đêm.</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>OBJECT_EQUIPMENT_CABINET_TALL_X</LocID>                        <Text>Tủ thiết bị - cao</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_POSTER_TRAUMA1</LocID>                                  <Text>Áp phích - tai nạn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_POSTER_TRAUMA2</LocID>                                  <Text>Áp phích - người hiến máu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_LIFE_MONITOR_WALL_X</LocID>                             <Text>Màn hình cuộc sống - tường</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_TRAUMA_TOOLS</LocID>                                    <Text>Dụng cụ chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_TRAUMA_TOOLS_DESCRIPTION</LocID>                        <Text>Bộ dụng cụ y tế cụ thể phù hợp với tất cả các đơn vị chấn thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_EQUIPMENT_CABINET_X</LocID>                             <Text>Tủ thiết bị</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_BED_SOCKET_X</LocID>                                    <Text>Ổ cắm giường</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>OBJECT_DECAL_BURN_UNIT</LocID>                                 <Text>Đơn vị bỏng</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>OBJECT_CABINET_BEDSIDE_X</LocID>                               <Text>Tủ đầu giường</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_FUTURISTIC_BED</LocID>                        <Text>Giường bệnh công nghệ cao</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>COMPOSITE_OBJECT_FUTURISTIC_BED_DESCRIPTION</LocID>            <Text>Giường ngủ hiện đại với ray bên bằng kính.</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>NOT_ALLOWED_ONLY_FLOORS_WITH_ELEVATORS</LocID>                 <Text>chỉ có thể được đặt trên các tầng có thang máy lên được.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NOT_ALLOWED_ROOF_ABOVE</LocID>                                 <Text>không thể được đặt bên dưới các tầng khác.</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>TOOLTIP_BUILDING_PREFAB_TRAUMATOLOGY</LocID>                   <Text>Mẫu phòng bệnh viện Chấn thương chỉnh hình</Text> </GameDBLocalizedString>
+
+            <!-- TILES-->
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_WHITE_ROAD</LocID>                      	     	   <Text>Đường trắng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_YELLOW_ROAD</LocID>                           	   <Text>Đường vàng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_LINE_YELLOW</LocID>                           	   <Text>Đường có vạch vàng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_LINE_WIDE_WHITE</LocID>                             <Text>Đường có vạch trắng rộng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_LINE_WIDE_YELLOW</LocID>                            <Text>Đường có vạch vàng rộng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_WARNING_LINES_L</LocID>                             <Text>Vạch cảnh báo</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>FLOOR_TYPE_WARNING_LINES_R</LocID>                             <Text>Vạch cảnh báo</Text> </GameDBLocalizedString>
+                                                                                                            
+            <!-- OCCUPATIONS-->                                                                             
+            <GameDBLocalizedString> <LocID>OCCUPATION_POLICE</LocID>                         	     	   <Text>Cảnh sát</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OCCUPATION_FIREFIGHTER</LocID>                                 <Text>Lính cứu hỏa</Text>	</GameDBLocalizedString>
+
+            <!-- RELATED FILE: StringTable[Language]Tutorial.xml -->
+            <!-- ============== -->
+            <!--EVENTS ACCIDENTS-->
+            <!-- ============== -->
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_ROBBERY</LocID>                          <Text>Một vụ cướp có vũ trang sau đó là một vụ xả súng trên các đường phố ở trung tâm thành phố vừa được báo cáo. Tất cả các nghi phạm đã bị bắt và các dịch vụ cấp cứu đang vận chuyển những người bị thương đến các bệnh viện gần đó. </Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_FIRE</LocID>                             <Text>Một tòa nhà cao tầng đã bốc cháy ở một khu dân cư của thành phố. Lực lượng cứu hỏa và cảnh sát đã bao vây tòa tháp và đang sơ tán cư dân. Bệnh viện của bạn nên chuẩn bị cho một số lượng lớn các vết thương bỏng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_POWERPLANT</LocID>                       <Text>Một vụ nổ sau đó là hỏa hoạn đã được báo cáo tại một nhà máy điện địa phương. Tất cả các dịch vụ cấp cứu đã có mặt tại chỗ và vận chuyển những người bị thương đến các bệnh viện gần đó.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_TERRORIST</LocID>                        <Text>Một cuộc tấn công khủng bố vừa xảy ra tại sân bay địa phương. Cảnh sát đã đóng cửa toàn bộ khu vực, nhưng vẫn còn rất nhiều người chết và bị thương. Xe cấp cứu đã bắt đầu vận chuyển những người bị thương nặng nhất đến các bệnh viện gần nhất.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_SHOOTOUT</LocID>                         <Text>Một cuộc truy đuổi tốc độ cao của cảnh sát nhằm vào một chiếc xe tải bọc thép bị cướp kết thúc trong một trận mưa đá, khiến những người xung quanh khu vực bị thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_FOREST</LocID>                           <Text>Đội cứu hỏa đang chiến đấu với trận cháy rừng lớn khiến hàng nghìn người phải rời bỏ nhà cửa và hàng trăm người bị thương. Các bệnh viện trên toàn khu vực phải chuẩn bị cho việc gia tăng số lượng bệnh nhân bị thương nặng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>DLC_EVENT_TD_PYRO</LocID>                             <Text>Một nhà kho chứa đầy pháo hoa đã phát nổ ở cảng thành phố, khiến các tòa nhà gần đó bốc cháy và hàng trăm người bị thương nặng. Dịch vụ cấp cứu đang vận chuyển những người bị thương đến các bệnh viện địa phương.</Text> </GameDBLocalizedString>
+
+            <!--SYMPTOMS-->
+            <GameDBLocalizedString> <LocID>SYM_LARGE_ARTERIES_DAMAGED</LocID>                    <Text>Động mạch lớn bị hư</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>        <Text>Một số động mạch lớn hơn bị hư và có thể gây ra các biến chứng đe dọa tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HYPOXIA</LocID>                                   <Text>Thiếu ôxy</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HYPOXIA_DESCRIPTION</LocID>                       <Text>Thiếu ôxy là tình trạng khi lượng ôxy trong máu giảm xuống.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HYPOTHERMIA</LocID>                               <Text>Hạ thân nhiệt</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HYPOTHERMIA_DESCRIPTION</LocID>                   <Text>Hạ thân nhiệt đề cập đến tình trạng khi nhiệt độ lõi của cơ thể giảm xuống đáng kể.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FOREIGN_OBJECT_PRESENT</LocID>                    <Text>Sót dị vật</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>        <Text>Dị vật hoặc các bộ phận của nó vẫn còn trong vết thương và có thể dẫn đến các biến chứng nghiêm trọng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LIVER_DAMAGED</LocID>                             <Text>Tổn thương gan</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LIVER_DAMAGED_DESCRIPTION</LocID>                 <Text>Tổn thương bên trong gan nghiêm trọng có thể gây ra các biến chứng nguy hiểm đến tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SPLEEN_DAMAGED</LocID>                            <Text>Tổn thương lá lách</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SPLEEN_DAMAGED_DESCRIPTION</LocID>                <Text>Tổn thương bên trong lá lách nghiêm trọng có thể gây ra các biến chứng đe dọa tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LUNGS_PERFORATED</LocID>                          <Text>Phổi đục</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LUNGS_PERFORATED_DESCRIPTION</LocID>              <Text>Thủng màng phổi và mô.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PANCREAS_DAMAGED</LocID>                          <Text>Tổn thương tuyến tụy</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PANCREAS_DAMAGED_DESCRIPTION</LocID>              <Text>Tổn thương bên trong mô tụy nghiêm trọng có thể gây ra các biến chứng đe dọa tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_KIDNEY_DAMAGED</LocID>                            <Text>Thận hư</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_KIDNEY_DAMAGED_DESCRIPTION</LocID>                <Text>Tổn thương nghiêm trọng bên trong mô thận có thể gây ra các biến chứng đe dọa tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_STOMACH_PERFORATED</LocID>                        <Text>Lỗ thủng dạ dày</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_STOMACH_PERFORATED_DESCRIPTION</LocID>            <Text>Thủng dạ dày có thể gây ra các biến chứng nguy hiểm đến tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SMALL_INTESTINE_PERFORATED</LocID>                <Text>Thủng ruột non</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SMALL_INTESTINE_PERFORATED_DESCRIPTION</LocID>    <Text>Thủng ruột non nghiêm trọng có thể gây ra các biến chứng nguy hiểm đến tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LARGE_INTESTINE_PERFORATED</LocID>                <Text>Thủng ruột già</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LARGE_INTESTINE_PERFORATED_DESCRIPTION</LocID>    <Text>Thủng ruột già nghiêm trọng có thể gây ra các biến chứng nguy hiểm đến tính mạng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_TIBIAL_FRACTURE</LocID>                           <Text>Gãy xương chày</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_TIBIAL_FRACTURE_DESCRIPTION</LocID>               <Text>Gãy xương chày - xương bê chính.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FEMORAL_FRACTURE</LocID>                          <Text>Gãy xương đùi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FEMORAL_FRACTURE_DESCRIPTION</LocID>              <Text>Gãy xương đùi - xương đùi.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ULNAR_FRACTURE</LocID>                            <Text>Gãy xương cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ULNAR_FRACTURE_DESCRIPTION</LocID>                <Text>Gãy xương cánh tay - một trong hai xương nằm ở cẳng tay.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RADIAL_FRACTURE</LocID>                           <Text>Gãy xương hướng tâm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RADIAL_FRACTURE_DESCRIPTION</LocID>               <Text>Gãy xương hướng tâm - một trong hai xương nằm ở cẳng tay.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HUMERAL_FRACTURE</LocID>                          <Text>Gãy xương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_HUMERAL_FRACTURE_DESCRIPTION</LocID>              <Text>Hỏng xương cánh tay - nằm ở phần vai của cánh tay.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FRAGMENTED_RIBS</LocID>                           <Text>Xương sườn bị phân mảnh</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_FRAGMENTED_RIBS_DESCRIPTION</LocID>               <Text>Xương sườn bị phân mảnh và/hoặc bị gãy.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLISTERS</LocID>                                  <Text>Mụn nước trên da</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLISTERS_DESCRIPTION</LocID>                      <Text>Một túi nhỏ chứa chất lỏng nằm ở không gian giữa lớp trên của da (biểu bì) và các lớp bên dưới, nguyên nhân thường là do da bị tổn thương do ma sát hoặc nhiệt.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DESQUAMATION</LocID>                              <Text>Bong tróc</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DESQUAMATION_DESCRIPTION</LocID>                  <Text>Còn được gọi là bong tróc da là lớp ngoài cùng của da bị bong tróc.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DARK_SKIN</LocID>                                 <Text>Da ngăm đen</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_DARK_SKIN_DESCRIPTION</LocID>                     <Text>Da bị sạm đen bất thường.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECROSIS</LocID>                                  <Text>Hoại tử</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECROSIS_DESCRIPTION</LocID>                      <Text>Mô chết sớm do các enzym của chính nó gây ra. Nó xảy ra khi quá ít máu chảy đến mô. Điều này có thể do chấn thương, bức xạ hoặc hóa chất. Hoại tử không thể đảo ngược.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>SYM_GUNSHOT_WOUND</LocID>                             <Text>Vết thương đạn bắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_GUNSHOT_WOUND_DESCRIPTION</LocID>                 <Text>Vết thương ra vào hoặc ra vào do đạn bắn từ súng cầm tay.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BALLISTIC_WOUND</LocID>                           <Text>Vết thương do đạn đạo</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BALLISTIC_WOUND_DESCRIPTION</LocID>               <Text>Lối vào và lối ra hoặc vết thương do đường đạn gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_STAB_WOUND</LocID>                                <Text>Vết thương đâm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_STAB_WOUND_DESCRIPTION</LocID>                    <Text>Vết thương do bị đâm.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PENETRATING_WOUND</LocID>                         <Text>Vết thương xuyên thấu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PENETRATING_WOUND_DESCRIPTION</LocID>             <Text>Vết thương do vật lạ xâm nhập.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLAST_WOUND</LocID>                               <Text>Vết thương do nổ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLAST_WOUND_DESCRIPTION</LocID>                   <Text>Vết thương hoặc vết thương do vụ nổ gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BURN_WOUND</LocID>                                <Text>Vết thương bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BURN_WOUND_DESCRIPTION</LocID>                    <Text>Vết thương bỏng do nhiệt, lạnh, điện, hóa chất, ma sát hoặc bức xạ, ảnh hưởng đến da hoặc các mô khác.</Text> </GameDBLocalizedString>
+
+            <!--DIAGNOSES-->
+            <!--migrated-->
+            <GameDBLocalizedString> <LocID>TRM_PLPX</LocID>                   <Text>Rách phổi</Text> </GameDBLocalizedString>
+            
+            <!--brand new-->
+            <GameDBLocalizedString> <LocID>TRM_003</LocID>                    <Text>Vết rách gan mật</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_003_DESCRIPTION</LocID>        <Text>Xảy ra khi một vật thể xuyên qua cơ thể và làm rách gan và lá lách đồng thời.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_004</LocID>                    <Text>Rách lách lách</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_004_DESCRIPTION</LocID>        <Text>Xảy ra khi một vật thể xuyên qua cơ thể và làm rách tuyến tụy và lá lách đồng thời.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_005</LocID>                    <Text>Súng xuyên bụng trên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_005_DESCRIPTION</LocID>        <Text>Chấn thương thực thể do một viên đạn từ súng - xuyên vào bụng trên của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_006</LocID>                    <Text>Vết thương đạn đạo ở bụng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_006_DESCRIPTION</LocID>        <Text>Chấn thương đạn đạo gây ra bởi đạn bay tốc độ cao dẫn đến chấn thương phức tạp về xương, mạch máu và thần kinh với các khuyết tật mô mềm lớn - ảnh hưởng đến vùng bụng của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_007</LocID>                    <Text>Súng xuyên qua ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_007_DESCRIPTION</LocID>        <Text>Chấn thương thực thể do một viên đạn từ súng xuyên qua ngực của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_008</LocID>                    <Text>Vết thương đạn đạo cổ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_008_DESCRIPTION</LocID>        <Text>Chấn thương đạn đạo do đạn bay tốc độ cao gây ra, dẫn đến chấn thương phức tạp về xương, mạch máu và thần kinh với các khuyết tật mô mềm lớn ảnh hưởng đến vùng cổ của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_009</LocID>                    <Text>Vết thương đạn đạo cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_009_DESCRIPTION</LocID>        <Text>Chấn thương đạn đạo do đạn bay tốc độ cao gây ra, dẫn đến chấn thương phức tạp về xương, mạch máu và thần kinh với các khuyết tật mô mềm lớn ảnh hưởng đến chi trên của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_010</LocID>                    <Text>Vết thương đạn đạo chân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_010_DESCRIPTION</LocID>        <Text>Chấn thương đạn đạo do đạn bay tốc độ cao gây ra dẫn đến chấn thương phức tạp về xương, mạch máu và thần kinh với các khuyết tật mô mềm lớn ảnh hưởng đến chi dưới của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_011</LocID>                    <Text>Vết thương vỡ bụng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_011_DESCRIPTION</LocID>        <Text>Sự xâm nhập đa chấn thương của một vật thể xuyên qua da và đi vào cơ thể, gây tổn thương nặng nề cho tất cả các cấu trúc và cơ quan lân cận.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_012</LocID>                    <Text>Vết đâm ở bụng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_012_DESCRIPTION</LocID>        <Text>Vết thương đâm là một dạng chấn thương xuyên thấu cụ thể trên da do dao hoặc một vật nhọn tương tự gây ra.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_013</LocID>                    <Text>Vết đâm thấu ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_013_DESCRIPTION</LocID>        <Text>Vết thương đâm là một dạng chấn thương xuyên thấu cụ thể trên da do dao hoặc một vật nhọn tương tự gây ra.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_014</LocID>                    <Text>Vết thương đứt lìa cổ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_014_DESCRIPTION</LocID>        <Text>Sự xâm nhập đa chấn thương của một vật thể xuyên qua da và đi vào cơ thể, gây tổn thương nặng nề cho tất cả các cấu trúc và cơ quan lân cận.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_015</LocID>                    <Text>Vết thương gãy cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_015_DESCRIPTION</LocID>        <Text>Sự xâm nhập đa chấn thương của một vật thể xuyên qua da và đi vào cơ thể, gây tổn thương nặng nề cho tất cả các cấu trúc và cơ quan lân cận.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_016</LocID>                    <Text>Vết thương gãy chân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_016_DESCRIPTION</LocID>        <Text>Sự xâm nhập đa chấn thương của một vật thể xuyên qua da và đi vào cơ thể, gây tổn thương nặng nề cho tất cả các cấu trúc và cơ quan lân cận.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_017</LocID>                    <Text>Chấn thương nổ bụng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_017_DESCRIPTION</LocID>        <Text>Chấn thương do nổ là một loại chấn thương vật lý phức tạp do tiếp xúc trực tiếp hoặc gián tiếp với một vụ nổ.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_018</LocID>                    <Text>Chấn thương  lồng ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_018_DESCRIPTION</LocID>        <Text>Chấn thương do nổ là một loại chấn thương vật lý phức tạp do tiếp xúc trực tiếp hoặc gián tiếp với một vụ nổ.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_019</LocID>                    <Text>Cóng tay nhẹ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_019_DESCRIPTION</LocID>        <Text>Tê cóng là một chấn thương nghiêm trọng có thể xảy ra do để các bộ phận của cơ thể tiếp xúc với nhiệt độ đóng băng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_020</LocID>                    <Text>Cóng tay nặng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_020_DESCRIPTION</LocID>        <Text>Tê cóng là một chấn thương nghiêm trọng có thể xảy ra do để các bộ phận của cơ thể tiếp xúc với nhiệt độ đóng băng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_021</LocID>                    <Text>Cóng chân nhẹ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_021_DESCRIPTION</LocID>        <Text>Tê cóng là một chấn thương nghiêm trọng có thể xảy ra do để các bộ phận của cơ thể tiếp xúc với nhiệt độ đóng băng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_022</LocID>                    <Text>Cóng chân nặng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_022_DESCRIPTION</LocID>        <Text>Tê cóng là một chấn thương nghiêm trọng có thể xảy ra do để các bộ phận của cơ thể tiếp xúc với nhiệt độ đóng băng.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_023</LocID>                    <Text>Bỏng hóa chất cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_023_DESCRIPTION</LocID>        <Text>Bỏng hóa chất do tiếp xúc với axit, bazơ hoặc chất oxy hóa có thể gây tổn thương mô rộng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_024</LocID>                    <Text>Bỏng hóa chất thân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_024_DESCRIPTION</LocID>        <Text>Bỏng hóa chất do tiếp xúc với axit, bazơ hoặc chất oxy hóa có thể gây tổn thương mô rộng.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>TRM_025</LocID>                    <Text>Bị sét đánh</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_025_DESCRIPTION</LocID>        <Text>Một chấn thương hiếm gặp do bị sét đánh trực tiếp hoặc gián tiếp.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_026</LocID>                    <Text>Bỏng điện áp cao</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_026_DESCRIPTION</LocID>        <Text>Bỏng điện là kết quả của dòng điện đi qua cơ thể. Không giống như bỏng nhiệt hoặc hóa chất có thể nhìn thấy được, nó gây ra nhiều tổn thương dưới da hơn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_032</LocID>                    <Text>Bỏng điện áp thấp</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_032_DESCRIPTION</LocID>        <Text>Bỏng điện là kết quả của dòng điện đi qua cơ thể. Không giống như bỏng nhiệt hoặc hóa chất có thể nhìn thấy được, nó gây ra nhiều tổn thương dưới da hơn.</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>TRM_027</LocID>                    <Text>Viêm da bức xạ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_027_DESCRIPTION</LocID>        <Text>Viêm da bức xạ hay còn gọi là viêm da tia X, là một tác dụng phụ của quá trình xạ trị.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_028</LocID>                    <Text>Bỏng vi sóng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_028_DESCRIPTION</LocID>        <Text>Vết thương bỏng do bức xạ vi sóng. Không giống như bỏng bức xạ khác, tổn thương bức xạ vi sóng là do nhiệt gây ra.</Text> </GameDBLocalizedString>
+            
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_029</LocID>                    <Text>Bỏng nhiệt cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_029_DESCRIPTION</LocID>        <Text>Bỏng nhiệt là do tiếp xúc với vật bị nung nóng hoặc chất lỏng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_030</LocID>                    <Text>Bỏng nhiệt chân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_030_DESCRIPTION</LocID>        <Text>Bỏng nhiệt là do tiếp xúc với vật bị nung nóng hoặc chất lỏng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_031</LocID>                    <Text>Bỏng nhiệt nghiêm trọng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_031_DESCRIPTION</LocID>        <Text>Bỏng nhiệt là do tiếp xúc với vật bị nung nóng hoặc chất lỏng.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>TRM_033</LocID>                    <Text>Cháy nắng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_033_DESCRIPTION</LocID>        <Text>Da đỏ đau xuất hiện sau khi tiếp xúc quá nhiều với tia cực tím từ ánh nắng mặt trời hoặc từ các nguồn nhân tạo.</Text> </GameDBLocalizedString>
+            
+            <GameDBLocalizedString> <LocID>TRM_034</LocID>                    <Text>Vết cắn của nhện độc</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_034_DESCRIPTION</LocID>        <Text>Vết cắn của nhện có nọc độc tạo ra những nốt mụn nhỏ li ti màu đỏ, đôi khi gây đau và ngứa. Chất độc được tiêm vào cũng có thể gây ra các triệu chứng nghiêm trọng hơn.</Text> </GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRM_035</LocID>                    <Text>Rắn chuông cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_035_DESCRIPTION</LocID>        <Text>Rắn cắn thường có hai vết thương do nanh đâm. Việc xác định loài rắn và cung cấp loại thuốc kháng nọc độc chính xác là một nhiệm vụ cấp thiết.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_036</LocID>                    <Text>Rắn đồng cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRM_036_DESCRIPTION</LocID>        <Text>Rắn cắn thường có hai vết thương do nanh đâm. Việc xác định loài rắn và cung cấp loại thuốc kháng nọc độc chính xác là một nhiệm vụ cấp thiết.</Text> </GameDBLocalizedString>
+
+            <!--MAIN SYMPTOMS-->
+            <GameDBLocalizedString> <LocID>SYM_PENETRATING_PULMONARY_LACERATION_X</LocID>              <Text>Rách phổi</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PENETRATING_PULMONARY_LACERATION_X_DESCRIPTION</LocID>  <Text>Chấn thương xuyên thấu khiến phổi bệnh nhân bị tổn thương nghiêm trọng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LIVER_AND_SPLEEN_LACERATED</LocID>                      <Text>Gan và lá lách bị rách</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LIVER_AND_SPLEEN_LACERATED_DESCRIPTION</LocID>          <Text>Gan và lá lách của bệnh nhân bị tổn thương nghiêm trọng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SPLEEN_AND_PANCREAS_LACERATED</LocID>                   <Text>Lách và tuyến tụy bị rách</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SPLEEN_AND_PANCREAS_LACERATED_DESCRIPTION</LocID>       <Text>Tuyến tụy và lá lách của bệnh nhân bị tổn thương nghiêm trọng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_ABDOMEN_GUNSHOT</LocID>                           <Text>Xâm thực bụng trên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_ABDOMEN_GUNSHOT_DESCRIPTION</LocID>               <Text>Vết thương đạn bắn ở vùng bụng trên của bệnh nhân có mô bị tổn thương, một khoang được tạo ra bởi đường đạn đi qua và có nguy cơ cao bị tổn thương các cơ quan khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_ABDOMEN_BALLISTICS</LocID>                        <Text>Xâm thực bụng dưới</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_ABDOMEN_BALLISTICS_DESCRIPTION</LocID>            <Text>Vết thương do đạn bắn tốc độ cao ở vùng bụng dưới của bệnh nhân với mô bị tổn thương, một khoang tạo ra bởi đường đạn đi qua và có nguy cơ cao gây tổn thương các cơ quan khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_GUNSHOT</LocID>                                   <Text>Xâm thực ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_GUNSHOT_DESCRIPTION</LocID>                       <Text>Vết thương đạn bắn trong vùng ngực của bệnh nhân có mô bị tổn thương, một khoang được tạo ra bởi đường đạn đi qua và có nguy cơ cao gây tổn thương các cơ quan khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECK_BALLISTIC_WOUND</LocID>                            <Text>Xâm thực cổ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECK_BALLISTIC_WOUND_DESCRIPTION</LocID>                <Text>Vết thương do đạn bắn tốc độ cao ở vùng cổ của bệnh nhân với mô bị tổn thương, một khoang được tạo ra bởi đường đạn đi qua và có nguy cơ cao làm hỏng các cấu trúc khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_LIMB_BALLISTIC_WOUND</LocID>                      <Text>Xâm thực chi trên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_LIMB_BALLISTIC_WOUND_DESCRIPTION</LocID>          <Text>Vết thương do đạn bắn tốc độ cao ở chi trên của bệnh nhân với mô bị tổn thương, một khoang được tạo ra bởi đường đạn đi qua và nguy cơ cao làm hỏng các cấu trúc khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_LIMB_BALLISTIC_WOUND</LocID>                      <Text>Xâm thực chi dưới</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_LIMB_BALLISTIC_WOUND_DESCRIPTION</LocID>          <Text>Vết thương do đạn bắn tốc độ cao ở chi dưới của bệnh nhân với mô bị tổn thương, một khoang được tạo ra bởi đường đạn đi qua và nguy cơ cao làm hỏng các cấu trúc khác.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_ABDOMEN_PENETRATING</LocID>                       <Text>Chấn thương vùng bụng trên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_ABDOMEN_PENETRATING_DESCRIPTION</LocID>           <Text>Vết thương xuyên thấu ở vùng bụng trên của bệnh nhân với nguy cơ cao có nhiều cơ quan và cấu trúc bị tổn thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_ABDOMEN_STAB</LocID>                              <Text>Chấn thương vùng bụng dưới</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_ABDOMEN_STAB_DESCRIPTION</LocID>                  <Text>Vết thương đâm ở vùng bụng dưới của bệnh nhân với nguy cơ cao có nhiều cơ quan và cấu trúc bị tổn thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_STAB</LocID>                                      <Text>Chấn thương ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_STAB_DESCRIPTION</LocID>                          <Text>Vết thương đâm ở vùng ngực của bệnh nhân với nguy cơ cao có nhiều cơ quan và cấu trúc bị tổn thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECK_PENETRATING</LocID>                                <Text>Chấn thương cổ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_NECK_PENETRATING_DESCRIPTION</LocID>                    <Text>Vết thương xuyên thấu ở vùng cổ của bệnh nhân với nguy cơ cao bị tổn thương nhiều cấu trúc hơn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_LIMB_PENETRATING</LocID>                          <Text>Chấn thương chi trên</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_UPPER_LIMB_PENETRATING_DESCRIPTION</LocID>              <Text>Vết thương xuyên thấu ở chi trên của bệnh nhân với nguy cơ cao bị tổn thương nhiều cấu trúc hơn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_LIMB_PENETRATING</LocID>                          <Text>Chấn thương chi dưới</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOWER_LIMB_PENETRATING_DESCRIPTION</LocID>              <Text>Vết thương xuyên thấu ở chi dưới của bệnh nhân với nguy cơ cao bị tổn thương nhiều cấu trúc hơn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ABDOMINAL_TRAUMA_EXPLOSION</LocID>                      <Text>Chấn thương bụng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_ABDOMINAL_TRAUMA_EXPLOSION_DESCRIPTION</LocID>          <Text>Bệnh nhân bị nổ hướng thẳng vào bụng của mình.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_TRAUMA_EXPLOSION</LocID>                          <Text>Chấn thương ngực</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEST_TRAUMA_EXPLOSION_DESCRIPTION</LocID>              <Text>Ngực bệnh nhân bị trúng một vụ nổ gây tổn thương lớn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MILD_FROSTBITE_HAND</LocID>                             <Text>Cóng tay nhẹ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MILD_FROSTBITE_HAND_DESCRIPTION</LocID>                 <Text>Dạng tê cóng nhẹ khu trú trên tay bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_FROSTBITE_HAND</LocID>                           <Text>Cóng tay nặng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_FROSTBITE_HAND_DESCRIPTION</LocID>               <Text>Hình thức nghiêm trọng của tê cóng khu trú trên bàn tay của bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MILD_FROSTBITE_LEG</LocID>                              <Text>Cóng chân nhẹ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_MILD_FROSTBITE_LEG_DESCRIPTION</LocID>                  <Text>Dạng tê cóng nhẹ khu trú trên chân bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_FROSTBITE_LEG</LocID>                            <Text>Cóng chân nặng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_FROSTBITE_LEG_DESCRIPTION</LocID>                <Text>Dạng tê cóng nghiêm trọng khu trú trên chân bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEMICAL_BURN_ARM</LocID>                               <Text>Bỏng hóa chất trên cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEMICAL_BURN_ARM_DESCRIPTION</LocID>                   <Text>Vết thương bỏng do tiếp xúc với hóa chất mạnh, khu trú trên cánh tay bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEMICAL_BURN_TORSO</LocID>                             <Text>Bỏng hóa chất trên thân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_CHEMICAL_BURN_TORSO_DESCRIPTION</LocID>                 <Text>Vết thương bỏng do tiếp xúc với hóa chất mạnh, khu trú trên thân bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SKIN_LESION_LIGHTNING</LocID>                           <Text>Sét gây ra tổn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SKIN_LESION_LIGHTNING_DESCRIPTION</LocID>               <Text>Tổn thương da do sét đánh trực tiếp.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SUBDERMAL_TISSUE_DAMAGED</LocID>                        <Text>Mô dưới da tổn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SUBDERMAL_TISSUE_DAMAGED_DESCRIPTION</LocID>            <Text>Mô dưới da (bên dưới lớp ngoài của da) bị tổn thương.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PIGMENTATION_CHANGES</LocID>                            <Text>Thay đổi sắc tố</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_PIGMENTATION_CHANGES_DESCRIPTION</LocID>                <Text>Các thay đổi sắc tố nghiêm trọng được phát hiện.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SKIN_AND_FAT_TISSUE_DAMAGED</LocID>                     <Text>Da và mô mỡ bị tổn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SKIN_AND_FAT_TISSUE_DAMAGED_DESCRIPTION</LocID>         <Text>Da và mô mỡ giữa vùng bị cháy và vùng không được đốt cháy xuất hiện ít mô.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_THERMAL_BURN_ARM</LocID>                                <Text>Bỏng nhiệt trên cánh tay</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_THERMAL_BURN_ARM_DESCRIPTION</LocID>                    <Text>Dấu hiệu bỏng nhiệt khu trú trên cánh tay bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_THERMAL_BURN_LEG</LocID>                                <Text>Bỏng nhiệt trên chân</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_THERMAL_BURN_LEG_DESCRIPTION</LocID>                    <Text>Dấu hiệu bỏng nhiệt khu trú trên chân bệnh nhân.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_THERMAL_BURN</LocID>                             <Text>Bỏng nhiệt nghiêm trọng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SEVERE_THERMAL_BURN_DESCRIPTION</LocID>                 <Text>Dấu hiệu bỏng nhiệt nặng.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOW_VOLTAGE_BURN</LocID>                                <Text>Bỏng điện áp thấp</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_LOW_VOLTAGE_BURN_DESCRIPTION</LocID>                    <Text>Vết thương bỏng caused by exposure to low voltage electricity.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SUNBURNED_SKIN</LocID>                                  <Text>Da bị cháy nắng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_SUNBURNED_SKIN_DESCRIPTION</LocID>                      <Text>Da bị nám do tiếp xúc lâu với ánh nắng trực tiếp.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLACK_WIDOW_BITE</LocID>                                <Text>Góa phụ đen cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_BLACK_WIDOW_BITE_DESCRIPTION</LocID>                    <Text>Vết cắn nhện có nọc độc.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RATTLESNAKE_BITE</LocID>                                <Text>Rắn chuông cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_RATTLESNAKE_BITE_DESCRIPTION</LocID>                    <Text>Bị rắn độc cắn.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COPPERHEAD_SNAKE_BITE</LocID>                           <Text>Rắn đồng cắn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>SYM_COPPERHEAD_SNAKE_BITE_DESCRIPTION</LocID>               <Text>Bị rắn độc cắn.</Text> </GameDBLocalizedString>
+
+            <!--TREATMENTS-->
+            <GameDBLocalizedString> <LocID>TRT_ANTIVENOM</LocID>                                       <Text>Kháng thể chống độc</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIVENOM_DESCRIPTION</LocID>                           <Text>Phương pháp điều trị bằng cách sử dụng các kháng thể liên kết và vô hiệu hóa một loại nọc độc cụ thể.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán tại khoa chấn thương / ICU</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CONCETRATED_OXYGEN</LocID>                              <Text>Ôxy đậm đặc</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CONCETRATED_OXYGEN_DESCRIPTION</LocID>                  <Text>Liệu pháp dựa trên việc thở ôxy đậm đặc.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_WARMED_IV_FLUIDS</LocID>                                <Text>Chất lỏng IV được làm ấm</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_WARMED_IV_FLUIDS_DESCRIPTION</LocID>                    <Text>Dịch truyền tĩnh mạch được làm ấm lên đến nhiệt độ 38-45°C/100-113°F được sử dụng để kiểm soát tình trạng hạ thân nhiệt.\n\nPhòng yêu cầu: Đơn vị bỏng tại khoa chấn thương. / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PROTECTIVE_DRESSING</LocID>                             <Text>Bảo vệ vết thương</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PROTECTIVE_DRESSING_DESCRIPTION</LocID>                 <Text>Băng bó bảo vệ vết thương.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_DEBRIDEMENT</LocID>                                     <Text>Loại bỏ mô chết</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>                         <Text>Quy trình y tế loại bỏ mô chết hoặc các vật thể lạ khỏi vết thương.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_BURN_MANAGEMENT</LocID>                                 <Text>Quản lý bỏng</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_BURN_MANAGEMENT_DESCRIPTION</LocID>                     <Text>Quy trình y tế để chữa các loại bỏng.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán/ Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+
+            <!--SURGERIES-->
+            <GameDBLocalizedString> <LocID>TRT_SPLENECTOMY</LocID>                                     <Text>Cắt lách</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SPLENECTOMY_DESCRIPTION</LocID>                         <Text>Thủ tục phẫu thuật để loại bỏ lá lách bị hư hoặc bị ngừng.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HEPATOPLASTY</LocID>                                    <Text>Phẫu thuật gan</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HEPATOPLASTY_DESCRIPTION</LocID>                        <Text>Quy trình phẫu thuật điều trị gan hoặc bộ phận của nó.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_GASTRIC_PERFORATION_REPAIR</LocID>                      <Text>Chữa thủng dạ dày</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_GASTRIC_PERFORATION_REPAIR_DESCRIPTION</LocID>          <Text>Thủ tục phẫu thuật để bít lỗ thủng trong dạ dày.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SMALL_BOWEL_RESECTION</LocID>                           <Text>Cắt bỏ ruột non</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_SMALL_BOWEL_RESECTION_DESCRIPTION</LocID>               <Text>Thủ thuật phẫu thuật cắt bỏ một phần ruột non.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_BOWEL_RESECTION</LocID>                                 <Text>Phẫu thuật đường ruột</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_BOWEL_RESECTION_DESCRIPTION</LocID>                     <Text>Thủ tục phẫu thuật loại bỏ một phần nhỏ của ruột già.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PANCREATICOPLASTY</LocID>                               <Text>Tăng sinh tuyến tụy</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PANCREATICOPLASTY_DESCRIPTION</LocID>                   <Text>Thủ tục phẫu thuật điều trị tuyến tụy hoặc một phần của nó.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_SURGERY</LocID>                                  <Text>Phẫu thuật chấn thương lồng ngực</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_SURGERY_ARM</LocID>                              <Text>Phẫu thuật chấn thương chi trên</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_SURGERY_LEG</LocID>                              <Text>Phẫu thuật chấn thương chi dưới</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_SURGERY_DESCRIPTION</LocID>                      <Text>Phẫu thuật chấn thương cho những bệnh nhân có tình trạng phẫu thuật cấp tính, đe dọa tính mạng hoặc có thể đe dọa tính mạng.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_LAPAROSCOPIC_PYELOPLASTY</LocID>                        <Text>Phẫu thuật tạo hình bể thận nội soi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_LAPAROSCOPIC_PYELOPLASTY_DESCRIPTION</LocID>            <Text>Quy trình phẫu thuật xâm lấn tối thiểu điều trị thận.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+
+            <!-- Note: identical descriptions -->
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_ARM</LocID>                     <Text>Phẫu thuật gãy xương do chấn thương - cánh tay</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_ARM_DESCRIPTION</LocID>         <Text>Quy trình phẫu thuật chấn thương cố định xương gãy.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_LEG</LocID>                     <Text>Phẫu thuật gãy xương do chấn thương - chân</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_LEG_DESCRIPTION</LocID>         <Text>Quy trình phẫu thuật chấn thương cố định xương gãy.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_THORAX</LocID>                  <Text>Phẫu thuật gãy xương do chấn thương - lồng ngực</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_TRAUMA_FRACTURE_SURGERY_THORAX_DESCRIPTION</LocID>      <Text>Quy trình phẫu thuật chấn thương cố định xương gãy.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>TRT_VASCULAR_SURGERY</LocID>                                <Text>Phẫu thuật mạch máu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_VASCULAR_SURGERY_DESCRIPTION</LocID>                    <Text>Quy trình phẫu thuật để khâu và cố định các động mạch bị tổn thương.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PULMONARY_SURGERY_X</LocID>                             <Text>Phẫu thuật phổi</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 <Text>Phẫu thuật phổi hoặc phổi là phẫu thuật được thực hiện để sửa chữa hoặc loại bỏ các phần của mô phổi bị tổn thương.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
+
+            <!-- todo dlc related trt and exams - not to translate by qloc, do it manually-->
+            <GameDBLocalizedString> <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                      <Text>Một thủ thuật trong đó nền/võng mạc được hình dung thông qua kính soi đáy mắt/soi đáy mắt.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Văn phòng / Đơn vị chẩn đoán tại Cấp cứu / ICU / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
+
+            <GameDBLocalizedString> <LocID>TRT_ANTI_ARRHYTMICALS_DESCRIPTION_V2</LocID>                <Text>Thuốc thường được tiêm tĩnh mạch hoặc dưới dạng thuốc viên để ngăn chặn nhịp tim bất thường. \n\nPhòng yêu cầu: ICU /  Phòng bất kỳ / Đơn vị chẩn đoán tại Cấp cứu dpt / Ngoại khoa tổng quát / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_WOUND_CLOSURE_DESCRIPTION_V2</LocID>                    <Text>Thủ thuật khâu cơ và da.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Văn phòng / Đơn vị chẩn đoán tại chỉnh hình / Chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ACE_INHIBITOR_DESCRIPTION</LocID>                       <Text>Một loại thuốc được sử dụng trong điều trị tăng huyết áp.\n\nPhòng yêu cầu: Phòng bất kỳ / Đơn vị chẩn đoán tại tất cả các khoa trừ Cấp cứu và Bệnh truyền nhiễm</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIHISTAMINES_DESCRIPTION</LocID>                      <Text>Thuốc điều trị dị ứng, chống lại hoạt động của các thụ thể histamine, là nguyên nhân gây ra các triệu chứng dị ứng.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / ICU / Văn phòng / Đơn vị chẩn đoán tại Ngoại khoa tổng quát / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
+
+            <!--SCENARIO-->
+            <GameDBLocalizedString> <LocID>LEVEL_SANDBOX_HOSPITAL_J</LocID>                            <Text>Chấn thương: Bệnh viện lớn</Text>	</GameDBLocalizedString>
+			
+			<!--new insurance-->
+			<GameDBLocalizedString>   	 <LocID>IN_COM_TD_NAME</LocID>                           			<Text>Bảo vệ chăm sóc</Text> </GameDBLocalizedString>
+
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+    
