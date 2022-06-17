@@ -1,0 +1,27 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_DLC_TRAUMATOLOGY_WHEELCHAIRS">
+
+        <LanguageCode>vi</LanguageCode>
+        <LanguageNameLocalized>Vietnamese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cắc kè hoa</Name>
+        </Contributors>
+
+        <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
+        <LocalizedStrings>
+            
+            <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
+            <GameDBLocalizedString> <LocID>OBJECT_WHEELCHAIR</LocID>                        <Text>Xe lăn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_WHEELCHAIR_DESCRIPTION</LocID>            <Text>Xe lăn để di chuyển bệnh nhân nhập viện khám và điều trị.</Text> </GameDBLocalizedString>
+            
+            <!-- RELATED FILE: StringTable[Language]Characters.xml -->
+            <GameDBLocalizedString> <LocID>NURSE_STATE_OverridenGoingToStretcher</LocID>    <Text>Lấy cáng/xe lăn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NURSE_STATE_OverridenMovingStretcher</LocID>     <Text>Di chuyển cáng/xe lăn</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>NURSE_STATE_OverridenReturningStretcher</LocID>  <Text>Trả lại cáng/xe lăn</Text> </GameDBLocalizedString>
+        
+        </LocalizedStrings>
+        
+    </GameDBStringTable>
+</Database>
+    
